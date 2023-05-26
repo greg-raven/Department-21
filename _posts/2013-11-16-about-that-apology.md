@@ -1,5 +1,5 @@
 ---
-title: 'About that apology &#8230;'
+title: 'About that apology …'
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'The Economy Is So Bad &#8230;'
+title: 'The Economy Is So Bad …'
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Your house &#8230;'
+title: 'Your house …'
 author: 'Noam Sain'
 layout: post
 ---

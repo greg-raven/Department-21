@@ -1,5 +1,5 @@
 ---
-title: 'Dear Tech Support &#8230;'
+title: 'Dear Tech Support …'
 author: 'Noam Sain'
 layout: post
 ---

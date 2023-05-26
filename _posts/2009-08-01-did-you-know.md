@@ -1,5 +1,5 @@
 ---
-title: 'Did you know &#8230;'
+title: 'Did you know …'
 author: 'Noam Sain'
 layout: post
 ---

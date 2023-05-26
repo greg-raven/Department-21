@@ -1,5 +1,5 @@
 ---
-title: 'When Insults Had Class &#8230;'
+title: 'When Insults Had Class …'
 author: 'Noam Sain'
 layout: post
 ---

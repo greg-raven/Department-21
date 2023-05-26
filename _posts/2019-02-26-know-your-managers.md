@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<figure class="wp-block-image">![](/assets/2019-02-managers.jpg)</figure>
+![Know your managers](/assets/2019-02-managers.jpg "Know your managers")

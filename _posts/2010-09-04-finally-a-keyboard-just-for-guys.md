@@ -1,5 +1,5 @@
 ---
-title: 'Finally &#8230; a keyboard just for guys!'
+title: 'Finally … a keyboard just for guys!'
 author: 'Noam Sain'
 layout: post
 ---

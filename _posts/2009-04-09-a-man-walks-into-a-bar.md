@@ -1,5 +1,5 @@
 ---
-title: 'A man walks into a bar &#8230;'
+title: 'A man walks into a bar …'
 author: 'Noam Sain'
 layout: post
 ---

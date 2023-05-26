@@ -4,4 +4,34 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-square"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row columns-3"><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i1.wp.com/www.department21.org/assets/2020/09/image-1.jpg?ssl=1&resize=480%2C480)</figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i2.wp.com/www.department21.org/assets/2020/09/image-2.jpg?ssl=1&resize=480%2C480)</figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i2.wp.com/www.department21.org/assets/2020/09/image-3.jpg?ssl=1&resize=481%2C481)</figure></div></div><div class="tiled-gallery__row columns-3"><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i2.wp.com/www.department21.org/assets/2020/09/image-4.jpg?ssl=1&resize=470%2C470)</figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i1.wp.com/www.department21.org/assets/2020/09/image-5.jpg?ssl=1&resize=432%2C432)</figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i0.wp.com/www.department21.org/assets/2020/09/image-6.jpg?ssl=1&resize=480%2C480)</figure></div></div><div class="tiled-gallery__row columns-3"><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i0.wp.com/www.department21.org/assets/2020/09/image-7.jpg?ssl=1&resize=480%2C480)</figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i2.wp.com/www.department21.org/assets/2020/09/image-8.jpg?ssl=1&resize=420%2C420)</figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i0.wp.com/www.department21.org/assets/2020/09/image-9.jpg?ssl=1&resize=480%2C480)</figure></div></div><div class="tiled-gallery__row columns-3"><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i0.wp.com/www.department21.org/assets/2020/09/image-10.jpg?ssl=1&resize=481%2C481)</figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i0.wp.com/www.department21.org/assets/2020/09/image-11.jpg?ssl=1&resize=480%2C480)</figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i1.wp.com/www.department21.org/assets/2020/09/image-12-1.jpg?ssl=1&resize=480%2C480)</figure></div></div><div class="tiled-gallery__row columns-3"><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i1.wp.com/www.department21.org/assets/2020/09/image-13-1.jpg?ssl=1&resize=480%2C480)</figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i1.wp.com/www.department21.org/assets/2020/09/image-14-1.jpg?ssl=1&resize=419%2C419)</figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item">![](https://i0.wp.com/www.department21.org/assets/2020/09/image-15-1.jpg?ssl=1&resize=366%2C366)</figure></div></div></div></div>
+One minute you’re really young and cool … and the next, you're getting all excited about a new vacuum.
+
+![Senior life](/assets/2020-09-image-1.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-2.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-3.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-4.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-5.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-6.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-7.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-8.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-9.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-10.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-11.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-12.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-13.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-14.jpg "Senior life")
+
+![Senior life](/assets/2020-09-image-15.jpg "Senior life")
