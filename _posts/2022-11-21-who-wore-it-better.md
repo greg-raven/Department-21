@@ -1,0 +1,7 @@
+---
+title: 'Who wore it better?'
+author: 'Noam Sain'
+layout: post
+---
+
+<figure class="wp-block-image size-full">![](/assets/2022/11/image-10.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image-2.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image-3.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image-5.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image-7.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image-8.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image-9.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image-13.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image-11.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image-4.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image-6.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image-12.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022/11/image-1.jpg)</figure>

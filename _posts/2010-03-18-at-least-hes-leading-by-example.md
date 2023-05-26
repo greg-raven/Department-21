@@ -1,0 +1,10 @@
+---
+title: 'At least he&#8217;s leading by example'
+author: 'Noam Sain'
+layout: post
+blogger_permalink:
+    - /2010/03/at-least-hes-leading-by-example.html
+format: image
+---
+
+<div style="clear: both; text-align: center;">[![](http://3.bp.blogspot.com/_8aN4krk1nsk/TG_CeEvFpSI/AAAAAAAAAco/ZhYo1O-kh0A/s320/20100318.jpg)](http://3.bp.blogspot.com/_8aN4krk1nsk/TG_CeEvFpSI/AAAAAAAAAco/ZhYo1O-kh0A/s1600/20100318.jpg)</div>

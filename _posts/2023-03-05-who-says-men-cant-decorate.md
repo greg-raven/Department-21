@@ -1,0 +1,7 @@
+---
+title: 'Who says men can’t decorate?'
+author: 'Noam Sain'
+layout: post
+---
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-17 is-layout-flex"><figure class="wp-block-image size-large">![](/assets/2023/03/1.jpg)</figure><figure class="wp-block-image size-large">![](/assets/2023/03/2.jpg)</figure><figure class="wp-block-image size-large">![](/assets/2023/03/3.jpg)</figure><figure class="wp-block-image size-large">![](/assets/2023/03/4.jpg)</figure><figure class="wp-block-image size-large">![](/assets/2023/03/5.jpg)</figure><figure class="wp-block-image size-large">![](/assets/2023/03/6.jpg)</figure><figure class="wp-block-image size-large">![](/assets/2023/03/7.jpg)</figure><figure class="wp-block-image size-large">![](/assets/2023/03/8.jpg)</figure><figure class="wp-block-image size-large">![](/assets/2023/03/9.jpg)</figure><figure class="wp-block-image size-large">![](/assets/2023/03/10.jpg)</figure><figure class="wp-block-image size-large">![](/assets/2023/03/11.jpg)</figure><figure class="wp-block-image size-large">![](/assets/2023/03/12.jpg)</figure><figure class="wp-block-image size-large">![](/assets/2023/03/13.jpg)</figure></figure>
