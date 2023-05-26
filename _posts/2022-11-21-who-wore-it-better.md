@@ -4,4 +4,31 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<figure class="wp-block-image size-full">![](/assets/2022-11-image-10.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image-2.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image-3.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image-5.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image-7.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image-8.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image-9.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image-13.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image-11.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image-4.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image-6.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image-12.jpg)</figure><figure class="wp-block-image size-full">![](/assets/2022-11-image-1.jpg)</figure>
+![Who wore it better?](/assets/2022-11-image-10.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image-2.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image-3.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image-5.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image-7.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image-8.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image-9.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image-13.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image-11.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image-4.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image-6.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image-12.jpg "Who wore it better?")
+
+![Who wore it better?](/assets/2022-11-image-1.jpg "Who wore it better?")
+
