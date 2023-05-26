@@ -2,8 +2,6 @@
 title: 'A priest and a nun in a remote cabin'
 author: 'Noam Sain'
 layout: post
-categories:
-    - Uncategorized
 ---
 
 A priest and a nun are caught in a blizzard.
@@ -28,7 +26,7 @@ So once again the priest gets up and puts another blanket on her, ensuring she i
 
 So the priest gets himself back into the sleeping bag and this time is just starting to dream when he wakes up to her call of, “Father, Father I’m just so cold!”
 
-The priest thinks long about this and finally says, “Sister, we are in the middle of nowhere in a blizzard. No one but you, myself, and the lord himself will ever know what happens here this night. How about, just for this night, we act as though we were married?”
+The priest thinks long about this and finally says, “Sister, we are in the middle of nowhere in a blizzard. No one but you, myself, and the Lord himself will ever know what happens here this night. How about, just for this night, we act as though we were married?”
 
 The nun thinks on this for a minute, she can’t help but admit to herself she’s been curious, and finally answers with a tentative, “OK Father, just for tonight, we will act as though we are married.”
 
