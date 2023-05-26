@@ -1,9 +1,7 @@
 ---
-title: 'You can&#8217;t take it with you'
+title: 'You can’t take it with you'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/you-cant-take-it-with-you.html
 ---
 
 A old man could feel he was going to die soon and, although he had been financially successful beyond his wildest dreams, he hated everyone, including others of his own family.

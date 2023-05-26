@@ -2,8 +2,6 @@
 title: 'Unconventional wisdom'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/11/unconventional-wisdom.html
 ---
 
 I asked God for a bike, but I know God doesn’t work that way. So I stole a bike and asked for forgiveness.  

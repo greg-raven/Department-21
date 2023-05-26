@@ -2,8 +2,6 @@
 title: 'We reserve the right to refuse service'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/08/we-reserve-right-to-refuse-service.html
 ---
 
 Radio station America FM was doing one of its “Is Anyone Listening?” bits this morning. The first question was, “Ever have a celebrity come up with the ‘Do you know who I am?’ routine?”  

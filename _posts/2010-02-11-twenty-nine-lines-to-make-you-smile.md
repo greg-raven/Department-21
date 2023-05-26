@@ -2,8 +2,6 @@
 title: 'Twenty-nine lines to make you smile'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/02/twenty-nine-lines-to-make-you-smile.html
 ---
 
 1. My husband and I divorced over religious differences. He thought he was God and I didn’t.

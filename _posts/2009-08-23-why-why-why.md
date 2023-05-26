@@ -2,8 +2,6 @@
 title: 'Why, Why, Why'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/why-why-why.html
 ---
 
 Why do we press harder on a remote control when we know the batteries are going dead?

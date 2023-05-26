@@ -1,9 +1,7 @@
 ---
-title: 'Why men don&#8217;t write advice columns'
+title: 'Why men don’t write advice columns'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/11/why-men-dont-write-advice-columns.html
 ---
 
 Dear John,

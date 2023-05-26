@@ -2,8 +2,6 @@
 title: 'The lie clock'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/lie-clock.html
 ---
 
 A man died and went to heaven. As he stood in front of St. Peter’s desk at the Pearly Gates, he saw a huge wall of clocks behind him. He asked, “What are all those clocks there for?”

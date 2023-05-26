@@ -1,5 +1,5 @@
 ---
-title: 'President&#8217;s day'
+title: 'President’s day'
 author: 'Noam Sain'
 layout: post
 ---

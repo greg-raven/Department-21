@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t Drink and Drive billboard'
+title: 'Don’t Drink and Drive billboard'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

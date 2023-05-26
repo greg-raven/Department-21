@@ -2,8 +2,6 @@
 title: 'To the 535 voting members of the federal legislature'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/09/to-535-voting-members-of-federal.html
 ---
 
 It is now official: You are all morons.

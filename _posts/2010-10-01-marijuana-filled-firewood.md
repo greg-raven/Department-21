@@ -2,8 +2,6 @@
 title: 'Marijuana-filled firewood'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/10/marijuana-filled-firewood.html
 ---
 
 ‘Hello, is this the Sheriff’s Office?’  

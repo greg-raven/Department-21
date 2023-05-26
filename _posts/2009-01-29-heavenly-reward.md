@@ -2,8 +2,6 @@
 title: 'Heavenly Reward'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/heavenly-reward.html
 ---
 
 After his death, Osama bin Laden didn’t go to heaven, but to a holding area.

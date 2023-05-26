@@ -2,8 +2,6 @@
 title: 'Help me move to Mexico'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/09/help-me-move-to-mexico.html
 ---
 
 Dear Resident Obama:

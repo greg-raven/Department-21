@@ -2,8 +2,6 @@
 title: 'Presidential humor'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/03/presidential-humor.html
 ---
 
 The liberals are asking us to give Obama time. We agree and think 25 to life would be appropriate. — Leno

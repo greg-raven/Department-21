@@ -2,8 +2,6 @@
 title: 'Observations on America'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/observations-on-america.html
 ---
 
 A citizen of America will cross the ocean to fight for democracy, but won’t cross the street to vote in a national election.

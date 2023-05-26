@@ -2,8 +2,6 @@
 title: 'Brilliant dogs'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/09/brilliant-dogs.html
 ---
 
 Four men were bragging about how smart their dogs were. One was an engineer, the second man was an accountant, the third man was a chemist, the fourth was a government worker. To show off, the engineer called to his dog. “T-square, do your stuff.” T-square trotted over to a desk, took out some paper and a pen and promptly drew a circle, a square, and a triangle. Everyone agreed that was pretty smart.

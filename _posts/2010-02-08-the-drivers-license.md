@@ -1,9 +1,7 @@
 ---
-title: 'The Driver&#8217;s License'
+title: 'The Driver’s License'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/02/drivers-license.html
 ---
 
 A mother is driving her little girl to her friend”s house for a play date.  

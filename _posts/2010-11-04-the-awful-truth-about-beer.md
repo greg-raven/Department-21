@@ -2,8 +2,6 @@
 title: 'The awful truth about beer'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/11/awful-truth-about-beer.html
 ---
 
 Police are warning all men who frequent clubs, parties &amp; local pubs to be alert and stay cautious when offered a drink from any woman.  

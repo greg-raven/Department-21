@@ -2,8 +2,6 @@
 title: 'An answer for everything'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/11/answer-for-everything.html
 ---
 
 A police officer pulls over this guy who’s been weaving in and out of the lanes. He goes up to the guy’s window and says, “Sir, I need you to blow into this breathalyzer tube.”  

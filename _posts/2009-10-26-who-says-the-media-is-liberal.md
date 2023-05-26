@@ -2,8 +2,6 @@
 title: 'Who says the media are liberal?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/10/who-says-media-is-liberal.html
 ---
 
 A biker is riding by the zoo in Washington, D.C., when he sees a little girl leaning into the lion’s cage. Suddenly, the lion grabs the sleeve of her jacket and tries to pull her inside to devour her, before the eyes of her screaming parents.

@@ -2,8 +2,6 @@
 title: 'The balloonist'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/balloonist.html
 ---
 
 A woman in a hot air balloon realized she was lost. She lowered her altitude and spotted a man in a boat below. She shouted to him, “Excuse me, can you help me? I promised a friend I would meet him an hour ago, but I don’t know where I am.”

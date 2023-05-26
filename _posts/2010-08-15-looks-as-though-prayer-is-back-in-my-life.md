@@ -2,8 +2,6 @@
 title: 'Looks as though prayer is back in my life'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/08/looks-as-though-prayer-is-back-in-my.html
 ---
 
 I was in slow-moving traffic the other day and the car in front of me had a bumper sticker on it that read:

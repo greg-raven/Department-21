@@ -1,9 +1,7 @@
 ---
-title: 'Walkin&#8217; the walk'
+title: 'Walkin’ the walk'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/11/walkin-walk.html
 ---
 
 A lonely female crab was walking down the beach one evening when she noticed a male crab coming toward her — but he was walking straight and not sideways.  

@@ -1,9 +1,7 @@
 ---
-title: 'Guys&#8217; Rules'
+title: 'Guys’ Rules'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/guys-rules.html
 ---
 
 At last a guy has taken the time to write this all down. Finally, the guys’ side of the story. We always hear “the rules” from the female side. Now here are the rules from the male side. These are our rules! Please note … these are all numbered “1” ON PURPOSE!

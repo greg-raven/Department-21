@@ -1,5 +1,5 @@
 ---
-title: 'Whatever the cost, it&#8217;s worth it'
+title: 'Whatever the cost, it’s worth it'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

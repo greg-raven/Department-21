@@ -2,8 +2,6 @@
 title: 'Thank you, America!'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/09/thank-you-america.html
 ---
 
 Thanks so much, America,

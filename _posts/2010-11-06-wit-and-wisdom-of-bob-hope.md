@@ -2,8 +2,6 @@
 title: 'Wit and wisdom of Bob Hope'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/11/wit-and-wisdom-of-bob-hope.html
 ---
 
 ON TURNING 70

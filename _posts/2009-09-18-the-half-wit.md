@@ -2,8 +2,6 @@
 title: 'The half-wit'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/09/half-wit.html
 ---
 
 A small business owner was investigated by an agent from the State Labor Commissioner, Dept. of Industrial Relations, Division of Labor Standards, Fair Employment and Housing Enforcement. She claimed the owner was not paying proper employee wages and she demanded a list of his employees and an accounting of their wages.

@@ -2,8 +2,6 @@
 title: 'Anti-terrorist exercise this Saturday!'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/anti-terrorist-exercise-this-saturday.html
 ---
 
 As you may already know, it is a sin for a Muslim male to see any woman other than his wife naked. He must commit suicide if he does. So next Saturday at 4 PM Eastern Time, every American woman is asked to walk out of her house completely naked to help weed out any neighborhood terrorists. Circling your block for one hour is recommended for this anti-terrorist effort.  

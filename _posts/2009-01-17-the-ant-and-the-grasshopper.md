@@ -2,8 +2,6 @@
 title: 'The Ant and the Grasshopper'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2008/12/ant-and-grasshopper.html
 ---
 
 <span style="font-weight: bold;">The Traditional Version</span>

@@ -2,8 +2,6 @@
 title: 'If AOL built a car'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/if-aol-built-car.html
 ---
 
 1. The AOL car would have a TOP speed of 40 MPH yet have a 200 MPH speedometer.

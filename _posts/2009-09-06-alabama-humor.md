@@ -2,8 +2,6 @@
 title: 'Alabama humor'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/09/alabama-humor.html
 ---
 
 A group of Alabama friends went deer hunting and paired off in twos for the day. That night, one of the hunters returned alone, staggering under the weight of an eight-point buck. “Where’s Henry?” the others asked.

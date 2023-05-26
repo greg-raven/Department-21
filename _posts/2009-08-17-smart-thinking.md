@@ -2,8 +2,6 @@
 title: 'Smart thinking'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/smart-thinking.html
 ---
 
 A businessman walks into a bank in New York City. He says he’s going to Europe on business for two weeks and needs to borrow $5,000. The bank officer says the bank will need some kind of security for the loan, so the man hands over the keys to a new Rolls Royce.  

@@ -2,8 +2,6 @@
 title: 'Just like in Austria'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/just-like-in-austria.html
 ---
 
 Bob Hill and his new wife, Betty, were vacationing in Europe, as it happens in Transylvania. They were driving a rental car along a rather deserted highway. It was late, and raining very hard. Bob could barely see 10 feet in front of the car. Suddenly the car skids! Bob attempts to control it, but to no avail. The car swerves and smashes into a tree.

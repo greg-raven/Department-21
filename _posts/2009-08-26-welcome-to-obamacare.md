@@ -2,8 +2,6 @@
 title: 'Welcome to Obamacare'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/welcome-to-obamacare.html
 ---
 
 The phone rings and the lady of the house answers, “Hello?”

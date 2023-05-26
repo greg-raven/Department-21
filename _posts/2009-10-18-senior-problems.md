@@ -2,8 +2,6 @@
 title: 'Senior problems'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/10/senior-problems.html
 ---
 
 Bill and Sam, two elderly friends, met in the park every day to feed the pigeons, watch the squirrels and discuss world problems.

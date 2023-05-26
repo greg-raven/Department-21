@@ -2,8 +2,6 @@
 title: 'Haunting questions'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/haunting-questions.html
 ---
 
 If you have sex with a prostitute against her will, is it considered rape or shoplifting?

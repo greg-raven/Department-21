@@ -2,8 +2,6 @@
 title: 'Finding inner peace'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/01/finding-inner-peace.html
 ---
 
 By following simple advice heard on the Oprah show, you too can find inner peace. Dr. Oz proclaimed, “The way to achieve inner peace is to finish all the things you have started and have never finished.”  

@@ -2,8 +2,6 @@
 title: 'Driving styles'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/driving-styles.html
 ---
 
 One hand on wheel, one hand on horn: Chicago.

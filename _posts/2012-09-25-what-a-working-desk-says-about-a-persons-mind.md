@@ -1,5 +1,5 @@
 ---
-title: 'What a working desk says about a person&#8217;s mind'
+title: 'What a working desk says about a person’s mind'
 author: 'Noam Sain'
 layout: post
 format: gallery

@@ -1,5 +1,5 @@
 ---
-title: 'Italians &#8212; it&#8217;s in their blood'
+title: 'Italians — it’s in their blood'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

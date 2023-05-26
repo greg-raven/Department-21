@@ -2,8 +2,6 @@
 title: 'I read it on the Internet'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/i-read-it-on-internet.html
 ---
 
 I was on my way to the post office to pick up my case of free M&amp;M’s (sent to me because I forwarded an e-mail to five other people, celebrating the fact that the year 2000 is “MM” in Roman numerals), when I ran into a friend whose neighbor, a young man, was home recovering from having been served a rat in his bucket of Kentucky Fried Chicken (which is predictable, since as everyone knows, there’s no actual chicken in Kentucky Fried Chicken, which is why the government made them change their name to KFC).

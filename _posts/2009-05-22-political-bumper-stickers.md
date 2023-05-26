@@ -2,8 +2,6 @@
 title: 'Political bumper stickers'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/political-bumper-stickers.html
 ---
 
 So, how’s that “hope” and “change” working out for you?  

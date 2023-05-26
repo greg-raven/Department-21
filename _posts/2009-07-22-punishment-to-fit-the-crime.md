@@ -2,8 +2,6 @@
 title: 'Punishment to fit the crime'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/punishment-to-fit-crime.html
 ---
 
 Father Norton woke up Sunday morning and realizing it was an exceptionally beautiful and sunny early spring day, decided he just had to play golf.

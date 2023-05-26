@@ -2,8 +2,6 @@
 title: 'Signs that you might have a moron for president'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/signs-that-you-might-have-moron-for.html
 ---
 
 9\. Promises to improve foreign relations with Hawaii.

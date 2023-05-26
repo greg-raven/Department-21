@@ -2,8 +2,6 @@
 title: 'U.S. Tax system explained in terms of beer, to make it more manageable'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2008/10/us-tax-system-explained-in-terms-of.html
 ---
 
 Suppose that every day, ten men go out for beer and the bill for all ten comes to $100. If they paid the bill the way we pay our taxes, it would go something like this:

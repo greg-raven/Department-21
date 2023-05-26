@@ -2,8 +2,6 @@
 title: 'Modern-day Cowboy'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/10/modern-day-cowboy.html
 ---
 
 A modern day cowboy has spent many days crossing the Texas plains without water.

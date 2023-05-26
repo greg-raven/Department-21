@@ -2,8 +2,6 @@
 title: 'How to relax'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/how-to-relax.html
 ---
 
 Picture yourself near a stream …  

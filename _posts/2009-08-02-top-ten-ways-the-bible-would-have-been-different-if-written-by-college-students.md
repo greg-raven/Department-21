@@ -2,8 +2,6 @@
 title: 'Top Ten Ways the Bible Would Have Been Different if Written by College Students'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/top-ten-ways-bible-would-have-been.html
 ---
 
 10). Loaves and Fishes replaced by pizza and beer.

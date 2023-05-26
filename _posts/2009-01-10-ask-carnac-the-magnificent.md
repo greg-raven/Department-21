@@ -2,8 +2,6 @@
 title: 'Ask Carnac the Magnificent'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/ask-carnac-magnificent.html
 ---
 
 A: Midrash

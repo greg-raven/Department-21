@@ -2,8 +2,6 @@
 title: 'Drugs for women'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/11/drugs-for-women.html
 ---
 
 **DAMNITOL**

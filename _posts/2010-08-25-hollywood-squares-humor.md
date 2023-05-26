@@ -2,8 +2,6 @@
 title: 'Hollywood Squares humor'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/08/hollywood-squares-humor.html
 ---
 
 These great questions and answers are from the days when the Hollywood Squares game show responses were spontaneous, not scripted, as they are now.  

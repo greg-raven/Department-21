@@ -1,9 +1,7 @@
 ---
-title: 'Don&#8217;t try to test God'
+title: 'Don’t try to test God'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/dont-try-to-test-god.html
 ---
 
 A United States Marine was attending some college courses between assignments. He had completed missions in Iraq and Afghanistan. One of the courses had a professor who was an avowed atheist and a member of the ACLU.

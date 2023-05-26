@@ -2,8 +2,6 @@
 title: 'A novel approach to saving money'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/novel-approach-to-saving-money.html
 ---
 
 Three engineers and three accountants are traveling by train to a conference. At the station, the three accountants each buy tickets and watch as the three engineers buy only a single ticket. “How are three people going to travel on only one ticket?,” asks an accountant. “Watch and you’ll see,” answers an engineer.  

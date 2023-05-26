@@ -2,8 +2,6 @@
 title: 'Planning for the future'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/planning-for-future.html
 ---
 
 A wife asks her husband, “Honey, if I died, would you remarry?”

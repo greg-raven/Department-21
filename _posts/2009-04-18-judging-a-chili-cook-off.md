@@ -2,8 +2,6 @@
 title: 'Judging a chili cook-off'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/04/judging-chili-cook-off.html
 ---
 
 Recently, I was visiting Texas, and heard about a chili cook-off at the San Antonio City Park, which was nearby where I was staying. I happened to be standing at the judge’s table asking for directions to the Coors Light truck, when one of the original judges called in sick at the last moment. I was assured by the other two judges (native Texans) that the chili wouldn’t be all that spicy, and besides, they told me I could have free beer during the tasting, so I accepted and became Judge 3. This was my first experience judging a chili cook-off.

@@ -2,8 +2,6 @@
 title: 'The Economy Is So Bad &#8230;'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/economy-is-so-bad.html
 ---
 
 CEOs are now playing miniature golf.  

@@ -2,8 +2,6 @@
 title: 'Why Computers Sometimes Crash'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/why-computers-sometimes-crash.html
 ---
 
 If a packet hits a pocket on a socket on a port, and the bus is interrupted at a very last resort, and the access of the memory makes your floppy disk abort, then the socket packet pocket has an error to report.

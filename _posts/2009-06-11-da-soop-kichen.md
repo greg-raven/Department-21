@@ -2,8 +2,6 @@
 title: 'Da soop kichen'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/da-soop-kichen.html
 ---
 
 Recently Michelle Obama went to serve food to the homeless at a government funded soup kitchen.

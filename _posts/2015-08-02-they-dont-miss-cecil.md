@@ -1,5 +1,5 @@
 ---
-title: 'They don&#8217;t miss Cecil'
+title: 'They don’t miss Cecil'
 author: 'Noam Sain'
 layout: post
 format: image

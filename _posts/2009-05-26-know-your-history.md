@@ -2,8 +2,6 @@
 title: 'Know your history'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/know-your-history.html
 ---
 
 It was the first day of school and a new student, the son of a Japanese businessman, entered the fourth grade. the teacher greeted the class and said, “Let’s begin by reviewing some American history. Who said ‘Give me Liberty, or give me death?'”

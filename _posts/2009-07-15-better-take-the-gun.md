@@ -2,8 +2,6 @@
 title: 'Better take the gun'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/better-take-gun.html
 ---
 
 An old Italian Mafia Don is dying and he calls for his grandson to approach the bed, “Lissin a me. I wanna for you to taka my chrome-plated .38-caliber revolver so you will always remember me.”  

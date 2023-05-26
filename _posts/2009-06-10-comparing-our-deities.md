@@ -2,8 +2,6 @@
 title: 'Comparing our deities'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/comparing-our-deities.html
 ---
 
 Q: What do Barack Obama and God have in common?

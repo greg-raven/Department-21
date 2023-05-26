@@ -2,8 +2,6 @@
 title: 'Nine Words Women Use'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/nine-words-women-use.html
 ---
 
 (1) Fine: This is the word women use to end an argument when they are right and you need to shut up.

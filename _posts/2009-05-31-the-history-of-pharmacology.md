@@ -2,8 +2,6 @@
 title: 'The history of pharmacology'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/history-of-pharmacology.html
 ---
 
 2000 B.C. – Here, eat this root

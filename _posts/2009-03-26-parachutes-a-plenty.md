@@ -2,8 +2,6 @@
 title: 'Parachutes a-plenty'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/parachutes-plenty.html
 ---
 
 An airplane was about to crash, and there were 5 passengers left, but only 4 parachutes. The first passenger, Barack Obama says, “I am president of the United States, and I have a great responsibility, being the leader of nearly 300 million people, and a superpower, etc.,” so he takes the first parachute, and jumps out of the plane.

@@ -1,5 +1,5 @@
 ---
-title: 'They&#8217;re the best!'
+title: 'They’re the best!'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

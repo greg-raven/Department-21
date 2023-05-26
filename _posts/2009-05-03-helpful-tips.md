@@ -2,8 +2,6 @@
 title: 'Helpful tips'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/helpful-tips.html
 ---
 
 Old telephone books make ideal personal address books. Simply cross out the names and addresses of people you don’t know.

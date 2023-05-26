@@ -2,8 +2,6 @@
 title: 'Jesus and the Democrat'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/04/jesus-and-democrat.html
 ---
 
 A Republican in a wheelchair entered a restaurant one afternoon and asked the waitress for a cup of coffee.

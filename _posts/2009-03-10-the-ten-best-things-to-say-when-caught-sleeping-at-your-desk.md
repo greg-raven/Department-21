@@ -2,8 +2,6 @@
 title: 'The Ten Best Things to Say When Caught Sleeping at Your Desk'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/ten-best-things-to-say-when-caught.html
 ---
 
 10\. “They told me at the Blood Bank this might happen.”

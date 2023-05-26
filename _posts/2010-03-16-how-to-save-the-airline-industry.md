@@ -2,8 +2,6 @@
 title: 'How to save the airline industry'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/03/how-to-save-airline-industry.html
 ---
 
 Dump the male flight attendants. No one wanted them in the first place.  

@@ -2,8 +2,6 @@
 title: 'The farmer and the old lady'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/09/farmer-and-old-lady.html
 ---
 
 A farmer stopped by the local mechanic’s shop to have his truck fixed. They couldn’t do it while he waited, so he said he didn’t live far and would just walk home.  

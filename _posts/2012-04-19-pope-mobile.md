@@ -2,8 +2,6 @@
 title: 'Pope-mobile?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2012/04/pope-mobile.html
 ---
 
 After getting all of Pope Benedict’s luggage loaded into the limo, (and he doesn’t travel light), the driver notices the Pope is still standing on the curb.  

@@ -2,8 +2,6 @@
 title: 'Venison vs. Beef: The controversy ends'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/11/venison-vs-beef-controversy-ends.html
 ---
 
 Source: The U.S. Venison Council

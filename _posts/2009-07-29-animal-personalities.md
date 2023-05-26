@@ -2,8 +2,6 @@
 title: 'Animal personalities'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/animal-personalities.html
 ---
 
 Different pets have profoundly different personalities. Some are smarter than others, some more willing to help “their” humans. When critters are asked to change the light bulb, their replies vary dramatically:

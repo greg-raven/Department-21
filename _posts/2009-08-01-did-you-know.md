@@ -2,8 +2,6 @@
 title: 'Did you know &#8230;'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/did-you-know.html
 ---
 
 All polar bears are left handed.

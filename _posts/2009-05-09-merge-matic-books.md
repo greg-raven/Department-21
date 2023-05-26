@@ -2,8 +2,6 @@
 title: 'Merge-Matic books'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/merge-matic-books.html
 ---
 
 From the Washington Post Invitational contest, which calls them Merge-Matic Books: Readers were asked to combine the works of two authors, and to provide a suitable blurb:

@@ -2,8 +2,6 @@
 title: 'Texas humor'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/09/texas-humor.html
 ---
 
 The Sheriff pulled up next to the guy unloading garbage out of his pick-up into the ditch.

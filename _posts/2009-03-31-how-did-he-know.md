@@ -2,8 +2,6 @@
 title: 'How did he know?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/how-did-he-know.html
 ---
 
 Hello, is this Rabbi Schwartz?”

@@ -2,8 +2,6 @@
 title: 'God vs. monkeys'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/02/god-vs-monkeys.html
 ---
 
 A little girl asked her mother, “How did the human race appear?” The mother answered, “God made Adam and Eve and they had children, and so was all mankind made.”  

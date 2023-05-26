@@ -2,8 +2,6 @@
 title: 'Guide to border crossing'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/11/guide-to-border-crossing.html
 ---
 
 If you cross the North Korean border illegally you get 12 years hard labor.  

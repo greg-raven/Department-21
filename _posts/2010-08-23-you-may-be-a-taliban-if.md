@@ -1,13 +1,11 @@
 ---
-title: 'You May Be A Taliban If &#8212;'
+title: 'You May Be A Taliban If …'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/08/you-may-be-taliban-if.html
 ---
 
-By Jeff Foxworthy  
-  
+By Jeff Foxworthy
+
 You may be a Taliban if …
 
 1. You refine heroin for a living, but have a moral objection to liquor.

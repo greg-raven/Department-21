@@ -1,5 +1,5 @@
 ---
-title: 'You&#8217;ve reached tech support &#8230;'
+title: 'You’ve reached tech support &#8230;'
 author: 'Noam Sain'
 layout: post
 format: gallery

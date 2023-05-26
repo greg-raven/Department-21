@@ -2,8 +2,6 @@
 title: 'Headlines and the dead art of proofreading'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/headlines-and-dead-art-of-proofreading.html
 ---
 
 **Man Kills Self Before Shooting Wife and Daughter**

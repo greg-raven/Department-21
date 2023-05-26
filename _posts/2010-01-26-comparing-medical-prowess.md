@@ -2,8 +2,6 @@
 title: 'Comparing medical prowess'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/01/comparing-medical-prowess.html
 ---
 
 A small group of doctors from around the world is comparing notes at a medical convention.  

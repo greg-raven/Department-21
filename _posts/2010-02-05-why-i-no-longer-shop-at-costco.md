@@ -2,8 +2,6 @@
 title: 'Why I no longer shop at Costco'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/02/why-i-no-longer-shop-at-costco.html
 ---
 
 Yesterday I was at my local Costco buying a large bag of dog chow for my loyal pet, Biscuit, the Wonder Dog and was in the checkout line when a woman behind me asked if I had a dog.  

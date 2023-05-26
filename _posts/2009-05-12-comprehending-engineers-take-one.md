@@ -1,9 +1,7 @@
 ---
-title: 'Comprehending Engineers &#8212; Take One'
+title: 'Comprehending Engineers — Take One'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/comprehending-engineers-take-one.html
 ---
 
 Two engineering students were walking across campus when one said, “Where did you get such a great bike?”

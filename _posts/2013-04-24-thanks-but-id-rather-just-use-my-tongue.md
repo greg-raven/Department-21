@@ -1,5 +1,5 @@
 ---
-title: 'Thanks, but I&#8217;d rather just use my tongue'
+title: 'Thanks, but I’d rather just use my tongue'
 author: 'Noam Sain'
 layout: post
 format: image

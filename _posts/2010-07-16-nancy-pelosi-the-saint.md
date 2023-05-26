@@ -2,8 +2,6 @@
 title: 'Nancy Pelosi the saint'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/07/nancy-pelosi-saint.html
 ---
 
 On a Saturday afternoon, in Washington, D.C., an aide to House Speaker Nancy Pelosi visited the Bishop of the Catholic cathedral in D.C. He told the Cardinal that Nancy Pelosi would be attending the next day’s Mass, and he asked if the Cardinal would kindly point out Pelosi to the congregation and say a few words that would include calling Pelosi a saint.  

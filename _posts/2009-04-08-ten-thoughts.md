@@ -2,8 +2,6 @@
 title: 'Ten thoughts'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/04/ten-thoughts.html
 ---
 
 Here are 10 thoughts that may make you think — and smile!

@@ -2,8 +2,6 @@
 title: 'Welfare Office'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/04/welfare-office.html
 ---
 
 A guy walked into the local welfare office to pick up his check.  

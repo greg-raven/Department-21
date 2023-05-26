@@ -2,8 +2,6 @@
 title: 'It’s the thought that counts'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/its-thought-that-counts.html
 ---
 
 The United Way realized that it had never received a donation from the city’s most successful lawyer. So a United Way volunteer paid the lawyer a visit in his lavish office. The volunteer opened the meeting by saying, “Our research shows that even though your annual income is over two million dollars, you don’t give a penny to charity. Wouldn’t you like to give something back to your community through the United Way?”

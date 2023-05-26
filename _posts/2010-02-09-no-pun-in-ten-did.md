@@ -2,8 +2,6 @@
 title: 'No pun in ten did'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/02/no-pun-in-ten-did.html
 ---
 
 1\. A vulture boards an airplane, carrying two dead raccoons. The stewardess looks at him and says, “I’m sorry, sir, only one carrion allowed per passenger.”

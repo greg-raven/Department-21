@@ -2,8 +2,6 @@
 title: 'The Farmer and Government Agent'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/farmer-and-government-agent.html
 ---
 
 A man owned a small farm in Alabama. The Alabama Wage and Hour Dept. claimed he was not paying proper wages to his help and sent an agent out to interview him.  

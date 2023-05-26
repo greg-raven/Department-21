@@ -2,8 +2,6 @@
 title: 'How many zeros in a billion?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2008/11/how-many-zeros-in-billion.html
 ---
 
 The next time you hear a politician use the word “billion” in a casual manner, think about whether you want politicians spending YOUR tax money.  

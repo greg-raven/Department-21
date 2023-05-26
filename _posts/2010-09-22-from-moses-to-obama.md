@@ -2,8 +2,6 @@
 title: 'From Moses to Obama'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/09/from-moses-to-obama.html
 ---
 
 Over five thousand years ago, Moses said to the children of Israel, “Pick up your shovels, mount your asses and camels, and I will lead you to the Promised Land.”  

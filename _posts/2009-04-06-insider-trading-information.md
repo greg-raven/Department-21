@@ -2,8 +2,6 @@
 title: 'Insider trading information'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/04/insider-trading-information.html
 ---
 
 If you had purchased $1,000 of shares in Delta Airlines one year ago, you would have $49.00 today.

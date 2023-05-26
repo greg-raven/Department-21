@@ -2,8 +2,6 @@
 title: 'Pied Piper Revisited'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/pied-piper-revisited.html
 ---
 
 A tourist wanders into a back-alley antique shop in San Francisco’s Chinatown. Picking through the objects on display he discovers a detailed bronze sculpture of a rat. The sculpture is so interesting and unique that he picks it up and asks the shop owner the price.

@@ -1,9 +1,7 @@
 ---
-title: 'Explaining The &#8216;Stimulus Bill&#8217;'
+title: 'Explaining The ‘Stimulus Bill’'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/explaining-stimulus-bill.html
 ---
 
 An economics student approached the professor and said, “I still don’t understand this stimulus thing. Can you explain it to me?”  

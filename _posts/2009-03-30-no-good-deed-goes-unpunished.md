@@ -2,8 +2,6 @@
 title: 'No good deed goes unpunished'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/no-good-deed-goes-unpunished.html
 ---
 
 A young man was walking through a supermarket to pick up a few things when he noticed an old lady following him around. Thinking nothing of it, he ignored her and continued on. Finally he went to the checkout line, but she got in front of him.

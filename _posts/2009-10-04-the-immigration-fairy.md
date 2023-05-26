@@ -2,8 +2,6 @@
 title: 'The immigration fairy'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/10/immigration-fairy.html
 ---
 
 A beautiful fairy appeared one day to a destitute refugee outside an Arizona immigration office.

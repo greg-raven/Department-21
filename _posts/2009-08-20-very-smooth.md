@@ -2,8 +2,6 @@
 title: 'Very smooth'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/very-smooth.html
 ---
 
 I was in the pub yesterday when I suddenly realized I desperately needed to fart.  

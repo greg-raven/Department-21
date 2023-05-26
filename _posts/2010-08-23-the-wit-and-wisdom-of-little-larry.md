@@ -2,8 +2,6 @@
 title: 'The Wit and Wisdom of Little Larry'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/08/wit-and-wisdom-of-little-larry.html
 ---
 
 A new teacher was trying to make use of her psychology courses. She started her class by saying, “Everyone who thinks they’re stupid, stand up!” After a few seconds, Little Larry stood up. The teacher said, “Do you think you’re stupid, Larry?” “No, ma’am, but I hate to see you standing there all by yourself!”  

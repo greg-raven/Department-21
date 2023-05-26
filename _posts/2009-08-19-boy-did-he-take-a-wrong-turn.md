@@ -2,8 +2,6 @@
 title: 'Boy, did he take a wrong turn'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/boy-did-he-take-wrong-turn.html
 ---
 
 A spaceship landed one day on Earth, and a little green man got out. Addressing a curious passer-by, he said, “Take me to your leader.”  

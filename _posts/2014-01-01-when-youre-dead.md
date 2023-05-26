@@ -1,5 +1,5 @@
 ---
-title: 'When you&#8217;re dead'
+title: 'When you’re dead'
 author: 'Noam Sain'
 layout: post
 ---

@@ -2,8 +2,6 @@
 title: 'Important information for women'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/11/important-information-for-women.html
 ---
 
 1. Don’t imagine you can change a man unless he’s in diapers.

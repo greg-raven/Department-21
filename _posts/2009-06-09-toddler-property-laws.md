@@ -2,8 +2,6 @@
 title: 'Toddler property laws'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/toddler-property-laws.html
 ---
 
 1. If I like it, it’s mine.

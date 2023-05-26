@@ -2,8 +2,6 @@
 title: 'Not very respectful'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/01/not-very-respectful.html
 ---
 
 My boss was complaining in our staff meeting the other day that he wasn’t getting any respect. Later that morning he went to a local sign shop and bought a small sign that read, “I’m the Boss”. He then taped it to his office door.  

@@ -2,8 +2,6 @@
 title: 'Teaching math through the years'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/04/teaching-math-through-years.html
 ---
 
 Teaching Math In 1950s: A logger sells a truckload of lumber for $100. His cost of production is 4/5 of the price. What is his profit?

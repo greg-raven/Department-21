@@ -1,9 +1,7 @@
 ---
-title: 'Don&#8217;t ask, don&#8217;t tell'
+title: 'Don’t ask, don’t tell'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/dont-ask-dont-tell.html
 ---
 
 Little Lucy was playing in the garden when she spotted two spiders mating.

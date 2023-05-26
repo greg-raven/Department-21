@@ -2,8 +2,6 @@
 title: 'That’s pretty dense'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/01/thats-pretty-dense.html
 ---
 
 The densest element in the known universe has been found! A major research institute has just announced the discovery of the densest element yet known to science.  

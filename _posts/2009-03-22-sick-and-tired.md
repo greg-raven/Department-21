@@ -2,8 +2,6 @@
 title: 'Sick and tired'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/sick-and-tired.html
 ---
 
 Four friends were taking a cross country car trip together. One was from Florida, one was from New York, one was from Idaho, and one was from Iowa.

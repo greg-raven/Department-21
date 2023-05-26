@@ -2,8 +2,6 @@
 title: 'Signs that you might be getting old'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/signs-that-you-might-be-getting-old.html
 ---
 
 1. You and your teeth don’t sleep together.

@@ -2,8 +2,6 @@
 title: 'Would you hire this man?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2008/10/would-you-hire-this-man.html
 ---
 
 Imagine for a few moments that you are the human resources director of a major multi-billion dollar corporation. You are sitting in your large, luxurious office when you receive a phone call from the Chairman of the Board of Directors.

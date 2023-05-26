@@ -2,8 +2,6 @@
 title: 'Expert (dead) horsemanship'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/expert-dead-horsemanship.html
 ---
 
 A simpleminded person might say that when you discover that you are riding a dead horse, the best strategy is to dismount.

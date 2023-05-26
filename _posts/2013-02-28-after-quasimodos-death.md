@@ -1,5 +1,5 @@
 ---
-title: 'After Quasimodo&#8217;s death'
+title: 'After Quasimodo’s death'
 author: 'Noam Sain'
 layout: post
 ---

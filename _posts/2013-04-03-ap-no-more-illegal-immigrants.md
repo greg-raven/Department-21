@@ -1,5 +1,5 @@
 ---
-title: 'AP: No more &#8216;illegal immigrants&#8217;'
+title: 'AP: No more ‘illegal immigrants’'
 author: 'Noam Sain'
 layout: post
 format: video

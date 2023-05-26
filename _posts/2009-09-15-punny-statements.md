@@ -2,8 +2,6 @@
 title: 'Punny Statements'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/09/punny-statements.html
 ---
 
 If you’re a logophile — a lover of words — you might find yourself cringing as you read these.

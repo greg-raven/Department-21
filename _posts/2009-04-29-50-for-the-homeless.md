@@ -2,8 +2,6 @@
 title: '$50 for the homeless'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/04/50-for-homeless.html
 ---
 
 I recently asked my friend’s little girl what she wanted to be when she grows up. She said she wanted to be president some day.  

@@ -2,8 +2,6 @@
 title: 'Various views of the cattle business'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/various-views-of-cattle-business.html
 ---
 
 **DEMOCRAT**

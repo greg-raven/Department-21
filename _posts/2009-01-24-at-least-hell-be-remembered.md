@@ -1,9 +1,7 @@
 ---
-title: 'At least he&#8217;ll be remembered'
+title: 'At least he’ll be remembered'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/at-least-hell-be-remembered.html
 ---
 
 Joe’s Last Will and Testament provided $30,000 for an elaborate funeral.

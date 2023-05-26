@@ -1,9 +1,7 @@
 ---
-title: 'That&#8217;s the beer talking'
+title: 'That’s the beer talking'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/thats-beer-talking.html
 ---
 
 Two men were sitting next to each other at a bar. After a while, one guy looks at the other and says, “I can’t help but think, from listening to you, that you’re from Ireland.”

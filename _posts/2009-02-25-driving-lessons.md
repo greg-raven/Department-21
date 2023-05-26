@@ -2,8 +2,6 @@
 title: 'Driving lessons'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/driving-lessons.html
 ---
 
 A group of youths stole a car, and Juan — having the most experience in this sort of thing — was the one who climbed behind the wheel.

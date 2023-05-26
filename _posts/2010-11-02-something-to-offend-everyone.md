@@ -2,8 +2,6 @@
 title: 'Something to offend everyone'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/11/something-to-offend-everyone.html
 ---
 
 I’d just come out of the shop with a meat and potato pie, large chips, mushy peas, and a jumbo sausage. A homeless man sitting there said, “I’ve not eaten for two days.” I told him, “I wish I had your will power.”  

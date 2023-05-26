@@ -1,9 +1,7 @@
 ---
-title: 'Doctor&#8217;s office'
+title: 'Doctor’s office'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2011/12/doctors-office.html
 ---
 
 There’s nothing worse than a doctor’s receptionist who insists you tell her what is wrong with you in a room full of other patients. I know most of us have experienced this, and I love the way this old guy handled it:  

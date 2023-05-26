@@ -2,8 +2,6 @@
 title: 'Idiot sightings'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/10/idiot-sightings.html
 ---
 
 We had to have the garage door repaired. The Sears repairman told us that one of our problems was that we did not have a ‘large enough’ motor on the opener. I thought for a minute, and said that we had the largest one Sears made at that time, a 1/2 horsepower. He shook his head and said, “Lady, you need a 1/4 horsepower.” I responded that 1/2 was larger than 1/4. He said, “NO, it’s not. Four is larger than two.”

@@ -2,8 +2,6 @@
 title: 'A surprising child custody decision'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/11/surprising-child-custody-decision.html
 ---
 
 Dallas, TX (AP) – A seven year old boy was at the center of a Dallas County courtroom drama yesterday when he challenged a court ruling over who should have custody of him. The boy has a history of being beaten by his parents and the judge initially awarded custody to his aunt, in keeping with child custody law and regulation requiring that family unity be maintained to the highest degree reasonably possible.  

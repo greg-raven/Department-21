@@ -2,8 +2,6 @@
 title: 'Tolerance rules'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/10/tolerance-rules.html
 ---
 
 by James Kalb

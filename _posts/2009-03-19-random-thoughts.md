@@ -2,8 +2,6 @@
 title: 'Random thoughts'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/random-thoughts.html
 ---
 
 The good news is the economy is creating millions of new jobs every year. The bad news is they’re all telemarketers.

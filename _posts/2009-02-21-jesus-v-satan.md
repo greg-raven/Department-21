@@ -2,8 +2,6 @@
 title: 'Jesus v. Satan'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/jesus-v-satan.html
 ---
 
 Jesus and Satan were having an ongoing argument about who had better computer skills. They had been going at it for days, and God was tired of hearing all of the bickering. Finally God said, “Cool it. I am going test you, and after two hours I will judge who does the better job.”

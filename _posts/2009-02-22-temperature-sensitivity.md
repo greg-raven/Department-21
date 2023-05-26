@@ -2,8 +2,6 @@
 title: 'Temperature sensitivity'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/temperature-sensitivity.html
 ---
 
 60 above

@@ -1,5 +1,5 @@
 ---
-title: 'Details about Obama&#8217;s openly gay military'
+title: 'Details about Obama’s openly gay military'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

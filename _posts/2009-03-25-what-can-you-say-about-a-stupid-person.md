@@ -2,8 +2,6 @@
 title: 'What can you say about a stupid person?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/what-can-you-say-about-stupid-person.html
 ---
 
 1. The wheel is spinning, but the hamster is dead.

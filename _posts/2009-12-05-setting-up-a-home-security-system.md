@@ -2,8 +2,6 @@
 title: 'Setting up a home security system'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/12/setting-up-home-security-system.html
 ---
 
 1. Go to a secondhand store and buy a pair of men’s used size 14-16 work boots.

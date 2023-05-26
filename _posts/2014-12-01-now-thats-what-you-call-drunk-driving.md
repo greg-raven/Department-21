@@ -1,5 +1,5 @@
 ---
-title: 'Now that&#8217;s what you call drunk driving'
+title: 'Now that’s what you call drunk driving'
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,9 +1,7 @@
 ---
-title: 'Don&#8217;t drink and drive'
+title: 'Don’t drink and drive'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/dont-drink-and-drive.html
 ---
 
 There was this party in the woods and all of a sudden there was a down pour of thunder and rain. These two young men ran for about 10 minutes in the pouring rain, finally reaching their car just as the rain let up. They jumped in the car, started it up and headed down the road, laughing and, of course, still drinking one beer after the other.

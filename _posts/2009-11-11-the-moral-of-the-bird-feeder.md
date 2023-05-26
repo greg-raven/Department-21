@@ -2,8 +2,6 @@
 title: 'The moral of the bird feeder'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/11/moral-of-bird-feeder.html
 ---
 
 I bought a bird feeder. I hung it on my back porch and filled it with seed. What a beauty of a bird feeder it is, as I filled it lovingly with seed. Within a week we had hundreds of birds taking advantage of the continuous flow of free and easily accessible food.  

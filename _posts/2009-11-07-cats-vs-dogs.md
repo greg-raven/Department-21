@@ -2,8 +2,6 @@
 title: 'Cats vs. dogs'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/11/cats-vs-dogs.html
 ---
 
 1. Dogs will tilt their heads and try to understand every word you say. Cats will ignore you and take a nap.

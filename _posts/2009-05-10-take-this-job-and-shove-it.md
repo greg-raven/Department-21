@@ -2,8 +2,6 @@
 title: 'Take this job and shove it'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/take-this-job-and-shove-it.html
 ---
 
 On your way home after work, stop at your pharmacy and go to the section where they have thermometers. You will need to purchase a rectal thermometer made by Q-Tip. Be very sure that you get this brand.

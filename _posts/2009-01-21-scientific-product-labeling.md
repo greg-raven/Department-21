@@ -2,8 +2,6 @@
 title: 'Scientific product labeling'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/scientific-product-labeling.html
 ---
 
 As scientists and concerned citizens, we applaud the recent trend towards legislation which requires the prominent placing of warnings on products that present hazards to the general public. Yet we must also offer the cautionary thought that such warnings, however well-intentioned, merely scratch the surface of what is really necessary in this important area. This is especially true in light of the findings of 20th century atomic physics. We are therefore proposing that, as responsible scientists, we join together in an intensive push for new laws that will mandate the conspicuous placement of suitably informative warnings on the packaging of EVERY product offered for sale in the United States of America. Our suggested list of warnings appears below.

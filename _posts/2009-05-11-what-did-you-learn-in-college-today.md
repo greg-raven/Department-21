@@ -2,8 +2,6 @@
 title: 'What did you learn in college today?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/what-did-you-learn-in-college-today.html
 ---
 
 The graduate with a Science degree asks, “Why does it work?”

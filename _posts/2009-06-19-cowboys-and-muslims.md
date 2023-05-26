@@ -2,8 +2,6 @@
 title: 'Cowboys and Muslims'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/cowboys-and-muslims.html
 ---
 
 Three strangers strike up a conversation in the airport passenger lounge in Bozeman, Montana, awaiting their flights.

@@ -2,8 +2,6 @@
 title: 'Don&rsquo;t fill him up!'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/01/kid-quartlow.html
 ---
 
 ![Barack Obama turning white](http://2.bp.blogspot.com/_8aN4krk1nsk/TG_OJPd4_kI/AAAAAAAAAeg/MxN_Xa6KBlo/s320/ATT00004.jpg)  

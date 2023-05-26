@@ -2,8 +2,6 @@
 title: 'Read this to feel more intelligent'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/01/read-this-to-feel-more-intelligent.html
 ---
 
 “Outside of the killings, Washington has one of the lowest crime rates in the country.”

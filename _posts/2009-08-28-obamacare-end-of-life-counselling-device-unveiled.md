@@ -2,8 +2,6 @@
 title: 'Obamacare end-of-life counselling device unveiled'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/obamacare-end-of-life-counselling.html
 ---
 
 This is a tobacco smoke enema kit, used from the 1750s to the 1810s to infuse tobacco smoke into a patient’s rectum for various medical purposes. Doubts about the efficacy of tobacco enemas lead to the popular phrase, “blow smoke up one’s ass.”

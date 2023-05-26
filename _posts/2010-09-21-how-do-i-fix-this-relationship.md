@@ -2,8 +2,6 @@
 title: 'How do I fix this relationship?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/09/how-do-i-fix-this-relationship.html
 ---
 
 Ralph, My neighbor is a “lefty” of sorts (Obama bumper stickers, gung-ho socialized medicine, “guns should be banned”, etc.). So last week I put this sign up in my yard after one of his anti-gun rants at a neighborhood cocktail party. The sign wasn’t up more than an hour before he called the police and wanted them to make me take down the sign. Fortunately, the officer politely informed him that it was not their job to take such action without a court order and that he had to file a complaint “downtown” first, which would be reviewed by the city attorney to see if it violated any city, county, or state ordinances, which if there was a violation a court order would be sent to the offending party (me) to “remove the sign in seven days.”  

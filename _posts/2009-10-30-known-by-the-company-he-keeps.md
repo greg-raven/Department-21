@@ -2,8 +2,6 @@
 title: 'Known by the company he keeps'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/10/known-by-company-he-keeps.html
 ---
 
 Barack Obama meets with the Queen of England. He asks her, “How do you run such an efficient government? Are there any tips you can give to me?”  

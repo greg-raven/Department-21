@@ -1,9 +1,7 @@
 ---
-title: 'And don&#8217;t ever scorn her'
+title: 'And don’t ever scorn her'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/and-dont-ever-scorn-her.html
 ---
 
 The teacher gave her fifth grade class an assignment: Get their parents to tell them a story with a moral at the end of it.

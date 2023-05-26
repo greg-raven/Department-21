@@ -1,5 +1,5 @@
 ---
-title: 'Try &#8216;Brazilian&#8217;'
+title: 'Try ‘Brazilian’'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

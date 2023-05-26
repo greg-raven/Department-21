@@ -1,9 +1,7 @@
 ---
-title: 'The World&#8217;s Shortest Books'
+title: 'The World’s Shortest Books'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/01/worlds-shortest-books.html
 ---
 
 THINGS I DID TO DESERVE THE NOBEL PEACE PRIZE, by Barack Obama  

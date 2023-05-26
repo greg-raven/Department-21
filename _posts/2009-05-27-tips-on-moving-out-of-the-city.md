@@ -2,8 +2,6 @@
 title: 'Tips on moving out of the city'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/tips-on-moving-out-of-city.html
 ---
 
 1\. Save all manner of bacon grease. You will be instructed later how to use it.

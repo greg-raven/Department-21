@@ -1,5 +1,5 @@
 ---
-title: 'That&#8217;s one clever cat'
+title: 'That’s one clever cat'
 author: 'Noam Sain'
 layout: post
 format: image

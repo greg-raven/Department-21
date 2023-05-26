@@ -1,9 +1,7 @@
 ---
-title: 'That&#8217;s one question too many'
+title: 'That’s one question too many'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/11/thats-one-question-too-many.html
 ---
 
 A young Arab asks his father: “What is this weird hat that we are wearing?”  

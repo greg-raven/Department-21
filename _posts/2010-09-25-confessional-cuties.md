@@ -2,8 +2,6 @@
 title: 'Confessional Cuties'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/09/confessional-cuties.html
 ---
 
 A married Irishman went into the confessional and said to his priest, ‘I almost had an affair with another woman.’  

@@ -2,8 +2,6 @@
 title: 'God is in the details'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/god-is-in-details.html
 ---
 
 An English professor wrote the words, “a woman without her man is nothing” on the board, and directed the students to punctuate it correctly.

@@ -2,8 +2,6 @@
 title: 'Speed thrills'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/speed-thrills.html
 ---
 
 Sitting on the side of the highway waiting to catch speeding drivers, a state police officer sees a car puttering along at 22 mph. He thinks to himself, “This driver is just as dangerous as a speeder!!,” so he turns on his lights and pulls the driver over.

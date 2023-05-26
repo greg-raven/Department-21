@@ -2,8 +2,6 @@
 title: 'When fishermen meet'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/when-fishermen-meet.html
 ---
 
 “Hiyamac.”  

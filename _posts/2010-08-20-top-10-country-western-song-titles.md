@@ -1,13 +1,11 @@
 ---
-title: 'Top 10 Country &#038; Western song titles'
+title: 'Top 10 Country & Western song titles'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/08/top-10-country-western-song-titles.html
 ---
 
-These are some of the great toe tappers and can’t-get-that-song-out-of-my-mind hits from country.  
-  
+These are some of the great toe tappers and can’t-get-that-song-out-of-my-mind hits from country.
+
 10\. I Hate Every Bone In Her Body But Mine.
 
 9\. I Ain’t Never Gone To Bed With an Ugly Woman; But I Woke Up With A Few.

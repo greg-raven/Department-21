@@ -1,5 +1,5 @@
 ---
-title: 'Guess it wasn&#8217;t a dictionary&rsquo;s dictionary'
+title: 'Guess it wasn’t a dictionary&rsquo;s dictionary'
 author: 'Noam Sain'
 layout: post
 format: image

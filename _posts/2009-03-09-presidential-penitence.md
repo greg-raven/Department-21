@@ -2,8 +2,6 @@
 title: 'Presidential penitence'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/presidential-penitence.html
 ---
 
 When Bill and Hillary first got married, Bill said, “I am putting a box under our bed. You must promise never to look in it.” In all their 30 years of marriage, Hillary never looked. However, on the afternoon of their 30th anniversary, curiosity got the better of her and she lifted the lid and peeked inside. In the box there were three empty beer cans and $1,874.25 in cash.  

@@ -2,8 +2,6 @@
 title: 'Cold enough for you?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/cold-enough-for-you.html
 ---
 
 A Chicago man dies and goes to hell. When he gets there, the devil comes over to welcome him. The devil then says “sometimes it gets pretty uncomfortable down here,” the man says, “no problem. I’m from Chicago.”  

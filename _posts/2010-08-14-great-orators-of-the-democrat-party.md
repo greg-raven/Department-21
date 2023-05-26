@@ -2,8 +2,6 @@
 title: 'Great Orators of the Democrat Party'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/08/great-orators-of-democrat-party.html
 ---
 
 From historic Democrats:

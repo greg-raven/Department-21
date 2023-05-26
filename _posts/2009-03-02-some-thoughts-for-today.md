@@ -2,8 +2,6 @@
 title: 'Some thoughts for today'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/thoughts-for-today.html
 ---
 
 I have kleptomania, but when it gets bad, I take something for it.

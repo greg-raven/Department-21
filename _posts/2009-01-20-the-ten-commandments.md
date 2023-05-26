@@ -2,8 +2,6 @@
 title: 'The Ten Commandments'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2008/11/ten-commandments.html
 ---
 
 The real reason that we can’t have the Ten Commandments posted in a courthouse is this:

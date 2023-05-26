@@ -2,8 +2,6 @@
 title: 'Morning prayer'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/morning-prayer.html
 ---
 
 Dear God:

@@ -2,8 +2,6 @@
 title: 'Gentle words for our age'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/gentle-words-for-our-age.html
 ---
 
 Imagine if instead of cryptic, geeky error messages, your computer produced haiku …

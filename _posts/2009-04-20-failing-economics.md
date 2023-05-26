@@ -2,8 +2,6 @@
 title: 'Failing economics'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/04/failing-economics.html
 ---
 
 An economics professor at a local college made a statement that he had never failed a single student before but had once failed an entire class.

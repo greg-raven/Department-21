@@ -2,8 +2,6 @@
 title: 'The sweetness of married Life'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/sweetness-of-married-life.html
 ---
 
 The newlyweds were only married two weeks, when the husband said to the wife, “Honey I’m going to Hank’s Tavern to have a beer, I’ll be right back.”

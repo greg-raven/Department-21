@@ -1,9 +1,7 @@
 ---
-title: 'Here&#8217;s one for the guys in tech support'
+title: 'Here’s one for the guys in tech support'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/heres-one-for-guys-in-tech-support.html
 ---
 
 A cannibal goes to the human meat market to buy a brain for his lunch (as one would). He sees a little poster that boasts about the quality of IT professional brains that are currently on sale.

@@ -2,8 +2,6 @@
 title: 'Irish humor'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/best-joke-in-ireland-2008.html
 ---
 
 The annual toast contest was in full swing at the neighborhood pub when John O’Reilly hoisted his beer and said, “Here’s to spending the rest of me life, between the legs of me wife!” His spontaneous wit won him the top prize and free ale at the pub for the best toast of the night.

@@ -2,8 +2,6 @@
 title: 'One good nap deserves another'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2008/10/one-good-nap-deserves-another.html
 ---
 
 An older, tired-looking dog wandered into my yard; I could tell from his collar and well-fed belly that he had a home and was well taken care of.

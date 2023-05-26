@@ -2,8 +2,6 @@
 title: 'Good news from Government Motors'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/10/good-news-from-government-motors.html
 ---
 
 The government will be coming to your house today in order to exchange your vehicle for an ObamaCar. Government Motors has decided to give you the choice of license plates. Every choice will read OBAMA, but, in the spirit of freedom, you can pick from one of three fonts.

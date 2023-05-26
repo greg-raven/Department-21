@@ -2,8 +2,6 @@
 title: 'The epitome of discretion'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/epitome-of-discretion.html
 ---
 
 Six retired Irishmen were playing poker in Monaghan’s flat in Dungarvan when Sean O’Toole loses $500 on a single hand, clutches his chest, and drops dead at the table.  

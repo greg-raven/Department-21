@@ -2,8 +2,6 @@
 title: 'Comparing medical procedures'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/comparing-medical-procedures.html
 ---
 
 Two little kids are in a hospital laying on stretchers next to each other outside of the operating room.

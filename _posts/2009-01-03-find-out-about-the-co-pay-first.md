@@ -2,8 +2,6 @@
 title: 'Find out about the co-pay first'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/find-out-about-co-pay-first.html
 ---
 
 A man was brought to Mercy Hospital, and taken quickly in for coronary surgery. The operation went well and, as the groggy man regained consciousness, he was reassured by a Sister of Mercy, who was waiting by his bed.

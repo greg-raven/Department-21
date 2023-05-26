@@ -1,9 +1,7 @@
 ---
-title: 'An Italian boy&#8217;s confession'
+title: 'An Italian boy’s confession'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/italian-boys-confession.html
 ---
 
 “Bless me Father, for I have sinned. I have been with a loose girl.”

@@ -1,9 +1,7 @@
 ---
-title: 'You know you&#8217;re from California if &#8230;'
+title: 'You know you’re from California if &#8230;'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/02/you-know-youre-from-california-if.html
 ---
 
 1. Your co-worker has 8 body piercings and none is visible.

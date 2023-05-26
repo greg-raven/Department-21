@@ -2,8 +2,6 @@
 title: 'Youth vs. experience'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/youth-vs-experience.html
 ---
 
 An elderly man in Northern Mississippi had owned a large farm for several years. He had a large pond in the back fixed up nice: picnic tables, horseshoe courts, and some apple and peach trees. The pond was properly shaped and fixed up for swimming when it was built.

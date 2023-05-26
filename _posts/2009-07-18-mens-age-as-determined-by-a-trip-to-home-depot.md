@@ -1,9 +1,7 @@
 ---
-title: 'Men&#8217;s age as determined by a trip to Home Depot'
+title: 'Men’s age as determined by a trip to Home Depot'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/mens-age-as-determined-by-trip-to-home.html
 ---
 
 You are in the middle of some kind of project around the house mowing the lawn, putting a new fence in, painting the living room, or whatever.  

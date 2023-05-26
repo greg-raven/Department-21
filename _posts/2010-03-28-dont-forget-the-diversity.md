@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t forget the &#8216;diversity&#8217;'
+title: 'Don’t forget the ‘diversity’'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

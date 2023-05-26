@@ -1,9 +1,7 @@
 ---
-title: 'A good pun is it&#8217;s own re-word'
+title: 'A good pun is it’s own re-word'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/good-pun-is-its-own-re-word.html
 ---
 
 - Time flies like an arrow. Fruit flies like a banana.

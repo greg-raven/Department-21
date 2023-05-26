@@ -2,8 +2,6 @@
 title: 'Signs, signs, everywhere signs'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/08/signs-signs-signs-everywhere-you-see.html
 ---
 
 Sign over a Gynecologist’s Office: “Dr. Jones, at your cervix.”  

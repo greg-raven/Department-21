@@ -2,8 +2,6 @@
 title: '27 reasons you should support illegal immigration'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/10/27-reasons-you-should-support-illegal.html
 ---
 
 1. America’s emergency rooms and health care system are not crowded enough.

@@ -2,8 +2,6 @@
 title: Tradition
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/tradition.html
 ---
 
 During a service at an old synagogue in Eastern Europe, when the Sh’ma prayer was said, half the congregants stood up and half remained sitting. The half that was seated started yelling at those standing to sit down, and the ones standing yelled at the ones sitting to stand up.

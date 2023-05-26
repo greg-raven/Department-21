@@ -2,8 +2,6 @@
 title: 'Giving thanks: Then and now'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/giving-thanks-then-and-now.html
 ---
 
 When I was younger, I remember receiving the inevitable homework assignment to write an essay on “something I am thankful for.” Then I’d spend a lot of time sitting in my room trying to figure out just what in the world that could possibly be; and I’d end up writing down everything I could think of from God to environmental consciousness. But after having children, my priorities have clearly changed:

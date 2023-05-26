@@ -2,8 +2,6 @@
 title: 'The best cookie recipe'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/best-cookie-recipe.html
 ---
 
 1 cup of water

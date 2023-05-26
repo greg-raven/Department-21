@@ -2,8 +2,6 @@
 title: 'Will I live to see 80?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/04/will-i-live-to-see-80.html
 ---
 
 I recently picked a new primary care doctor. After two visits and exhaustive Lab tests, he said I was doing “fairly well” for my age. (I just turned 49.)

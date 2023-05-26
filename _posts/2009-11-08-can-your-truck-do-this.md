@@ -2,8 +2,6 @@
 title: 'Can your truck do this?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/11/can-your-truck-do-this.html
 ---
 
 I bought a new GMC Sierra and returned it to the dealer yesterday because I couldn’t get the radio to work. The salesman explained that the radio was voice activated.  

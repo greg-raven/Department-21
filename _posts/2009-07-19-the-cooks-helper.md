@@ -1,9 +1,7 @@
 ---
-title: 'The cook&#8217;s helper'
+title: 'The cook’s helper'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/cooks-helper.html
 ---
 
 A wife was making a breakfast of fried eggs for her husband.  

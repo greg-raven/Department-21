@@ -2,8 +2,6 @@
 title: 'Leaks in the gene pool'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/leaks-in-gene-pool.html
 ---
 
 A woman went down to the Welfare Office to get aid. The office worker asked her, “How many children do you have?”

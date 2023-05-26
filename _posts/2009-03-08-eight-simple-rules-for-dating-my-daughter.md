@@ -2,8 +2,6 @@
 title: 'Eight simple rules for dating my daughter'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/eight-simple-rules-for-dating-my.html
 ---
 
 When I was in high school I used to be terrified of my girlfriend’s father, who I believe suspected me of wanting to place my hands on his daughter’s chest. He would open the door and immediately affect a good-naturedly murderous expression, holding out a handshake that, when gripped, felt like it could squeeze carbon into diamonds.

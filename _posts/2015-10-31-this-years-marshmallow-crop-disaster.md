@@ -1,5 +1,5 @@
 ---
-title: 'This year&#8217;s marshmallow crop disaster'
+title: 'This year’s marshmallow crop disaster'
 author: 'Noam Sain'
 layout: post
 format: video

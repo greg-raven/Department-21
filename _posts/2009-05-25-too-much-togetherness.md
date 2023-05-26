@@ -2,8 +2,6 @@
 title: 'Too much togetherness?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/too-much-togetherness.html
 ---
 
 The woman’s husband had been slipping in and out of a coma for several months, yet she had stayed by his bedside every single day. One day, when he came to, he motioned for her to come nearer.

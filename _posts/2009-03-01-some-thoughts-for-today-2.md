@@ -2,8 +2,6 @@
 title: 'Some thoughts for today'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/some-thoughts-for-today.html
 ---
 
 - Jim Baker and Jimmy Swaggert have written a self-congratulatory new book. It’s called, “Ministers Do More Than Lay People.”

@@ -2,8 +2,6 @@
 title: 'DUMB ASS of the Year Award &mdash; 2009'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/02/dumb-ass-of-year-award-2009.html
 ---
 
 Tough to pick a winner in the current administration, but it’s hard to argue with this!  

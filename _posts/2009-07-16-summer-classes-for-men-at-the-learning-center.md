@@ -2,8 +2,6 @@
 title: 'Summer classes for men at The Learning Center'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/summer-classes-for-men-at-learning.html
 ---
 
 REGISTRATION MUST BE COMPLETED by Friday, July 24th, 2009  

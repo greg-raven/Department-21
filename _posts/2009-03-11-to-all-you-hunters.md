@@ -2,8 +2,6 @@
 title: 'To all you hunters &#8230;'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/to-all-you-hunters.html
 ---
 
 This text actually appeared in a newspaper:

@@ -2,8 +2,6 @@
 title: 'Wild things'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/wild-things.html
 ---
 
 An old man was sitting on a bench at the mall. A young man walked up to the bench and sat down. He had spiked hair all different colors — green, red, orange, blue, and yellow.

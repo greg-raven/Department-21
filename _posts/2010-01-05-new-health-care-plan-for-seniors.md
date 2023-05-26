@@ -2,8 +2,6 @@
 title: 'New health care plan for seniors'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/01/new-health-care-plan-for-seniors.html
 ---
 
 Our plan gives anyone 65 years or older a gun and a bullet.  

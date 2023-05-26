@@ -2,8 +2,6 @@
 title: 'A fantasy fulfilled'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/fantasy-fulfilled.html
 ---
 
 A cab driver picks up a nun. She gets into the cab, and the cab driver won’t stop staring at her. She asks him why he is staring and he replies, “I have a question to ask you but I don’t want to offend you.”

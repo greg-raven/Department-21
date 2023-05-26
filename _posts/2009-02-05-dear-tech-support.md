@@ -2,8 +2,6 @@
 title: 'Dear Tech Support &#8230;'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/dear-tech-support.html
 ---
 
 Dear Technical Support:

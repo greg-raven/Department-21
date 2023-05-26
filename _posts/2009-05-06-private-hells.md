@@ -2,8 +2,6 @@
 title: 'Private hells'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/private-hells.html
 ---
 
 A doctor died and went to hell. He was met at the gate and asked to stand in a room and wait for Satan. After four hours Satan finally appeared.

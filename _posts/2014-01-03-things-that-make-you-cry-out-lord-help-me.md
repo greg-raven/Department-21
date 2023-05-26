@@ -1,5 +1,5 @@
 ---
-title: 'Things that make you cry out &#8216;Lord help me!&#8217;'
+title: 'Things that make you cry out ‘Lord help me!’'
 author: 'Noam Sain'
 layout: post
 format: image

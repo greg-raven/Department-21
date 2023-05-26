@@ -2,8 +2,6 @@
 title: 'How did this happen?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/04/how-did-this-happen.html
 ---
 
 [![](http://4.bp.blogspot.com/_8aN4krk1nsk/SyD7iVokw4I/AAAAAAAAATY/kgSujHZMXN4/s400/image002.jpg)](http://4.bp.blogspot.com/_8aN4krk1nsk/SyD7iVokw4I/AAAAAAAAATY/kgSujHZMXN4/s1600-h/image002.jpg)

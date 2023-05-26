@@ -2,8 +2,6 @@
 title: 'How a man can make a woman happy'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/09/how-man-can-make-woman-happy.html
 ---
 
 It’s not difficult to make a woman happy. A man only needs to be:

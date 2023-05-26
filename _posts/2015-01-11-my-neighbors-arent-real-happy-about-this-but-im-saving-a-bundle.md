@@ -1,5 +1,5 @@
 ---
-title: 'My neighbors aren&#8217;t real happy about this, but I&#8217;m saving a bundle &#8230;'
+title: 'My neighbors aren’t real happy about this, but I’m saving a bundle &#8230;'
 author: 'Noam Sain'
 layout: post
 ---

@@ -2,8 +2,6 @@
 title: 'Better make it a double'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/better-make-it-double.html
 ---
 
 Walking into the bar, Harvey said to the bartender, “Pour me a stiff one, Eddie. I just had another fight with the little woman.”

@@ -2,8 +2,6 @@
 title: 'Scientists discover massive ring around Saturn'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/10/scientists-discover-massive-ring-around.html
 ---
 
 Scientists at NASA have discovered a nearly invisible ring around Saturn — one so large that it would take 1 billion Earths to fill it.

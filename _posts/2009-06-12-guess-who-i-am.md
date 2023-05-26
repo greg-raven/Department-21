@@ -2,8 +2,6 @@
 title: 'Guess Who I Am?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/guess-who-i-am.html
 ---
 
 - I was born in one country, raised in another. My father was born in another country. I was not his only child. He fathered several children with numerous women.

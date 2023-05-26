@@ -1,9 +1,7 @@
 ---
-title: 'Jesus&#8217; nationality'
+title: 'Jesus’ nationality'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/jesus-nationality.html
 ---
 
 THREE INDICATIONS THAT JESUS WAS JEWISH:

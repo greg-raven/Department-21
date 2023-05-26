@@ -2,8 +2,6 @@
 title: 'At least they bought the cow'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/at-least-they-bought-cow.html
 ---
 
 A town in Poland had only one cow and it stopped giving milk. The townspeople did a little research and discovered they could get a cow from Moscow for 2,000 rubles, or one from Minsk for only 1,000 rubles. So, naturally, they got the cow from Minsk.

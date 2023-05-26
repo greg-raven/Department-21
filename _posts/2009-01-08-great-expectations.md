@@ -2,8 +2,6 @@
 title: 'Great expectations'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/great-expectations.html
 ---
 
 What I Want In A Man, Original List … (at age 22)

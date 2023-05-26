@@ -2,8 +2,6 @@
 title: 'Four religious truths'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/four-religious-truths.html
 ---
 
 During these serious times, people of all faiths should remember these four religious truths:

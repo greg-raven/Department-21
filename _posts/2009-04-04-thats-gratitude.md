@@ -1,5 +1,5 @@
 ---
-title: 'That&#8217;s gratitude'
+title: 'That’s gratitude'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

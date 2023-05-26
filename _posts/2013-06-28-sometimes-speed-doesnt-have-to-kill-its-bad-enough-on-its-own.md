@@ -1,5 +1,5 @@
 ---
-title: 'Sometimes speed doesn&#8217;t have to kill &#8230; it&#8217;s bad enough on its own'
+title: 'Sometimes speed doesn’t have to kill &#8230; it’s bad enough on its own'
 author: 'Noam Sain'
 layout: post
 format: image

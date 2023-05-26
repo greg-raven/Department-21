@@ -2,8 +2,6 @@
 title: 'Powers of observation'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/powers-of-observation.html
 ---
 
 Sherlock Holmes and Dr. Watson went on a camping trip.

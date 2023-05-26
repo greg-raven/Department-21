@@ -2,8 +2,6 @@
 title: 'Making the most of retirement'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/03/making-most-of-retirement.html
 ---
 
 Working people frequently ask retired people what they do to make their days interesting. Well, for example, the other day my wife and I went into town and went into a shop. We were only in there for about 5 minutes. When we came out, there was a cop writing out a parking ticket. We went up to him and said, “Come on man, how about giving a senior citizen a break?”

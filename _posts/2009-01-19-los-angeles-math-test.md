@@ -2,8 +2,6 @@
 title: 'Los Angeles math test'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2008/12/los-angeles-math-test.html
 ---
 
 NAME\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

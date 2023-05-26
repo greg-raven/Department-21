@@ -2,8 +2,6 @@
 title: 'Where Obama gets his supporters'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2008/10/when-obama-gets-his-supporters.html
 ---
 
 A teacher asked her 6th grade class how many of them were Obama fans.

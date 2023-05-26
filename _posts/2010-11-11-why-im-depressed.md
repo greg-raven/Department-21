@@ -1,9 +1,7 @@
 ---
-title: 'Why I&#8217;m Depressed'
+title: 'Why I’m Depressed'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/11/why-im-depressed.html
 ---
 
 Over five thousand years ago, Moses said to the children of Israel, “Pick up your shovels, mount your asses and camels, and I will lead you to the Promised Land.”  

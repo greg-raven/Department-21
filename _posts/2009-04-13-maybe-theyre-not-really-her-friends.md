@@ -1,5 +1,5 @@
 ---
-title: 'Maybe they&#8217;re not really her friends'
+title: 'Maybe they’re not really her friends'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

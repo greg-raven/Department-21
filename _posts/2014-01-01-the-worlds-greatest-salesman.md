@@ -1,5 +1,5 @@
 ---
-title: 'The world&#8217;s greatest salesman'
+title: 'The world’s greatest salesman'
 author: 'Noam Sain'
 layout: post
 ---

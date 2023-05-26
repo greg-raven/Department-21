@@ -1,9 +1,7 @@
 ---
-title: 'Mama&#8217;s Bible'
+title: 'Mama’s Bible'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/mamas-bible.html
 ---
 
 Four brothers left home for college, and they became successful doctors and lawyers and prospered.

@@ -2,8 +2,6 @@
 title: 'The Night Before Christmas, Legally Speaking'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/night-before-christmas-legally-speaking.html
 ---
 
 Whereas, on or about the night prior to Christmas, there did occur at a certain improved piece of real property (hereinafter “the House”) a general lack of stirring by all creatures therein, including, but not limited to a mouse.  

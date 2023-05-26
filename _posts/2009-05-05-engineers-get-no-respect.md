@@ -2,8 +2,6 @@
 title: 'Engineers get no respect'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/engineers-get-no-respect.html
 ---
 
 Q: Why did the engineers cross the road?

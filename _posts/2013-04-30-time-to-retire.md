@@ -1,5 +1,5 @@
 ---
-title: 'Here&#8217;s your dose of irony for today'
+title: 'Here’s your dose of irony for today'
 author: 'Noam Sain'
 layout: post
 format: image

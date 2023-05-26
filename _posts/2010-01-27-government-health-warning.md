@@ -2,8 +2,6 @@
 title: 'Government health warning'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/01/government-health-warning.html
 ---
 
 Don’t swallow your chewing gum.

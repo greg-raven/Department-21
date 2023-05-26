@@ -2,8 +2,6 @@
 title: 'Not a good argument'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/not-good-argument.html
 ---
 
 A young boy had just gotten his driving permit. He asked his father, who was a minister, if they could discuss his use of the car.

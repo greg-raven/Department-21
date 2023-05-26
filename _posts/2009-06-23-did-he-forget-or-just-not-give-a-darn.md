@@ -2,8 +2,6 @@
 title: 'Did he forget or just not give a darn?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/did-he-forget-or-just-not-give-darn.html
 ---
 
 Rick forgot his wedding anniversary and his wife was really angry.

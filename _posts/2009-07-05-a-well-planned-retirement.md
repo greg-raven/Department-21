@@ -2,8 +2,6 @@
 title: 'A Well-Planned Retirement'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/well-planned-retirement.html
 ---
 
 Outside the Bristol Zoo, in England, there is a parking lot for 150 cars and 8 coaches, or buses. It was manned by a very pleasant attendant with a ticket machine charging cars about $1.40 and coaches about $7. This parking attendant worked there solid for all of 25 years. Then, one day, he just didn’t turn up for work.  

@@ -2,8 +2,6 @@
 title: 'Answer to a prayer'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/answer-to-prayer.html
 ---
 
 A lady goes to her priest one day and tells him. “Father, I have a problem. I have two female parrots, but they only know how to say one thing.”  

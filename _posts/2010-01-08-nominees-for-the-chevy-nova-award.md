@@ -2,8 +2,6 @@
 title: 'Nominees for the Chevy Nova Award'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/01/nominees-for-chevy-nova-award.html
 ---
 
 These are the nominees for the Chevy Nova Award. This is given out in honor of the GM’s fiasco in trying to market this car in Central and South America. “No va” means “it doesn’t go” in Spanish.

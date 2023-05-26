@@ -1,5 +1,5 @@
 ---
-title: 'Here&#8217;s your change: Obamacare'
+title: 'Here’s your change: Obamacare'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

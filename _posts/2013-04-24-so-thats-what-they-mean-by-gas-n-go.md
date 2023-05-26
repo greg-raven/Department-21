@@ -1,5 +1,5 @@
 ---
-title: 'So, that&#8217;s what they mean by &#8220;gas &#8216;n&#8217; go&#8221;'
+title: 'So, that’s what they mean by ‘gas ‘n’ go’'
 author: 'Noam Sain'
 layout: post
 format: image

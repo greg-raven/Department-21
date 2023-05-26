@@ -2,8 +2,6 @@
 title: 'Riddle gone awry'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/riddle-gone-awry.html
 ---
 
 About ten years ago, George Bush was visiting Mikhail Gorbachev at the Kremlin. When he got him alone for a moment, he said to Gorbachev, “Mikhail, can you help me with a problem? I have some doubts about one of the key people under me. How do you decide that someone is smart enough to work for you?”

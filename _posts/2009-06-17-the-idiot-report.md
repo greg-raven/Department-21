@@ -2,8 +2,6 @@
 title: 'The Idiot Report'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/idiot-report.html
 ---
 
 The following are from a January 5 column by John Krueger, Editor of the Light and Champion newspaper in Center, Texas.

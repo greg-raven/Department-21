@@ -2,8 +2,6 @@
 title: 'Computer gender'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/computer-gender.html
 ---
 
 A language instructor was explaining to her class that French nouns, unlike their English counterparts, are grammatically designated as masculine or feminine. Things like “chalk” or pencil,” she described, would have a gender association – even though in English, these words were neutral.

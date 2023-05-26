@@ -2,8 +2,6 @@
 title: 'The quotable Marion Barry'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/quotable-marion-barry.html
 ---
 
 Some of the finest quotes from the Honorable Marion Barry:

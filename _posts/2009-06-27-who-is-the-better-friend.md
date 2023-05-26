@@ -2,8 +2,6 @@
 title: 'Who is the better friend?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/who-is-better-friend.html
 ---
 
 This will dispel all rumors …  

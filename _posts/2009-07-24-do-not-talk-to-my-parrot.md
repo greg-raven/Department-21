@@ -2,8 +2,6 @@
 title: 'Do not talk to my parrot'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/do-not-talk-to-my-parrot.html
 ---
 
 Wanda’s dishwasher quit working so she called a repairman. Since she had to go to work the next day, she told the repairman, “I’ll leave the key under the mat. Fix the dishwasher, leave the bill on the counter, and I’ll mail you a check.”

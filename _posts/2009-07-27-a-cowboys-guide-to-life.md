@@ -1,9 +1,7 @@
 ---
-title: 'A cowboy&#8217;s guide to life'
+title: 'A cowboy’s guide to life'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/cowboys-guide-to-life.html
 ---
 
 <span style="font-family: arial; font-size: medium; "><span style="font-family:ARIAL;font-size:85%;color:#000000;"></span></span>

@@ -1,9 +1,7 @@
 ---
-title: 'Now, that&#8217;s faith'
+title: 'Now, that’s faith'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/now-thats-faith.html
 ---
 
 A couple of nuns who were nursing sisters had gone out to the country to minister to an outpatient. On the way back they were a few miles from home when they ran out of gas. They were standing beside their car on the shoulder when a truck approached.

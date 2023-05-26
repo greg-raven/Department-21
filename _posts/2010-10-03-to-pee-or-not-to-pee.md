@@ -2,8 +2,6 @@
 title: 'To pee or not to pee'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/10/to-pee-or-not-to-pee.html
 ---
 
 I have a job. I work, they pay me. I pay my taxes &amp; the government distributes my taxes as it sees fit.  

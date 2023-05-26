@@ -1,5 +1,5 @@
 ---
-title: 'That&#8217;ll be on Fox News'
+title: 'That’ll be on Fox News'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

@@ -2,8 +2,6 @@
 title: 'Steven Wright Wrecks'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/steven-wright-wrecks.html
 ---
 
 Last night I played a blank tape at full blast. The mime next door went nuts.

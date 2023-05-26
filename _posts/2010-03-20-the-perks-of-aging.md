@@ -2,8 +2,6 @@
 title: 'The perks of aging'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/03/perks-of-aging.html
 ---
 
 1. Kidnappers are not very interested in you.

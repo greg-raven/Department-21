@@ -1,9 +1,7 @@
 ---
-title: 'Walmart vs. The &#8216;Morons&#8217;'
+title: 'Walmart vs. The ‘Morons’'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/08/walmart-vs-morons.html
 ---
 
 1. Americans spend $36,000,000 at Walmart every hour of every day.

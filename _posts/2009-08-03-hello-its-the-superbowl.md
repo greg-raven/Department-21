@@ -1,9 +1,7 @@
 ---
-title: 'Hello! It&#8217;s the Superbowl!'
+title: 'Hello! It’s the Superbowl!'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/hello-its-superbowl.html
 ---
 
 For his great work, Bob received a free ticket to the Superbowl from his company.

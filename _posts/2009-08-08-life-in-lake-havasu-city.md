@@ -2,8 +2,6 @@
 title: 'Life in Lake Havasu City'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/life-in-lake-havasu-city.html
 ---
 
 You can say 128 degrees without fainting.

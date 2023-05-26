@@ -2,8 +2,6 @@
 title: 'Everyone loves Star Trek'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2012/04/everyone-loves-star-trek.html
 ---
 
 The Iranian Ambassador to the UN had just finished giving a speech and walked out into the lobby of the convention center where he was introduced to a U.S. Marine General.  

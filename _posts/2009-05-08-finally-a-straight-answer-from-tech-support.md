@@ -2,8 +2,6 @@
 title: 'Finally! A straight answer from tech support'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/finally-straight-answer-from-tech.html
 ---
 
 This is a true story from the WordPerfect Helpline which was transcribed from a recording, monitoring the customer care department. Needless to say the Help Desk employee was fired; however, he/she is currently suing the WordPerfect organization for “Termination without Cause.” (Now I know why they record these conversations!)

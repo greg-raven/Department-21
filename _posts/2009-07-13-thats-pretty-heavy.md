@@ -1,9 +1,7 @@
 ---
-title: 'That&#8217;s pretty heavy!'
+title: 'That’s pretty heavy!'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/thats-pretty-heavy.html
 ---
 
 Lawrence Livermore Laboratories has discovered the heaviest element yet known to science.  

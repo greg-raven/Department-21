@@ -2,8 +2,6 @@
 title: 'To my friends who enjoy a glass of wine, and those who don’t'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/to-my-friends-who-enjoy-glass-of-wine.html
 ---
 
 As Ben Franklin said:

@@ -2,8 +2,6 @@
 title: 'A man walks into a bar &#8230;'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/04/man-walks-into-bar.html
 ---
 
 A man walked into a very high-tech bar. As he sat down on a stool he noticed that the bartender was a robot. The robot clicked to attention and asked, “Sir, what will you have?”

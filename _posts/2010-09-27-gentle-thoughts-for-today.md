@@ -2,8 +2,6 @@
 title: 'Gentle Thoughts for Today'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/09/gentle-thoughts-for-today.html
 ---
 
 Birds of a feather flock together … and then poop on your car.  

@@ -2,8 +2,6 @@
 title: 'Mark his words'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/mark-his-words.html
 ---
 
 A minister told his congregation, “Next week I plan to preach about the sin of lying. To help you understand my sermon, I want you all to read Mark 17.”

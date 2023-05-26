@@ -2,8 +2,6 @@
 title: 'Welcome home'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/10/welcome-home.html
 ---
 
 A guy traveling through Mexico on vacation lost his wallet and all of his identification. Cutting his trip short, he attempted to make his way home but was stopped by the U.S. Customs Agent at the border.  

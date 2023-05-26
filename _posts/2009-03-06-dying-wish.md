@@ -2,8 +2,6 @@
 title: 'Dying wish'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/dying-wish.html
 ---
 
 An old preacher was dying. He sent a message for his doctor and his lawyer, both church members, to come to his home. When they arrived, they were ushered up to his bedroom. As they entered the room, the preacher held out his hands and motioned for them to sit on each side of the bed.

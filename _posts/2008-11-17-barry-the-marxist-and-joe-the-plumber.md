@@ -2,8 +2,6 @@
 title: 'Barry the Marxist and Joe the Plumber'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2008/11/barry-and-joe.html
 ---
 
 Barack Obama discovers a leak under his sink, so he calls Joe the Plumber to come and fix it.

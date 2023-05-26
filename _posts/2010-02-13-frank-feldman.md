@@ -2,8 +2,6 @@
 title: 'Frank Feldman'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/02/frank-feldman.html
 ---
 
 A man walks out to the street and catches a taxi just going by. He gets into the taxi, and the cabbie says, “Perfect timing. You’re just like Frank.”  

@@ -2,8 +2,6 @@
 title: 'Maybe not the best automated phone system'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/maybe-not-best-automated-phone-system.html
 ---
 
 Hello, and welcome to the mental health hotline.

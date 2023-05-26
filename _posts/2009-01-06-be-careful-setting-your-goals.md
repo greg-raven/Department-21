@@ -2,8 +2,6 @@
 title: 'Be careful setting your goals'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/be-careful-setting-your-goals.html
 ---
 
 There was once a young man who, in his youth, professed his desire to become a great writer.

@@ -2,8 +2,6 @@
 title: 'Let me get this straight'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/let-me-get-this-straight.html
 ---
 
 Obama’s health care plan will:

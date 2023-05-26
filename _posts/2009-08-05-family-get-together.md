@@ -2,8 +2,6 @@
 title: 'Family get-together'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/family-get-together.html
 ---
 
 Morris calls his son in New York. and says, “Benny, I have something to tell you. However, I don’t want to discuss it. I’m merely telling you because you’re my oldest child, and I thought you ought to know. I’ve made up my mind, I’m divorcing Mama.”

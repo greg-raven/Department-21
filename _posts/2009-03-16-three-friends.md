@@ -2,8 +2,6 @@
 title: 'Three friends'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/three-friends.html
 ---
 
 After dying in a car crash, three friends go to Heaven for orientation. They are all asked the same question: “When you are in your casket and friends and family are mourning upon you, what would you like to hear them say about you?”

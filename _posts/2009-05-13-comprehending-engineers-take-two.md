@@ -1,9 +1,7 @@
 ---
-title: 'Comprehending Engineers &#8212; Take Two'
+title: 'Comprehending Engineers — Take Two'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/comprehending-engineers-take-two.html
 ---
 
 An architect, an artist and an engineer were discussing whether it was better to spend time with the wife or a mistress.

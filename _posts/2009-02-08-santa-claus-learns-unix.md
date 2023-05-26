@@ -2,8 +2,6 @@
 title: 'Santa Claus Learns Unix'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/santa-claus-learns-unix.html
 ---
 
 better !pout !cry

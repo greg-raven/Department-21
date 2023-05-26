@@ -2,8 +2,6 @@
 title: 'Things my mother taught me'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/01/things-my-mother-taught-me.html
 ---
 
 1. RELIGION. “You better pray that will come out of the carpet.”

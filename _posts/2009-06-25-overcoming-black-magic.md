@@ -2,8 +2,6 @@
 title: 'Overcoming black magic'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/overcoming-black-magic.html
 ---
 
 An old man and woman were married for years even though they hated each other. When they had a confrontation, screaming and yelling could be heard deep into the night. The neighbors feared the man the most. He was constantly heard stating, “When I die I will dig my way up and out of the grave to come back and haunt you for the rest of your life!”

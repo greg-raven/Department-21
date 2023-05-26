@@ -2,8 +2,6 @@
 title: 'Trading places'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/09/trading-places.html
 ---
 
 Let’s put the seniors in jail, and the criminals in a nursing home.  

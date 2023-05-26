@@ -1,9 +1,7 @@
 ---
-title: 'Who&#8217;s your daddy?'
+title: 'Who’s your daddy?'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/whos-your-daddy.html
 ---
 
 Hard to believe, but the following are replies that Detroit women have written on Child Support Agency forms in the section for listing “father’s details.” These are genuine excerpts from the forms. Be sure to check out #11. It takes 1st prize and #3 is runner up. Five surely gets “most creative.”

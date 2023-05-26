@@ -2,8 +2,6 @@
 title: 'A moment of silence &#8230;'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/10/moment-of-silence.html
 ---
 
 “Let’s have a moment of silence for all those Americans who are stuck in traffic on their way to the gym to ride the stationary bicycle.”

@@ -2,8 +2,6 @@
 title: 'They don’t hate us for our freedom'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/they-dont-hate-us-for-our-freedom.html
 ---
 
 A U.S. Marine squad was marching north of Fallujah when they came upon an Iraqi terrorist, badly injured and unconscious. On the opposite side of the road was an American Marine in a similar but less serious state.

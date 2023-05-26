@@ -2,8 +2,6 @@
 title: 'Quotidian haiku'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/quotidian-haiku.html
 ---
 
 Hey! Get back indoors.  

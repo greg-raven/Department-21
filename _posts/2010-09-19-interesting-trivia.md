@@ -2,8 +2,6 @@
 title: 'Interesting trivia'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/09/interesting-trivia.html
 ---
 
 I don’t know if these are true or not, but they are thought-provoking.  

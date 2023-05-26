@@ -2,8 +2,6 @@
 title: 'Bear scientists'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/10/bear-scientists.html
 ---
 
 A Russian scientist and a Czechoslovakian scientist had spent their lives studying the grizzly bear. Each year they petitioned their respective governments to allow them to go to Yellowstone to study the bears. Finally their request was granted, and they immediately flew to New York and onward west to Yellowstone.

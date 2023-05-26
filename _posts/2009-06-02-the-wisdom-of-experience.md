@@ -2,8 +2,6 @@
 title: 'The wisdom of experience'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/wisdom-of-experience.html
 ---
 
 Now that I’m older, here’s what I’ve discovered:

@@ -2,8 +2,6 @@
 title: 'Terms used in medical research'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/terms-used-in-medical-research.html
 ---
 
 These phrases and their definitions may help you interpret the mysterious language of medical research:

@@ -2,8 +2,6 @@
 title: 'Doctors vs. gun owners'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/doctors-vs-gun-owners.html
 ---
 
 1. The number of physicians in the US is 700,000.

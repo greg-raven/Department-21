@@ -1,5 +1,5 @@
 ---
-title: 'The secret to Oprah&#8217;s success'
+title: 'The secret to Oprah’s success'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

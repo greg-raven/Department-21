@@ -2,8 +2,6 @@
 title: 'How to deal with telemarketers'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/how-to-deal-with-telemarketers.html
 ---
 
 1\. If they want to loan you money, tell them you just filed for bankruptcy and you could sure use some money.

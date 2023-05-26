@@ -1,9 +1,7 @@
 ---
-title: '&#8216;Big O&#8217; stamp'
+title: '‘Big O’ stamp'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/big-o-stamp.html
 ---
 
 The U.S. Postal Service created a stamp with a picture of Resident Obama. There was one problem, though: The stamp was not sticking to envelopes.

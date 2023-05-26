@@ -2,8 +2,6 @@
 title: 'How to annoy others'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/how-to-annoy-others.html
 ---
 
 1. At lunch time, sit in your parked car and point your hair dryer at passing cars to see if they slow down.

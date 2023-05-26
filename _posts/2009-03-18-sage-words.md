@@ -2,8 +2,6 @@
 title: 'Sage words'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/03/sage-advice.html
 ---
 
 1. Follow your dream! Unless it’s the one where you’re at work in your underwear during a fire drill.

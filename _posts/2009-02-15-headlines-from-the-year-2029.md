@@ -2,8 +2,6 @@
 title: 'Headlines from The Year 2029'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/headlines-from-year-2029.html
 ---
 
 Ozone created by electric cars now killing millions in the seventh largest country in the world, Mexifornia, formerly known as California.  

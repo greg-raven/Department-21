@@ -1,5 +1,5 @@
 ---
-title: 'Don&#8217;t underestimate old guys'
+title: 'Don’t underestimate old guys'
 author: 'Noam Sain'
 layout: post
 ---

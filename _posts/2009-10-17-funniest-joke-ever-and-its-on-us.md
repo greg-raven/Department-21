@@ -1,9 +1,7 @@
 ---
-title: 'Funniest joke ever (and it&#8217;s on us)'
+title: 'Funniest joke ever (and it’s on us)'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/10/funniest-joke-ever-and-its-on-us.html
 ---
 
 Does anybody out there recall the reason given for the establishment of the Department of Energy during the Carter administration? Bottom line we’ve spent several hundred billion dollars in support of an agency the reason for which not one person who reads this can remember. It was very simple and at the time everybody thought it very appropriate: the ‘Department of Energy’ was instituted on 8/4/1977 to lessen our dependence on foreign oil.

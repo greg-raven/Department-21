@@ -2,8 +2,6 @@
 title: 'Computer terminology'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/06/computer-terminology.html
 ---
 
 486 — The average IQ needed to understand a PC.

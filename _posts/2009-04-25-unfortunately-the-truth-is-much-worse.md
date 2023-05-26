@@ -2,8 +2,6 @@
 title: 'Unfortunately, the truth is much worse'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/04/unfortunately-truth-is-much-worse.html
 ---
 
 One sunny morning, an old man approached the White House from across Pennsylvania Avenue, where he had been sitting on a park bench. He spoke to the Marine standing guard and said, “I would like to go in and meet with President Hillary Clinton.”

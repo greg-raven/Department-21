@@ -2,8 +2,6 @@
 title: 'Truly remarkable'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/02/truly-remarkable.html
 ---
 
 I think it is remarkable that within a week of Tiger Woods crashing his escalade, the press found every woman with whom Tiger has had an affair in the last few years, with photos, text messages, recorded phone calls, etc.  

@@ -2,8 +2,6 @@
 title: 'Better than a Flu Shot!'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/11/better-than-flu-shot.html
 ---
 
 Miss Beatrice, the church organist, was in her eighties and had never been married. She was admired for her sweetness and kindness to all.  

@@ -1,5 +1,5 @@
 ---
-title: 'Hope it doesn&#8217;t change any further'
+title: 'Hope it doesn’t change any further'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:

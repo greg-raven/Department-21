@@ -2,8 +2,6 @@
 title: 'Drinking with an Arizona Girl'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/09/drinking-with-arizona-girl.html
 ---
 
 A Mexican, an Arab, and an Arizona girl are in the same bar. When the Mexican finishes his beer, he throws his glass in the air, pulls out his pistol, and shoots the glass to pieces.  

@@ -2,8 +2,6 @@
 title: 'Deadly disease: Gonorrhea Lectim'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/10/deadly-disease-gonorrhea-lectim.html
 ---
 
 Information about Gonorrhea Lectim  

@@ -1,5 +1,5 @@
 ---
-title: 'So that&#8217;s why Ikea serves food'
+title: 'So that’s why Ikea serves food'
 author: 'Noam Sain'
 layout: post
 format: video

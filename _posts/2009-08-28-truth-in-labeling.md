@@ -2,8 +2,6 @@
 title: 'Truth in labeling'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/08/truth-in-labeling.html
 ---
 
 <span style="font-weight: bold;">Vote for Obamacare to solve all of your medical problems!</span>\*

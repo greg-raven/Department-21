@@ -1,5 +1,5 @@
 ---
-title: 'No more &#8216;illegal aliens&#8217;'
+title: 'No more ‘illegal aliens’'
 author: 'Noam Sain'
 layout: post
 blogger_permalink:
