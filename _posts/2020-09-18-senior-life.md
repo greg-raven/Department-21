@@ -4,11 +4,9 @@ author: 'Noam Sain'
 layout: post
 ---
 
-One minute you’re really young and cool … and the next, you're getting all excited about a new vacuum.
+![One minute you’re really young and cool … and the next, you're getting all excited about a new vacuum](/assets/2020-09-image-1.jpg "One minute you’re really young and cool … and the next, you're getting all excited about a new vacuum")
 
-![Senior life](/assets/2020-09-image-1.jpg "Senior life")
-
-![Senior life](/assets/2020-09-image-2.jpg "Senior life")
+![I never use turn signals](/assets/2020-09-image-2.jpg "I never use turn signals")
 
 ![Senior life](/assets/2020-09-image-3.jpg "Senior life")
 
@@ -28,10 +26,10 @@ One minute you’re really young and cool … and the next, you're getting all e
 
 ![Senior life](/assets/2020-09-image-11.jpg "Senior life")
 
-![Senior life](/assets/2020-09-image-12.jpg "Senior life")
+![You've got to stay positive](/assets/2020-09-image-12.jpg "You've got to stay positive")
 
-![Senior life](/assets/2020-09-image-13.jpg "Senior life")
+![The leading cause for injury in old men](/assets/2020-09-image-13.jpg "The leading cause for injury in old men")
 
-![Senior life](/assets/2020-09-image-14.jpg "Senior life")
+![That awkward moment when you know you are forgetting something, but what?](/assets/2020-09-image-14.jpg "That awkward moment when you know you are forgetting something, but what?")
 
-![Senior life](/assets/2020-09-image-15.jpg "Senior life")
+![When grandma decided to unfriend someone](/assets/2020-09-image-15.jpg "When grandma decided to unfriend someone")
