@@ -2,9 +2,6 @@
 title: 'Your house &#8230;'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/11/your-house.html
-format: image
 ---
 
 … as seen by you.

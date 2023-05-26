@@ -2,9 +2,6 @@
 title: 'Biggest boobs in the world'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/02/biggest-boobs-in-world.html
-format: image
 ---
 
 Caution: If you are easily offended, don’t look! Here is a photo of a woman with the biggest boobs in the world.  

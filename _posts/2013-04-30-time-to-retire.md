@@ -2,7 +2,6 @@
 title: 'Here’s your dose of irony for today'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 ![used tires](/_assets/img/2013/04/image1.jpg)

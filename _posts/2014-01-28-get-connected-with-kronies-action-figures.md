@@ -2,7 +2,6 @@
 title: 'Get connected with Kronies action figures'
 author: 'Noam Sain'
 layout: post
-format: video
 ---
 
 Get Kronies! Get connected!

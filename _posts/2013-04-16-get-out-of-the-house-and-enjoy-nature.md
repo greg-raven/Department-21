@@ -2,7 +2,6 @@
 title: 'Get out of the house and enjoy nature!'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 ![eagle attack](/_assets/img/2013/04/MailAttachment.jpeg)

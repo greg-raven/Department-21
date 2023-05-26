@@ -2,7 +2,6 @@
 title: 'Things that make you cry out ‘Lord help me!’'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 ![grizzly](/_assets/img/2014/01/help-me-22.jpg)

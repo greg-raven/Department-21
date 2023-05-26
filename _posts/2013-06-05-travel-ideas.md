@@ -2,7 +2,6 @@
 title: 'Travel ideas'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 ![Travel-idea-01](/_assets/img/2013/06/Travel-idea-01.jpg)  

@@ -2,9 +2,6 @@
 title: Priceless
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/priceless.html
-format: image
 ---
 
 8 beers – $32

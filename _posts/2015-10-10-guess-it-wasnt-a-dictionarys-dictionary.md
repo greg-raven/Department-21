@@ -2,7 +2,6 @@
 title: 'Guess it wasn’t a dictionary&rsquo;s dictionary'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 ![Dictionary's donated](/_assets/img/2015/10/dictionaries-donated.png)

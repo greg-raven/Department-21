@@ -2,7 +2,6 @@
 title: 'Full loads'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 ![full load](/_assets/img/2016/05/full-load-2.jpg)

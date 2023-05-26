@@ -2,9 +2,6 @@
 title: 'Great new work-out video'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/07/great-new-work-out-video.html
-format: video
 ---
 
 Sweatin’ to the socialists.  

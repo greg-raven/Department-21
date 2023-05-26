@@ -2,7 +2,6 @@
 title: 'Know your managers'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
-<figure class="wp-block-image">![](/assets/2019/02/managers.jpg)</figure>
+<figure class="wp-block-image">![](/assets/2019-02-managers.jpg)</figure>

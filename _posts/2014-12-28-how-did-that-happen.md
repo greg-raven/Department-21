@@ -2,7 +2,6 @@
 title: 'How did that happen?'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 ![sharks](/_assets/img/2014/12/1-sharks.jpg)

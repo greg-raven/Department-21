@@ -2,7 +2,6 @@
 title: 'The split second before'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 ![wall of water](/_assets/img/2013/05/split-second-10.jpg)

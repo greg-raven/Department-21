@@ -2,7 +2,6 @@
 title: 'Worst parents of the year'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 ![worst-parents](/_assets/img/2014/12/worst-parents.jpg)

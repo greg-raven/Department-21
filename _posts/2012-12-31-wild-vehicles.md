@@ -2,7 +2,6 @@
 title: 'Wild vehicles'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 ![wild vehicles 1](/_assets/img/2012/12/ATT1.jpg)

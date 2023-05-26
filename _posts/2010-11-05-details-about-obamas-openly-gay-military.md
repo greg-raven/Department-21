@@ -2,9 +2,6 @@
 title: 'Details about Obama’s openly gay military'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2010/11/details-about-obama-openly-gay-military.html
-format: image
 ---
 
 [![](http://4.bp.blogspot.com/_8aN4krk1nsk/TNliD16V-yI/AAAAAAAAAgc/5iJE3ouv2Go/s400/death-from-behind.jpg)](http://4.bp.blogspot.com/_8aN4krk1nsk/TNliD16V-yI/AAAAAAAAAgc/5iJE3ouv2Go/s1600/death-from-behind.jpg)

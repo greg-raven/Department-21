@@ -2,7 +2,6 @@
 title: 'Some laughs for today'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 ![02-Canadian-Riot](/_assets/img/2016/08/02-Canadian-Riot.jpg)

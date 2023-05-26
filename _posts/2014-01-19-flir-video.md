@@ -2,7 +2,6 @@
 title: 'FLIR video'
 author: 'Noam Sain'
 layout: post
-format: video
 ---
 
 FLIR = Farts Look Incredibly Stygian.\*  

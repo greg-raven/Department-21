@@ -2,7 +2,6 @@
 title: 'Memes and other funnies'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 ![alcoholic](/_assets/img/2016/10/alcoholic.jpg)  

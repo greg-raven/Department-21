@@ -2,9 +2,6 @@
 title: 'Husband of the Year Awards'
 author: 'Noam Sain'
 layout: post
-blogger_permalink:
-    - /2009/05/husband-of-year-awards.html
-format: image
 ---
 
 The honorable mention goes to the United Kingdom …  

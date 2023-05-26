@@ -2,7 +2,6 @@
 title: 'Meanwhile, in Russia'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 Global warming, Russian style.  

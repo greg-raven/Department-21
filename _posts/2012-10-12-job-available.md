@@ -2,7 +2,6 @@
 title: 'Job available'
 author: 'Noam Sain'
 layout: post
-format: image
 ---
 
 Position: Surveyor  
