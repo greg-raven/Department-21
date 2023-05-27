@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![truck sign](/_assets/img/2016/07/trucksig.jpg)
+![truck sign](/assets/2016-07-trucksig.jpg)

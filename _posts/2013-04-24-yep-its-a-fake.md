@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![fake ID](/_assets/img/2013/04/20100506.jpg)
+![fake ID](/assets/2013-04-20100506.jpg)

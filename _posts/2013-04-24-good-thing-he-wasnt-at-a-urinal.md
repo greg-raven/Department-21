@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![toilet truck](/_assets/img/2013/04/20100507.jpg)
+![toilet truck](/assets/2013-04-20100507.jpg)

@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![Jeremy-at-speed](/_assets/img/2013/06/Jeremy-at-speed.png)
+![Jeremy-at-speed](/assets/2013-06-Jeremy-at-speed.png)

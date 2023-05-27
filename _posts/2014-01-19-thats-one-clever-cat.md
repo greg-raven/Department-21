@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![Schrodingers cat](/_assets/img/2014/01/schrodingers-cat.jpg)
+![Schrodingers cat](/assets/2014-01-schrodingers-cat.jpg)

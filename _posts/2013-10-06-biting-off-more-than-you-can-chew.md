@@ -14,9 +14,9 @@ The guy tried numerous times to get the ball out, but was unsuccessful. He final
 
 You probably wouldn’t have believed this if you hadn’t seen the pictures.
 
-![Fish-0](/_assets/img/2013/10/FwdAFish-31.jpg)  
-![Fish-1](/_assets/img/2013/10/FwdAFish-1.jpg)  
-![Fish-2](/_assets/img/2013/10/FwdAFish-2.jpg)  
-![Fish-3](/_assets/img/2013/10/FwdAFish-3.jpg)  
-![Fish-4](/_assets/img/2013/10/FwdAFish-4.jpg)  
-![Fish-5](/_assets/img/2013/10/FwdAFish-5.jpg)
+![Fish-0](/assets/2013-10-FwdAFish-31.jpg)  
+![Fish-1](/assets/2013-10-FwdAFish-1.jpg)  
+![Fish-2](/assets/2013-10-FwdAFish-2.jpg)  
+![Fish-3](/assets/2013-10-FwdAFish-3.jpg)  
+![Fish-4](/assets/2013-10-FwdAFish-4.jpg)  
+![Fish-5](/assets/2013-10-FwdAFish-5.jpg)

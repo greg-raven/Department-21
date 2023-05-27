@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![passing the torch](/_assets/img/2017/01/passing-the-torch.jpg)
+![passing the torch](/assets/2017-01-passing-the-torch.jpg)

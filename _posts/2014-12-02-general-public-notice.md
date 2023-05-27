@@ -18,4 +18,4 @@ Please be advised I am sick to death of receiving questions about my dog who mau
 
 For the last time, my dog is not for sale!
 
-![liberals taste like chicken](/_assets/img/2014/12/liberals-taste-like-chicken.jpg)
+![liberals taste like chicken](/assets/2014-12-liberals-taste-like-chicken.jpg)

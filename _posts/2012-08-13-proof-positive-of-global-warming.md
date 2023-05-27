@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![proof of global warming](/_assets/img/2012/08/20100527.jpg)
+![proof of global warming](/assets/2012-08-20100527.jpg)

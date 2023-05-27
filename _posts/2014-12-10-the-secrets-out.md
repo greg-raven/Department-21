@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![secret-bunker](/_assets/img/2014/12/secret-bunker.jpg)
+![secret-bunker](/assets/2014-12-secret-bunker.jpg)

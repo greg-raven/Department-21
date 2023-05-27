@@ -14,4 +14,4 @@ Obama: Wouldn’t miss a good press opportunity for the world.
 
 General: Have a good trip, sir.
 
-![cloaked](/_assets/img/2014/10/cloak.jpeg)
+![cloaked](/assets/2014-10-cloak.jpeg)
