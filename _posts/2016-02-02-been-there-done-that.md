@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![Follow Obama](/assets/2016-02-180171.jpg)
+![Follow Obama](/assets/2016/2016-02-180171.jpg)

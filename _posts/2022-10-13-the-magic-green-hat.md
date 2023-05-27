@@ -18,4 +18,4 @@ But…don’t try it at McDonald’s… The whole crew ran out the back door and
 
 Here’s the hat:
 
-<figure class="wp-block-image size-full">![](/assets/2022-10-us-border-patrol-hat.jpg)</figure>It cost me $19.00, but it’s worth every penny.
+<figure class="wp-block-image size-full">![](/assets/2022/2022-10-us-border-patrol-hat.jpg)</figure>It cost me $19.00, but it’s worth every penny.

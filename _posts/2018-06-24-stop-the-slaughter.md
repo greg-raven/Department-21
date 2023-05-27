@@ -4,6 +4,6 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](/assets/2018-06-gatoraid.jpg)
+![](/assets/2018/2018-06-gatoraid.jpg)
 
-![](/assets/2018-06-duck-tape.jpg)
+![](/assets/2018/2018-06-duck-tape.jpg)

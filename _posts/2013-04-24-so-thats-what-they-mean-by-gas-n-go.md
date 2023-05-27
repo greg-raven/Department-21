@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![gas and go](/assets/2013-04-20100518.jpg)
+![gas and go](/assets/2013/2013-04-20100518.jpg)

@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![optional mandatory](/assets/2013-07-optional-mandatory.png)
+![optional mandatory](/assets/2013/2013-07-optional-mandatory.png)

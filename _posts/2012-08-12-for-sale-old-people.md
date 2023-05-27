@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![old people for sale](/assets/2012-08-20100501.jpg)
+![old people for sale](/assets/2012/2012-08-20100501.jpg)

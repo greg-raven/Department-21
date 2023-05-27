@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](/assets/2018-11-not-the-boss-of-me.jpg)
+![](/assets/2018/2018-11-not-the-boss-of-me.jpg)

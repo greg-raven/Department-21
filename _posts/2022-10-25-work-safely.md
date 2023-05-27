@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![Work safely](/assets/2022-10-funny06.jpg "Work safely")
+![Work safely](/assets/2022/2022-10-funny06.jpg "Work safely")

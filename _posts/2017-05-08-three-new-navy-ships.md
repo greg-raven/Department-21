@@ -6,7 +6,7 @@ layout: post
 
 **USS RONALD REAGAN**
 
-![](/assets/2017-05-uss-reagan.jpg)
+![](/assets/2017/2017-05-uss-reagan.jpg)
 
 Seeing it next to the Arizona Memorial really puts its size into perspective … enormous!
 
@@ -41,7 +41,7 @@ Capacities
 
 The USS William Jefferson Clinton (CVS1) set sail today from its home port of Vancouver, BC.
 
-![](/assets/2017-05-uss-clinton.jpg)
+![](/assets/2017/2017-05-uss-clinton.jpg)
 
 The ship is the first of its kind in the Navy and is a standing legacy to President Bill Clinton “for his foresight in military budget cuts” and his conduct while holding the (formerly dignified) office of President. The ship is constructed nearly entirely from recycled aluminum and is completely solar powered with a top speed of 5 knots. It boasts an arsenal comprised of one (unarmed) F14 Tomcat or one (unarmed) F18 Hornet aircraft, although they cannot be launched on the 100-foot flight deck, form a very menacing presence. As a standing order, there are no firearms allowed on board.
 
@@ -51,7 +51,7 @@ In times of conflict, the USS Clinton has orders to seek refuge in Canada.
 
 **USS BARACK OBAMA**
 
-![](/assets/2017-05-uss-obama.jpg)
+![](/assets/2017/2017-05-uss-obama.jpg)
 
 Armed with an on board Type One DNC Universal Translator, this ship can send out messages of apology in any language to anyone who may find America offensive. The number of apologies are limitless. And though some may seem hollow and disingenuous, the Navy advises all apologies will sound very sincere.
 

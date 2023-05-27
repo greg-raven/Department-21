@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](/assets/2018-05-know-your-ticks.jpg)
+![](/assets/2018/2018-05-know-your-ticks.jpg)

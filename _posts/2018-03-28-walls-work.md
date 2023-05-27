@@ -4,7 +4,7 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](/assets/2018-03-great-wall-of-china.jpg)
+![](/assets/2018/2018-03-great-wall-of-china.jpg)
 
 HISTORICAL FACT
 

@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](/assets/2018-08-fishing.jpg)
+![](/assets/2018/2018-08-fishing.jpg)

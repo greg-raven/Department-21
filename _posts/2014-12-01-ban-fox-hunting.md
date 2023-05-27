@@ -8,7 +8,7 @@ We in no way support any type of gun control, but after seeing this we are — u
 
 Fox hunting in Colorado must be banned!
 
-![fox-hunting](/assets/2014-12-fox-hunting.jpg)
+![fox-hunting](/assets/2014/2014-12-fox-hunting.jpg)
 
 If you agree with this please forward it to each of your friends and contacts.
 

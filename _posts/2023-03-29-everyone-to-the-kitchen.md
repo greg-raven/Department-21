@@ -12,6 +12,6 @@ Everyone belongs in the kitchen.
 
 The kitchen has bacon.
 
-![Everyone to the kitchen!](/assets/2023-03-belong-in-the-kitchen.jpg "Everyone to the kitchen!")
+![Everyone to the kitchen!](/assets/2023/2023-03-belong-in-the-kitchen.jpg "Everyone to the kitchen!")
 
 Source: patriotpost.us/memes/95921-women-belong-in-the-kitchen-2023-03-22
