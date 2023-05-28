@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<figure class="wp-block-image size-large">![](/assets/2022/2022-02-library-changes-1024x687.png)</figure>
+![Library changes](/assets/2022/2022-02-library-changes.png "Library changes")

@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<figure class="wp-block-image size-large">![](/assets/2020/2020-12-copy-cat-1024x713.jpg)</figure>
+![Copy cat or cat scan?](/assets/2020/2020-12-copy-cat.jpg "Copy cat or cat scan?")

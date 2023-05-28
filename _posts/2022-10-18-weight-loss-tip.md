@@ -4,4 +4,6 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<figure class="wp-block-image size-full">![](/assets/2022/2022-10-funny01.jpg)</figure>
+“What do we learn from cow, buffaloes, and elephants? It’s impossible to reduce weight by eating green grass and salads and walking.”
+
+![Weight loss tip](/assets/2022/2022-10-funny01.jpg "Weight loss tip")

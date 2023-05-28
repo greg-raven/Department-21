@@ -4,4 +4,6 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<figure class="wp-block-image size-full">![](/assets/2022/2022-10-funny03.jpg)</figure>
+“The first 5 days after the weekend are the hardest.”
+
+![Hang in there](/assets/2022/2022-10-funny03.jpg "Hang in there")
