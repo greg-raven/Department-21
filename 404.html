@@ -3,7 +3,7 @@ title: 404 error — Page not found
 layout: base
 ---
 
-<style type="text/css" media="screen">
+<style>
   .container {
     margin: 10px auto;
     max-width: 600px;
@@ -18,21 +18,18 @@ layout: base
 </style>
 
 <div class="container">
-	<h1>404</h1>
-
+	<h1>
+		404
+	</h1>
 	<p>
 		<strong>Page not found :(</strong>
 	</p>
 </div>
-
-	<p>
-		Files on this site:
-	</p>
-
+<p>
+	Files on this site:
+</p>
 <ul style="text-align: left;">
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
+	{% for post in site.posts %}
+	<li> <a href="{{ post.url }}">{{ post.title }}</a> </li>
+	{% endfor %}
 </ul>
