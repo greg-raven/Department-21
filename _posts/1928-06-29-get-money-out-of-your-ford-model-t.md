@@ -29,3 +29,7 @@ Bottineau, N. Dak.
 ![Get money out of your Ford Model T](/assets/1928-06-29-Ford-Model-T.jpg "Get money out of your Ford Model T")
 
 {% include figure image_path="/assets/1928-06-29-Ford-Model-T.jpg" alt="alt" caption="caption" %}
+
+{% include image.html
+file="/assets/1928-06-29-Ford-Model-T.jpg" alt="alt"
+caption="Caption." %}
