@@ -4,24 +4,24 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](/assets/2022/2022-10-boats-1.jpg)
+![Ship Happens](/assets/2022/2022-10-boats-1.jpg "Ship Happens")
 
-![](/assets/2022/2022-10-boats-2.jpg)
+![Piece of Ship](/assets/2022/2022-10-boats-2.jpg "Piece of Ship")
 
-![](/assets/2022/2022-10-boats-3.jpg)
+![Playbuoy](/assets/2022/2022-10-boats-3.jpg "Playbuoy")
 
-![](/assets/2022/2022-10-boats-4.jpg)
+![Wasted Seamen](/assets/2022/2022-10-boats-4.jpg "Wasted Seamen")
 
-![](/assets/2022/2022-10-boats-5.jpg)
+![Master Baiter](/assets/2022/2022-10-boats-5.jpg "Master Baiter")
 
-![](/assets/2022/2022-10-boats-6.jpg)
+![Titan Uranus](/assets/2022/2022-10-boats-6.jpg "Titan Uranus")
 
-![](/assets/2022/2022-10-boats-7.jpg)
+![Cirrhosis of the River](/assets/2022/2022-10-boats-7.jpg "Cirrhosis of the River")
 
-![](/assets/2022/2022-10-boats-8.jpg)
+![Vitamin Sea](/assets/2022/2022-10-boats-8.jpg "Vitamin Sea")
 
-![](/assets/2022/2022-10-boats-9.jpg)
+![Amy’s Wine House](/assets/2022/2022-10-boats-9.jpg "Amy’s Wine House")
 
-![](/assets/2022/2022-10-boats-10.jpg)
+![Breakin Wind](/assets/2022/2022-10-boats-10.jpg "Breakin Wind")
 
-![](/assets/2022/2022-10-boats.jpg)
+![Bullship](/assets/2022/2022-10-boats.jpg "Bullship")
