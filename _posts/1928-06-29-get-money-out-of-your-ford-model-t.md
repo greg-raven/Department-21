@@ -1,5 +1,5 @@
 ---
-title: 'Get money out of your Ford Model T'
+title: 'Get your money out of your Ford Model T'
 author: 'Noam Sain'
 layout: post
 ---
