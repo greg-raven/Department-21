@@ -26,7 +26,7 @@ $lm-link-hover-color:      $lm-text-color !default;
 
 $lm-border-color-01:       $lm-brand-color-light !default;
 $lm-border-color-02:       lighten($lm-brand-color, 35%) !default;
-$lm-border-color-03:       #ddddcc !default;
+$lm-border-color-03:       $lm-brand-color-dark !default;
 
 $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
 $lm-table-zebra-color:     lighten($lm-brand-color, 46%) !default;
@@ -256,7 +256,7 @@ $table-border-color: $lm-table-border-color;
 
     --minima-border-color-01: #{$lm-border-color-01};
     --minima-border-color-02: #{$lm-border-color-02};
-    --minima-border-color-03: #{$lm-border-color-03};
+    --minima-border-color-03: #ddddcc;
 
     --minima-table-text-color: #{$lm-table-text-color};
     --minima-table-zebra-color: #{$lm-table-zebra-color};
