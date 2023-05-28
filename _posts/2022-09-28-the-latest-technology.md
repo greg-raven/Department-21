@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<figure class="wp-block-image size-full">![](/assets/2022/2022-10-funny10.jpg)</figure>
+![Drying clothes with a combination of wind and solar power](/assets/2022/2022-10-funny10.jpg "Drying clothes with a combination of wind and solar power")

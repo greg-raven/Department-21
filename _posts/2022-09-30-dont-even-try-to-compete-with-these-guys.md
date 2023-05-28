@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<figure class="wp-block-image size-full">![](/assets/2022/2022-10-funny09.jpg)</figure>
+![The government hates competition](/assets/2022/2022-10-funny09.jpg "The government hates competition")

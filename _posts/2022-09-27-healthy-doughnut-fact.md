@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<figure class="wp-block-image size-full">![](/assets/2022/2022-10-funny11.jpg)</figure>
+![Donuts are healthier than crystal meth](/assets/2022/2022-10-funny11.jpg "Donuts are healthier than crystal meth")

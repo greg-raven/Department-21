@@ -23,5 +23,3 @@ layout: post
 17. Your secrets are safe with your friends because they can’t remember them either.
 18. Your supply of brain cells is finally down to manageable size.
 19. You can’t remember who sent you this list.
-
-<div style="clear: both; text-align: center;"></div>

@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<div style="clear: both; text-align: center;">[![](http://4.bp.blogspot.com/_8aN4krk1nsk/TG_ACHLagZI/AAAAAAAAAbw/g-7oINT6ndo/s320/20100311.jpg)](http://4.bp.blogspot.com/_8aN4krk1nsk/TG_ACHLagZI/AAAAAAAAAbw/g-7oINT6ndo/s1600/20100311.jpg)</div>
+![](http://4.bp.blogspot.com/_8aN4krk1nsk/TG_ACHLagZI/AAAAAAAAAbw/g-7oINT6ndo/s320/20100311.jpg)

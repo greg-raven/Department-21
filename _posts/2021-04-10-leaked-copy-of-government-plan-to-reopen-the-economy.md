@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<figure class="wp-block-image size-large">![](/assets/2021/2021-04-secret-plan.jpg)</figure>
+![](/assets/2021/2021-04-secret-plan.jpg)

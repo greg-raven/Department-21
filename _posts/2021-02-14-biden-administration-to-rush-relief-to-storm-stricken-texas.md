@@ -6,7 +6,9 @@ layout: post
 
 As winter descends with a vengeance on the Great Plains this week, The Biden administration is making arrangements to send relief to the worst-hit areas in the form of new solar panels.
 
-<figure class="wp-block-image size-large">![](/assets/2021/2021-02-solar-panels-snow.png)</figure>The winter storm and lengthy cold snap have crippled power facilities in Texas and caused about 2.3 million outages as of Wednesday evening, leaving residents in the cold and dark for several days.
+![](/assets/2021/2021-02-solar-panels-snow.png)
+
+The winter storm and lengthy cold snap have crippled power facilities in Texas and caused about 2.3 million outages as of Wednesday evening, leaving residents in the cold and dark for several days.
 
 The solar panels feature the latest in Chinese technology, and are said to be lower in lead and arsenic than traditional Chinese solar panels.
 

@@ -91,5 +91,3 @@ Local high school dropouts cut in half
 Hospitals are sued by 7 foot doctors
 
 Typhoon rips through cemetery; hundreds dead
-
-<div class="grammarly-disable-indicator"> </div>
