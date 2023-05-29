@@ -8,4 +8,4 @@ The Department of Defense briefed Resident Obama this morning telling him that t
 
 Finally he composed himself and asked, “Just how many is a Brazilian?”
 
-This is not surprising, as he obviously has no understanding of billion or [trillion](http://www.pagetutor.com/trillion/index.html) either.
+This is not surprising, as he obviously has no understanding of billion or [trillion](https://web.archive.org/web/20090307052130/www.pagetutor.com/trillion/index.html) either.
