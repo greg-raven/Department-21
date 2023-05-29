@@ -4,4 +4,6 @@ author: 'Noam Sain'
 layout: post
 ---
 
-[![](http://1.bp.blogspot.com/_8aN4krk1nsk/SyD--VDFvJI/AAAAAAAAAUg/4irjoxTZ_ko/s400/image014.gif)](http://1.bp.blogspot.com/_8aN4krk1nsk/SyD--VDFvJI/AAAAAAAAAUg/4irjoxTZ_ko/s1600-h/image014.gif)
+“Utah Poison Control Center reminds everyone not to take poison”
+
+![What would be do without the experts?](https://1.bp.blogspot.com/_8aN4krk1nsk/SyD--VDFvJI/AAAAAAAAAUg/4irjoxTZ_ko/s1024/image014.gif "What would be do without the experts?")

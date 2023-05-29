@@ -4,7 +4,7 @@ author: 'Noam Sain'
 layout: post
 ---
 
-[![](http://4.bp.blogspot.com/_8aN4krk1nsk/TNliD16V-yI/AAAAAAAAAgc/5iJE3ouv2Go/s400/death-from-behind.jpg)](http://4.bp.blogspot.com/_8aN4krk1nsk/TNliD16V-yI/AAAAAAAAAgc/5iJE3ouv2Go/s1600/death-from-behind.jpg)
+[![](https://4.bp.blogspot.com/_8aN4krk1nsk/TNliD16V-yI/AAAAAAAAAgc/5iJE3ouv2Go/s1024/death-from-behind.jpg)](https://4.bp.blogspot.com/_8aN4krk1nsk/TNliD16V-yI/AAAAAAAAAgc/5iJE3ouv2Go/s1024/death-from-behind.jpg)
 
 WASHINGTON (SR) — Barack Obama, the first openly-gay president of the United States, has directed the Pentagon to replace the “don’t ask, don’t tell” policy with one that will allow openly gay men and women to serve in the military.  
   

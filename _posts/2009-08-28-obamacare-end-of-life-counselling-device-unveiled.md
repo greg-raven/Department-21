@@ -8,4 +8,4 @@ This is a tobacco smoke enema kit, used from the 1750s to the 1810s to infuse to
 
 Resident Barack Obama, however, has reintroduced this procedure for end-of-life counselling. Hey, they’re going to die anyway: Who cares if it works or not, as long as they believe it’s doing some good?
 
-[![Obamacare end-of-life counselling device unveiled](http://2.bp.blogspot.com/_8aN4krk1nsk/SpXdqMbiDrI/AAAAAAAAAQE/EeLb1n3nwZE/s400/smoker.jpg)](http://2.bp.blogspot.com/_8aN4krk1nsk/SpXdqMbiDrI/AAAAAAAAAQE/EeLb1n3nwZE/s1600-h/smoker.jpg "Obamacare end-of-life counselling device unveiled")
+[![Obamacare end-of-life counselling device unveiled](https://2.bp.blogspot.com/_8aN4krk1nsk/SpXdqMbiDrI/AAAAAAAAAQE/EeLb1n3nwZE/s1024/smoker.jpg)](https://2.bp.blogspot.com/_8aN4krk1nsk/SpXdqMbiDrI/AAAAAAAAAQE/EeLb1n3nwZE/s1600-h/smoker.jpg "Obamacare end-of-life counselling device unveiled")

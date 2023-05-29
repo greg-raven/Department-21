@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](http://4.bp.blogspot.com/_8aN4krk1nsk/THMeHw3H2zI/AAAAAAAAAew/I_GYRtK-Zh0/s320/WhatExac.jpg)
+![](https://4.bp.blogspot.com/_8aN4krk1nsk/THMeHw3H2zI/AAAAAAAAAew/I_GYRtK-Zh0/s1024/WhatExac.jpg)

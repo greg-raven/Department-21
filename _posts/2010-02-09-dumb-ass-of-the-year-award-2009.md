@@ -6,7 +6,7 @@ layout: post
 
 Tough to pick a winner in the current administration, but it’s hard to argue with this!  
   
-![2009 Dumbass of the Year -- Janet Napolitano](http://1.bp.blogspot.com/_8aN4krk1nsk/S3VWrd4I9VI/AAAAAAAAAYs/Fc6Qahn8vUQ/s400/image001.jpg)
+![2009 Dumbass of the Year -- Janet Napolitano](https://1.bp.blogspot.com/_8aN4krk1nsk/S3VWrd4I9VI/AAAAAAAAAYs/Fc6Qahn8vUQ/s1024/image001.jpg)
 
 Yes, Janet Napolitano, DEMOCRAT from Arizona for listing Tea Party protesters, southern Christians, and returning members of the military as potential domestic terrorist and right-wing extremists, you are a dumbass.
 

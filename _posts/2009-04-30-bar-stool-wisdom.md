@@ -4,4 +4,6 @@ author: 'Noam Sain'
 layout: post
 ---
 
-[![](http://2.bp.blogspot.com/_8aN4krk1nsk/Si6AJ-BSdvI/AAAAAAAAALQ/IHyT1nAIWkA/s400/image001.jpg)](http://2.bp.blogspot.com/_8aN4krk1nsk/Si6AJ-BSdvI/AAAAAAAAALQ/IHyT1nAIWkA/s1600-h/image001.jpg)
+“A marriage license should be like a fishing license.”
+
+![Bar stool wisdom](https://2.bp.blogspot.com/_8aN4krk1nsk/Si6AJ-BSdvI/AAAAAAAAALQ/IHyT1nAIWkA/s1024/image001.jpg "Bar stool wisdom")

@@ -4,4 +4,6 @@ author: 'Noam Sain'
 layout: post
 ---
 
-[![](http://3.bp.blogspot.com/_8aN4krk1nsk/SyD9bafrBHI/AAAAAAAAAUQ/54bf0fNUSHU/s400/image010.gif)](http://3.bp.blogspot.com/_8aN4krk1nsk/SyD9bafrBHI/AAAAAAAAAUQ/54bf0fNUSHU/s1600-h/image010.gif)
+“Fish need water, feds say”
+
+![Another vital government study](https://3.bp.blogspot.com/_8aN4krk1nsk/SyD9bafrBHI/AAAAAAAAAUQ/54bf0fNUSHU/s1024/image010.gif "Another vital government study")

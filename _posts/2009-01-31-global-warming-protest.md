@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![Global warming protest](http://4.bp.blogspot.com/_8aN4krk1nsk/SaqTGeqGkDI/AAAAAAAAAKE/2z-LlL9y7Qw/s400/globalwarmingprotest.jpg "Global warming protest")
+![Global warming protest](https://4.bp.blogspot.com/_8aN4krk1nsk/SaqTGeqGkDI/AAAAAAAAAKE/2z-LlL9y7Qw/s1024/globalwarmingprotest.jpg "Global warming protest")

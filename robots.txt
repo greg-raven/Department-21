@@ -1,1 +1,1 @@
-Sitemap: http://jrb.department21.org/sitemap.xml
+Sitemap: https://jrb.department21.org/sitemap.xml

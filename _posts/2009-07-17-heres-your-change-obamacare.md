@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-[![](http://1.bp.blogspot.com/_8aN4krk1nsk/SmDu-5ND-II/AAAAAAAAAOg/euQIU1LiJIU/s400/ATT00000.jpg)](http://1.bp.blogspot.com/_8aN4krk1nsk/SmDu-5ND-II/AAAAAAAAAOg/euQIU1LiJIU/s1600-h/ATT00000.jpg)
+![Here’s your change: Obamacare](https://1.bp.blogspot.com/_8aN4krk1nsk/SmDu-5ND-II/AAAAAAAAAOg/euQIU1LiJIU/s1024/ATT00000.jpg "Here’s your change: Obamacare")

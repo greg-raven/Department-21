@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![Discount choice](http://4.bp.blogspot.com/_8aN4krk1nsk/SyD7yDMRGTI/AAAAAAAAATg/DzzwPHOQpzs/s400/image002.jpg "Discount choice")
+![Discount choice](https://4.bp.blogspot.com/_8aN4krk1nsk/SyD7yDMRGTI/AAAAAAAAATg/DzzwPHOQpzs/s1024/image002.jpg "Discount choice")

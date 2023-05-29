@@ -14,4 +14,4 @@ sure to blow minds!
 
 “\* TV commercial development set to begin pending completion of government-mandated conversion to digital.”
 
-![New gun just for Democrats](http://1.bp.blogspot.com/_8aN4krk1nsk/SooHmd3v5gI/AAAAAAAAAP8/8HgA29_Z5VM/s400/image001.jpg "New gun just for Democrats")
+![New gun just for Democrats](https://1.bp.blogspot.com/_8aN4krk1nsk/SooHmd3v5gI/AAAAAAAAAP8/8HgA29_Z5VM/s1024/image001.jpg "New gun just for Democrats")
