@@ -22,4 +22,4 @@ Michele Obama
 
 P.S. You wouldn’t believe how good the lobster is this year. I just can’t seem to eat enough of it!
 
-![Shut up!](https://3.bp.blogspot.com/_8aN4krk1nsk/TIFCKLdLywI/AAAAAAAAAfI/zdQndG0U-4g/s1024/Mail+Attachment.jpeg "Shut up!")
+![Shut up!](https://3.bp.blogspot.com/_8aN4krk1nsk/TIFCKLdLywI/AAAAAAAAAfI/zdQndG0U-4g/s1600/Mail+Attachment.jpeg "Shut up!")

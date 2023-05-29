@@ -12,4 +12,4 @@ Having Michelle Obama Serve you your soup: <span style="color: red;">\$0.00 doll
 
 A picture of a homeless person receiving a free, government-funded meal while taking a picture of the first lady using his $500 Blackberry cell phone: <span style="color: red;">\$\$\$\$ Priceless</span>
 
-[Michelle Obama](https://4.bp.blogspot.com/_8aN4krk1nsk/SjqJgeiqnwI/AAAAAAAAALY/Ghh06637BhM/s1024/ATT00000.jpeg "Michelle Obama")
+[Michelle Obama](https://4.bp.blogspot.com/_8aN4krk1nsk/SjqJgeiqnwI/AAAAAAAAALY/Ghh06637BhM/s1600/ATT00000.jpeg "Michelle Obama")
