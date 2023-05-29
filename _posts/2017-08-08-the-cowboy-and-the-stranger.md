@@ -4,7 +4,7 @@ author: 'Noam Sain'
 layout: post
 ---
 
-A cowboy named Bud was overseeing his herd in a remote mountainous pasture in Montana when suddenly a brand-new 7 Series BMW advanced toward him out of a cloud of dust. The driver, a young man in a Brioni suit, Gucci shoes, RayBan sunglasses and YSL tie, leaned out the window and asked the cowboy, “If I tell you exactly how many cows and calves you have in your herd, will you give me a calf?”
+A cowboy named Bud was overseeing his herd in a remote mountainous pasture in Montana when suddenly a brand-new 7 Series BMW advanced toward him out of a cloud of dust. The driver, a young man in a Brioni suit, Gucci shoes, RayBan sunglasses, and YSL tie, leaned out the window and asked the cowboy, “If I tell you exactly how many cows and calves you have in your herd, will you give me a calf?”
 
 Bud looks at the man, who obviously is a yuppie, then looks at his peacefully grazing herd and calmly answers, “Sure, why not?”
 
