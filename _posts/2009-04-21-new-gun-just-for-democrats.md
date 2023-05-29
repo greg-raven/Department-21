@@ -4,4 +4,14 @@ author: 'Noam Sain'
 layout: post
 ---
 
-[![](http://1.bp.blogspot.com/_8aN4krk1nsk/SooHmd3v5gI/AAAAAAAAAP8/8HgA29_Z5VM/s400/image001.jpg)](http://1.bp.blogspot.com/_8aN4krk1nsk/SooHmd3v5gI/AAAAAAAAAP8/8HgA29_Z5VM/s1600-h/image001.jpg)
+“Smith&amp;Wesson 180°
+
+“Democrats’ doom and gloom got you down? Turn things around with the best breech action
+revolver on the market. The foot-pounds of energy our .44 magnum 180° D puts on target is
+sure to blow minds!
+
+”As will be seen on TV.*
+
+“\* TV commercial development set to begin pending completion of government-mandated conversion to digital.”
+
+![New gun just for Democrats](http://1.bp.blogspot.com/_8aN4krk1nsk/SooHmd3v5gI/AAAAAAAAAP8/8HgA29_Z5VM/s400/image001.jpg "New gun just for Democrats")

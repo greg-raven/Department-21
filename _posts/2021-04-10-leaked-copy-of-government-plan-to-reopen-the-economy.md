@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](/assets/2021/2021-04-secret-plan.jpg)
+![Government economic plan](/assets/2021/2021-04-secret-plan.jpg "Government economic plan")
