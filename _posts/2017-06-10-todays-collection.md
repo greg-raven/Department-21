@@ -2,10 +2,7 @@
 title: 'Today’s collection'
 author: 'Noam Sain'
 layout: post
-format: gallery
 ---
-
-![](/assets/2017/2017-06-gallery-1.jpg)
 
 ![](/assets/2017/2017-06-gallery-2.jpg)
 

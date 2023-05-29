@@ -2,7 +2,6 @@
 title: 'So, how is your day going?'
 author: 'Noam Sain'
 layout: post
-format: gallery
 ---
 
 ![terrible day](/assets/2016/2016-02-terrible-day-01.jpg "So, how is your day going?")

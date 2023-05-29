@@ -4,4 +4,6 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](/assets/2018/2018-10-Warrens-Whitestrips.jpg)
+“They won't know you're part Indian unless you tell them.”
+
+![Dr. Warren’s Whiter-Than-White Strips](/assets/2018/2018-10-Warrens-Whitestrips.jpg "Dr. Warren’s Whiter-Than-White Strips")

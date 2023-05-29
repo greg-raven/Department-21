@@ -2,7 +2,6 @@
 title: 'More signs from the Indian Hills Community Center'
 author: 'Noam Sain'
 layout: post
-format: gallery
 ---
 
 ![](/assets/2018/2018-09-indian-hills-19.jpg)

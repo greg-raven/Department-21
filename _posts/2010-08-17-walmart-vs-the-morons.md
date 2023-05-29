@@ -21,7 +21,7 @@ You may think that I am complaining, but I am really laying the ground work for 
 
 This should be read and understood by all Americans Democrats, Republicans, EVERYONE!!
 
-To President Obama and all 535 voting members of the Legislature,
+To Resident Obama and all 535 voting members of the Legislature,
 
 It is now official you are ALL corrupt morons:
 

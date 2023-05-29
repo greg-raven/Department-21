@@ -4,6 +4,10 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](/assets/2018/2018-06-gatoraid.jpg)
+“Stop killing alligators to make Gatorade.”
 
-![](/assets/2018/2018-06-duck-tape.jpg)
+![Stop the slaughter](/assets/2018/2018-06-gatoraid.jpg "Stop the slaughter")
+
+“Stop killing ducks to make duck tape.”
+
+![Stop the slaughter](/assets/2018/2018-06-duck-tape.jpg "Stop the slaughter")

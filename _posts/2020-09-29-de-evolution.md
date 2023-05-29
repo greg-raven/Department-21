@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](/assets/2020/2020-09-deevolution.jpg)
+![De-evolution](/assets/2020/2020-09-deevolution.jpg "De-evolution")

@@ -1,5 +1,5 @@
 ---
-title: 'DUMB ASS of the Year Award &mdash; 2009'
+title: 'DUMB ASS of the Year Award — 2009'
 author: 'Noam Sain'
 layout: post
 ---

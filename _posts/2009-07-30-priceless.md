@@ -12,7 +12,7 @@ layout: post
 
 1 day of the Vice President’s time – \$850
 
-1 day of the President’s time – \$1,000
+1 day of the Resident’s time – \$1,000
 
 ![Priceless](https://1.bp.blogspot.com/_8aN4krk1nsk/SphHyLvCfJI/AAAAAAAAAQM/xx-JtbLmEV0/s1600/priceless.jpg "Priceless")
 

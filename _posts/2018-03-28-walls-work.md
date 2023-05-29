@@ -4,9 +4,9 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](/assets/2018/2018-03-great-wall-of-china.jpg)
+![Walls work](/assets/2018/2018-03-great-wall-of-china.jpg "Walls work")
 
-HISTORICAL FACT
+**HISTORICAL FACT**
 
 Who says building a border wall won’t work?
 

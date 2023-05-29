@@ -2,7 +2,6 @@
 title: 'You’ve reached tech support …'
 author: 'Noam Sain'
 layout: post
-format: gallery
 ---
 
 This is India. It’s where companies outsource their technical support, so they don’t have to hire U.S. citizens.
