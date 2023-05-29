@@ -1,14 +1,14 @@
 {
-    "name": "Greg Raven",
-    "short_name": "GR",
+    "name": "Department21",
+    "short_name": "Dept21",
     "icons": [
         {
-            "src": "/_assets/siteicons/android-chrome-192x192.png",
+            "src": "/assets/siteicons/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/_assets/siteicons/android-chrome-512x512.png",
+            "src": "/assets/siteicons/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
