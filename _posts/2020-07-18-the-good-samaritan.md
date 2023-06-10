@@ -4,4 +4,6 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<iframe allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="536" loading="lazy" src="https://player.vimeo.com/video/569383258?h=47b345bb84&dnt=1&app_id=122963" title="Good Samaritan stops van" width="350"></iframe>
+<video controls width="100%">
+<source type="video/mp4" src="/assets/2020/2020-07-Good-Samaritan-stops-van.mp4" title="The Good Samaritan">
+</video>
