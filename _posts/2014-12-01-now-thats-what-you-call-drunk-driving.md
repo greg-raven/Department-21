@@ -12,7 +12,10 @@ How impaired do you have to be not to notice that you are carrying a stop light?
 
 The truck was towed a couple more miles to the towing yard, with the light still pinched between the two tow hooks and the bumper bent around it. It took several good hard pulls with a backhoe to get the pole free.
 
-![dwi-0](/assets/2014/2014-12-dwi-0.jpg)  
-![dwi-1](/assets/2014/2014-12-dwi-1.jpg)  
-![dwi-2](/assets/2014/2014-12-dwi-2.jpg)  
-![dwi-3](/assets/2014/2014-12-dwi-3.jpg)
+![Now that’s what you call drunk driving](/assets/2014/2014-12-dwi-0.jpg)
+
+![Now that’s what you call drunk driving](/assets/2014/2014-12-dwi-1.jpg)
+
+![Now that’s what you call drunk driving](/assets/2014/2014-12-dwi-2.jpg)
+
+![Now that’s what you call drunk driving](/assets/2014/2014-12-dwi-3.jpg)
