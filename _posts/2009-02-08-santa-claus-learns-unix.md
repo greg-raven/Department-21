@@ -1,43 +1,47 @@
 ---
-title: 'Santa Claus Learns Unix'
+title: 'Santa Claus learns Unix'
 author: 'Noam Sain'
 layout: post
 ---
 
-better !pout !cry
+    better !pout !cry
 
-better watchout
+    better watchout
 
-lpr why
+    lpr why
 
-santa claus <north>town</north>
+    santa claus < north pole > town
 
-cat /etc/passwd &gt; list
+    cat /etc/passwd > list
 
-ncheck list
+    ncheck list
 
-ncheck list
+    ncheck list
 
-cat list | grep naughty &gt; nogiftlist
+    cat list | grep naughty > nogiftlist
 
-cat list | grep nice &gt; giftlist
+    cat list | grep nice > giftlist
 
-santa claus <north> town</north>
+    santa claus < north pole > town
 
-who | grep sleeping
+    who | grep sleeping
 
-who | grep awake
+    who | grep awake
 
-who | grep bad || good
+    who | grep bad || good
 
-for (goodness sake) {be good}
+    for (goodness sake) {
+        be good
+    }
 
-echo “Oh,”
+    echo “Oh,”
 
-better !pout !cry
+    better !pout !cry
 
-better watchout
+    better watchout
 
-lpr why
+    lpr why
 
-santa claus <north> town</north>
+    santa claus < north pole > town
+
+(By Frank Carey, AT&amp;T Bell Laboratories, 1985)
