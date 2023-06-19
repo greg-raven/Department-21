@@ -4,9 +4,9 @@ author: 'Noam Sain'
 layout: post
 ---
 
-NAME\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+NAME \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-GANG\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+GANG \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1. Ramon has an AK-47 with a 60-round clip. He usually misses six of every 10 shots and he uses 13 rounds per drive-by shootin. How many drive-by shootins can Ramon hit before he reloads?
 2. Leroy has two ounces of cocaine. If he sells an 8 ball to Antonio for $320 and two grams to Juan for $85 per gram, what be the street value of the rest of his shit?
