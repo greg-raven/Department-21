@@ -1,5 +1,5 @@
 ---
-title: 'Let’s Solve Everyone’s Problems at Once'
+title: 'Let’s solve everyone’s problems at once'
 author: 'Noam Sain'
 layout: post
 ---
