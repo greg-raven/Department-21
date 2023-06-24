@@ -10,7 +10,7 @@ Only in America is there handicap parking outside a skating rink.
 
 Only in America do drugstores make the sick walk all the way to the back of the store for prescriptions while healthy people can buy cigarettes at the front.
 
-Only in America do people order double cheeseburgers and a diet coke.
+Only in America do people order double cheeseburgers and a diet Coke.
 
 Only in America do they have drive up ATM machines with braille lettering.
 
