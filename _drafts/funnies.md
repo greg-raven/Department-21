@@ -1,46 +1,48 @@
 # Funnies
 
-Two elderly couples were enjoying friendly conversation when one of the men asked the other, “Fred, how was the memory clinic you went to last month?”
+---
+title: 'Memory clinic'
+author: 'Noam Sain'
+layout: post
+---
 
-“Outstanding,” Fred replied. “They taught us all the latest psychological techniques: visualization, association, etc. It was great.”
+Four men were bragging about how smart their dogs are. The first Man was an Engineer, the second was an Accountant, the third man was a Chemist, the fourth was a Government Worker.
 
-“That’s great! And what was the name of the clinic?”
+To show off, the Engineer called to his dog. “T-Square do your stuff.” T-square trotted over to a desk, took out some paper and a pen and promptly drew a circle, a square and a triangle. Everyone agreed that was pretty smart.
 
-Fred went blank. He thought and thought, but couldn’t remember. Then a smile broke across his face and he asked, “What do you call that flower with the long stem and thorns?”
+But the Accountant said his dog could do better. He called his dog and said, “Slide Rule, do your stuff.” Slide Rule went out into the kitchen and returned with a dozen cookies. He divided them into 4 equal piles of 3 cookies each. Everyone agreed that was good.
 
-“You mean a rose?”
+The Chemist said that his dog could top that. He called his dog and said, “Measure, do your stuff.” Measure got up, walked over to the fridge, took out a quart of milk, got a 10 ounce glass from the cupboard and poured exactly 8 ounces without spilling a drop. Everyone agreed that was good.
 
-“Yes, that’s it!”
+Then the three men turned to the Government Worker and said, “What can your dog do?” The Government Worker called to his dog and said, Coffee Break, do your stuff.” Coffee Break jumped to his feet, ate the cookies, drank the milk, dumped on the paper, had sex with the other three dogs, claimed he injured his back while doing so, filed a grievance report for unsafe working conditions, put in for workman’s compensation and went home on sick leave.
 
-He turned to his wife, “Rose, what was the name of that memory clinic?”
+
+------
+
+---
+title: 'Help Craig beat cancer'
+author: 'Noam Sain'
+layout: post
+---
+
+Four men were bragging about how smart their dogs are. The first Man was an Engineer, the second was an Accountant, the third man was a Chemist, the fourth was a Government Worker.
+
+To show off, the Engineer called to his dog. “T-Square do your stuff.” T-square trotted over to a desk, took out some paper and a pen and promptly drew a circle, a square and a triangle. Everyone agreed that was pretty smart.
+
+But the Accountant said his dog could do better. He called his dog and said, “Slide Rule, do your stuff.” Slide Rule went out into the kitchen and returned with a dozen cookies. He divided them into 4 equal piles of 3 cookies each. Everyone agreed that was good.
+
+The Chemist said that his dog could top that. He called his dog and said, “Measure, do your stuff.” Measure got up, walked over to the fridge, took out a quart of milk, got a 10 ounce glass from the cupboard and poured exactly 8 ounces without spilling a drop. Everyone agreed that was good.
+
+Then the three men turned to the Government Worker and said, “What can your dog do?” The Government Worker called to his dog and said, Coffee Break, do your stuff.” Coffee Break jumped to his feet, ate the cookies, drank the milk, dumped on the paper, had sex with the other three dogs, claimed he injured his back while doing so, filed a grievance report for unsafe working conditions, put in for workman’s compensation and went home on sick leave.
+
 
 ------
 
-Craig Shergold is a 10 year old boy who is dying of cancer. Before he dies, he would like to set the world record for receiving the most Neiman-Marcus Cookie Recipes. You can help Craig by sending an irate fax to LEXIS-NEXIS demanding that they remove all traces of your mother’s maiden name from their executive washroom wall. They will respond by sending e-mail labeled “Good Times” to the computer controlling Craig’s life support equipment. When Felippe Linz, the technician operating the computer opens this mail, his hard drive will be overwritten with thousands of credit card invoices for $250.00, erasing the last bit of evidence that Hillary was seen on the grassy knoll when JFK was shot, thus allowing world domination by Bill Gates, and his Tri-lateral Commission cronies who are eating fried peanut butter and banana sandwiches in the black helicopters with Elvis.
-
-------
-
-Contraceptives ‘98
-
-News just in of Microsoft’s latest venture: Microsoft Corporation has taken another step toward dominating every aspect of American life with the introduction of Contraceptive98, a suite of applications designed for users who engage in sex. Microsoft has been a pioneer in peer-to-peer connectivity and plug and play.
-
-It believes these technologies will give it substantial leverage in penetrating the copulation enhancement market.The product addresses two important user concerns: the need for virus protection and the need for a firewall to ensure the non-propagation of human beings.
-
-The Contraceptive98 suite consists of three products: Condom98, DeFetus 1.0 (from Sementec), and AIDScan 2.1. A free copy of Intercourse Explorer 4.0 is bundled in the package. The suite also comes in two expanded versions. Contraceptive98 Professional is the Client/Server edition, for professionals in the sexual services sector. Contraceptive98 Small Business Edition is a package for startups, aimed at the housewife and gigolo niches.
-
-While Contraceptive98 does not address nontraditional copulatory channels, future plug-ins are planned for next year.
-
-OPERATION: Only one node in a peer-to-peer connection needs to install the package.
-
-At installation, the Condom98 software checks for minimum hardware. If the user meets the requirements, the product installs and is sufficiently scaleable to meet most requirements. After installation, operation commences. One caution is that the user must have sufficient RAM to complete the session. When the session is complete, a disconnect is initiated, and the user gets the message, it is now safe to turn off your partner.
-
-DRAWBACKS: Usability testers report that frequent failures were a major concern during beta testing. General Protection Fault was the most serious error encountered. Early versions had numerous bugs, but most of these have been eliminated. The product needs to be installed each time its used.
-
-CONCLUSION: Contraceptive98 is a robust product. Despite its drawbacks, it is reasonably good value for its $69 price tag, and is far superior to its shareware version. Hopefully, future releases (of the software, that is) will add missing functionality, such as Backout and Restore, uninterruptible Power Supply, and Onboard Camera.
-
-This great new contraceptive product will help users do to each other what monopolies have been doing to their would-be competitors for years.
-
-------
+---
+title: 'Horse tips'
+author: 'Noam Sain'
+layout: post
+---
 
 Tying your horse’s reins to a post does no good if you then remove the bridle.
 
@@ -56,9 +58,16 @@ It is a mistake to believe horses have no sense of humor. They think we are funn
 
 A neophyte rider need waste no time being concerned for his horse’s welfare. Your horse knows all about being a horse. Concentrate on your own well being.
 
-Horses smell FEAR. Deodorant won’t help.
+Horses smell fear. Deodorant won’t help.
+
 
 ------
+
+---
+title: 'Special High-Intensity Training'
+author: 'Noam Sain'
+layout: post
+---
 
 To assure the highest levels of quality work and productivity from employees, it will be our policy to keep all employees well trained through our program of SPECIAL HIGH INTENSITY TRAINING (S.H.I.T.). We are trying to give employees more S.H.I.T. than anyone else. If you feel that you do not receive your share of S.H.I.T. on the job, please see your manager. You will be immediately placed at the top of the S.H.I.T. LIST, as our managers are especially skilled at seeing that you get all the S.H.I.T. you can handle. Employees who do not take their S.H.I.T. will be placed in DEPARTMENTAL EMPLOYEE EVALUATION PROGRAMS (D.E.E.P. S.H.I.T.). Those who fail to take D.E.E.P. S.H.I.T. seriously will have to go to EMPLOYEE ATTITUDE TRAINING (E.A.T. S.H.I.T.). Since our managers took S.H.I.T. before they were promoted, they don’t have to do S.H.I.T. anymore, and are full of S.H.I.T. already. If you are full of S.H.I.T., you may be interested in a job training others. We can add your name to our BASIC UNDERSTANDING LECTURE LIST (B.U.L.L.S.H.I.T.). Those who are full of B.U.L.L. S.H.I.T. will get the S.H.I.T. jobs, and can apply for promotion to DIRECTOR OF INTENSITY PROGRAMMING (D.I.P.S.H.I.T.).
 
@@ -66,11 +75,18 @@ If you have further questions, please direct them to our HEAD OF TRAINING, SPECI
 
 Thank you, BOSS IN GENERAL, SPECIAL HIGH INTENSITY TRAINING (B.I.G. S.H.I.T.)
 
+
 ------
 
-A pastor of one church who was previously a sailor, was very aware that ships are addressed as “she” and “her”. He often wondered what gender computers should be addressed. To answer that question, he set up two groups of computer experts. The first was comprised of women, and the second of men.
+---
+title: 'Computer gender'
+author: 'Noam Sain'
+layout: post
+---
 
-Each group was asked to recommend whether computers should be referred to in the feminine gender, or the masculine gender. They were asked to give 4 reasons for their recommendation.
+A pastor of one church who was previously a sailor, was very aware that ships are addressed as “she” and “her.” He often wondered what gender computers should be addressed. To answer that question, he set up two groups of computer experts. The first was comprised of women, and the second of men.
+
+Each group was asked to recommend whether computers should be referred to in the feminine gender, or the masculine gender. They were asked to give four reasons for their recommendation.
 
 The group of women reported that the computers should be referred to in the masculine gender because:
 
@@ -79,84 +95,61 @@ The group of women reported that the computers should be referred to in the masc
 3. They are supposed to help you solve problems, but half the time they are the problem.
 4. As soon as you commit to one, you realize that, if you had waited a little longer you could have had a better model.
 
-The men, on the other hand concluded that Computers should be referred to in the feminine gender because:
+The men, on the other hand concluded that computers should be referred to in the feminine gender because:
 
 1. No one but the Creator understands their internal logic.
 2. The native language they use to communicate with other computers is incomprehensible to everyone else.
 3. Even your smallest mistakes are stored in long-term memory for later retrieval.
 4. As soon as you make a commitment to one, you find yourself spending half your paycheck on accessories for it.
 
+
 ------
 
 
-A defense attorney was cross-examining a police officer during
-a felony trial. It went like this:
+---
+title: 'Not the answer he was seeking'
+author: 'Noam Sain'
+layout: post
+---
+
+A defense attorney was cross-examining a police officer during a felony trial.
 
 Q. Officer, did you see my client fleeing the scene?
-A. No sir, but I subsequently observed a person matching the
-description of the offender running several blocks away.
+
+A. No sir, but I subsequently observed a person matching the description of the offender running several blocks away.
+
 Q. Officer, who provided this description?
-A. The officer who responded to the scene. A fellow officer
-provided the description of this so-called offender.
+
+A. The officer who responded to the scene. A fellow officer provided the description of this so-called offender.
+
 Q. Do you trust your fellow officers?
+
 A. Yes sir, with my life.
-Q. With your life? Let me ask you this then officer — do you
-have a locker room in the police station — a room where you
-change your clothes in preparation for your daily duties?
+
+Q. With your life? Let me ask you this then, officer: Do you have a locker room in the police station — a room where you change your clothes in preparation for your daily duties?
+
 A. Yes sir, we do.
+
 Q. And do you have a locker in that room?
+
 A. Yes sir, I do.
+
 Q. And do you have a lock on your locker?
+
 A. Yes sir.
-Q. Now why is it, officer, if you trust your fellow officers
-with your life, that you find it necessary to lock your locker
-in a room you share with those same officers?
-A. You see sir, we share the building with a court complex,
-and sometimes lawyers have been known to walk through
-that room.
 
-With that, the courtroom erupted in laughter, and a prompt
-recess was called.
+Q. Now why is it, officer, if you trust your fellow officers with your life, that you find it necessary to lock your locker in a room you share with those same officers?
 
-The officer on the stand has been nominated for this year’s
-“Best comeback” line and we think he’ll win.
+A. You see sir, we share the building with a court complex, and sometimes lawyers have been known to walk through that room.
+
+With that, the courtroom erupted in laughter, and a prompt recess was called.
+
+The officer on the stand has been nominated for this year’s “Best Comeback” line and we think he’ll win.
+
 
 
 
 ------
-
-A few years ago, Joseph was finally given an exit permit by the Russians and allowed to emigrate to Israel to join his family. He was told that he could only take what he could pack into one suitcase.
-
-At Moscow airport he was stopped by an enormous Customs officer who glared at him and snarled “Open the case!”
-
-Joseph opened the case and the Russian rummaged through the meagre belongings and pulled out a large bundle wrapped in old copies of Pravda. He unwrapped it to reveal a bust of Stalin.
-
-“What is that” snarled the customs officer.
-
-“What is that?” said Joseph timidly. “You shouldn’t ask ‘What is that?’, You should ask ‘Who is that?’. That is our glorious leader Stalin. I’m taking it to my new home to remind me of all the wonderful things that he did and the marvelous life that I am leaving behind.”
-
-“I always knew that you Jews were mad!” said the official, tossing the bust into the case. “Go!”
-
-A few hours later Joseph arrived at Ben Gurion airport and was confronted by an Israeli customs officer.
-
-“Shalom, Welcome to Israel. Open the case!”
-
-Once again Joseph’s belongings were examined and the customs officer came upon the bust.
-
-“What is that” said the customs officer.
-
-“What is that?” said Joseph indignantly. “You shouldn’t ask ‘What is that?’, You should ask ‘Who is that?’. That is that !*@# Stalin. I’m taking it to my new home to remind me of all the misery and suffering that he caused me for most of my life. I want to spit on it every day for the rest of my life.”
-
-“I always knew that you Russian Jews were mad!” said the official, tossing the bust into the case. “Go!”
-
-At last Joseph arrived in his new home and eventually got round to unpacking watched by his young nephew. He took out his few clothes and then carefully unwrapped the bust of Stalin and put it on the table.
-
-“Who is that?” asked his nephew.
-
-“Who is that?” said Joseph with a smile. “You shouldn’t ask ‘Who is that?’, You should ask ‘What is that?’. That is five kilos of gold”
-
-------
-
 
 Q — What did the waiter ask the group of dining Jewish mothers?
 A — “Is ANYTHING all right?”
@@ -234,6 +227,12 @@ Little Johnny responded,
 
 ------
 
+---
+title: 'Playing the long game'
+author: 'Noam Sain'
+layout: post
+---
+
 There’s a little fellow named Junior who hangs out at Tim’s Grocery Store.
 
 The owner Tim doesn’t know what Junior’s problem is, but the boys like to tease him. They say he is two bricks shy of a load, or two pickles shy of a barrel.
@@ -244,7 +243,14 @@ One day after Junior grabbed the nickel, Tim got him off to one side and said, �
 
 Junior said, “Well, if I took the dime, they’d quit doing it!”
 
+
 ------
+
+---
+title: 'Noah’s Ark'
+author: 'Noam Sain'
+layout: post
+---
 
 And the Lord spoke to Noah and said, “In one year, I am going to make it rain and cover the whole earth with water until all flesh is destroyed. But I want you to save the righteous people and two of every kind of living thing on the earth. Therefore, I am commanding you to build an Ark.” In a flash of lightning, God delivered the specifications for an Ark.
 
@@ -252,17 +258,15 @@ In fear and trembling, Noah took the plans and agreed to build the Ark. “Remem
 
 The sky began to clear, the sun began to shine and the seas began to calm. A rainbow arched across the sky. Noah looked up hopefully. “You mean you are not going to destroy the earth, Lord?” “No,” said the Lord sadly. “I don’t have to. The government already has.”
 
+
 ------
 
 
-- Wave hands wildly at invisible flies buzzing around your
-head.
+- Wave hands wildly at invisible flies buzzing around your head.
 - Make race car noises when anyone gets on or off.
 - Shave.
-- Crack open your briefcase or purse, and while peering
-inside ask: “Got enough air in there?”
-- Stand silent and motionless in the corner, facing the wall,
-without getting off.
+- Crack open your briefcase or purse, and while peering inside ask: “Got enough air in there?”
+- Stand silent and motionless in the corner, facing the wall, without getting off.
 - When arriving at your floor, grunt and strain to yank the
 doors open, then act embarrassed when they open by
 themselves.
@@ -299,132 +303,131 @@ host body.”
 - Carry a blanket and clutch it protectively.
 - If anyone brushes against you, recoil and holler “Bad
 touch!”
-- While the doors are opening, hurriedly whisper, “Hide
-it…quick!” then whistle innocently.
+- While the doors are opening, hurriedly whisper, “Hide it … quick!” then whistle innocently.
 
 ------
 
-3050 B.C.- A Sumerian invents the wheel. Within the week, the idea is stolen and duplicated by other Sumerians, thereby establishing the business ethic for all times.
+3050 B.C. — A Sumerian invents the wheel. Within the week, the idea is stolen and duplicated by other Sumerians, thereby establishing the business ethic for all times.
 
-2900 B.C.-Wondering why the Egyptians call that new thing a Sphinx becomes the first of the world’s Seven Great Wonders.
+2900 B.C. — Wondering why the Egyptians call that new thing a Sphinx becomes the first of the world’s Seven Great Wonders.
 
-1850 B.C.-Britons proclaim Operation Stonehenge a success. They’ve finally gotten those boulders arranged in a sufficiently meaningless pattern to confuse the hell out of scientists for centuries.
+1850 B.C. — Britons proclaim Operation Stonehenge a success. They’ve finally gotten those boulders arranged in a sufficiently meaningless pattern to confuse the hell out of scientists for centuries.
 
-1785 B.C.-The first calendar, composed of a year with 354 days, is introduced by Babylonian scientists.
+1785 B.C. — The first calendar, composed of a year with 354 days, is introduced by Babylonian scientists.
 
-1768 B.C.-Babylonians realize something is wrong when winter begins in June.
+1768 B.C. — Babylonians realize something is wrong when winter begins in June.
 
-776 B.C.-The world’s first known money appears in Persia, immediately causing the world’s first known counterfeiter to appear in Persia the next day.
+776 B.C. — The world’s first known money appears in Persia, immediately causing the world’s first known counterfeiter to appear in Persia the next day.
 
-525 B.C.-The first Olympics are held, and prove similar to the modern games, except that the Russians don’t try to enter a six-footer with a mustache in the women’s shot put. However, the Egyptians do!
+525 B.C. — The first Olympics are held, and prove similar to the modern games, except that the Russians don’t try to enter a six-footer with a mustache in the women’s shot put. However, the Egyptians do!
 
-410 B.C.-Rome ends the practice of throwing debtors into slavery, thus removing the biggest single obstacle to the development of the credit card.
+410 B.C. — Rome ends the practice of throwing debtors into slavery, thus removing the biggest single obstacle to the development of the credit card.
 
-404 B.C.-The Peloponnesian war has been going on for 27 years now because neither side can find a treaty writer who knows how to spell Peloponnesian.
+404 B.C. — The Peloponnesian war has been going on for 27 years now because neither side can find a treaty writer who knows how to spell Peloponnesian.
 
-214 B.C.-Tens of thousands of Chinese labor for a generation to build the 1,500 mile long Great Wall of China. And after all that, it still doesn’t keep the neighbor’s dog out.
+214 B.C. — Tens of thousands of Chinese labor for a generation to build the 1,500 mile long Great Wall of China. And after all that, it still doesn’t keep the neighbor’s dog out.
 
-1 B.C.-Calendar manufacturers find themselves in total disagreement over what to call next year.
+1 B.C. — Calendar manufacturers find themselves in total disagreement over what to call next year.
 
-79 A.D.- Buying property in Pompeii turns out to have been a lousy real estate investment.
+79 A.D. — Buying property in Pompeii turns out to have been a lousy real estate investment.
 
-432- St. Patrick introduces Christianity to Ireland, thereby giving the natives something interesting to fight about for the rest of their recorded history.
+432 — St. Patrick introduces Christianity to Ireland, thereby giving the natives something interesting to fight about for the rest of their recorded history.
 
-1000-Leif Ericsson discovers America, but decides it’s not worth mentioning.
+1000 — Leif Ericsson discovers America, but decides it’s not worth mentioning.
 
-1043-Lady Godiva finds a means of demonstrating against high taxes that immediately makes everyone forget what she is demonstrating against.
+1043 — Lady Godiva finds a means of demonstrating against high taxes that immediately makes everyone forget what she is demonstrating against.
 
-1125-Arabic numerals are introduced to Europe, enabling peasants to solve the most baffling problem that confronts them: How much tax do you owe on MMMDCCCLX Lira when you’re in the XXXVI percent bracket?
+1125 — Arabic numerals are introduced to Europe, enabling peasants to solve the most baffling problem that confronts them: How much tax do you owe on MMMDCCCLX Lira when you’re in the XXXVI percent bracket?
 
-1233-The Inquisition is set up to torture and kill anyone who disagrees with the Law of the Church. However, the practice is so un-Christian that it is permitted to continue for only 600 years.
+1233 — The Inquisition is set up to torture and kill anyone who disagrees with the Law of the Church. However, the practice is so un-Christian that it is permitted to continue for only 600 years.
 
-1297-The world’s first stock exchange opens, but no one has the foresight to buy IBM or Xerox.
+1297 — The world’s first stock exchange opens, but no one has the foresight to buy IBM or Xerox.
 
-1433- Portugal launches the African slave trade, which just proves what a small, ambitious country can do with a little bit of ingenuity and a whole lot of evil!
+1433 — Portugal launches the African slave trade, which just proves what a small, ambitious country can do with a little bit of ingenuity and a whole lot of evil!
 
-1456-An English judge reviews Joan of Arc’s case and cancels her death sentence. Unfortunately for her, she was put to death in 1431.
+1456 — An English judge reviews Joan of Arc’s case and cancels her death sentence. Unfortunately for her, she was put to death in 1431.
 
-1492- Columbus proves how lost he really is by landing in the Bahamas, naming the place San Salvador, and calling the people who live there Indians.
+1492 — Columbus proves how lost he really is by landing in the Bahamas, naming the place San Salvador, and calling the people who live there Indians.
 
-1497-Amerigo Vespucci becomes the 7th or 8th explorer to become the new world, but the first to think of naming it in honor of himself…the United States of Vespuccia!
+1497 — Amerigo Vespucci becomes the 7th or 8th explorer to become the new world, but the first to think of naming it in honor of himself … the United States of Vespuccia!
 
-1508-Michelangelo finally agrees to paint the ceiling of the Sistine Chapel, but he still refuses to wash the windows.
+1508 — Michelangelo finally agrees to paint the ceiling of the Sistine Chapel, but he still refuses to wash the windows.
 
-1513-Ponce de Leon claims he found the Fountain of youth, but dies of old age trying to remember where it was he found it.
+1513 — Ponce de Leon claims he found the Fountain of Youth, but dies of old age trying to remember where it was he found it.
 
-1522-Scientists, who know the world is flat, conclude that Magellan made it all the way around by crawling across the bottom.
+1522 — Scientists, who know the world is flat, conclude that Magellan made it all the way around by crawling across the bottom.
 
-1568-Saddened over the slander of his good name, Ivan the Terrible kills another 100,000 peasants to make them stop calling him Ivan the Terrible.
+1568 — Saddened over the slander of his good name, Ivan the Terrible kills another 100,000 peasants to make them stop calling him Ivan the Terrible.
 
-1607-The Indians laugh themselves silly as the first European tourist to visit Virginia tries to register as “John Smith”.
+1607 — The Indians laugh themselves silly as the first European tourist to visit Virginia tries to register as “John Smith.”
 
-1618-Future Generations are doomed as the English execute Sir Walter Raleigh, but allow his tobacco plants to live.
+1618 — Future Generations are doomed as the English execute Sir Walter Raleigh, but allow his tobacco plants to live.
 
-1642-Nine students receive the first Bachelor of Arts degrees conferred in America, and immediately discover there are no jobs open for a kid with a liberal arts education.
+1642 — Nine students receive the first Bachelor of Arts degrees conferred in America, and immediately discover there are no jobs open for a kid with a liberal arts education.
 
-1670-The pilgrims are too busy burning false witches to observe the golden anniversary of their winning religious freedom.
+1670 — The pilgrims are too busy burning false witches to observe the golden anniversary of their winning religious freedom.
 
-1755-Samuel Johnson issues the first English Dictionary, at last providing young children with a book they can look up dirty words in.
+1755 — Samuel Johnson issues the first English Dictionary, at last providing young children with a book they can look up dirty words in.
 
-1758- New Jersey is chosen as the site of America’s first Indian reservation, which should give Indians an idea of the kind of shabby living conditions they can expect from here on out.
+1758 — New Jersey is chosen as the site of America’s first Indian reservation, which should give Indians an idea of the kind of shabby living conditions they can expect from here on out.
 
-1763-The French and Indian War ends. The French and Indians both lost.
+1763 — The French and Indian War ends. The French and Indians both lost.
 
-1770-The shooting of three people in the Boston Massacre touches off the Revolution. 200 Years later, three shootings in Boston will be considered just about average for a Saturday Night.
+1770 — The shooting of three people in the Boston Massacre touches off the Revolution. 200 Years later, three shootings in Boston will be considered just about average for a Saturday Night.
 
-1773-Colonists dump tea into Boston Harbor. British call the act “barbaric,” noting that no one added cream.
+1773 — Colonists dump tea into Boston Harbor. British call the act “barbaric,” noting that no one added cream.
 
-1776-Napoleon decides to maintain a position of neutrality in the American Revolution, primarily because he is only seven years old.
+1776 — Napoleon decides to maintain a position of neutrality in the American Revolution, primarily because he is only seven years old.
 
-1779-John Paul Jones notifies the British, “I have just begun to fight!” and then feels pretty foolish when he discovers that his ship is sinking.
+1779 — John Paul Jones notifies the British, “I have just begun to fight!” and then feels pretty foolish when he discovers that his ship is sinking.
 
-1793- “Let them eat cake!” becomes the most famous thing Marie Antoinette ever said. Also, the least diplomatic thing she ever said. Also, the last thing she ever said.
+1793 — “Let them eat cake!” becomes the most famous thing Marie Antoinette ever said. Also, the least diplomatic thing she ever said. Also, the last thing she ever said.
 
-1799-Translation of the Rosetta Stone finally enables scholars to learn that Egyptian hieroglyphics don’t say anything important. “Dear Ramses, How are you? I am fine.”
+1799 — Translation of the Rosetta Stone finally enables scholars to learn that Egyptian hieroglyphics don’t say anything important. “Dear Ramses, How are you? I am fine.”
 
-1805-Robert Fulton invents the torpedo.
+1805 — Robert Fulton invents the torpedo.
 
-1807-Robert Fulton invents the steamship so he has something to blow up with his torpedo.
+1807 — Robert Fulton invents the steamship so he has something to blow up with his torpedo.
 
-1815-Post Office policy is established as Andrew Jackson wins the Battle of New Orleans a month after he should have received the letter telling him the War of 1812 is over.
+1815 — Post Office policy is established as Andrew Jackson wins the Battle of New Orleans a month after he should have received the letter telling him the War of 1812 is over.
 
-1840-William Henry Harrison is elected president in a landslide, proving that the campaign motto, “Tippecanoe and Tyler too” is so meaningless that very few can disagree with it.
+1840 — William Henry Harrison is elected president in a landslide, proving that the campaign motto, “Tippecanoe and Tyler too” is so meaningless that very few can disagree with it.
 
-1850-Henry Clay announces, “I’d rather be right than president,” which gets quite a laugh, coming from a guy who has run for president five times without winning.
+1850 — Henry Clay announces, “I’d rather be right than president,” which gets quite a laugh, coming from a guy who has run for president five times without winning.
 
-1859- Charles Darwin writes “Origin of the Species”. It has the same general plot as “Planet of the Apes”, but fails to gross as much money.
+1859 — Charles Darwin writes “Origin of the Species”. It has the same general plot as “Planet of the Apes”, but fails to gross as much money.
 
-1865-Union Soldiers face their greatest challenge of the war: getting General Grant sober enough to accept Lee’s surrender.
+1865 — Union Soldiers face their greatest challenge of the war: Getting General Grant sober enough to accept Lee’s surrender.
 
-1894-Thomas Edison displays the first motion picture, and everybody likes it except the movie critics.
+1894 — Thomas Edison displays the first motion picture, and everybody likes it except the movie critics.
 
-1903- The opening of the Trans-Siberian Railway enables passengers from Moscow to reach Vladivostok in eight days, which is a lot sooner than most of them want to get there.
+1903 — The opening of the Trans-Siberian Railway enables passengers from Moscow to reach Vladivostok in eight days, which is a lot sooner than most of them want to get there.
 
-1910- The founding of the Boy Scouts of America comes as bad news to old ladies who would rather cross the street by themselves.
+1910 — The founding of the Boy Scouts of America comes as bad news to old ladies who would rather cross the street by themselves.
 
-1911-Roald Amundsen discovers the South Pole and confirms what he’s suspected all along: It looks a helluva lot like the North Pole!
+1911 — Roald Amundsen discovers the South Pole and confirms what he’s suspected all along: It looks a helluva lot like the North Pole!
 
-1912-People with Reservations for the voyage of the Titanic get their money back.
+1912 — People with reservations for the voyage of the Titanic get their money back.
 
-1920-The 18th Amendment to the Constitution makes drinking illegal in the U.S. so everyone stops. Except for the 40 million who don’t stop!
+1920 — The 18th Amendment to the Constitution makes drinking illegal in the U.S. so everyone stops. Except for the 40 million who don’t stop!
 
-1924-Hitler is released from prison four years early, after convincing the parole board that he is a changed man who won’t cause any more trouble.
+1924 — Hitler is released from prison four years early, after convincing the parole board that he is a changed man who won’t cause any more trouble.
 
-1928- Herbert Hoover promises “a chicken in every pot and a car in every garage,” but he neglects to add that most Americans will soon be without pots and garages.
+1928 — Herbert Hoover promises “a chicken in every pot and a car in every garage,” but he neglects to add that most Americans will soon be without pots and garages.
 
-1930- Pluto is discovered. Not the dog, stupid; the planet. The dog wasn’t discovered until 1938.
+1930 — Pluto is discovered. Not the dog, stupid; the planet. The dog wasn’t discovered until 1938.
 
-1933- German housewives begin to realize why that crazy wallpaper hanger with the mustache never came back to finish his work.
+1933 — German housewives begin to realize why that crazy wallpaper hanger with the mustache never came back to finish his work.
 
-1933-Hitler establishes the Third Reich, and announces that it will last for a thousand years. As matters develop, he is only 988 years off.
+1933 — Hitler establishes the Third Reich, and announces that it will last for a thousand years. As matters develop, he is only 988 years off.
 
-1934- John Dillinger is gunned down by police as he leaves a Chicago movie theater. And just to make the evening a complete washout, he didn’t enjoy the movie either.
+1934 — John Dillinger is gunned down by police as he leaves a Chicago movie theater. And just to make the evening a complete washout, he didn’t enjoy the movie either.
 
-1934-As if the Great Depression weren’t giving businessmen enough headaches, Ralph Nader is born.
+1934 — As if the Great Depression weren’t giving businessmen enough headaches, Ralph Nader is born.
 
-1938-Great Britain and Germany sign a peace treaty, thereby averting all possibility of WWII.
+1938 — Great Britain and Germany sign a peace treaty, thereby averting all possibility of WWII.
 
-1944-Hitler’s promise of Volkswagens for all Germans as soon as they’ve won the war doesn’t prove to be as strong an incentive as he had hoped.
+1944 — Hitler’s promise of Volkswagens for all Germans as soon as they’ve won the war doesn’t prove to be as strong an incentive as he had hoped.
 
 ------
 
@@ -438,14 +441,11 @@ The man replied, “My wife is poisoning me.”
 
 The Rabbi, very surprised by this, asks, “How can that be?”
 
-The man then pleads, “I’m telling you, I’m certain she’s poisoning me, what
-should I do?”
+The man then pleads, “I’m telling you, I’m certain she’s poisoning me, what should I do?”
 
-The Rabbi then offers, “Tell you what. Let me talk to her, I’ll see what I
-can find out and I’ll let you know.”
+The Rabbi then offers, “Tell you what. Let me talk to her, I’ll see what I can find out and I’ll let you know.”
 
-A week later the Rabbi calls the man and says, “Well, I spoke to your wife. I
-spoke to her on the phone for three hours. You want my advice?”
+A week later the Rabbi calls the man and says, “Well, I spoke to your wife. I spoke to her on the phone for three hours. You want my advice?”
 
 The man anxiously says, “Yes.”
 
@@ -476,8 +476,7 @@ I thought you were on a diet. Wai Yu Mun Ching?
 
 This is a tow away zone. No Pah King
 
-Do you know the lyrics to the Macarena? Wai Yu Sing Dum
-Song?
+Do you know the lyrics to the Macarena? Wai Yu Sing Dum Song?
 
 You are not very bright. Yu So Dum
 
@@ -499,15 +498,15 @@ Your body odor is offensive. Yu Stin Ki Pu
 
 One day there was a man who was walking through the forest and got lost. He wandered around for over a week, and was beginning to starve.
 
-He spotted a Bald Eagle who had just caught a fish and chased it, hoping to get it to drop the fish so he could eat it. Then he saw the bird land on a tree stump not far from him, so he picked up a stone to toss at it--hoping the bird would be frightened and fly away without the fish. But, weak as he was, his aim was off and he hit the poor bird square on the head, and killing it.
+He spotted a Bald Eagle who had just caught a fish and chased it, hoping to get it to drop the fish so he could eat it. Then he saw the bird land on a tree stump not far from him, so he picked up a stone to toss at it — hoping the bird would be frightened and fly away without the fish. But, weak as he was, his aim was off and he hit the poor bird square on the head, and killing it.
 
 “Well,” he thought to himself, “no sense letting it go to waste, if I leave it here it will just rot, and it could save my life if I eat it.”
 
-So, he built himself a little fire--using a couple of stones- -and cooked the eagle to eat. While it was cooking a ranger stumbled upon the man, and when he saw what he was up to, he immediately arrested him--because as you know, that is quite illegal!
+So, he built himself a little fire — using a couple of stones — and cooked the eagle to eat. While it was cooking a ranger stumbled upon the man, and when he saw what he was up to, he immediately arrested him — because as you know, that is quite illegal!
 
 The man told the ranger what had happened, and asked for a trial so he could explain the situation to a judge.
 
-So, the day of his trial he told the judge, “Please your Honor, it was a life or death situation! I was lost and starving, and I didn’t mean to harm the bird--I only wanted the fish! And when I accidentally killed it, well, I felt terrible but couldn’t see any reason to let it go to waste!”
+So, the day of his trial he told the judge, “Please your Honor, it was a life or death situation! I was lost and starving, and I didn’t mean to harm the bird — I only wanted the fish! And when I accidentally killed it, well, I felt terrible but couldn’t see any reason to let it go to waste!”
 
 The judge listened to the man’s story and deemed him, “Not guilty, on the grounds of extenuating circumstances.”
 
@@ -515,24 +514,33 @@ The man was very grateful, and thanked the judge for his fairness.
 
 Then, the judge leaned over and quietly asked the man, “Just between you and me, what DOES a Bald Eagle taste like anyway??”
 
-The man contemplated this for a moment and then spoke, “Well, it’s kind of hard to explain… but, I would say somewhere between a California Condor and a Spotted Owl.”
+The man contemplated this for a moment and then spoke, “Well, it’s kind of hard to explain … but, I would say somewhere between a California Condor and a Spotted Owl.”
 
 ------
 
 Reality is a crutch for people who can’t handle drugs.
+
 Keep honking, I’m reloading.
+
 Hang up and drive.
+
 Lord save me from your followers.
+
 Ask me about microwaving cats for fun and profit.
+
 I said “no” to drugs, but they just wouldn’t listen.
-Friends don’t let Friends drive Naked.
+
+Friends don’t let friends drive naked.
+
 If we aren’t supposed to eat animals, why are they made of meat?
+
 Lottery: A tax on people who are bad at math.
+
 Friends help you move. Real friends help you move bodies.
 
 ------
 
-On a busy Surgical floor the doctor stops the nurse to brief her on a patient’s condition. “This patient is a fellow physician and my favorite golf partner. His injury is serious and I fear he will not be able to play golf again unless you follow my orders exactly.”
+On a busy surgical floor the doctor stops the nurse to brief her on a patient’s condition. “This patient is a fellow physician and my favorite golf partner. His injury is serious and I fear he will not be able to play golf again unless you follow my orders exactly.”
 
 The doctor then began listing orders, “You must give an injection in a different location every twenty minutes followed by a second injection exactly five minutes after the first. He must take two pills at exactly every hour followed by one pill every fifteen minutes for eight hours. He must drink no more and no less than ten ounces of water every twenty-five minutes and must void between. Soak his arm in warm water for fifteen minutes then place ice for ten minutes and repeat over and over for the rest of the day. Give range of motion every thirty minutes. He requires a back rub and foot rub every hour. Feed him something tasty every hour. Be cheerful and do whatever he asks at all times. Chart his condition and vital signs every twenty minutes. You must do these things exactly as I ordered or his injury will not heal properly, and he will not able to play golf well.”
 
