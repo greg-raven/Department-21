@@ -8,7 +8,7 @@ Weâ€™ve had an important notice, that simply had to be passed on; for those whoâ
 
 As many of you know, each year the Internet must be shut down for 24 hours in order to allow us to clean it.
 
-The cleaning process, which eliminates dead e-mail and inactive ftp, www and gopher sites, allows for a better-working and faster Internet. This year, the cleaning process will take place from 23:59 pm (GMT) on March 31st until 00:01 a.m. (GMT) on April 2nd. During that 24-hour period, five powerful Internet-crawling robots situated around the world will search the Internet and delete any data that they find. In order to protect your valuable data from deletion we ask that you do the following:
+The cleaning process, which eliminates dead e-mail and inactive ftp, www and gopher sites, allows for a better-working and faster Internet. This year, the cleaning process will take place from 23:59 p.m. (GMT) on March 31st until 00:01 a.m. (GMT) on April 2nd. During that 24-hour period, five powerful Internet-crawling robots situated around the world will search the Internet and delete any data that they find. In order to protect your valuable data from deletion we ask that you do the following:
 
 1. Disconnect all terminals and local area networks from their Internet connections.
 

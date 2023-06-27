@@ -16,7 +16,7 @@ We know the line-up of every baseball team in the American and National Leagues 
 
 We’ll spend half a day looking for vitamin pills to make us live longer, then drive 80 miles an hour on slick pavement to make up for lost time.
 
-We will work hard on a farm so we can move into town…. where we can make more money so we can move back to the farm.
+We will work hard on a farm so we can move into town … where we can make more money so we can move back to the farm.
 
 We get upset we’re spending over a billion dollars for education, but spend three billion dollars a year for cigarettes.
 

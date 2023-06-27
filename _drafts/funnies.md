@@ -163,7 +163,7 @@ Q: How many Jewish mothers does it take the change a light bulb?
 A: (Sigh) Don’t bother, I’ll sit in the dark, I don’t want to be a nuisance to anybody.
 
 
-Sam Levy was driving down the road, gets pulled over by a policeman. Walking up to Sam’s car, the policeman says, “Your wife fell out the car 5 miles back.” Sam replies, “Thank G-d for that…I’d thought I’d gone deaf!”
+Sam Levy was driving down the road, gets pulled over by a policeman. Walking up to Sam’s car, the policeman says, “Your wife fell out the car 5 miles back.” Sam replies, “Thank G-d for that … I’d thought I’d gone deaf!”
 
 
 Short summary of every Jewish Holiday: They tried to kill us, we won, let’s eat.”
@@ -186,7 +186,7 @@ A young Jewish man calls his mother and says, “Mom, I’m bringing home a wond
 
 “You have to have an Indian name too, Mom,” he says.
 
-“I already do,” says the mother… “Just call me Sitting Shiva.”
+“I already do,” says the mother … “Just call me Sitting Shiva.”
 
 
 A man calls his mother in Florida. “Mom, how are you?”
@@ -202,7 +202,7 @@ A Jewish boy comes home from school and tells his mother he’s been given a
 part in the school play.
 “Wonderful. What part is it?”
 The boy says, “I play the part of the Jewish husband.”
-The mother scowls and says… “Go back and tell the teacher you want a speaking part.”
+The mother scowls and says … “Go back and tell the teacher you want a speaking part.”
 
 
 Jewish telegram: “Begin worrying. Details to follow.”
@@ -278,7 +278,7 @@ go “plink” at the bottom.
 - Stare, grinning, at another passenger for a while, and then
 announce: “I’ve got new socks on!”
 - When at least 8 people have boarded, moan from the back:
-“Oh, not now… motion sickness!”
+“Oh, not now … motion sickness!”
 - Bet the other passengers you can fit a quarter in your
 nose.
 - Frown and mutter “gotta go, gotta go” then sigh and say
@@ -956,7 +956,7 @@ A full set of teeth.
 
 ------
 
-If you love something, set it free. If it comes back, it will always be yours. If it doesn’t come back, it was never yours to begin with. But, if it just sits in your living room, messes up your stuff, eats your food, uses your telephone, takes your money, and doesn’t appear to realize that you had set it free…..You either married it or gave birth to it.
+If you love something, set it free. If it comes back, it will always be yours. If it doesn’t come back, it was never yours to begin with. But, if it just sits in your living room, messes up your stuff, eats your food, uses your telephone, takes your money, and doesn’t appear to realize that you had set it free … You either married it or gave birth to it.
 
 Insanity is my only means of relaxation.
 
@@ -986,7 +986,7 @@ Skinny people irritate me! Especially when they say things like, “You know, so
 
 A friend of mine confused her valium with her birth control pills. She had 14 kids, but she doesn’t really care.
 
-They keep telling us to get in touch with our bodies. Mine isn’t all that communicative but I heard from it the other day after I said, “Body, how’d you like to go to the six o’clock class in vigorous toning?” Clear as a bell my body said, “listen witch… do it and die.”
+They keep telling us to get in touch with our bodies. Mine isn’t all that communicative but I heard from it the other day after I said, “Body, how’d you like to go to the six o’clock class in vigorous toning?” Clear as a bell my body said, “listen witch … do it and die.”
 
 The trouble with some women is that they get all excited about nothing and then they marry him.
 
@@ -1200,15 +1200,15 @@ As soon as he is sure that his son has suffered no lasting ill-effects, the fath
 
 No, Windows is not a virus. Here’s what viruses do:
 
-1.They replicate quickly — okay, Windows does that.
+1. They replicate quickly — OK, Windows does that.
 
-2.Viruses use up valuable system resources, slowing down the system as they do so — okay, Windows does that.
+2. Viruses use up valuable system resources, slowing down the system as they do so — okay, Windows does that.
 
-3.Viruses will, from time to time, trash your hard disk — okay, Windows does that too.
+3. Viruses will, from time to time, trash your hard disk — okay, Windows does that too.
 
-4.Viruses are usually carried, unknown to the user, along with valuable programs and systems. Sigh… Windows does that, too.
+4. Viruses are usually carried, unknown to the user, along with valuable programs and systems. Sigh … Windows does that, too.
 
-5.Viruses will occasionally make the user suspect their system is too slow (see 2) and the user will buy new hardware. Yup, Windows does that, too.
+5. Viruses will occasionally make the user suspect their system is too slow (see 2) and the user will buy new hardware. Yup, Windows does that, too.
 
 Until now it seems Windows is a virus but there are fundamental differences: Viruses are well supported by their authors, are running on most systems, their program code is fast, compact and efficient and they tend to become more sophisticated as they mature.
 
@@ -1218,65 +1218,37 @@ It’s a bug.
 
 ------
 
-An old cowboy dressed to kill with cowboy shirt, hat, jeans, spurs and chaps went to a bar and ordered a drink. As he sat there sipping his whiskey, a young lady sat down next to him. After she ordered her drink she turned to the cowboy and asked him, “Are you a real cowboy?”
+An old cowboy dressed to kill with cowboy shirt, hat, jeans, spurs, and chaps went to a bar and ordered a drink. As he sat there sipping his whiskey, a young lady sat down next to him. After she ordered her drink she turned to the cowboy and asked him, “Are you a real cowboy?”
 
-“Well, I have spent my whole life on the ranch herding cows, breaking horses, mending fences_I guess I am,” replied the cowboy. After a short while he asked her what she was.
+“Well, I have spent my whole life on the ranch herding cows, breaking horses, mending fences … I guess I am,” replied the cowboy. After a short while he asked her what she was.
 
 “I’ve never been on a ranch so I’m not a cowboy, but I am a lesbian. I spend my whole day thinking about women. As soon as I get up in the morning I think of women, when I eat, shower, watch TV, everything seems to make me think of women,” said the young lady.
 
 A short while later she left and the cowboy ordered another drink.
 
-A couple sat down next to him and asked, “Are you a real cowboy?” “I always thought I was but I just found out that I’m a lesbian”.
+A couple sat down next to him and asked, “Are you a real cowboy?”
+
+“I always thought I was but I just found out that I’m a lesbian.”
 
 ------
 
-In March 1992 a man living in Newtown near Boston Massachusetts
-received a bill for his as yet unused credit card stating that he owed
-$0.00. He ignored it and threw it away.
+In March 1992 a man living in Newtown near Boston, Massachusetts, received a bill for his as yet unused credit card stating that he owed $0.00. He ignored it and threw it away.
 
-In April he received another and threw that one away too.
-The following month the credit card company sent him a very nasty
-note stating they were going to cancel his card if he didn’t send them
-$0.00 by return of post. He called them, talked to them, they said it
-was a computer error and told him they’d take care of it.
+In April he received another and threw that one away too. The following month the credit card company sent him a very nasty note stating they were going to cancel his card if he didn’t send them $0.00 by return of post. He called them, talked to them, they said it was a computer error and told him they’d take care of it.
 
-The following month he decided that it was about time that he tried
-out the troublesome credit card figuring that if there were purchases
-on his account it would put an end to his ridiculous predicament.
-However, in the first store that he produced his credit card in payment
-for his purchases he found that his card had been canceled. He called
-the credit card company who apologized for the computer error once
-again and said that they would take care of it.
+The following month he decided that it was about time that he tried out the troublesome credit card figuring that if there were purchases on his account it would put an end to his ridiculous predicament. However, in the first store that he produced his credit card in payment for his purchases he found that his card had been canceled. He called the credit card company who apologized for the computer error once again and said that they would take care of it.
 
-The next day he got a bill for $0.00 stating that payment was now
-overdue. Assuming that having spoken to the credit card company
-only the previous day the latest bill was yet another mistake he
-ignored it, trusting that the company would be as good as their word and sort
-the problem out.
+The next day he got a bill for $0.00 stating that payment was now overdue. Assuming that having spoken to the credit card company only the previous day the latest bill was yet another mistake he ignored it, trusting that the company would be as good as their word and sort the problem out.
 
-The next month he got a bill for $0.00 stating that he had 10 days to
-payhis account or the company would have to take steps to recover the
-debt.
+The next month he got a bill for $0.00 stating that he had 10 days to payhis account or the company would have to take steps to recover the debt.
 
-Finally giving in, he thought he would play the company at their own
-game and mailed them a check for $0.00. The computer duly processed
-his account and returned a statement to the effect that he now owed
-the credit card company nothing at all.
+Finally giving in, he thought he would play the company at their own game and mailed them a check for $0.00. The computer duly processed his account and returned a statement to the effect that he now owed the credit card company nothing at all.
 
-A week later, the man’s bank called him asking him what he was doing
-writing a check for $0.00. After a lengthy explanation the bank
-replied that the $0.00 check had caused their check processing software to
-fail. The bank could not now process ANY checks from ANY of their
-customers that day because the check for $0.00 was causing the
-computerto crash.
+A week later, the man’s bank called him asking him what he was doing writing a check for $0.00. After a lengthy explanation the bank replied that the $0.00 check had caused their check processing software to fail. The bank could not now process ANY checks from ANY of their customers that day because the check for $0.00 was causing the computer to crash.
 
-The following month the man received a letter from the credit card
-company claiming that his check had bounced and that he now owed them
-$0.00 and unless he sent a check by return of post they would be
-taking steps to recover the debt.
+The following month the man received a letter from the credit card company claiming that his check had bounced and that he now owed them $0.00 and unless he sent a check by return of post they would be taking steps to recover the debt.
 
-The man, who had been considering buying his wife a computer for her
-birthday, bought her a typewriter instead.
+The man, who had been considering buying his wife a computer for her birthday, bought her a typewriter instead.
 
 ------
 
@@ -1314,13 +1286,13 @@ Mr. Jefferson: Can we stick to the substance of the document, please? Shoot. Low
 
 Mr. Sherman: What have you got, a Toshiba? No, mine isn’t compatible.
 
-Mr. Franklin: Hello, PCs Philadelphia? What does it mean when the floppy drive buzzes? OK, I’ll hold…
+Mr. Franklin: Hello, PCs Philadelphia? What does it mean when the floppy drive buzzes? OK, I’ll hold …
 
 Mr. Livingston: The “In Congress” part here at the top; have you thought about blowing that up really big and maybe centering it in 72 point Helvetica?
 
 Mr. Jefferson: Not a bad idea. Aw, nuts! Word macro virus! I can’t save the file.
 
-Mr. Franklin: That’s all right, Thomas. We can manage. Here, borrow my quill pen…
+Mr. Franklin: That’s all right, Thomas. We can manage. Here, borrow my quill pen …
 
 ------
 
@@ -1328,7 +1300,7 @@ If you are obsessive-compulsive, press 1 repeatedly.
 
 If you are co-dependent, please ask someone else to press 2 for you.
 
-If you have multiple personalities, press 3,4,5, and 6.
+If you have multiple personalities, press 3, 4, 5, and 6.
 
 If you are paranoid, we know who you are and what you want. Stay on the line so we can trace your call.
 
@@ -1348,7 +1320,7 @@ If you have a post-traumatic stress disorder, slowly and carefully press 0000.
 
 If you have a bi-polar disorder, please leave a message after the beep. Or before the beep. Or after the beep. Please wait for the beep.
 
-If you have short-term memory loss, press 9. If you have short-term memory loss, press 9. If you have short-term memory loss, press 9. If you have short-term memory loss press 9.
+If you have short-term memory loss, press 9. If you have short-term memory loss, press 9. If you have short-term memory loss, press 9. If you have short-term memory loss, press 9.
 
 If you have low self esteem, please hang up. All of our operators are too busy to talk to you.
 
@@ -1410,7 +1382,7 @@ his thumb behind him says, “Dog shit, 20 feet back.”
 
 The following is an excerpt from a children’s book, “Captain
 Underpants and the Perilous Plot of Professor Poopypants”, by Dav Pilkey:
-The evil Professor forces everyone to assume new names…
+The evil Professor forces everyone to assume new names …
 
 Use the first letter of your first name to determine your NEW first name:
 
@@ -1441,8 +1413,7 @@ x = skipper
 y = dinky
 z = zsa-zsa
 
-Use the first letter of your last name to dertermine the first
-half of your NEW last name:
+Use the first letter of your last name to dertermine the first half of your NEW last name:
 
 a = diaper
 b = toilet
@@ -1471,8 +1442,7 @@ x =tofu
 y = gorilla
 z = stinker
 
-Use the last letter of your last name to dertermine the second
-half of your NEW last name:
+Use the last letter of your last name to dertermine the second half of your NEW last name:
 
 a = head
 b = mouth
@@ -1497,61 +1467,65 @@ t = sniffer
 u = sprinkles
 v = kisser
 w = squirt
-x =humperdinck
+x = humperdinck
 y = brains
 z = juice
 
 ------
 
-01. Your coworker has 8 body piercings and none are visible.
-02. You make over $250,000 and still can’t afford a house.
-03. You take a bus and are shocked at 2 people
-carrying on a conversation in English.
-04. Your child’s 3rd grade teacher has purple hair,
-a nose ring, and is named Breeze.
-05. You can’t remember… is pot illegal?
-06. You’ve been to more than one baby shower that
-has two mothers and a sperm donor.
-07. You have a very strong opinion about where your
-coffee beans are grown and can taste the difference between Sumatra
-and
-Ethiopian.
-08. You also know which Brentwood restaurant serves
-the freshest arugula.
-09. A really great parking space can move you to tears.
+1. Your coworker has 8 body piercings and none is visible.
+
+2. You make over $250,000 and still can’t afford a house.
+
+3. You take a bus and are shocked at 2 people carrying on a conversation in English.
+
+4. Your child’s 3rd grade teacher has purple hair, a nose ring, and is named Breeze.
+
+5. You can’t remember … is pot illegal?
+
+6. You’ve been to more than one baby shower that has two mothers and a sperm donor.
+
+7. You have a very strong opinion about where your coffee beans are grown and can taste the difference between Sumatra and Ethiopian.
+
+8. You also know which Brentwood restaurant serves the freshest arugula.
+
+9. A really great parking space can move you to tears.
+
 10. A low speed pursuit will interrupt ANY TV broadcast.
+
 11. Gas cost 75 cents per gallon more than anywhere else in the U.S.
-12. A man gets on the bus in full leather regalia and crotchless
-chaps. You don’t even notice.
+
+12. A man gets on the bus in full leather regalia and crotchless chaps. You don’t even notice.
+
 13. A woman gets on the bus with live poultry. You don’t even notice.
-14. Unlike back home, the guy at 8:30 a.m. at
-Starbucks wearing the baseball cap and sunglasses who looks like
-George
-Clooney IS George Clooney.
+
+14. Unlike back home, the guy at 8:30 a.m. at Starbucks wearing the baseball cap and sunglasses who looks like George Clooney *is* George Clooney.
+
 15. Your car insurance costs as much as your house payment.
-16. The gym is packed at 3 PM… on a workday.
-17. Your hairdresser is straight, your plumber is gay, the woman who
-delivers your mail is into S&amp;M, and your Mary Kay rep is a guy in
-drag.
-18. It’s sprinkling and there’s a report on every
-news station about “STORM WATCH 2000.”
-19. You have to leave the big company meeting early
-because Billy Blanks himself is teaching the 4:00 PM Tae Bo class.
+
+16. The gym is packed at 3 p.m. … on a workday.
+
+17. Your hairdresser is straight, your plumber is gay, the woman who delivers your mail is into S&amp;M, and your Mary Kay rep is a guy in drag.
+
+18. It’s sprinkling and there’s a report on every news station about “STORM WATCH 2000.”
+
+19. You have to leave the big company meeting early because Billy Blanks himself is teaching the 4:00 p.m. Tae Bo class.
+
 20. Your paperboy has a two-picture deal.
-21. The three-hour traffic jam you just sat through
-wasn’t caused by a horrific nine-car Freeway pileup, but by
-everyone slowing to rubberneck at a lost shoe lying on the shoulder.
-22. The weatherman talks about the weather in other
-parts of the country, as if we really care.
-23. You pass an elementary school playground and the
-children are all busy with their cell phones or pagers.
-24. It’s sprinkling outside, so you leave for work
-an hour or two early to avoid all the weather-related accidents.
-25. You and your DOG have therapists.
+
+21. The three-hour traffic jam you just sat through wasn’t caused by a horrific nine-car Freeway pileup, but by everyone slowing to rubberneck at a lost shoe lying on the shoulder.
+
+22. The weatherman talks about the weather in other parts of the country, as if we really care.
+
+23. You pass an elementary school playground and the children are all busy with their cell phones or pagers.
+
+24. It’s sprinkling outside, so you leave for work an hour or two early to avoid all the weather-related accidents.
+
+25. You and your dog have therapists.
 
 ------
 
-At a recent computer expo (COMDEX), Bill Gates reportedly compared the computer industry with the auto industry and stated “If GM had kept up with the technology like the computer industry has, we would all be driving twenty-five dollar cars that got 1000 miles to the gallon.”
+At a recent computer expo (COMDEX), Bill Gates reportedly compared the computer industry with the auto industry and stated “If GM had kept up with the technology like the computer industry has, we would all be driving twenty-five dollar cars that got 1,000 miles to the gallon.”
 
 In a response to Mr. Gates’ comments, General Motors issued the following press release (by Mr. Welch himself, the GM CEO) “If GM had developed technology like Microsoft, we would all be driving cars with the following characteristics:
 
@@ -1561,11 +1535,11 @@ In a response to Mr. Gates’ comments, General Motors issued the following pres
 
 3. Occasionally, executing a maneuver, such as a left turn, would cause your car to shut down and refuse to restart, in which case you would have to reinstall the engine.
 
-4. Only one person at a time could use the car, unless you bought “Car95” or “CarNT”. But then you would have to buy more seats.
+4. Only one person at a time could use the car, unless you bought “Car95” or “CarNT.” But then you would have to buy more seats.
 
-5. Macintosh would make a car that was powered by the sun, reliable, and five times as fast and twice as easy to drive.
+5. Macintosh would make a car that was powered by the sun, reliable, five times as fast, and twice as easy to drive.
 
-6. The oil, water temperature and alternator warning lights would be replaced by one “general car default” warning light.
+6. The oil, water, temperature, and alternator warning lights would be replaced by one “general car default” warning light.
 
 7. New seats would force everyone to have the same size bottom.
 
@@ -1667,23 +1641,19 @@ In a response to Mr. Gates’ comments, General Motors issued the following pres
 
 ------
 
-Friends help you move…..
-Real friends help you move bodies.
+Friends help you move.
 
+Real friends help you move bodies.
 
 ------
 
-A father came home from a long business trip to find his son
-riding a very fancy new 10 speed bike. “Where did you get the
-money for the bike? It must have cost $300.”
+A father came home from a long business trip to find his son riding a very fancy new 10-speed bike. “Where did you get the money for the bike? It must have cost $300.”
 
 “Easy, Dad,” the boy replied. “I earned it hiking.”
 
 “Come on,” the father said. “Tell me the truth.”
 
-“That is the truth,” the boy replied. “Every night you were gone,
-Mr. Reynolds from the grocery store would come over to see
-Mom. He’d give me a $20 bill and tell me to take a hike!”
+“That is the truth,” the boy replied. “Every night you were gone, Mr. Reynolds from the grocery store would come over to see Mom. He’d give me a $20 bill and tell me to take a hike!”
 
 ------
 
@@ -1789,7 +1759,7 @@ A. Yellow B. Purple C. Green D. Red
 
 
 
-Profile for women…
+Profile for women …
 
 A. If you chose the Yellow Teletubbie. You are bubbly and cheerful. People come to you when troubled because you always make them feel better about themselves. You are apt to clash with Red Teletubbie people.
 
@@ -1799,7 +1769,7 @@ C. If you chose the Green Teletubbie. You are calm and reliable. Family plays a 
 
 D.If you chose the Red Teletubbie. You are bold and emotional. You are fierce in your opinions and quick to anger, but stick by your friends through thick and thin. Purple and Red Teletubbie people are an explosive combination.
 
-Profile for men…
+Profile for men …
 
 A. If you chose the Yellow Teletubbie. You are gay.
 
@@ -1849,7 +1819,7 @@ You read computer manuals faster than everyone else reads fiction novels.
 
 At computer trade shows you map out your path of the exhibit hall in advance.
 
-And finally…
+And finally …
 
 You actually understood all the humor in this message.
 
@@ -1859,19 +1829,23 @@ You actually understood all the humor in this message.
 
 
 Teaching Math in 1950:
+
 A logger sells a truckload of lumber for $100. His cost of production is
 4/5 of the price. What is his profit?
 
 Teaching Math in 1960:
+
 A logger sells a truckload of lumber for $100. His cost of production
 is 4/5 of the price, or $80. What is his profit?
 
 
 Teaching Math in 1960:
+
 A logger sells a truckload of lumber for $100. His cost of production
 is 4/5 of the price, or $80. What is his profit?
 
 Teaching Math in 1970:
+
 A logger exchanges a set “L” of lumber for a set “M” of money. The
 cardinality of set “M” is 100. Each element is worth one dollar. Make
 100 dots representing the elements of the set “M”. The set “C”, the cost of
@@ -1880,23 +1854,26 @@ as a subset of set “M” and answer the following question: What is the
 cardinality of the set “P” for profits?
 
 Teaching Math in 1980:
+
 A logger sells a truckload of lumber for $100. Her cost of production
 is $80 and her profit is $20. Your assignment: Underline the number 20.
 
 Teaching Math in 1990:
+
 By cutting down beautiful forest trees, the logger makes $20. What do
 you think of this way of making a living? Topic for class participation
 after answering the question: How did the forest birds and squirrels feel as
 the logger cut down the trees? There are no wrong answers.
 
 Teaching Math in 1996:
+
 By laying off 40% of its loggers, a company improves its stock price
 from $80 to $100. How much capital gain per share does the CEO make by
 exercising his stock options at $80? Assume capital gains are no longer
-taxed,
-because this encourages investment.
+taxed, because this encourages investment.
 
 Teaching Math in 1997:
+
 A company out-sources all of its loggers. The firm saves on benefits,
 and when demand for its product is down, the logging work force can easily be
 cut back. The average logger employed by the company earned $50,000, and three
@@ -1904,6 +1881,7 @@ weeks vacation, a nice retirement plan and medical insurance. The
 contracted logger charges $50 an hour. Was outsourcing a good move?
 
 Teaching Math in 1998:
+
 A laid-off logger with four kids at home and a ridiculous alimony from
 his first failed marriage comes into the logging-company corporate offices and
 goes postal, mowing down 16 executives and a couple of secretaries, and
@@ -1911,6 +1889,7 @@ gets lucky when he nails a politician on the premises collecting his kickback.
 Was outsourcing the loggers a good move for the company?
 
 Teaching Math in 1999:
+
 A laid-off logger serving time in Folsom for blowing away 19 people is
 being trained as a COBOL programmer in order to work on Y2K projects.
 What is the probability that the automatic cell doors will open on their own
@@ -2159,23 +2138,21 @@ That clears up a lot of things.
 
 A young couple got married and left on their honeymoon. When they got back, the bride immediately called her mother. Her mother asked, “How was the honeymoon?”
 
-“Oh, mama,” she replied, “the honeymoon was wonderful! So romantic…”
+“Oh, mama,” she replied, “the honeymoon was wonderful! So romantic …”
 
-Suddenly she burst out crying. “But, mama, as soon as we returned Sam started using the most horrible language…things I’d never heard before! I mean, all these awful 4-letter words! You’ve got to come get me and take me home… Please mama!”
+Suddenly she burst out crying. “But, mama, as soon as we returned Sam started using the most horrible language … things I’d never heard before! I mean, all these awful 4-letter words! You’ve got to come get me and take me home … Please mama!”
 
 “Sarah, Sarah,” her mother said, “calm down! Tell me, what could be so awful? What 4-letter words?”
 
 “Please don’t make me tell you, mama,” wept the daughter, “I’m so embarrassed they’re just too awful! Come get me, please!”
 
-“Darling, baby, you must tell me what has you so upset… Tell your mother these horrible 4-letter words!”
+“Darling, baby, you must tell me what has you so upset … Tell your mother these horrible 4-letter words!”
 
-Still sobbing, the bride said, “Oh, mama…words like DUST, WASH, IRON, COOK…!”
+Still sobbing, the bride said, “Oh, mama … words like DUST, WASH, IRON, COOK …!”
 
 ------
 
--- If you have too many years of college, this may actually make sense. Be afraid. Be very afraid.
-
-==============================================================
+If you have too many years of college, this may actually make sense. Be afraid. Be very afraid.
 
 Solipsism Warning:
 
@@ -2215,9 +2192,9 @@ Warning! this product has been found to cause cancer and ephysema, and to lead t
 
 ------
 
-An American, a Scot and a Canadian were in a terrible car accident. They were all brought to the same emergency room, but all three of them died before they arrived. Just as they were about to put the toe tag on the American, he stirred and opened his eyes. Astonished, the doctors and nurses present asked him what happened.
+An American, a Scot, and a Canadian were in a terrible car accident. They were all brought to the same emergency room, but all three of them died before they arrived. Just as they were about to put the toe tag on the American, he stirred and opened his eyes. Astonished, the doctors and nurses present asked him what happened.
 
-“Well, “ said the American, “I remember the crash, and then there was a beautiful light, and then the Canadian and the Scot and I were standing at the gates of heaven. St. Peter approached us and said that we were all too young to die, and that for a donation of $50, we could return to the earth. So of course I pulled out my wallet and gave him the $50, and the next thing I knew I was back here.”
+“Well,” said the American, “I remember the crash, and then there was a beautiful light, and then the Canadian and the Scot and I were standing at the gates of heaven. St. Peter approached us and said that we were all too young to die, and that for a donation of $50, we could return to the earth. So of course I pulled out my wallet and gave him the $50, and the next thing I knew I was back here.”
 
 “That’s amazing!” said one of the doctors, “But what happened to the other two?”
 
@@ -2228,21 +2205,19 @@ An American, a Scot and a Canadian were in a terrible car accident. They were al
 
 Volunteer Fire Department
 
----------------------------
-
 A fire started on some grassland near a farm in Indiana. The fire department from the nearby town was called to put the fire out.
 
 The fire proved to be more than the small town fire department could handle, so someone suggested that a rural volunteer fire department be called. Though there was doubt that they would be of any assistance, the call was made.
 
 The volunteer fire department arrived in a dilapidated old fire truck. They drove straight towards the fire and stopped in the middle of the flames. The volunteer firemen jumped off the truck and frantically started spraying water in all directions. Soon they had snuffed out the center of the fire, breaking the blaze into two easily controllable parts.
 
-The farmer was so impressed with the volunteer fire department’s work and so grateful that his farm had been spared, that he presented the volunteer fire department with a check for $1000.
+The farmer was so impressed with the volunteer fire department’s work and so grateful that his farm had been spared, that he presented the volunteer fire department with a check for $1,000.
 
 A local news reporter asked the volunteer fire captain what the department planned to do with the funds. “That should be obvious,” he responded, “the first thing we’re gonna do is get the brakes fixed on that stupid fire truck.”
 
 ------
 
-The liberal UC San Francisco Math Placement Test- I knew those people were wacky
+The liberal UC San Francisco Math Placement Test
 
 1. Zelda and Jane were given a Rottweiler at their commitment ceremony. If their dog needs to be walked two miles a day and they walk at a rate of one mile per hour, how much time will they spend discussing their relationship in public?
 
@@ -2266,7 +2241,7 @@ The liberal UC San Francisco Math Placement Test- I knew those people were wacky
 
 Advanced Placement Students Only:
 
-11. Katie, Trip, Ling, John-John and Effie share a three-bedroom apartment on Guerrero for $2400 a month. Effie and Trip can share one bedroom, but the other three need their own rooms with separate ISDN lines to run their web servers. None of them wants to use the futon in the living room as a bed, and they each want to save $650 in three months to attend Burning Man.
+11. Katie, Trip, Ling, John-John, and Effie share a three-bedroom apartment on Guerrero for $2,400 a month. Effie and Trip can share one bedroom, but the other three need their own rooms with separate ISDN lines to run their web servers. None of them wants to use the futon in the living room as a bed, and they each want to save $650 in three months to attend Burning Man.
 
 What is their best option: a) All five roommates accept a $12/hour job-share as handgun monitors at Mission High. b) Ask Miles, the bisexual auto mechanic, to share Effie and Trip’s bedroom for $500/month. c) Petition the Board of Supervisors to advance Ling her annual digital-artists-of-color stipend. d) Rent strike.
 
@@ -2275,16 +2250,19 @@ What is their best option: a) All five roommates accept a $12/hour job-share as 
 
 
 Rule One:
+
 If you pull into my driveway and honk you’d better be delivering a
 package, because you’re sure not picking anything up.
 
 Rule Two:
+
 You do not touch my daughter in front of me. You may glance at
 her, so long as you do not peer at anything below her neck. If you
 cannot keep your eyes or hands off of my daughter’s body, I will remove
 them.
 
 Rule Three:
+
 I am aware that it is considered fashionable for boys of your age
 to wear their trousers so loosely that they appear to be falling off
 their hips. Please do not take this as an insult, but you and all of your
@@ -2297,12 +2275,14 @@ electric nail gun and fasten your trousers securely in place to your
 waist.
 
 Rule Four:
+
 I’m sure you’ve been told that in today’s world, sex without
 utilizing a “Barrier method” of some kind can kill you. Let me elaborate,
 when it comes to sex, I am the barrier, and I will kill you.
 
 
 Rule Five:
+
 It is usually understood that in order for us to get to know
 each other, we should talk about sports, politics, and other issues of
 the day. Please do not do this. The only information I require from you
@@ -2310,6 +2290,7 @@ is an indication of when you expect to have my daughter safely back at my
 house, and the only word I need from you on this subject is: early.”
 
 Rule Six:
+
 I have no doubt you are a popular fellow, with many opportunities
 to date other girls. This is fine with me as long as it is okay with my
 daughter. Otherwise, once you have gone out with my little girl, you will
@@ -2317,6 +2298,7 @@ continue to date no one but her until she is finished with you. If you
 make her cry, I will make you cry.
 
 Rule Seven:
+
 As you stand in my front hallway, waiting for my daughter to
 appear, and more than an hour goes by, do not sigh and fidget. If you
 want to be on time for the movie, you should not be dating. My daughter
@@ -2325,6 +2307,7 @@ the Golden Gate Bridge. Instead of just standing there, why don’t you do
 something useful, like changing the oil in my car?
 
 Rule Eight:
+
 The following places are not appropriate for a date with my
 daughter: Places where there are beds, sofas, or anything softer than a
 wooden stool. Places where there is darkness. Places where there is
@@ -2336,6 +2319,7 @@ romantic or sexual theme are to be avoided; movies which features chain
 saws are okay. Hockey games are okay. Old folks homes are better.
 
 Rule Nine:
+
 Do not lie to me. I may appear to be a potbellied, balding,
 middle-aged, dimwitted has-been. But on issues relating to my daughter,
 I am the all-knowing, merciless God of your universe. If I ask you
@@ -2344,6 +2328,7 @@ truth, the whole truth and nothing but the truth. I have a shotgun, a
 shovel, and five acres behind the house. Do not trifle with me.
 
 Rule Ten:
+
 Be afraid. Be very afraid. It takes very little for me to
 mistake the sound of your car in the driveway for a chopper coming in
 over a rice paddy near Hanoi. When my Agent Orange starts acting up, the
@@ -2354,9 +2339,7 @@ password, announce in a clear voice that you have brought my daughter
 home safely and early, then return to your car — there is no need for
 you to come inside. The camouflaged face at the window is mine.
 
-
 Thank you
-
 
 ------
 
@@ -2384,9 +2367,7 @@ Two men waiting at the Pearly Gates strike up a conversation.
 
 How about you, how did you die?”
 
-“I had a heart attack,” says the first man.
-
-“You see, I knew my wife was cheating on me, so one day I showed up at home unexpectedly. I ran up to the bedroom, and found her alone, knitting. I ran down to the basement, but no one was hiding there, either. I ran up to the second floor, but no one was hiding there either. I ran asfast as I could to the attic, and just as I got there, I had a massive heart attack and died.”
+“I had a heart attack,” says the first man. “You see, I knew my wife was cheating on me, so one day I showed up at home unexpectedly. I ran up to the bedroom, and found her alone, knitting. I ran down to the basement, but no one was hiding there, either. I ran up to the second floor, but no one was hiding there either. I ran as fast as I could to the attic, and just as I got there, I had a massive heart attack and died.”
 
 The second man shakes his head. “That’s so ironic,” he says.
 
@@ -2432,7 +2413,7 @@ The brunette explains, “My sister’s a blonde. She’ll read it slow.”
 
 Q: How many women with PMS does it take to change a light bulb?
 
-A: One. Only ONE!! And do you know WHY it only takes ONE? Because no one else in this house knows HOW to change a light bulb. They don’t even know the bulb is BURNED OUT. They would sit in this house in the dark for THREE DAYS before they figured it OUT. And once they figured it out they wouldn’t be able to find the light bulbs despite the fact that they’ve been in the SAME CUPBOARD for the past SEVENTEEN YEARS. But if they did, by some miracle, actually find the light bulbs, TWO DAYS LATER the chair that they dragged from two rooms over to stand on to change the STUPID light bulb would STILL BE IN THE SAME SPOT!! AND UNDERNEATH IT WOULD BE THE CRUMPLED WRAPPER THE STUPID @*!#$% LIGHT BULBS CAME IN! WHY?! BECAUSE NO ONE IN THIS HOUSE EVER CARRIES OUT THE GARBAGE!! IT’S A WONDER WE HAVEN’T ALL SUFFOCATED FROM THE PILES OF GARBAGE THAT ARE 12 FEET DEEP THROUGHOUT THE ENTIRE HOUSE. THE HOUSE!! IT WOULD TAKE AN ARMY TO CLEAN THIS… I’m sorry…what did you ask me?
+A: One. Only ONE!! And do you know WHY it only takes ONE? Because no one else in this house knows HOW to change a light bulb. They don’t even know the bulb is BURNED OUT. They would sit in this house in the dark for THREE DAYS before they figured it OUT. And once they figured it out they wouldn’t be able to find the light bulbs despite the fact that they’ve been in the SAME CUPBOARD for the past SEVENTEEN YEARS. But if they did, by some miracle, actually find the light bulbs, TWO DAYS LATER the chair that they dragged from two rooms over to stand on to change the STUPID light bulb would STILL BE IN THE SAME SPOT!! AND UNDERNEATH IT WOULD BE THE CRUMPLED WRAPPER THE STUPID @*!#$% LIGHT BULBS CAME IN! WHY?! BECAUSE NO ONE IN THIS HOUSE EVER CARRIES OUT THE GARBAGE!! IT’S A WONDER WE HAVEN’T ALL SUFFOCATED FROM THE PILES OF GARBAGE THAT ARE 12 FEET DEEP THROUGHOUT THE ENTIRE HOUSE. THE HOUSE!! IT WOULD TAKE AN ARMY TO CLEAN THIS … I’m sorry … what did you ask me?
 
 ------
 
@@ -2460,7 +2441,7 @@ You have scored an eight out of ten on our automated health maintenance phone sy
 
 If you think the problem has terminated, please hang up now as other subscribers may be trying to call our system.
 
-Your call is important so do not hang up. You have selected “1”, so please do not hang up, your call will be answered by the next available nurse manager…All of our nurse managers are currently helping other subscribers and the next available nurse manager will get to you as soon as possible.
+Your call is important so do not hang up. You have selected “1”, so please do not hang up, your call will be answered by the next available nurse manager … All of our nurse managers are currently helping other subscribers and the next available nurse manager will get to you as soon as possible.
 
 If you feel that you have made this call in error, please hang up now.
 
@@ -2747,7 +2728,25 @@ George Carlin
 
 ------
 
-A small boy is sent to bed by his father. Five minutes later: “Da-ad…” “What?” “I’m thirsty. Can you bring me a drink of water?” “No. You had your chance. Lights out.” Five minutes later: “Da-aaaad…” “WHAT?” “I’m THIRSTY…Can I have a drink of water??” “I told you NO! If you ask again I’ll have to spank you!!” Five minutes later: “Daaaa-aaaad…” “WHAT??!!” “When you come in to spank me, can you bring me a drink of water?”
+A small boy is sent to bed by his father. Five minutes later: “Da-ad …”
+
+“What?”
+
+“I’m thirsty. Can you bring me a drink of water?”
+
+“No. You had your chance. Lights out.”
+
+Five minutes later: “Da-aaaad…”
+
+“WHAT?” “I’m THIRSTY … Can I have a drink of water??”
+
+“I told you NO! If you ask again I’ll have to spank you!!”
+
+Five minutes later: “Daaaa-aaaad…”
+
+“WHAT??!!”
+
+“When you come in to spank me, can you bring me a drink of water?”
 
 
 ******************************************************************
@@ -2761,11 +2760,13 @@ One summer evening during a violent thunderstorm a mother was tucking her small 
 
 
 ******************************************************************
-A mother took her three-year-old daughter to church for the first time The church lights were lowered, and then the choir came down the aisle, carrying lighted candles. All was quiet until the little one started to sing in a loud voice, “Happy birthday to you. Happy birthday to you…”
+
+A mother took her three-year-old daughter to church for the first time The church lights were lowered, and then the choir came down the aisle, carrying lighted candles. All was quiet until the little one started to sing in a loud voice, “Happy birthday to you. Happy birthday to you …”
 
 
 
 ******************************************************************
+
 Nine-year-old Joey was asked by his mother what he had learned in Sunday School. “Well, Mom, our teacher told us how God sent Moses behind enemy lines on a rescue mission to lead the Israelites out of Egypt. When he got to the Red Sea, he had his engineers build a pontoon bridge, and all the people walked across safely. He used his walkie-talkie to radio headquarters and call in an air strike. They sent in bombers to blow up the bridge and all the Israelites were saved.” “Now, Joey, is that REALLY what your teacher taught you?” his mother asked. “Well, no, Mom, but if I told it the way the teacher did, you’d never believe it!”
 
 
@@ -2932,61 +2933,56 @@ GOD: Grass? But it’s so boring. It’s not colorful. It doesn’t attract butt
 
 ST. FRANCIS: Apparently so, Lord. The go to great pains to grow it and keep it green. The begin each spring by fert- ilizing grass and poisoning any other plant that crops up in the lawn.
 
-God: The spring rains and warm weather probably make grass grow really fast. That must make the Suburbanites happy.
+GOD: The spring rains and warm weather probably make grass grow really fast. That must make the Suburbanites happy.
 
-St. Francis: Apparently not, Lord. As soon as it grows a little, they cut it-sometimes twice a week.
+ST. FRANCIS: Apparently not, Lord. As soon as it grows a little, they cut it-sometimes twice a week.
 
-God: They cut it? Do they then bail it like hay?
+GOD: They cut it? Do they then bail it like hay?
 
-St. Francis: Not exactly, Lord. Most of them rake it up and put it in bags.
+ST. FRANCIS: Not exactly, Lord. Most of them rake it up and put it in bags.
 
-God: They bag it? Why? Is it a cash crop? Do they sell it?
+GOD: They bag it? Why? Is it a cash crop? Do they sell it?
 
-St. Francis: No Sir. Just the opposite. They pay to throw it away.
+ST. FRANCIS: No Sir. Just the opposite. They pay to throw it away.
 
-God: Now let me get this straight. They fertilize grass so it will grow. And when it does grow, they cut it off and pay to throw it away?
+GOD: Now let me get this straight. They fertilize grass so it will grow. And when it does grow, they cut it off and pay to throw it away?
 
-St. Francis: Yes, Sir.
+ST. FRANCIS: Yes, Sir.
 
-God: These Suburbanites must be relieved in the summer when we cut back on the rain and turn up the heat. That surely slows the growth and saves them a lot of work.
+GOD: These Suburbanites must be relieved in the summer when we cut back on the rain and turn up the heat. That surely slows the growth and saves them a lot of work.
 
-St. Francis: You aren’t going to believe this Lord. When the grass stops growing so fast, they drag out hoses and pay more money to water it so they can continue to mow it and pay to get rid of it.
+ST. FRANCIS: You aren’t going to believe this Lord. When the grass stops growing so fast, they drag out hoses and pay more money to water it so they can continue to mow it and pay to get rid of it.
 
-God: What nonsense. At least they kept some of the trees. That was a sheer stroke of genius, if I do say so myself. The trees grow leaves in the spring to provide beauty and shade in the summer. In the autumn they fall to the ground and form a natural blanket to keep moisture in the soil and protect the trees and bushes. Plus, as they rot, the leaves form compost to enhance the soil. It’s a natural circle of life.
+GOD: What nonsense. At least they kept some of the trees. That was a sheer stroke of genius, if I do say so myself. The trees grow leaves in the spring to provide beauty and shade in the summer. In the autumn they fall to the ground and form a natural blanket to keep moisture in the soil and protect the trees and bushes. Plus, as they rot, the leaves form compost to enhance the soil. It’s a natural circle of life.
 
-St. Francis: You better sit down, Lord. The Suburbanites have drawn a new circle. As soon as the leaves fall, they rake them into great piles and pay to have them hauled away.
+ST. FRANCIS: You better sit down, Lord. The Suburbanites have drawn a new circle. As soon as the leaves fall, they rake them into great piles and pay to have them hauled away.
 
-God: No. What do they do to protect the shrub and tree roots in the winter and to keep the soil moist and loose?
+GOD: No. What do they do to protect the shrub and tree roots in the winter and to keep the soil moist and loose?
 
-St. Francis: After throwing away the leaves, they go out and buy something which they call mulch. The haul it home and spread it around in place of the leaves.
+ST. FRANCIS: After throwing away the leaves, they go out and buy something which they call mulch. The haul it home and spread it around in place of the leaves.
 
-God: And where do they get this mulch?
+GOD: And where do they get this mulch?
 
-St. Francis: They cut down trees and grind them up to make the mulch.
+ST. FRANCIS: They cut down trees and grind them up to make the mulch.
 
-God: Enough. I don’t want to think about this anymore. St. Catherine, you’re in charge of the arts. What movie have you scheduled for us tonight?
+GOD: Enough. I don’t want to think about this anymore. St. Catherine, you’re in charge of the arts. What movie have you scheduled for us tonight?
 
-St. Catherine: Dumb and Dumber, Lord. It’s a real stupid movie about…
+ST. CATHERINE: Dumb and Dumber, Lord. It’s a real stupid movie about …
 
-God: Never mind, I think I just heard the whole story from St. Francis.
+GOD: Never mind, I think I just heard the whole story from St. Francis.
 
 ------
 
-
-
-“Lawyers typically aren’t funny — unless by accident.
-Case in point: The following questions from lawyers
-were taken from official court records nationwide…
+“Lawyers typically aren’t funny — unless by accident. Case in point: The following questions from lawyers were taken from official court records nationwide …
 
 Was that the same nose you broke as a child?
 
-Now, doctor, isn’t it true that when a person dies in
-his sleep, in most cases he just passes quietly away
-and doesn’t know anything about it until the next
-morning?
+Now, doctor, isn’t it true that when a person dies in his sleep, in most cases he just passes quietly away and doesn’t know anything about it until the next morning?
 
 Q: What happened then?
-A: He told me, he says, ‘I have to kill you because you can identify me.’
+
+A: He told me, he says, “I have to kill you because you can identify me.”
+
 Q: Did he kill you?
 
 Was it you or your brother that was killed in the war?
@@ -3000,11 +2996,12 @@ How long have you been a French Canadian?
 Do you have any children or anything of that kind?
 
 Q: I show you exhibit 3 and ask you if you recognize that picture.
+
 A: That’s me.
+
 Q: Were you present when that picture was taken?
 
-Were you present in court this morning when you were
-sworn in?
+Were you present in court this morning when you were sworn in?
 
 Q: Now, Mrs. Johnson, how was your first marriage terminated?
 A: By death.
@@ -3052,8 +3049,6 @@ correct?
 A: No, you stupid, he was sitting on the table
 wondering why I was doing an autopsy!
 
-
-
 ------
 
 This 85 year old couple, having been married almost 60 years, had died in a car crash. They had been in good health the last ten years, mainly due to her interest in health food, and exercise.
@@ -3074,58 +3069,31 @@ Next they went to the club house and saw the lavish buffet lunch with the cuisin
 
 “Well, where are the low fat and low cholesterol foods?” the old man asked timidly.
 
-“That’s the best part…you can eat as much as you like of whatever you like and you never get fat and you never get sick. This is Heaven.”
+“That’s the best part … you can eat as much as you like of whatever you like and you never get fat and you never get sick. This is Heaven.”
 
 The old man looked at his wife and said, “You and your blasted bran muffins!! I could have been here ten years ago!”
 
 ------
 
-A butcher is working, and really busy. He notices a dog in his shop and
-shoos him away. Later, he notices the dog is back again.
+A butcher is working, and really busy. He notices a dog in his shop and shoos him away. Later, he notices the dog is back again.
 
-He walks over to the dog, and notices the dog has a note in his mouth. The
-butcher takes the note, and it reads, “Can I have 12 sausages and a leg of
-lamb, please.”
+He walks over to the dog, and notices the dog has a note in his mouth. The butcher takes the note, and it reads, “Can I have 12 sausages and a leg of lamb, please.”
 
-The butcher looks, and lo and behold, in the dog’s mouth there is a ten
-dollar bill. So the butcher takes the money, puts the sausages and lamb in a
-bag, and places it in the dog’s mouth.
+The butcher looks, and lo and behold, in the dog’s mouth there is a ten dollar bill. So the butcher takes the money, puts the sausages and lamb in a bag, and places it in the dog’s mouth.
 
-The butcher is very impressed, and since it’s closing time, he decides to
-close up shop and follow the dog. So, off he goes.
+The butcher is very impressed, and since it’s closing time, he decides to close up shop and follow the dog. So, off he goes.
 
-The dog is walking down the street and comes to a crossing. The dog puts down
-the bag, jumps up and presses the crossing button. Then he waits patiently,
-bag in mouth, for the light to change. It does, and he walks across the road,
-with the butcher following.
+The dog is walking down the street and comes to a crossing. The dog puts down the bag, jumps up and presses the crossing button. Then he waits patiently, bag in mouth, for the light to change. It does, and he walks across the road, with the butcher following.
 
-The dog then comes to a bus stop, and starts looking at the timetable. The
-butcher is in awe at this stage. The dog checks out the times, and sits on
-one of the seats to wait for the bus.
+The dog then comes to a bus stop, and starts looking at the timetable. The butcher is in awe at this stage. The dog checks out the times, and sits on one of the seats to wait for the bus.
 
-Along comes a bus. The dog goes and looks at the number, notices it’s the
-right bus, and climbs on. The butcher, by now openmouthed, follows him onto
-the bus.
+Along comes a bus. The dog goes and looks at the number, notices it’s the right bus, and climbs on. The butcher, by now openmouthed, follows him onto the bus.
 
-The bus travels through town and out to the suburbs. Eventually the dog gets
-up, moves to the front of the bus, and standing on his hind legs, pushes the
-button to stop the bus. The dog gets off, groceries still in his mouth, and
-the butcher still following.
+The bus travels through town and out to the suburbs. Eventually the dog gets up, moves to the front of the bus, and standing on his hind legs, pushes the button to stop the bus. The dog gets off, groceries still in his mouth, and the butcher still following.
 
-They walk down the road, and the dog approaches a house. He walks up the
-path, and drops the groceries on the step. Then he walks back down the path,
-takes a big run, and throws himself — whap! — against the door. He goes
-back down the path, takes another run, and throws himself — whap! — against
-the door gain! There’s no answer at the door, so the dog goes back down the
-path, jumps up on a narrow wall, and walks along the perimeter of the garden.
-He gets to a window, and bangs his head against it several times. He walks
-back, jumps off the wall, and waits at the door. The butcher watches as a
-big guy opens the door, and starts laying into the dog, really yelling at him.
+They walk down the road, and the dog approaches a house. He walks up the path, and drops the groceries on the step. Then he walks back down the path, takes a big run, and throws himself — whap! — against the door. He goes back down the path, takes another run, and throws himself — whap! — against the door gain! There’s no answer at the door, so the dog goes back down the path, jumps up on a narrow wall, and walks along the perimeter of the garden. He gets to a window, and bangs his head against it several times. He walks back, jumps off the wall, and waits at the door. The butcher watches as a big guy opens the door, and starts laying into the dog, really yelling at him.
 
-The butcher runs up and stops the guy. “What the heck are you doing? This
-dog is a genius. He could be on TV, for God’s sake!” To which the guy
-responds, “Clever, my eye. This is the second time this week he’s forgotten
-his key.”
+The butcher runs up and stops the guy. “What the heck are you doing? This dog is a genius. He could be on TV, for God’s sake!” To which the guy responds, “Clever, my eye. This is the second time this week he’s forgotten his key.”
 
 ------
 
@@ -3133,7 +3101,9 @@ Six Jewish gentlemen were playing poker in the condo clubhouse when Meyerowitz l
 
 Finkelstein looks around and asks “Now, who is going to tell the wife?” They draw straws. Goldberg, who is always a loser picks the short one. They tell him to be discreet, be gentle, don’t make a bad situation any worse than it is.
 
-“Gentlemen! Discreet? I’m the most discreet mensch you will ever meet. Discretion is mine middle name, leave it to me.” Goldberg schleps over to the Meyerowitz apartment, knocks on the door, the wife answers, asks what he wants.
+“Gentlemen! Discreet? I’m the most discreet mensch you will ever meet. Discretion is my middle name, leave it to me.”
+
+Goldberg schleps over to the Meyerowitz apartment, knocks on the door, the wife answers, asks what he wants.
 
 Goldberg declares “Your husband just lost $500.”
 
@@ -3143,11 +3113,13 @@ Goldberg says, “I’ll tell him.”
 
 ------
 
-In the mid 60’s a US Navy cruiser put in to port in Mississippi for a week’s shore leave. The first evening, the Captain was more than a little surprised to receive the following letter from the wife of a local tycoon.
+In the mid 60s a U.S. Navy cruiser put in to port in Mississippi for a week’s shore leave. The first evening, the Captain was more than a little surprised to receive the following letter from the wife of a local tycoon.
 
-Dear Captain, Thursday, will be my daughter Melinda’s coming of age party. I would like you to send four well-mannered, handsome, unmarried officers. They should arrive at 8 p.m. prepared for an evening of polite Southern conversation and dance with our lovely young ladies. One last point: No Jews-We don’t like Jews.
+> Dear Captain,
+>
+> Thursday, will be my daughter Melinda’s coming of age party. I would like you to send four well-mannered, handsome, unmarried officers. They should arrive at 8:00 p.m. prepared for an evening of polite Southern conversation and dance with our lovely young ladies. One last point: No Jews — We don’t like Jews.
 
-Sure enough, at 8 PM on Thursday, the lady heard a rap at the door, which she opened to find, in dress uniform, four exquisitely mannered, smiling African-American officers. Her lower jaw hit the floor, but pulling herself together she stammered, “There must be some mistake.”
+Sure enough, at 8:00 p.m. on Thursday, the lady heard a rap at the door, which she opened to find, in dress uniform, four exquisitely mannered, smiling African-American officers. Her lower jaw hit the floor, but pulling herself together she stammered, “There must be some mistake.”
 
 “Madam,” said the first officer, “Captain Cohen doesn’t make mistakes.”
 
@@ -5797,7 +5769,7 @@ About a year later, Saint Peter came to the woman and asked her to watch the Gat
 2. You make over $250,000 and still can’t afford a house.
 3. You take a bus and are shocked at 2 people carrying on a conversation in English.
 4. Your child’s 3rd grade teacher has purple hair, a nose ring, and is named Breeze.
-5. You can’t remember…is pot illegal?
+5. You can’t remember … is pot illegal?
 6. You’ve been to a baby shower that has two mothers and a sperm donor.
 7. You have a very strong opinion about where your coffee beans are grown and can taste the difference between Sumatran and Ethiopian.
 8. You know which restaurant serves the freshest arugula.
@@ -5816,7 +5788,7 @@ a guy in drag.
 16. It’s sprinkling and there’s a report on every news station
 about “STORM WATCH 2000”.
 17. You have to leave the big company meeting early because Billy
-Blanks himself is teaching the 4:00 PM Tae Bo class.
+Blanks himself is teaching the 4:00 p.m. Tae Bo class.
 18. You pass an elementary school playground and the children are
 all busy with their cell phones or pagers.
 19. It’s sprinkling outside, so you leave for work an hour early to avoid all the weather-related accidents.

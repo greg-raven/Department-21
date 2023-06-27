@@ -6,8 +6,8 @@ layout: post
 
 **DAMNITOL**
 
-Take two and the rest of the world can go to hell for up to eight full hours.  
-  
+Take two and the rest of the world can go to hell for up to eight full hours.
+
 **ST. MOMMA’S WORT**
 
 Plant extract that treats mom’s depression by rendering preschoolers unconscious for up to two days.
@@ -30,7 +30,7 @@ Increases life expectancy of commuters by controlling road rage and the urge to 
 
 **MENICILLIN**
 
-Potent anti-boy-otic for older women. Increases resistance to such lethal lines as, “You make me want to be a better person…Can we get naked now?”
+Potent anti-boy-otic for older women. Increases resistance to such lethal lines as, “You make me want to be a better person … Can we get naked now?”
 
 **BUYAGRA**
 

@@ -4,8 +4,8 @@ author: 'Noam Sain'
 layout: post
 ---
 
-Several men are in the locker room of a golf club.  
-  
+Several men are in the locker room of a golf club.
+
 A cellular phone on a bench rings and a man engages the hands-free speaker function and begins to talk.
 
 Everyone else in the room stops to listen.
@@ -28,11 +28,11 @@ WOMAN: “$90,000.”
 
 MAN: “OK, but for that price I want it with all the options.”
 
-WOMAN: “Great! Oh, and one more thing… I was just talking to Janie and found out that the house I wanted last year is back on the market. They’re asking $980,000 for it.”
+WOMAN: “Great! Oh, and one more thing … I was just talking to Janie and found out that the house I wanted last year is back on the market. They’re asking $980,000 for it.”
 
 MAN: “Well, then go ahead and make an offer of $900,000. They’ll probably take it. If not, we can go the extra eighty-thousand if it’s what you really want.”
 
-WOMAN: “Oh THANKS! I’ll see you later! I love you so much!”
+WOMAN: “Oh *thanks!* I’ll see you later! I love you so much!”
 
 MAN: “Bye! I love you, too.”
 

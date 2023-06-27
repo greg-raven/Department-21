@@ -14,11 +14,9 @@ Here is a very private way to gauge how your memory compares to your last test. 
 
 Take this test to determine if you’re losing it or not.
 
-The spaces below are so you don’t see the answers until you’ve answered.
+OK, relax, clear your mind, and begin.
 
-OK, RELAX, clear your mind and begin.
-
-\#1. What do you put in a toaster?
+**1. What do you put in a toaster?**
 
 Answer: “Bread.”
 
@@ -26,7 +24,7 @@ If you said “toast,” just give up now and go do something else, and try not 
 
 If you said, bread, go to Question #2.
 
-\# 2. Say “silk” ten times. Now spell “silk.” What do cows drink?
+**2. Say “silk” ten times. Now spell “silk.” What do cows drink?**
 
 Answer: Cows drink water.
 
@@ -34,15 +32,15 @@ If you said “milk,” don’t attempt the next question. Your brain is already
 
 However, if you did say “water,” proceed to Question #3.
 
-\# 3. If a red house is made from red bricks and a blue house is made from blue bricks and a pink house is made from pink bricks and a black house is made from black bricks, what is a green house made from?
+**3. If a red house is made from red bricks and a blue house is made from blue bricks and a pink house is made from pink bricks and a black house is made from black bricks, what is a green house made from?**
 
 Answer: Greenhouses are made from glass.
 
-If you said “green bricks,” why are you still reading this??? PLEASE, go lie down!
+If you said “green bricks,” why are you still reading this? PLEASE, go lie down!
 
-But, if you said ‘glass,’ go on to Question #4.
+But, if you said “glass,” go on to Question #4.
 
-\# 4. Please do not use a calculator for this for it would be cheating:
+**4. Please do not use a calculator for this for it would be cheating:**
 
 You are driving a bus from New York City to Philadelphia.
 
@@ -62,6 +60,6 @@ You then arrive at Philadelphia Station.
 
 Without going back to review, how old is the bus driver?
 
-Answer: Oh, for crying out loud! Don’t you remember your own age?!?! It was YOU driving the bus!
+Answer: Oh, for crying out loud! Don’t you remember your own age? It was *you* driving the bus!
 
-PS: 95% of people fail most of the questions!
+P.S.: 95% of people fail most of the questions!

@@ -4,8 +4,8 @@ author: 'Noam Sain'
 layout: post
 ---
 
-THINGS I DID TO DESERVE THE NOBEL PEACE PRIZE, by Barack Obama  
-  
+THINGS I DID TO DESERVE THE NOBEL PEACE PRIZE, by Barack Obama
+
 BLACK PEOPLE I’VE MET WHILE YACHTING, by Tiger Woods
 
 THINGS I LOVE ABOUT MY COUNTRY, by Jane Fonda and Cindy Sheehan. Illustrated by Michael Moore
@@ -26,7 +26,7 @@ AMELIA EARHART’S GUIDE TO THE PACIFIC
 
 A COLLECTION of MOTIVATIONAL SPEECHES, by Dr. J. Kevorkian
 
-TO ALL THE MEN WE’VE LOVED BEFORE…, by Ellen de Generes AND Rosie O’Donnell
+TO ALL THE MEN WE’VE LOVED BEFORE …, by Ellen de Generes AND Rosie O’Donnell
 
 THE AMISH PHONE DIRECTORY
 
