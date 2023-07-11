@@ -4,10 +4,10 @@ author: 'Noam Sain'
 layout: post
 ---
 
-Pepsi’s first prank was criticized on the Internet to be a fake. So to prove the critics wrong, they did another one.
+Pepsi’s first prank with Jeff Gordon was criticized on the Internet to be a fake. So to prove the critics wrong, they did another one.
 
-https://youtu.be/dRIgmKGDqFM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tRLvMUYcap8" title="Pepsi MAX Test Drive 2" allowfullscreen></iframe>
 
 Here’s the first video, just in case.
 
-https://youtu.be/Q5mHPo2yDG8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MQ6t3DI4fXo" title="Pepsi Test Drive" allowfullscreen></iframe>

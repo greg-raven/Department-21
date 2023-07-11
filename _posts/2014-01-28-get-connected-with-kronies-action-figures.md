@@ -6,4 +6,4 @@ layout: post
 
 Get Kronies! Get connected!
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="473" loading="lazy" src="https://www.youtube.com/embed/ZDXuPQ9ML9E?feature=oembed" title="Get Konnected with The Kronies Action Figures" width="840"></iframe>
+<iframe allowfullscreen="" height="473" src="https://www.youtube.com/embed/ZDXuPQ9ML9E?feature=oembed" title="Get Konnected with The Kronies Action Figures" width="840"></iframe>

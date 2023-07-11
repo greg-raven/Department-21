@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<iframe frameborder="0" height="315" loading="lazy" src="https://www.nbc.com/assets/video/widget/widget.html?vid=n43343" width="560"></iframe>
+<iframe height="315" src="https://www.nbc.com/assets/video/widget/widget.html?vid=n43343" width="560"></iframe>
