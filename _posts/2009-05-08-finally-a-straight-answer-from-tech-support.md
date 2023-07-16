@@ -6,6 +6,8 @@ layout: post
 
 This is a true story from the WordPerfect Helpline which was transcribed from a recording, monitoring the customer care department. Needless to say the Help Desk employee was fired; however, he/she is currently suing the WordPerfect organization for “Termination without Cause.” (Now I know why they record these conversations!)
 
+---
+
 “Ridge Hall computer assistance; may I help you?”
 
 “Yes, well, I’m having trouble with WordPerfect.”
