@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<iframe allowfullscreen="" height="630" src="https://www.youtube.com/embed/UQAFCbsgQeo?feature=oembed" title="Best Pool Shot by a Naked White Chick" width="840"></iframe>
+<iframe height="630" src="https://www.youtube.com/embed/UQAFCbsgQeo?feature=oembed" title="Best Pool Shot by a Naked White Chick" width="840"></iframe>

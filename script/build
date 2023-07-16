@@ -2,5 +2,5 @@
 
 set -e
 
-echo "Building Department 21 ..."
+echo "Building Department 21 --"
 bundle exec jekyll build

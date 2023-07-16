@@ -4,7 +4,7 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<span style="font-weight: bold;">The Traditional Version</span>
+**The Traditional Version**
 
 Once upon a time, there was an ant who worked hard in the withering heat all summer long as it built its house and stored up its food supply for the winter. Then, there was this grasshopper who thought the ant was a fool for working so hard, and the grasshopper went his happy-go-lucky way just laughing, dancing, hopping, and playing the summer away.
 
@@ -12,7 +12,7 @@ Come winter, the ant was warm in its house and had plenty of food to eat. On the
 
 MORAL OF THE STORY: Be responsible for yourself.
 
-<span style="font-weight: bold;">The Modern Version</span>
+**The Modern Version**
 
 Once upon a time, there was an ant who worked hard in the withering heat all summer long as it built its house and stored up its food supply for the winter. Then, there was this grasshopper who thought the ant was a fool for working so hard, and the grasshopper went his happy-go-lucky way just laughing, dancing, hopping, and playing the summer away.
 

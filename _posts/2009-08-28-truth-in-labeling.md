@@ -4,6 +4,6 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<span style="font-weight: bold;">Vote for Obamacare to solve all of your medical problems!</span>\*
+**Vote for Obamacare to solve all of your medical problems!**\*
 
 \* Side effects may include delayed treatment, elevated taxes, swelled deficits, shortages of doctors, and — in some cases — death.

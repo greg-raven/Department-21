@@ -10,6 +10,7 @@ Peter Marshall was the host asking the questions, of course.
 
 Q. Paul, what is a good reason for pounding meat?
 A. Paul Lynde: Loneliness!
+
 (The audience laughed so long and so hard it took up almost 15 minutes of the show!)
 
 Q. Do female frogs croak?
@@ -30,10 +31,10 @@ A. Rose Marie: No wait until morning.
 Q. Which of your five senses tends to diminish as you get older?
 A. Charley Weaver: My sense of decency.
 
-Q. In Hawaiian, does it take more than three words to say ‘I Love You’?
+Q. In Hawaiian, does it take more than three words to say “I Love You”?
 A. Vincent Price: No, you can say it with a pineapple and a twenty.
 
-Q. What are ‘Do It,’ ‘I Can Help,’ and ‘I Can’t Get Enough’?
+Q. What are “Do It,” “I Can Help,” and “I Can’t Get Enough”?
 A. George Gobel: I don’t know, but it’s coming from the next apartment.
 
 Q. As you grow older, do you tend to gesture more or less with your hands while talking?
@@ -43,7 +44,7 @@ Q. Paul, why do Hell’s Angels wear leather?
 A. Paul Lynde: Because chiffon wrinkles too easily.
 
 Q. Charley, you’ve just decided to grow strawberries. Are you going to get any during the first year?
-A.. Charley Weaver: Of course not, I’m too busy growing strawberries.
+A. Charley Weaver: Of course not, I’m too busy growing strawberries.
 
 Q. In bowling, what’s a perfect score?
 A. Rose Marie: Ralph, the pin boy.
@@ -67,7 +68,7 @@ Q. According to Ann Landers, is there anything wrong with getting into the habit
 A. Charley Weaver: It got me out of the Army.
 
 Q. It is the most abused and neglected part of your body, what is it?
-A. Paul Lynde: Mine may be abused, but it certainly isn’t neglected..
+A. Paul Lynde: Mine may be abused, but it certainly isn’t neglected.
 
 Q. Back in the old days, when Great Grandpa put horseradish on his head, what was he trying to do?
 A. George Gobel: Get it in his mouth.
@@ -82,4 +83,4 @@ Q. Jackie Gleason recently revealed that he firmly believes in them and has actu
 A. Charley Weaver: His feet.
 
 Q. According to Ann Landers, what are two things you should never do in bed?
-A. Paul Lynde: Point and laugh
+A. Paul Lynde: Point and laugh.

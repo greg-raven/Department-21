@@ -4,8 +4,8 @@ author: 'Noam Sain'
 layout: post
 ---
 
-After getting all of Pope Benedict’s luggage loaded into the limo, (and he doesn’t travel light), the driver notices the Pope is still standing on the curb.  
-  
+After getting all of Pope Benedict’s luggage loaded into the limo, (and he doesn’t travel light), the driver notices the Pope is still standing on the curb.
+
 ‘Excuse me, Your Holiness,’ says the driver, ‘Would you please take your seat so we can leave?’
 
 ‘Well, to tell you the truth,’ says the Pope, ‘they never let me drive at the Vatican when I was a cardinal, and I’d really like to drive today.’
@@ -32,7 +32,7 @@ The Chief gets on the radio and the cop tells him that he’s stopped a limo goi
 
 The Chief exclaimed, ‘All the more reason!’
 
-‘No, I mean really important,’ said the cop with a bit of persistence..
+‘No, I mean really important,’ said the cop with a bit of persistence.
 
 The Chief then asked, ‘Who do you have there, the mayor?’
 

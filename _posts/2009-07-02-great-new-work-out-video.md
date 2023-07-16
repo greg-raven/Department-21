@@ -6,4 +6,4 @@ layout: post
 
 Sweatin’ to the socialists.
 
-<iframe allowfullscreen="" height="630" src="https://www.youtube.com/embed/Xgg6KN1XwtI?feature=oembed" title="Sweatin' With the Socialists" width="840"></iframe>
+<iframe height="630" src="https://www.youtube.com/embed/Xgg6KN1XwtI?feature=oembed" title="Sweatin' With the Socialists" width="840"></iframe>

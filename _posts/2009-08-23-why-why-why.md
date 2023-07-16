@@ -6,7 +6,7 @@ layout: post
 
 Why do we press harder on a remote control when we know the batteries are going dead?
 
-Why do banks charge a fee on ‘insufficient funds’ when they know there is not enough money?
+Why do banks charge a fee on “insufficient funds” when they know there is not enough money?
 
 Why does someone believe you when you say there are four billion stars, but check when you say the paint is wet?
 
@@ -18,7 +18,7 @@ Why does Superman stop bullets with his chest, but ducks when you throw a revolv
 
 Why do Kamikaze pilots wear helmets?
 
-Whose idea was it to put an ‘S’ in the word ‘lisp’?
+Whose idea was it to put an “S” in the word “lisp”?
 
 If people evolved from apes, why are there still apes?
 
@@ -34,7 +34,7 @@ Why is it that no plastic bag will open from the end on your first try?
 
 How do those dead bugs get into those enclosed light fixtures?
 
-When we are in the supermarket and someone rams our ankle with a shopping cart then apologizes for doing so, why do we say, ‘It’s all right?’ Well, it isn’t all right, so why don’t we say, ‘That really hurt, why don’t you watch where you’re going?’
+When we are in the supermarket and someone rams our ankle with a shopping cart then apologizes for doing so, why do we say, “It’s all right?” Well, it isn’t all right, so why don’t we say, “That really hurt, why don’t you watch where you’re going?”
 
 Why is it that whenever you attempt to catch something that’s falling off the table you always manage to knock something else over?
 

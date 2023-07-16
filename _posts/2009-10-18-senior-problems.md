@@ -14,10 +14,8 @@ Bill replied, “I have been in jail.”
 
 “Jail?” cried Sam. “What in the world for?”
 
-“Well,” Bill said, “you know Sue, that cute little blonde Waitress at the coffee shop where I sometimes go?”
+“Well,” Bill said, “you know Sue, that cute little blonde waitress at the coffee shop where I sometimes go?”
 
 “Yeah,” said Sam, “I remember her. What about her?”
 
-“Well, one day she filed rape charges against me; and, at 89 Years old, I was so proud that when I got into court, I pled ‘guilty’
-
-“The damn judge gave me 30 days for perjury.”
+“Well, one day she filed rape charges against me; and, at 89 years old, I was so proud that when I got into court, I pled ‘guilty.’ The damn judge gave me 30 days for perjury.”

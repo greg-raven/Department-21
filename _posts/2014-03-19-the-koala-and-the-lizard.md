@@ -4,13 +4,13 @@ author: 'Noam Sain'
 layout: post
 ---
 
-A koala was sitting in a gum tree smoking a joint.  
-  
+A koala was sitting in a gum tree smoking a joint.
+
 When a little lizard walked past, looked up and said, “Hey Koala! What are you doing?”
 
 The koala said, “Smoking a joint, come up and have some.”
 
-So the little lizard climbed up and sat next to the koala where they enjoyed a few hits. After a while the little lizard said that his mouth was ‘dry’ and that he was going to get a drink from the river.
+So the little lizard climbed up and sat next to the koala where they enjoyed a few hits. After a while the little lizard said that his mouth was “dry” and that he was going to get a drink from the river.
 
 The little lizard was so stoned that he leaned over too far and fell into the river. A crocodile saw this and swam over to the little lizard and helped him to the side. Then he asked the little lizard, “What’s the matter with you?”
 

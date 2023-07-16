@@ -4,8 +4,6 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<span style="font-family: arial; font-size: medium; "><span style="font-family:ARIAL;font-size:85%;color:#000000;"></span></span>
-
 Never squat with yer spurs on.
 
 There’s two theories to arguin’ with a woman; neither one works.
@@ -26,6 +24,6 @@ Always drink upstream from the herd.
 
 If you’re ridin’ ahead of the herd, take a look back every now and then to make sure it’s still there.
 
-Lettin’ the cat outta the bag is a whole lot easier ‘n puttin’ it back in.
+Lettin’ the cat outta the bag is a whole lot easier ’n puttin’ it back in.
 
-<span style="font-family:ARIAL;font-size:85%;color:#000000;">Finally, never miss a good chance to shut up.</span>
+Finally, never miss a good chance to shut up.

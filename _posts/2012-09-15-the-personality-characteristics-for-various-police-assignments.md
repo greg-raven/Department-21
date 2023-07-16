@@ -13,7 +13,7 @@ layout: post
 - Buy bunches of boats, RV’s, and motorcycles with that overtime.
 - Learn to play golf drunk.
 
-  
+
 **SWAT**
 
 - Wear team T-shirts, Oakley sunglasses and boots everyday.
@@ -130,7 +130,7 @@ layout: post
 
 **Firearms Instructor**
 
-- Responds to every question/statement with the word, ‘huh?’
+- Responds to every question/statement with the word, “huh?”.
 - Has a % lead/blood level higher than the current Chief’s approval rating.
 - Operates under the assumption that the more beer you drink, the more of that lead leaves your system.
 - Thinks a new tactical handgun is a great Christmas gift for the wife/girlfriend.

@@ -17,7 +17,7 @@ layout: post
 11. The guy at 8:30 A.M. at Starbucks wearing a baseball cap and sunglasses who looks like George Clooney really IS George Clooney.
 12. Your car insurance costs as much as your house payment.
 13. You can’t remember … is pot illegal?
-14. It’s barely sprinkling rain and there’s a report on every news station: ‘STORM WATCH.’
+14. It’s barely sprinkling rain and there’s a report on every news station: “STORM WATCH.”
 15. You pass an elementary school playground and the children are all busy with their cell phones or pagers.
 16. It’s barely sprinkling rain outside, so you leave for work an hour early to avoid all the weather-related accidents.
 17. HEY!!!! Is pot illegal????

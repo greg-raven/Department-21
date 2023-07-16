@@ -14,7 +14,7 @@ I was thinking: If you rob a bank in a Sanctuary City, is it illegal or is it ju
 
 I was thinking: Each ISIS attack now is a reaction to Trump policies, but all ISIS attacks during Obama’s term were due to Climate Change and a plea for jobs.
 
-I was thinking: We should stop calling them all ‘Entitlements.’ Welfare, Food Stamps, and WIC are not entitlements. They are taxpayer-funded handouts, and shouldn’t be called entitlements at all. Social Security and Veterans Benefits are entitlements because the people receiving them are entitled to them. They were earned and paid for by the recipients.
+I was thinking: We should stop calling them all “Entitlements.” Welfare, Food Stamps, and WIC are not entitlements. They are taxpayer-funded handouts, and shouldn’t be called entitlements at all. Social Security and Veterans Benefits are entitlements because the people receiving them are entitled to them. They were earned and paid for by the recipients.
 
 I was thinking: If Muslims leave a Muslim country, does that mean they’re Islamophobic?
 
@@ -28,6 +28,6 @@ I was thinking: If you don’t want the FBI involved in elections, don’t nomin
 
 I was thinking: If Hillary’s speeches cost $250,000 an hour, how come no one shows up to her free ones?
 
-I was thinking: The DNC is mad at Russia because they ‘think’ they were trying to manipulate our election by exposing that the DNC manipulated the last presidential election.
+I was thinking: The DNC is mad at Russia because they “think” they were trying to manipulate our election by exposing that the DNC manipulated the last presidential election.
 
 I was thinking: If Democrats don’t want foreigners involved in our elections, why do they campaign in Spanish and think it’s alright for illegals to vote?

@@ -20,7 +20,7 @@ layout: post
 - I knew which group was responsible for getting us into this mess. It was the free market, banks, and corporations. I decided to start making citizens hate them and if they were envious of others who did well, the plan was clinched tight.
 - I called mine “A People’s Campaign” and that sounded good to all people.
 - I was the surprise candidate because I emerged from outside the traditional path of politics and was able to gain widespread popular support.
-- I knew that, if I merely offered the people ‘hope,’ together we could change our country and the world.
+- I knew that, if I merely offered the people “hope,” together we could change our country and the world.
 - So, I started to make my speeches sound like they were on behalf of the downtrodden, poor, ignorant to include “persecuted minorities” like the Jews. My true views were not widely known and I needed to keep them unknown, until after I became my nation’s leader.
 - I had to carefully guard reality, as anybody could have easily found out what I really believed, if they had simply read my writings and examined those people I associated with.
 - I’m glad they didn’t. Then I became the most powerful man in the world. And the world learned the truth.

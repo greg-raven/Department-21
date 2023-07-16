@@ -10,7 +10,7 @@ Can you cry under water?
 
 How important does a person have to be before they are considered assassinated instead of just murdered?
 
-Why do you have to ‘put your two cents in’… but it’s only a ‘penny for your thoughts’? Where’s that extra penny going to?
+Why do you have to “put your two cents in” … but it’s only a “penny for your thoughts”? Where’s that extra penny going to?
 
 Once you’re in heaven, do you get stuck wearing the clothes you were buried in for eternity?
 
@@ -20,7 +20,7 @@ What disease did cured ham actually have?
 
 How is it that we put man on the moon before we figured out it would be a good idea to put wheels on luggage?
 
-Why is it that people say they ‘slept like a baby’ when babies wake up like every two hours?
+Why is it that people say they “slept like a baby” when babies wake up like every two hours?
 
 If a deaf person has to go to court, is it still called a hearing?
 
@@ -32,7 +32,7 @@ Why do doctors leave the room while you change?
 
 They’re going to see you naked anyway.
 
-Why is ‘bra’ singular and ‘panties’ plural?
+Why is “bra” singular and “panties” plural?
 
 Why do toasters always have a setting that burns the toast to a horrible crisp, which no decent human being would eat?
 
@@ -42,7 +42,7 @@ If the professor on Gilligan’s Island can make a radio out of a coconut, why c
 
 Why does Goofy stand erect while Pluto remains on all fours? They’re both dogs!
 
-If Wile E.. Coyote had enough money to buy all that ACME crap, why didn’t he just buy dinner?
+If Wile E. Coyote had enough money to buy all that ACME crap, why didn’t he just buy dinner?
 
 If corn oil is made from corn, and vegetable oil is made from vegetables, what is baby oil made from?
 

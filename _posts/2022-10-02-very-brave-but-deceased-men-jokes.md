@@ -48,11 +48,11 @@ Why is a Laundromat a really bad place to pick up a woman?
 
 Why do women have smaller feet than men?
 
-> It’s one of those ‘evolutionary things’ that allows them to stand closer to the kitchen sink.
+> It’s one of those “evolutionary things” that allows them to stand closer to the kitchen sink.
 
 How do you know when a woman is about to say something smart?
 
-> When she starts a sentence with ‘A man once told me …’
+> When she starts a sentence with “A man once told me …”
 
 How do you fix a woman’s watch?
 
@@ -70,7 +70,7 @@ What’s worse than a Male Chauvinist Pig?
 
 > A woman who won’t do what she’s told.
 
-I married my ‘Miss Right.’
+I married my “Miss Right.”
 
 > I just didn’t know her first name was Always.
 

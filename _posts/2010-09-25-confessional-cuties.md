@@ -4,8 +4,8 @@ author: 'Noam Sain'
 layout: post
 ---
 
-A married Irishman went into the confessional and said to his priest, ‘I almost had an affair with another woman.’  
-  
+A married Irishman went into the confessional and said to his priest, ‘I almost had an affair with another woman.’
+
 The priest said, ‘What do you mean, almost?’
 
 The Irishman said, ‘Well, we got undressed and rubbed together, but then I stopped.’
@@ -22,7 +22,7 @@ The priest, who was watching, quickly ran over to him saying, ‘I saw that. You
 
 The Irishman replied, ‘Yeah, but I rubbed the $50 on the box, and according to you, that’s the same as putting it in!’
 
-\~~~~~~~~~~~~~~
+---
 
 There once was a religious young woman who went to Confession. Upon entering the confessional, she said,
 
@@ -38,7 +38,7 @@ The young woman asked, ‘Will this cleanse me of my sins?’
 
 The priest said, ‘No, but it will wipe that smile off of your face.’
 
-\~~~~~~~~~~~~~~
+---
 
 Muldoon lived alone in the Irish countryside with only a pet dog for company. One day the dog died, and Muldoon went to the parish priest and asked, ‘Father, my dog is dead. Could ya’ be saying’ a Mass for the poor creature?’
 
@@ -48,7 +48,7 @@ Muldoon said, ‘I’ll go right away Father. Do ya think $5,000 is enough to do
 
 Father Patrick exclaimed, ‘Sweet Mary, Mother of Jesus! Why didn’t ya tell me the dog was Catholic?
 
-\~~~~~~~~~~~~~
+---
 
 An elderly man walks into a confessional. The following conversation ensues: Man: ‘I am 92 years old, have a wonderful wife of 70 years, many children, grandchildren, and great grandchildren. Yesterday, I picked up two college girls, hitchhiking. We went to a motel, where I had sex with each of them three times.’
 

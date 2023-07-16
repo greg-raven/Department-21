@@ -17,10 +17,10 @@ layout: post
 - I think my neighbor is stalking me as she’s been googling my name on her computer. I saw it through my telescope last night.
 - You’re not fat, you’re just … easier to see.
 - I always wondered what the job application is like at Hooters. Do they just give you a bra and say, Here, fill this out?
-- I can’t understand why women are okay that JC Penny has an older women’s clothing line named, ‘Sag Harbor.’
+- I can’t understand why women are okay that JC Penny has an older women’s clothing line named, “Sag Harbor.”
 - My therapist said that my narcissism causes me to misread social situations. I’m pretty sure she was hitting on me.
 - My 60 year kindergarten reunion is coming up soon and I’m worried about the 175 pounds I’ve gained since then.
-- Denny’s has a slogan, ‘If it’s your birthday, the meal is on us.’ If you’re in Denny’s and it’s your birthday, your life sucks!
+- Denny’s has a slogan, “If it’s your birthday, the meal is on us.” If you’re in Denny’s and it’s your birthday, your life sucks!
 - The pharmacist asked me my birth date again today. I’m pretty sure she’s going to get me something.
 - The location of your mailbox shows you how far away from your house you can be in a robe before you start looking like a mental patient.
 - I think it’s pretty cool how Chinese people made a language entirely out of tattoos.

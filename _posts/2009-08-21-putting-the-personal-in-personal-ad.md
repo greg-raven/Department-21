@@ -6,8 +6,7 @@ layout: post
 
 This ad was posted to Craig’s List Personals:
 
-To the Guy Who Tried to Mug Me in Downtown Savannah night before last.
-
+**To the Guy Who Tried to Mug Me in Downtown Savannah night before last.**
 
 I was the guy wearing the black Burberry jacket that you demanded that I hand over, shortly after you pulled the knife on my girlfriend and me, threatening our lives.
 

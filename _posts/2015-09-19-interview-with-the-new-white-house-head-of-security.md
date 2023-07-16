@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<iframe allowfullscreen="" height="473" src="https://www.youtube.com/embed/IPEazD3rN1Q?feature=oembed" title="The Flipside interviews Joseph Clancy, new White House Head of Security" width="840"></iframe>
+<iframe height="473" src="https://www.youtube.com/embed/IPEazD3rN1Q?feature=oembed" title="The Flipside interviews Joseph Clancy, new White House Head of Security" width="840"></iframe>

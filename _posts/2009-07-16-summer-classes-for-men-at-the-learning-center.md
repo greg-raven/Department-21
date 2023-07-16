@@ -18,7 +18,7 @@ Meets 4 weeks, Monday and Wednesday for 2 hours beginning at 7:00 p.m.
 
 The Toilet Paper Roll — Does It Change Itself?
 
-Round Table Discussion..
+Round Table Discussion.
 
 Meets 2 weeks, Saturday 12:00 for 2 hours.
 

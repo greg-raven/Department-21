@@ -4,8 +4,8 @@ author: 'Noam Sain'
 layout: post
 ---
 
-You are in the middle of some kind of project around the house mowing the lawn, putting a new fence in, painting the living room, or whatever.  
-  
+You are in the middle of some kind of project around the house mowing the lawn, putting a new fence in, painting the living room, or whatever.
+
 You are hot and sweaty, covered in dirt or paint. You have your old work clothes on. You know the outfit — shorts with the hole in crotch, old T-shirt with a stain from who knows what, and an old pair of tennis shoes.
 
 Right in the middle of this great home improvement project you realize you need to run to Home Depot to get some thing to help complete the job.
@@ -26,7 +26,7 @@ Stop what you are doing. Put on a sweatshirt that is long enough to cover the ho
 
 In your 50s:
 
-Stop what you are doing. Put a hat on, wipe the dirt off your hands onto your shirt. Change shoes because you don’t want to get dog doo-doo in your new sports car. Check yourself in the mirror and you swear not to wear that shirt anymore because it makes you look fat The Cutie running the register smiles when she sees you coming and you think you still have it. Then you remember the hat you have on is from Buddy’s Bait &amp; Beer Bar and it says, ‘I Got Worms.’
+Stop what you are doing. Put a hat on, wipe the dirt off your hands onto your shirt. Change shoes because you don’t want to get dog doo-doo in your new sports car. Check yourself in the mirror and you swear not to wear that shirt anymore because it makes you look fat The Cutie running the register smiles when she sees you coming and you think you still have it. Then you remember the hat you have on is from Buddy’s Bait &amp; Beer Bar and it says, “I Got Worms.”
 
 In your 60s:
 

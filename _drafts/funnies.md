@@ -169,7 +169,7 @@ Sam Levy was driving down the road, gets pulled over by a policeman. Walking up 
 Short summary of every Jewish Holiday: They tried to kill us, we won, let’s eat.”
 
 
-Did you hear about the bum who walked up to the Jewish mother on the street and said, ‘Lady, I haven’t eaten in three days.” “Force yourself,” she replied.
+Did you hear about the bum who walked up to the Jewish mother on the street and said, “Lady, I haven’t eaten in three days.” “Force yourself,” she replied.
 
 
 Q: What’s the difference between a Rottweiler and a Jewish Mother?
@@ -254,7 +254,7 @@ layout: post
 
 And the Lord spoke to Noah and said, “In one year, I am going to make it rain and cover the whole earth with water until all flesh is destroyed. But I want you to save the righteous people and two of every kind of living thing on the earth. Therefore, I am commanding you to build an Ark.” In a flash of lightning, God delivered the specifications for an Ark.
 
-In fear and trembling, Noah took the plans and agreed to build the Ark. “Remember,” said the Lord, “You must complete the Ark and bring everything aboard in one year.” Exactly one year later, fierce storm clouds covered the earth and all the seas of the earth went into a tumult. The Lord saw that Noah was sitting in his front yard weeping. “Noah,” he shouted, “Where is the Ark?” “Lord, please forgive me!” cried Noah. “I did my best, but there were big problems. First, I had to get a permit for construction and your plans did not meet the codes. I had to hire an engineering firm and redraw the plans. Then I got into a fight with OSHA over whether or not the Ark needed a fire sprinkler system and flotation devices. Then my neighbor objected, claiming I was violating zoning ordinances by building the Ark in my front yard, so I had to get a variance from the city planning commission. Then I had problems getting enough wood for the Ark, because there was a ban on cutting trees to protect the Spotted Owl. I finally convinced the U.S. Forest Service that I needed the wood to save the owls. However, the Fish and Wildlife Service won’t let me catch any owls. So, no owls. The carpenters formed a union and went out on strike. I had to negotiate a settlement with the National Labor Relations Board before anyone would pick up a saw or a hammer. Now I have 16 carpenters on the Ark, but still no owls. When I started rounding up the other animals, I got sued by an animal rights group. They objected to me only taking two of each kind aboard. Just when I got the suit dismissed, the EPA notified me that I could not complete the Ark without filing an environmental impact statement on your proposed flood. They didn’t take very kindly to the idea that they had no jurisdiction over the conduct of the Creator of the universe. Then the Army Engineers demanded a map of the proposed new flood plain. I sent them a globe. Right now, I am trying to resolve a complaint filed with the Equal Employment Opportunity Commission that I am practicing discrimination by not taking godless, unbelieving people aboard. The IRS has seized my assets, claiming that I’m building the Ark in preparation to flee the country to avoid paying taxes. I just got a notice from the state that I owe them some kind of user tax and failed to register the Ark as a ‘recreational watercraft.’ Finally, the ACLU got the courts to issue an injunction against further construction of the Ark, saying that since God is flooding the earth, it is a religious event and therefore unconstitutional. I really don’t think I can finish the Ark for another five or six years,” Noah wailed.
+In fear and trembling, Noah took the plans and agreed to build the Ark. “Remember,” said the Lord, “You must complete the Ark and bring everything aboard in one year.” Exactly one year later, fierce storm clouds covered the earth and all the seas of the earth went into a tumult. The Lord saw that Noah was sitting in his front yard weeping. “Noah,” he shouted, “Where is the Ark?” “Lord, please forgive me!” cried Noah. “I did my best, but there were big problems. First, I had to get a permit for construction and your plans did not meet the codes. I had to hire an engineering firm and redraw the plans. Then I got into a fight with OSHA over whether or not the Ark needed a fire sprinkler system and flotation devices. Then my neighbor objected, claiming I was violating zoning ordinances by building the Ark in my front yard, so I had to get a variance from the city planning commission. Then I had problems getting enough wood for the Ark, because there was a ban on cutting trees to protect the Spotted Owl. I finally convinced the U.S. Forest Service that I needed the wood to save the owls. However, the Fish and Wildlife Service won’t let me catch any owls. So, no owls. The carpenters formed a union and went out on strike. I had to negotiate a settlement with the National Labor Relations Board before anyone would pick up a saw or a hammer. Now I have 16 carpenters on the Ark, but still no owls. When I started rounding up the other animals, I got sued by an animal rights group. They objected to me only taking two of each kind aboard. Just when I got the suit dismissed, the EPA notified me that I could not complete the Ark without filing an environmental impact statement on your proposed flood. They didn’t take very kindly to the idea that they had no jurisdiction over the conduct of the Creator of the universe. Then the Army Engineers demanded a map of the proposed new flood plain. I sent them a globe. Right now, I am trying to resolve a complaint filed with the Equal Employment Opportunity Commission that I am practicing discrimination by not taking godless, unbelieving people aboard. The IRS has seized my assets, claiming that I’m building the Ark in preparation to flee the country to avoid paying taxes. I just got a notice from the state that I owe them some kind of user tax and failed to register the Ark as a “recreational watercraft.” Finally, the ACLU got the courts to issue an injunction against further construction of the Ark, saying that since God is flooding the earth, it is a religious event and therefore unconstitutional. I really don’t think I can finish the Ark for another five or six years,” Noah wailed.
 
 The sky began to clear, the sun began to shine and the seas began to calm. A rainbow arched across the sky. Noah looked up hopefully. “You mean you are not going to destroy the earth, Lord?” “No,” said the Lord sadly. “I don’t have to. The government already has.”
 
@@ -4052,8 +4052,7 @@ Witnesses said this marked the first incidence in history of artificial insermon
 
 ------
 
-The following have been selected from lists of answers from
-16-year-olds, compiled by the 1998 GCSE* examiners (believe it or not)
+The following have been selected from lists of answers from 16-year-olds, compiled by the 1998 GCSE* examiners (believe it or not)
 
 1. Ancient Egypt was inhabited by mummies and they all wrote in
 hydraulics. They lived in the Sarah Dessert and traveled by Camelot.
@@ -4201,7 +4200,7 @@ discovered radio. And Karl Marx became one of the Marx brothers.
 33. The First World War, caused by the assignation of the Arch-Duck
 by an anahist, ushered in a new error in the anals of human history.
 
-* Per Richard Elen, GCSE = General Certificate of Secondary Education
+\* Per Richard Elen, GCSE = General Certificate of Secondary Education
 
 ------
 
@@ -4353,35 +4352,35 @@ What Children Say
 
 A kindergarten teacher was observing her classroom of children while they drew. She would occasionally walk around to see each child’s artwork. As she got to one little girl who was working diligently, she asked what the drawing was. The girl replied, “I’m drawing God.” The teacher paused and said, “But no one knows what God looks like.” Without missing a beat, or looking up from her drawing, the girl replied, “They will in a minute.”
 
-……………………………………
+---
 
 A Sunday school teacher was discussing the Ten Commandments with her five and six year olds. After explaining the commandment to “honor thy Father and thy mother,” she asked, “Is there a commandment that teaches us how to treat our brothers and sisters?” Without missing a beat one little boy (the oldest of a family) answered, “Thou shall not kill.”
 
-……………………………………
+---
 
 An honest seven-year-old admitted calmly to her parents that Billy Brown had kissed her after class. “How did that happen?,” “It wasn’t easy,” admitted the young lady, “but three girls helped me catch him.”
 
-……………………………………
+---
 
 One day a little girl was sitting and watching her mother do the dishes at the kitchen sink. She suddenly noticed that her mother has several strands of white hair sticking out in contrast on her brunette head. She looked at her mother and inquisitively asked, “Why are some of your hairs white, Mom?” Her mother replied, “Well, every time that you do something wrong and make me cry or unhappy, one of my hairs turns white.” The little girl thought about this revelation for while and then said, “Momma, how come ALL of grandma’s hairs are white?”
 
-……………………………………
+---
 
 A three-year-old went with his dad to see a litter of kittens. On returning home, he breathlessly informed his mother that there were two boy kittens and two girl kittens. “How did you know?” his mother “Daddy picked them up and looked underneath,” he replied. “I think it’s printed on the bottom.”
 
-……………………………………
+---
 
 The children had all been photographed, and the teacher was trying to persuade them each to buy a copy of the group picture. “Just think how nice it will be to look at it when you are all grown up and say, ‘There’s Jennifer; she’s a lawyer,’ or ‘That’s Michael. He’s a doctor.’” A small voice at the back of the room rang out, “And there’s the teacher. She’s dead.”
 
-……………………………………
+---
 
 A teacher was giving a lesson on the circulation of the blood. Trying to make the matter clearer, he said, “Now, boys, if I stood on my head, the blood, as you know, would run into it, and I would turn red in the face.””Yes, sir,”the boys said. “Then why is it that while I am standing upright in the ordinary position, the blood doesn’t run into my feet?” A little fellow shouted, “Cause yer feet ain’t empty.”
 
-…………………………………..
+---
 
 For weeks, a six-year old lad kept telling his first-grade teacher about the baby brother or sister that was expected at his house. One day the mother allowed the boy to feel the movements of the unborn child. The six-year old was obviously impressed, but he made no comment. Furthermore, he stopped telling his teacher about the impending event. The teacher finally sat the boy on her lap and said, “Tommy, whatever has become of that baby brother or sister you were expecting at home?” Tommy burst into tears and confessed, “I think Mommy ate it!”
 
-------
+---
 
 At a computer software course, the participants were given an awkward question to answer: “If you had just boarded an airliner and discovered that your team of programmers had been responsible for the flight control software, how many of you would disembark immediately?”
 
@@ -4820,7 +4819,7 @@ can’t wait for him to change --
 Hey buddy… (repeat 1st verse).
 
 13. Morror
-(Sung to the tune of “More..”)
+(Sung to the tune of “More”)
 Morror is the bitterness the world has known,
 But in Canada we need not moan.
 Morror were the ghettos of across the sea,
@@ -5619,9 +5618,9 @@ I don’t f***ing think so.
 ------
 
 
-20> Your Honor, all of our arguments have been posted on www.judgeswifenaked.com.
+20\. Your Honor, all of our arguments have been posted on www.judgeswifenaked.com.
 
-19> But I appeared in a commercial wearing a sweater! Would an evil overlord of an industry-crippling monopoly appear on TV wearing a *sweater*?
+19\. But I appeared in a commercial wearing a sweater! Would an evil overlord of an industry-crippling monopoly appear on TV wearing a *sweater*?
 
 18> Okay, let me get this straight: You’re saying you want us to have *two* monopolies instead of one?!?
 

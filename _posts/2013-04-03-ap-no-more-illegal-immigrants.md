@@ -4,4 +4,6 @@ author: 'Noam Sain'
 layout: post
 ---
 
-<iframe allowfullscreen="" height="360" src="https://www.mrctv.org/embed/120678" title="MRC TV video player" width="640"></iframe>
+And in a groundbreaking move, the Associated Press, the largest news gathering outlet in the world, will no longer use the term “illegal immigrant.” That is out. No longer “illegal immigrant.” They will now use the phrase “undocumented Democrat.” That is the newest — “undocumented Democrat.”
+
+<iframe width="640" height="360" src="https://www.mrctv.org/embed/120678" title="No more illegal immigrants"></iframe>
