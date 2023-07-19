@@ -95,7 +95,7 @@ UMFRIEND
 : A sexual relation of dubious standing or a concealed intimate relationship, as in “This is Dylan, my … um … friend.”
 
 UNINSTALLED
-: Euphemism for being fired. Heard on the voice-mail of a vice-president at a downsizing computer firm: “You have reached the number of an Uninstalled Vice President. Please dial our main number and ask the operator for assistance.” *(Syn: decruitment.)
+: Euphemism for being fired. Heard on the voice-mail of a vice-president at a downsizing computer firm: “You have reached the number of an Uninstalled Vice President. Please dial our main number and ask the operator for assistance.” (Syn: decruitment.)
 
 VULCAN NERVE PINCH
 : The taxing hand position required to reach all the appropriate keys for certain commands. For instance, the arm re-boot for a Mac II computer involves simultaneously pressing the Control key, the Command Key, and the Power On key.

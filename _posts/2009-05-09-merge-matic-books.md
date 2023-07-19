@@ -4,7 +4,7 @@ author: 'Noam Sain'
 layout: post
 ---
 
-From the Washington Post Invitational contest, which calls them Merge-Matic Books: Readers were asked to combine the works of two authors, and to provide a suitable blurb:
+From the *Washington Post* Invitational contest, which calls them Merge-Matic Books: Readers were asked to combine the works of two authors, and to provide a suitable blurb:
 
 Second Runner-Up: “Machiavelli’s The Little Prince” — Antoine de Saint-Exupery’s classic children’s tale as presented by Machiavelli. The whimsy of human nature is embodied in many delightful and intriguing characters, all of whom are executed. (Erik Anderson, Tempe, Ariz.)
 
