@@ -7,11 +7,17 @@ layout: post
 In the last six months there have been 292 persons murdered in Chicago, versus 221 killed in Iraq. The leadership in Illinois is all Democrats:
 
 - Senator Barack Obama
+
 - Senator Dick Durbin
+
 - Rep. Jesse Jackson Jr.
+
 - Gov. Rod Blogojevich
+
 - House leader Mike Madigan
+
 - Atty. Gen. Lisa Madigan (daughter of Mike)
+
 - Mayor Richard M. Daley (son of Mayor Richard J. Daley)
 
 There are no Republicans to blame.

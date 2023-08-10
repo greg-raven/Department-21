@@ -8,14 +8,6 @@ layout: post
 
 ![Dwarf research](/assets/2022/2022-09-indian-hills-1.jpg "Dwarf research")
 
-"Things that tell the truth:
-
-- small children
-- drunk people
-- yoga pants"
-
-![Things that tell the truth](/assets/2022/2022-09-indian-hills-4.jpg "Things that tell the truth")
-
 "Police toilet stolen! Cops have nothing to go on."
 
 ![Police toilet stolen](/assets/2022/2022-09-indian-hills-5.jpg "Police toilet stolen")

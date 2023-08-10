@@ -11,6 +11,7 @@ He had never been very motivated because knew that he would inherit a fortune on
 Still, Tom had two goals:
 
 - To learn how to invest his inheritance.
+
 - To find a wife to share his fortune.
 
 One evening at an investment meeting, he spotted the most beautiful woman he had ever seen. Her natural beauty took his breath away.

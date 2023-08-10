@@ -9,7 +9,9 @@ layout: post
 Includes:
 
 - Swimsuit
+
 - Swim googles
+
 - Swim cap
 
 "Tuck tape not included
@@ -21,8 +23,11 @@ Includes:
 Includes:
 
 - Loneliness
+
 - MS Paint
+
 - Serial Killer Glasses
+
 - Autism
 
 ![Questionable Halloween costume options](/assets/2022/2022-10-costume02.jpg "Questionable Halloween costume options")
@@ -32,12 +37,19 @@ Includes:
 Includes:
 
 - Assorted pronouns
+
 - Useless degree
+
 - Disappointed parents
+
 - "Race" card
+
 - "Sexist" card
+
 - "Fascist" card
+
 - Hurt feelings
+
 - Avoidance of reality
 
 ![Questionable Halloween costume options](/assets/2022/2022-10-costume03.jpg "Questionable Halloween costume options")

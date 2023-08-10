@@ -13,9 +13,13 @@ As of February, it had already infected over half of the United States and is an
 Symptoms include:
 
 - Severe pain of the scalp from pulling your hair while viewing your president pander to Taliban terrorists.
+
 - Uncontrollable heartburn at 8:00 p.m. while watching CNN.
+
 - Stomach cramps from swallowing the fact we elected Biden/Harris.
+
 - Vomiting from viewing terrorists murdering innocent people routinely on the nightly news.
+
 - Bleeding from the eyes after accidentally flipping to a channel that shows Al Sharpton as a so-called legitimate news show host.
 
 Because the disease consumes the entire body, every infected person becomes part of the disease itself.
