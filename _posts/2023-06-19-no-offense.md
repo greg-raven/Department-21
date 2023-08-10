@@ -1,8 +1,7 @@
 ---
 title: "No offense"
+author: 'Noam Sain'
 layout: post
-author:
-- Patriot Post
 ---
 
 This post has been removed because it might cause a fence.
