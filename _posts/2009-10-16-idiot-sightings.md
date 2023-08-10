@@ -4,13 +4,25 @@ author: 'Noam Sain'
 layout: post
 ---
 
-We had to have the garage door repaired. The Sears repairman told us that one of our problems was that we did not have a ‘large enough’ motor on the opener. I thought for a minute, and said that we had the largest one Sears made at that time, a &frac12; horsepower. He shook his head and said, “Lady, you need a &frac14; horsepower.” I responded that &frac12; was larger than &frac14;. He said, “NO, it’s not. Four is larger than two.”
+We had to have the garage door repaired. The Sears repairman told us that one of our problems was that we did not have a “large enough” motor on the opener.
+
+I thought for a minute, and said that we had the largest one Sears made at that time, a &frac12; horsepower. He shook his head and said, “Lady, you need a &frac14; horsepower.”
+
+I responded that &frac12; was larger than &frac14;.
+
+He said, “No, it’s not. Four is larger than two.”
 
 We haven’t used Sears repair since.
 
 ---
 
-My daughter and I went through the McDonald’s take-out window and I gave the clerk a $5 bill. Our total was $4.25, so I also handed her a quarter. She said, “You gave me too much money.” I said, “Yes I know, but this way you can just give me a dollar bill back.” She sighed and went to get the manager who asked me to repeat my request. I did so, and he handed me back the quarter, and said “We’re sorry but we cannot do that kind of thing.” The clerk then proceeded to give me back $1 and 75 cents in change.
+My daughter and I went through the McDonald’s take-out window and I gave the clerk a $5 bill. Our total was $4.25, so I also handed her a quarter. She said, “You gave me too much money.”
+
+I said, “Yes I know, but this way you can just give me a dollar bill back.”
+
+She sighed and went to get the manager who asked me to repeat my request. I did so, and he handed me back the quarter, and said “We’re sorry but we cannot do that kind of thing.”
+
+The clerk then proceeded to give me back $1 and 75 cents in change.
 
 Do not confuse the clerks at McD’s.
 

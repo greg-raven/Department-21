@@ -843,19 +843,21 @@ The redneck gets emotionally involved
 >>-------------------------------------
 
 Emily Sue passed away and Bubba called 911.
-The 911 operator told Bubba that she would send someone out right away.”Where
-do
+
+The 911 operator told Bubba that she would send someone out right away.”Where do
 you live?” asked the operator.
+
 Bubba replied, “At the end of Eucalyptus Drive.”
-The operator asked, “Can you spell that for me? “There was a long pause
-and finally Bubba said, “How ‘bout if I drag her over to Oak Street and you
-pick her up there?”
+
+The operator asked, “Can you spell that for me?”
+
+There was a long pause and finally Bubba said, “How ‘bout if I drag her over to Oak Street and you pick her up there?”
 
 >>----------------------------------------
 
 How do you know when your staying in a Kentucky hotel?
-When you call the front desk and say “I’ve gotta leak in my sink” and
-the person at the front desk says “go ahead.”
+
+When you call the front desk and say “I’ve gotta leak in my sink” and the person at the front desk says “go ahead.”
 
 >>---------------------------------------
 

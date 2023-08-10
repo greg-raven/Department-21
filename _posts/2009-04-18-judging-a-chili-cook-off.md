@@ -16,7 +16,7 @@ Judge # 2 — Nice, smooth tomato flavor. Very mild.
 
 Judge # 3 (me) — Holy crap, what the hell is this stuff? You could remove dried paint from your driveway with it. Took me two beers to put the flames out. I hope that’s the worst one. These Texans are crazy.
 
-**CHILI # 2 – AUSTIN‘S AFTERBURNER CHILI**
+**CHILI # 2 – AUSTIN’S AFTERBURNER CHILI**
 
 Judge # 1 — Smoky, with a hint of pork. Slight jalapeno tang.
 

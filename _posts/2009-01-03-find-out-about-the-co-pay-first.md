@@ -20,4 +20,4 @@ A man was brought to Mercy Hospital, and taken quickly in for coronary surgery. 
 
 “Oh, I must correct you, Mr. Smith. Nuns are not ‘spinsters;’ they are married to God.”
 
-“Wonderful,” said Smith. “In that case, please send the bill to my brother-in-law.
+“Wonderful,” said Smith. “In that case, please send the bill to my brother-in-law.”

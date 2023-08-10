@@ -4,38 +4,38 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![](/assets/2018/2018-09-indian-hills-19.jpg)
+![If you can't laugh at yourself, call me](/assets/2018/2018-09-indian-hills-19.jpg)
 
-![](/assets/2018/2018-09-indian-hills-20.jpg)
+![Our maintains are hill areas](/assets/2018/2018-09-indian-hills-20.jpg)
 
-![](/assets/2018/2018-09-indian-hills-18.jpg)
+![Electricians have to strip](/assets/2018/2018-09-indian-hills-18.jpg)
 
-![](/assets/2018/2018-09-indian-hills-17.jpg)
+![Alcohol is a solution](/assets/2018/2018-09-indian-hills-17.jpg)
 
-![](/assets/2018/2018-09-indian-hills-11.jpg)
+![I can always count on my fingers](/assets/2018/2018-09-indian-hills-11.jpg)
 
-![](/assets/2018/2018-09-indian-hills-14.jpg)
+![He who laughs last](/assets/2018/2018-09-indian-hills-14.jpg)
 
-![](/assets/2018/2018-09-indian-hills-13.jpg)
+![I don't know y](/assets/2018/2018-09-indian-hills-13.jpg)
 
-![](/assets/2018/2018-09-indian-hills-15.jpg)
+![A big missed steak](/assets/2018/2018-09-indian-hills-15.jpg)
 
-![](/assets/2018/2018-09-indian-hills-16.jpg)
+![Make America grate again](/assets/2018/2018-09-indian-hills-16.jpg)
 
-![](/assets/2018/2018-09-indian-hills-12.jpg)
+![I'd have to change my name](/assets/2018/2018-09-indian-hills-12.jpg)
 
-![](/assets/2018/2018-09-indian-hills-09.jpg)
+![So depressing](/assets/2018/2018-09-indian-hills-09.jpg)
 
-![](/assets/2018/2018-09-indian-hills-10.jpg)
+![Cats can](/assets/2018/2018-09-indian-hills-10.jpg)
 
-![](/assets/2018/2018-09-indian-hills-08.jpg)
+![My mood ring is missing](/assets/2018/2018-09-indian-hills-08.jpg)
 
-![](/assets/2018/2018-09-indian-hills-06.jpg)
+![What I if told you …](/assets/2018/2018-09-indian-hills-06.jpg)
 
-![](/assets/2018/2018-09-indian-hills-01.jpg)
+![Forget whirled peas](/assets/2018/2018-09-indian-hills-01.jpg)
 
-![](/assets/2018/2018-09-indian-hills-04.jpg)
+![The steaks have never been higher](/assets/2018/2018-09-indian-hills-04.jpg)
 
-![](/assets/2018/2018-09-indian-hills-02.jpg)
+![Qu!t st3al!ng r 7ett3r$](/assets/2018/2018-09-indian-hills-02.jpg)
 
-![](/assets/2018/2018-09-indian-hills-05.jpg)
+![Lettuce know](/assets/2018/2018-09-indian-hills-05.jpg)
