@@ -4,34 +4,34 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![diversity-car-show-0](/assets/2012/2012-08-diversity-car-show-0.jpg)
+![1](/assets/2012/2012-08-diversity-car-show-1.jpg "Diversity car show")
 
-![diversity-car-show-1](/assets/2012/2012-08-diversity-car-show-1.jpg)
+![2](/assets/2012/2012-08-diversity-car-show-2.jpg "Diversity car show")
 
-![diversity-car-show-2](/assets/2012/2012-08-diversity-car-show-2.jpg)
+![3](/assets/2012/2012-08-diversity-car-show-3.jpg "Diversity car show")
 
-![diversity-car-show-3](/assets/2012/2012-08-diversity-car-show-3.jpg)
+![4](/assets/2012/2012-08-diversity-car-show-4.jpg "Diversity car show")
 
-![diversity-car-show-4](/assets/2012/2012-08-diversity-car-show-4.jpg)
+![5](/assets/2012/2012-08-diversity-car-show-5.jpg "Diversity car show")
 
-![diversity-car-show-5](/assets/2012/2012-08-diversity-car-show-5.jpg)
+![6](/assets/2012/2012-08-diversity-car-show-6.jpg "Diversity car show")
 
-![diversity-car-show-6](/assets/2012/2012-08-diversity-car-show-6.jpg)
+![7](/assets/2012/2012-08-diversity-car-show-7.jpg "Diversity car show")
 
-![diversity-car-show-7](/assets/2012/2012-08-diversity-car-show-7.jpg)
+![8](/assets/2012/2012-08-diversity-car-show-8.jpg "Diversity car show")
 
-![diversity-car-show-8](/assets/2012/2012-08-diversity-car-show-8.jpg)
+![9](/assets/2012/2012-08-diversity-car-show-9.jpg "Diversity car show")
 
-![diversity-car-show-9](/assets/2012/2012-08-diversity-car-show-9.jpg)
+![10](/assets/2012/2012-08-diversity-car-show-10.jpg "Diversity car show")
 
-![diversity-car-show-10](/assets/2012/2012-08-diversity-car-show-10.jpg)
+![11](/assets/2012/2012-08-diversity-car-show-11.jpg "Diversity car show")
 
-![diversity-car-show-11](/assets/2012/2012-08-diversity-car-show-11.jpg)
+![12](/assets/2012/2012-08-diversity-car-show-12.jpg "Diversity car show")
 
-![diversity-car-show-12](/assets/2012/2012-08-diversity-car-show-12.jpg)
+![13](/assets/2012/2012-08-diversity-car-show-13.jpg "Diversity car show")
 
-![diversity-car-show-13](/assets/2012/2012-08-diversity-car-show-13.jpg)
+![14](/assets/2012/2012-08-diversity-car-show-14.jpg "Diversity car show")
 
-![diversity-car-show-14](/assets/2012/2012-08-diversity-car-show-14.jpg)
+![15](/assets/2012/2012-08-diversity-car-show-15.jpg "Diversity car show")
 
-![diversity-car-show-15](/assets/2012/2012-08-diversity-car-show-15.jpg)
+![16](/assets/2012/2012-08-diversity-car-show-0.jpg "Diversity car show")

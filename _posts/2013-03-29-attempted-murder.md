@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![attempted murder](/assets/2013/2013-03-attempted-murder.png)
+![attempted murder](/assets/2013/2013-03-attempted-murder.png "Attempted murder")
