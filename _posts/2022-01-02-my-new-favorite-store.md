@@ -1,6 +1,6 @@
 ---
 title: "My new favorite store"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

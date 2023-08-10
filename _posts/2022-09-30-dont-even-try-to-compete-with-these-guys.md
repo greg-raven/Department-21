@@ -1,6 +1,6 @@
 ---
 title: "Don't even try to compete with these guys"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

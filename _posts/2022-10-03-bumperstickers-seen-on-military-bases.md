@@ -1,6 +1,6 @@
 ---
 title: "Bumperstickers seen on military bases"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

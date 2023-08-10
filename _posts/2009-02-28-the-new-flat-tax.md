@@ -1,6 +1,6 @@
 ---
 title: "The new flat tax"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

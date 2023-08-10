@@ -1,6 +1,6 @@
 ---
 title: "Better take the gun"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

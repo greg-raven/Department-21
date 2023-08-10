@@ -1,6 +1,6 @@
 ---
 title: "Today's funny/odd images"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Summer classes for men at The Learning Center"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

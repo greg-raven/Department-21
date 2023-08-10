@@ -1,6 +1,6 @@
 ---
 title: "Proud of my kid"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

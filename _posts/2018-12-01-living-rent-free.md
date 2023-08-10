@@ -1,6 +1,6 @@
 ---
 title: "Living rent-free in his head"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "My kind of town, Chicago is"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

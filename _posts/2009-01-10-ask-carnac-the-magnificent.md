@@ -1,6 +1,6 @@
 ---
 title: "Ask Carnac the Magnificent"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

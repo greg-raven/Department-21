@@ -1,6 +1,6 @@
 ---
 title: "Life in Lake Havasu City"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

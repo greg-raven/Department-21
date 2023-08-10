@@ -1,6 +1,6 @@
 ---
 title: "Dear algebra …"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

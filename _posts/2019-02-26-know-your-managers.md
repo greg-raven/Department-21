@@ -1,6 +1,6 @@
 ---
 title: "Know your managers"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

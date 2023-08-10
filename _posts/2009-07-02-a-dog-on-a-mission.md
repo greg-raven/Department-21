@@ -1,6 +1,6 @@
 ---
 title: "A dog on a mission"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

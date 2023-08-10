@@ -1,6 +1,6 @@
 ---
 title: "Christmas riddle"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "How speed-walking was invented"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

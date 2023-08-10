@@ -1,6 +1,6 @@
 ---
 title: "Jesus and the Democrat"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

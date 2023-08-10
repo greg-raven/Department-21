@@ -1,6 +1,6 @@
 ---
 title: "Presidential penitence"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

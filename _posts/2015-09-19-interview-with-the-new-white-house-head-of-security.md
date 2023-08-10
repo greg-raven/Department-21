@@ -1,6 +1,6 @@
 ---
 title: "Interview with the new White House head of security"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

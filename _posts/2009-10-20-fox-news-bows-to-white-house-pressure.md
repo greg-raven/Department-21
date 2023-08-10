@@ -1,6 +1,6 @@
 ---
 title: "Fox news bows to White House pressure"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

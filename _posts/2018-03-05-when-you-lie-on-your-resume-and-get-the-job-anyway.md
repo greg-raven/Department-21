@@ -1,6 +1,6 @@
 ---
 title: "When you lie on your résumé and get the job anyway"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

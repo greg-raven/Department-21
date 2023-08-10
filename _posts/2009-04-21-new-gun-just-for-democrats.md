@@ -1,6 +1,6 @@
 ---
 title: "New gun just for Democrats"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

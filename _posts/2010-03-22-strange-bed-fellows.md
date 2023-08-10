@@ -1,6 +1,6 @@
 ---
 title: "Strange bed-fellows"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

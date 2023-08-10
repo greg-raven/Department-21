@@ -1,6 +1,6 @@
 ---
 title: "Wit and wisdom of Bob Hope"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

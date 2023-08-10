@@ -1,6 +1,6 @@
 ---
 title: "Good news from Government Motors"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

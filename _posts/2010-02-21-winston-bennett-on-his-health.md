@@ -1,6 +1,6 @@
 ---
 title: "Winston Bennett on his health"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

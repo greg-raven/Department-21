@@ -1,6 +1,6 @@
 ---
 title: "Seen on the streets of Bismarck, ND"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

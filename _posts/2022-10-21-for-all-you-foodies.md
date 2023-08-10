@@ -1,6 +1,6 @@
 ---
 title: "For all you foodies"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "What a working desk says about a person's mind"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The preacher and the lawnmower"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

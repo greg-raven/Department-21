@@ -1,6 +1,6 @@
 ---
 title: "From Moses to Obama"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

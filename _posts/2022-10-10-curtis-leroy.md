@@ -1,6 +1,6 @@
 ---
 title: "Curtis &amp; Leroy"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

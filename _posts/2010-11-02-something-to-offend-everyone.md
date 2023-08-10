@@ -1,6 +1,6 @@
 ---
 title: "Something to offend everyone"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

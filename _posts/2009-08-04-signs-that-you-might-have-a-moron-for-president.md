@@ -1,6 +1,6 @@
 ---
 title: "Signs that you might have a moron for president"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

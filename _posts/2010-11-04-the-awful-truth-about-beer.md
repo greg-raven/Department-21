@@ -1,6 +1,6 @@
 ---
 title: "The awful truth about beer"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

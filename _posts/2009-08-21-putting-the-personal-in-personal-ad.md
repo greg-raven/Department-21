@@ -1,6 +1,6 @@
 ---
 title: "Putting the 'personal' in 'personal ad'"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

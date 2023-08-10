@@ -1,6 +1,6 @@
 ---
 title: "Texas rabbit attacks snake"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

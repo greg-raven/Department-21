@@ -1,6 +1,6 @@
 ---
 title: "When God created the cat"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

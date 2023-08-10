@@ -1,6 +1,6 @@
 ---
 title: "So, how is your day going?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

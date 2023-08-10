@@ -1,6 +1,6 @@
 ---
 title: "Some thoughts for today"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

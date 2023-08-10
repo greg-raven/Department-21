@@ -1,6 +1,6 @@
 ---
 title: "What do to with a dead horse"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Great Orators of the Democrat Party"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

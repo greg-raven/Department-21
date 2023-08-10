@@ -1,6 +1,6 @@
 ---
 title: "Marijuana-filled firewood"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

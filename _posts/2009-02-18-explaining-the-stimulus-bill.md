@@ -1,6 +1,6 @@
 ---
 title: "Explaining The 'Stimulus Bill'"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

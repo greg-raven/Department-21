@@ -1,6 +1,6 @@
 ---
 title: "Modern-day Cowboy"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

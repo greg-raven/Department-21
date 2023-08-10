@@ -1,6 +1,6 @@
 ---
 title: "Good thing he wasn't at a urinal"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

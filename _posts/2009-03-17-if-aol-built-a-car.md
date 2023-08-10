@@ -1,6 +1,6 @@
 ---
 title: "If AOL built a car"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

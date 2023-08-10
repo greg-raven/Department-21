@@ -1,6 +1,6 @@
 ---
 title: "Who gets the last beer?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

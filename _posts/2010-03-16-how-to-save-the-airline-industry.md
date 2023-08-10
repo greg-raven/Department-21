@@ -1,6 +1,6 @@
 ---
 title: "How to save the airline industry"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

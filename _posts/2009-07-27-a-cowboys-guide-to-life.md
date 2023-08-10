@@ -1,6 +1,6 @@
 ---
 title: "A cowboy's guide to life"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

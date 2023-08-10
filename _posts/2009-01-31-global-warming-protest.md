@@ -1,6 +1,6 @@
 ---
 title: "Global warming protest"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

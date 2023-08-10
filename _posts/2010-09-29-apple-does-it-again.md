@@ -1,6 +1,6 @@
 ---
 title: "Apple does it again!"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

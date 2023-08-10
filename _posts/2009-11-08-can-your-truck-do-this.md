@@ -1,6 +1,6 @@
 ---
 title: "Can your truck do this?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

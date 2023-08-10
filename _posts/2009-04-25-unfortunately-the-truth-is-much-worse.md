@@ -1,6 +1,6 @@
 ---
 title: "Unfortunately, the truth is much worse"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

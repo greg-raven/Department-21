@@ -1,6 +1,6 @@
 ---
 title: "When Insults Had Class …"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

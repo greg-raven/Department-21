@@ -1,6 +1,6 @@
 ---
 title: "Checking out the competition"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Four religious truths"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

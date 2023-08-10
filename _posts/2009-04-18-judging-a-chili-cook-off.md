@@ -1,6 +1,6 @@
 ---
 title: "Judging a chili cook-off"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

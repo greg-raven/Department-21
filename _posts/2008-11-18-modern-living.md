@@ -1,6 +1,6 @@
 ---
 title: "Modern living"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

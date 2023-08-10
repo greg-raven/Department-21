@@ -1,6 +1,6 @@
 ---
 title: "No wonder he's law-abiding"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

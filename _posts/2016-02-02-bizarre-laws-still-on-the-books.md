@@ -1,6 +1,6 @@
 ---
 title: "Bizarre laws still on the books"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

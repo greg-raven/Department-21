@@ -1,6 +1,6 @@
 ---
 title: "Obamacare explained in four sentences"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

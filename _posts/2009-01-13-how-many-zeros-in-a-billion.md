@@ -1,6 +1,6 @@
 ---
 title: "How many zeros in a billion?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

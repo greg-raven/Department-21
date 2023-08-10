@@ -1,6 +1,6 @@
 ---
 title: "The quotable Marion Barry"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

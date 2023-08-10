@@ -1,6 +1,6 @@
 ---
 title: "God is in the details"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

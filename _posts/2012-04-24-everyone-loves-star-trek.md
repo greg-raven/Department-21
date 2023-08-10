@@ -1,6 +1,6 @@
 ---
 title: "Everyone loves Star Trek"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

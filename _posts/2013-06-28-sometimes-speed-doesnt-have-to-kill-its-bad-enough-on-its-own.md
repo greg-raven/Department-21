@@ -1,6 +1,6 @@
 ---
 title: "Sometimes speed doesn't have to kill … it's bad enough on its own"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The talking dog"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

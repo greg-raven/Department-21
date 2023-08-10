@@ -1,6 +1,6 @@
 ---
 title: "Thanks, but I'd rather just use my tongue"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

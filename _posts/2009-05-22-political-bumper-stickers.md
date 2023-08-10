@@ -1,6 +1,6 @@
 ---
 title: "Political bumper stickers"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

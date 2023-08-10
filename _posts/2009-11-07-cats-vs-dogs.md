@@ -1,6 +1,6 @@
 ---
 title: "Cats vs. dogs"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

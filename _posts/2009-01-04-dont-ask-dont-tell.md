@@ -1,6 +1,6 @@
 ---
 title: "Don't ask, don't tell"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

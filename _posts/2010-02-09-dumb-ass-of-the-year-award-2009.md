@@ -1,6 +1,6 @@
 ---
 title: "DUMB ASS of the Year Award — 2009"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

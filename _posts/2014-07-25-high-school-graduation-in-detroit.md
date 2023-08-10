@@ -1,6 +1,6 @@
 ---
 title: "High school graduation in Detroit"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

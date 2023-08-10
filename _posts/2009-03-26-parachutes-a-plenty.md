@@ -1,6 +1,6 @@
 ---
 title: "Parachutes a-plenty"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

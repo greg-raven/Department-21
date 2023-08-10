@@ -1,6 +1,6 @@
 ---
 title: "Thanksgiving dinner"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Headlines from The Year 2029"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

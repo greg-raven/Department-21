@@ -1,6 +1,6 @@
 ---
 title: "The latest technology"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

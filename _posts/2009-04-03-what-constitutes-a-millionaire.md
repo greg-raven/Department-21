@@ -1,6 +1,6 @@
 ---
 title: "What constitutes a millionaire?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

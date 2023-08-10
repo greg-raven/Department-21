@@ -1,6 +1,6 @@
 ---
 title: "Do you drink beer?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

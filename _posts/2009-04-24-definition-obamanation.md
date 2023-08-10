@@ -1,6 +1,6 @@
 ---
 title: "Definition: Obamanation"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

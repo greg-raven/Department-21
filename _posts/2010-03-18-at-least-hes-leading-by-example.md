@@ -1,6 +1,6 @@
 ---
 title: "At least he's leading by example"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

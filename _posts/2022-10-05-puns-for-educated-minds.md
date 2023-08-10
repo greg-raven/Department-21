@@ -1,6 +1,6 @@
 ---
 title: "Puns for educated minds"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

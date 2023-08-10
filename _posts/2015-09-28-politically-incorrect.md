@@ -1,6 +1,6 @@
 ---
 title: "Politically incorrect"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

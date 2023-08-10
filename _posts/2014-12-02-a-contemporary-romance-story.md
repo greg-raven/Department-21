@@ -1,6 +1,6 @@
 ---
 title: "A contemporary romance story"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

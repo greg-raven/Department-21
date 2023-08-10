@@ -1,6 +1,6 @@
 ---
 title: "Getting to heaven"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

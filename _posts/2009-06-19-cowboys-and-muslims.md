@@ -1,6 +1,6 @@
 ---
 title: "Cowboys and Muslims"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

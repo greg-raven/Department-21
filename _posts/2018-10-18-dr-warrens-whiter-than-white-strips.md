@@ -1,6 +1,6 @@
 ---
 title: "Dr. Warren's Whiter-Than-White Strips"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

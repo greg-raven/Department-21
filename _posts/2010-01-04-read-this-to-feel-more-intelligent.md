@@ -1,6 +1,6 @@
 ---
 title: "Read this to feel more intelligent"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

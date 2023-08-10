@@ -1,6 +1,6 @@
 ---
 title: "Why I no longer shop at Costco"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

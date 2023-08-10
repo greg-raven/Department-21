@@ -1,6 +1,6 @@
 ---
 title: "Gentle Thoughts for Today"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

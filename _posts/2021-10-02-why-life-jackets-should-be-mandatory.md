@@ -1,6 +1,6 @@
 ---
 title: "Why life jackets should be mandatory"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

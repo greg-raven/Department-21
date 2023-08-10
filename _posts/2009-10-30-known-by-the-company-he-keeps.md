@@ -1,6 +1,6 @@
 ---
 title: "Known by the company he keeps"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

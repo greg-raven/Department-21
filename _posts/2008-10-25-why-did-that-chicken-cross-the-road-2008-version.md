@@ -1,6 +1,6 @@
 ---
 title: "Why did that chicken cross the road? — 2008 version"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

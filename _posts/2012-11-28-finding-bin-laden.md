@@ -1,6 +1,6 @@
 ---
 title: "Finding Bin Laden"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

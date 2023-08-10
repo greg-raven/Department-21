@@ -1,6 +1,6 @@
 ---
 title: "Looking toward the future"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

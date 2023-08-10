@@ -1,6 +1,6 @@
 ---
 title: "New arrivals"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

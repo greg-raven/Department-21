@@ -1,6 +1,6 @@
 ---
 title: "Words of wisdom"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

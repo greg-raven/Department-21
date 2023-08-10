@@ -1,6 +1,6 @@
 ---
 title: "Early adopter"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

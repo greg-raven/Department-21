@@ -1,6 +1,6 @@
 ---
 title: "Raising the bar"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

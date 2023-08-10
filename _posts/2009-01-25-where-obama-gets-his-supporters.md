@@ -1,6 +1,6 @@
 ---
 title: "Where Obama gets his supporters"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

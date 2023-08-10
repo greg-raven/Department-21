@@ -1,6 +1,6 @@
 ---
 title: "That'll be on Fox News"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

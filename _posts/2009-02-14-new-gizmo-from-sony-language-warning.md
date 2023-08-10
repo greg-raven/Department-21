@@ -1,6 +1,6 @@
 ---
 title: "New gizmo from Sony (language warning)"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

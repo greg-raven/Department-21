@@ -1,6 +1,6 @@
 ---
 title: "Objection from a formerly drunken sailor"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A big loss for the Summer Olympics"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

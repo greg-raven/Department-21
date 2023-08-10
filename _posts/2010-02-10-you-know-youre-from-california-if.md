@@ -1,6 +1,6 @@
 ---
 title: "You know you're from California if …"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "You're worth it"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

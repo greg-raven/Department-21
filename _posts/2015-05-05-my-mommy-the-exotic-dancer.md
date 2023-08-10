@@ -1,6 +1,6 @@
 ---
 title: "My mommy, the exotic dancer"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

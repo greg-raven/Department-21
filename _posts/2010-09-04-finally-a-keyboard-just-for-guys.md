@@ -1,6 +1,6 @@
 ---
 title: "Finally … a keyboard just for guys!"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

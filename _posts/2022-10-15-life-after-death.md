@@ -1,6 +1,6 @@
 ---
 title: "Is there life after death?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

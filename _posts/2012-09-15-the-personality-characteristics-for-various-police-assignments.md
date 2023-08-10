@@ -1,6 +1,6 @@
 ---
 title: "The personality characteristics for various police assignments"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

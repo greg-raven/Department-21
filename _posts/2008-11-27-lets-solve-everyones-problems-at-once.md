@@ -1,6 +1,6 @@
 ---
 title: "Let's solve everyone's problems at once"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

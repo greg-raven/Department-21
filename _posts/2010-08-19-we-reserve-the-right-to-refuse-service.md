@@ -1,6 +1,6 @@
 ---
 title: "We reserve the right to refuse service"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

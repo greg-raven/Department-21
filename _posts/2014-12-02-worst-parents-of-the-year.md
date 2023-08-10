@@ -1,6 +1,6 @@
 ---
 title: "Worst parents of the year"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

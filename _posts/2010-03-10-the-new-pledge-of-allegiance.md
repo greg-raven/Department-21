@@ -1,6 +1,6 @@
 ---
 title: "The new Pledge of Allegiance?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

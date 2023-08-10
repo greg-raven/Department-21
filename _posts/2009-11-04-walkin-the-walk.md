@@ -1,6 +1,6 @@
 ---
 title: "Walkin' the walk"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

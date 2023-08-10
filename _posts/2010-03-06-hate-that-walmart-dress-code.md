@@ -1,6 +1,6 @@
 ---
 title: "Hate that Walmart dress code"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

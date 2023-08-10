@@ -1,6 +1,6 @@
 ---
 title: "The Nobel Peace Prize"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

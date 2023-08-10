@@ -1,6 +1,6 @@
 ---
 title: "Mariah Carey on extreme dieting"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

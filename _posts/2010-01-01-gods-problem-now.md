@@ -1,6 +1,6 @@
 ---
 title: "God's problem now"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

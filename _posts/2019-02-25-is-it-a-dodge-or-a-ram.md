@@ -1,6 +1,6 @@
 ---
 title: "Is it a Dodge or a Ram?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

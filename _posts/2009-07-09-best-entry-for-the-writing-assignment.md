@@ -1,6 +1,6 @@
 ---
 title: "Best entry for the writing assignment"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

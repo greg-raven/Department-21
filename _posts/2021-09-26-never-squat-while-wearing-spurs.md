@@ -1,6 +1,6 @@
 ---
 title: "Never squat while wearing spurs"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Leaked copy of government plan to reopen the economy"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

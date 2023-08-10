@@ -1,6 +1,6 @@
 ---
 title: "Funny joke"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

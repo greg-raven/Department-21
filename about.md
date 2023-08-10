@@ -1,6 +1,6 @@
 ---
 title: "About Gnome Sayings"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: page
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Did he forget or just not give a darn?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

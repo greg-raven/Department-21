@@ -1,6 +1,6 @@
 ---
 title: "Russian connections"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

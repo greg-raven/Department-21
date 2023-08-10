@@ -1,6 +1,6 @@
 ---
 title: "Interesting trivia"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

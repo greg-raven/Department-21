@@ -1,6 +1,6 @@
 ---
 title: "Welcome to California"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

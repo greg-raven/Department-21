@@ -1,6 +1,6 @@
 ---
 title: "Daisy Air Rifle billboard"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

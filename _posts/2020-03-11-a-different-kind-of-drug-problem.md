@@ -1,6 +1,6 @@
 ---
 title: "A different kind of drug problem"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

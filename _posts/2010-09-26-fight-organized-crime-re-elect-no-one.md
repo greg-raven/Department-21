@@ -1,6 +1,6 @@
 ---
 title: "Fight organized crime: Re-elect no one"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

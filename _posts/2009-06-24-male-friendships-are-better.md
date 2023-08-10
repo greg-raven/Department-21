@@ -1,6 +1,6 @@
 ---
 title: "Male friendships are better"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Isn't there a class for that?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

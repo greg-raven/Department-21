@@ -1,6 +1,6 @@
 ---
 title: "Praise the Lord"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Name that disease"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

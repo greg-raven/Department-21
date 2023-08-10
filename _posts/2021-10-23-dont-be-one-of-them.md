@@ -1,6 +1,6 @@
 ---
 title: "Don't be one of them"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

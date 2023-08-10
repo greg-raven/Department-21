@@ -1,6 +1,6 @@
 ---
 title: "I wrack my brain over this, too"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

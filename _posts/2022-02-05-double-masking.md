@@ -1,6 +1,6 @@
 ---
 title: Double-masking
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The world's greatest salesman"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

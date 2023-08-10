@@ -1,6 +1,6 @@
 ---
 title: "U.S. Presidency for Dummies"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

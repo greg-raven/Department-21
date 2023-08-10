@@ -1,6 +1,6 @@
 ---
 title: "GOP ponders buying Trump a new vacation home"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

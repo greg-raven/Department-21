@@ -1,6 +1,6 @@
 ---
 title: "Travel ideas"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

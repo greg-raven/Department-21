@@ -1,6 +1,6 @@
 ---
 title: "Obama at work"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ad agencies take the high ground"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

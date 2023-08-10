@@ -1,6 +1,6 @@
 ---
 title: "Offbeat definitions"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The latest from WalMart"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

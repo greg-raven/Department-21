@@ -1,6 +1,6 @@
 ---
 title: "Contents of a can of Whoop-Ass"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

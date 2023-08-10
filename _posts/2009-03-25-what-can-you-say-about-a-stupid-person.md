@@ -1,6 +1,6 @@
 ---
 title: "What can you say about a stupid person?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

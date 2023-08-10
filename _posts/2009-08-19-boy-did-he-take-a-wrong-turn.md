@@ -1,6 +1,6 @@
 ---
 title: "Boy, did he take a wrong turn"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

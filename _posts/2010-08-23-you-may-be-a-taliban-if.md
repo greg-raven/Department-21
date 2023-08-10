@@ -1,6 +1,6 @@
 ---
 title: "You May Be A Taliban If …"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

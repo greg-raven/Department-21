@@ -1,6 +1,6 @@
 ---
 title: "$50 for the homeless"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

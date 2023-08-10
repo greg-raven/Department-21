@@ -1,6 +1,6 @@
 ---
 title: "Help yourself, friend"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

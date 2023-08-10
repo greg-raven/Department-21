@@ -1,6 +1,6 @@
 ---
 title: "After Quasimodo's death"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

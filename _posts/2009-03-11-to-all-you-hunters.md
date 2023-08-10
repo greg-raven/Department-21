@@ -1,6 +1,6 @@
 ---
 title: "To all you hunters …"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

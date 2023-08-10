@@ -1,6 +1,6 @@
 ---
 title: "Keep those prices down!"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

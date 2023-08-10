@@ -1,6 +1,6 @@
 ---
 title: "Teaching math through the years"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

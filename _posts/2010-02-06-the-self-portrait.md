@@ -1,6 +1,6 @@
 ---
 title: "The Self-portrait"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Last day on the job"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

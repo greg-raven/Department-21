@@ -1,6 +1,6 @@
 ---
 title: "Merger tips for 2017"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

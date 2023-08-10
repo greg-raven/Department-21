@@ -1,6 +1,6 @@
 ---
 title: "Various views of the cattle business"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

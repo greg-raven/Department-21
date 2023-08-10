@@ -1,6 +1,6 @@
 ---
 title: "A little-known tidbit of naval history"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

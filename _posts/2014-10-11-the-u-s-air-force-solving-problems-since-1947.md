@@ -1,6 +1,6 @@
 ---
 title: "The U.S. Air Force: Solving problems since 1947"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

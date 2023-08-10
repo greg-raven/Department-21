@@ -1,6 +1,6 @@
 ---
 title: "How to become Super Cool"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

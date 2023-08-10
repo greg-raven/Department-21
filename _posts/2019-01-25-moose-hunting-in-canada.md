@@ -1,6 +1,6 @@
 ---
 title: "Moose hunting in Canada"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

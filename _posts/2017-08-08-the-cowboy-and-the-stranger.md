@@ -1,6 +1,6 @@
 ---
 title: "The cowboy and the stranger"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

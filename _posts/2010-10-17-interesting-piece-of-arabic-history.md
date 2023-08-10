@@ -1,6 +1,6 @@
 ---
 title: "Interesting piece of Arabic history"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

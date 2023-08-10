@@ -1,6 +1,6 @@
 ---
 title: "They don't hate us for our freedom"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

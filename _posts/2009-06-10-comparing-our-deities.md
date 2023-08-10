@@ -1,6 +1,6 @@
 ---
 title: "Comparing our deities"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

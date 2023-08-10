@@ -1,6 +1,6 @@
 ---
 title: "An Italian boy's confession"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

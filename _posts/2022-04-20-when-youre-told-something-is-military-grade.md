@@ -1,6 +1,6 @@
 ---
 title: "When you're told something is 'military grade'"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

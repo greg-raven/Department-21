@@ -1,6 +1,6 @@
 ---
 title: "Three new Navy ships"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

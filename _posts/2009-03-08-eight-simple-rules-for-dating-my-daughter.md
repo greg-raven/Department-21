@@ -1,6 +1,6 @@
 ---
 title: "Eight simple rules for dating my daughter"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

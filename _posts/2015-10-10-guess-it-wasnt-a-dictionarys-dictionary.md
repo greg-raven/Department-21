@@ -1,6 +1,6 @@
 ---
 title: "Guess it wasn't a dictionary's dictionary"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

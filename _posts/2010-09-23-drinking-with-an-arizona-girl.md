@@ -1,6 +1,6 @@
 ---
 title: "Drinking with an Arizona Girl"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

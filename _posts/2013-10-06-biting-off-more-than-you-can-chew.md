@@ -1,6 +1,6 @@
 ---
 title: "Biting off more than you can chew"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

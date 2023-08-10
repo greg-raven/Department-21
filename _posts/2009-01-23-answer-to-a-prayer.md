@@ -1,6 +1,6 @@
 ---
 title: "Answer to a prayer"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Get connected with Kronies action figures"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Details about Obama's openly gay military"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

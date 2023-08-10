@@ -1,6 +1,6 @@
 ---
 title: "The beauty of love"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

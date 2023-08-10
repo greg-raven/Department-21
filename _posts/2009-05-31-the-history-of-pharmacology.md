@@ -1,6 +1,6 @@
 ---
 title: "The history of pharmacology"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

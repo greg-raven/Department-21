@@ -1,6 +1,6 @@
 ---
 title: "Summer is here: Know your ticks"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "At least they bought the cow"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Woman stops grizzly attack with .25 caliber pistol"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

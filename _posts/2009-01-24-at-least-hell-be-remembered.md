@@ -1,6 +1,6 @@
 ---
 title: "At least he'll be remembered"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

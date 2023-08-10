@@ -1,6 +1,6 @@
 ---
 title: "In photography, timing is everything"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

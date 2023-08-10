@@ -1,6 +1,6 @@
 ---
 title: "Now, that's faith"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

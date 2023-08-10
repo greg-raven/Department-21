@@ -1,6 +1,6 @@
 ---
 title: "Get out of the house and enjoy nature!"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "What causes arthritis?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

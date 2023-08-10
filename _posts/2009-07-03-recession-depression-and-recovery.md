@@ -1,6 +1,6 @@
 ---
 title: "Recession, Depression, and Recovery"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

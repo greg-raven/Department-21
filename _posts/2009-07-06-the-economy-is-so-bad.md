@@ -1,6 +1,6 @@
 ---
 title: "The Economy Is So Bad …"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

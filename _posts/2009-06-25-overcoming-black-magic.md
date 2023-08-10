@@ -1,6 +1,6 @@
 ---
 title: "Overcoming black magic"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

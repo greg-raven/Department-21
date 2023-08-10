@@ -1,6 +1,6 @@
 ---
 title: "Bill Gates in Heaven"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

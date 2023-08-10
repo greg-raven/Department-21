@@ -1,6 +1,6 @@
 ---
 title: "Riddle gone awry"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

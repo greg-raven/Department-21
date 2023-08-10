@@ -1,6 +1,6 @@
 ---
 title: "Crazy liberals"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

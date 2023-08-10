@@ -1,6 +1,6 @@
 ---
 title: "The koala and the lizard"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

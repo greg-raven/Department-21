@@ -1,6 +1,6 @@
 ---
 title: "Copy cat or cat scan?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

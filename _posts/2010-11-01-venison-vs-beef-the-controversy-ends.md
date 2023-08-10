@@ -1,6 +1,6 @@
 ---
 title: "Venison vs. Beef: The controversy ends"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

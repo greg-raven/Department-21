@@ -1,6 +1,6 @@
 ---
 title: "Looks as though prayer is back in my life"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

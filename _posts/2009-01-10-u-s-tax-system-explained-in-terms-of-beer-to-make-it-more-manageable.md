@@ -1,6 +1,6 @@
 ---
 title: "U.S. Tax system explained in terms of beer, to make it more manageable"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

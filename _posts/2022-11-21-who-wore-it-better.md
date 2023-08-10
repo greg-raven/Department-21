@@ -1,6 +1,6 @@
 ---
 title: "Who wore it better?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

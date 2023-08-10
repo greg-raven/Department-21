@@ -1,6 +1,6 @@
 ---
 title: "The miracle of burning the Bush"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

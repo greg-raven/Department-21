@@ -1,6 +1,6 @@
 ---
 title: "Whatever the cost, it's worth it"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

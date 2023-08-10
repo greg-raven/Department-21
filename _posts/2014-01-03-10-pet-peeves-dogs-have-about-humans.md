@@ -1,6 +1,6 @@
 ---
 title: "10 pet peeves dogs have about humans"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

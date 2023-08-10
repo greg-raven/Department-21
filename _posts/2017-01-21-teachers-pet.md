@@ -1,6 +1,6 @@
 ---
 title: "Teacher's pet"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

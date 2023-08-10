@@ -1,6 +1,6 @@
 ---
 title: "Riddle for the day"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

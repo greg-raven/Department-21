@@ -1,6 +1,6 @@
 ---
 title: "They don't miss Cecil"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

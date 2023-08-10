@@ -1,6 +1,6 @@
 ---
 title: "New pistol"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

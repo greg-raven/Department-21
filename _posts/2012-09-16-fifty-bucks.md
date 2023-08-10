@@ -1,6 +1,6 @@
 ---
 title: "Fifty bucks"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

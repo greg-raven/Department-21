@@ -1,6 +1,6 @@
 ---
 title: "One cool cat"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Three friends"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

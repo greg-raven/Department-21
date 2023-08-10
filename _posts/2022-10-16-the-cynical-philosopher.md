@@ -1,6 +1,6 @@
 ---
 title: "The Cynical Philosopher"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

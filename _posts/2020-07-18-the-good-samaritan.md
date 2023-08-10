@@ -1,6 +1,6 @@
 ---
 title: "The Good Samaritan"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

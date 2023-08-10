@@ -1,6 +1,6 @@
 ---
 title: "A novel approach to saving money"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

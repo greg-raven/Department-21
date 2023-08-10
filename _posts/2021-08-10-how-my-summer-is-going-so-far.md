@@ -1,6 +1,6 @@
 ---
 title: "How my summer is going so far"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

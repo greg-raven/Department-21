@@ -1,6 +1,6 @@
 ---
 title: "That's the beer talking"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

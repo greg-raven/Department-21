@@ -1,6 +1,6 @@
 ---
 title: "So that's why Ikea serves food"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

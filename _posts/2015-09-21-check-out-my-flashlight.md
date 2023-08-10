@@ -1,6 +1,6 @@
 ---
 title: "Check out my flashlight"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

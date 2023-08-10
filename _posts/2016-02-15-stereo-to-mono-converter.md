@@ -1,6 +1,6 @@
 ---
 title: "Stereo-to-mono converter"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

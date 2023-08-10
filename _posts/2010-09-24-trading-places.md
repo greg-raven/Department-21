@@ -1,6 +1,6 @@
 ---
 title: "Trading places"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

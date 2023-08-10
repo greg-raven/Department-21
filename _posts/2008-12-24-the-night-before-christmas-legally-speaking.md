@@ -1,6 +1,6 @@
 ---
 title: "The Night Before Christmas, Legally Speaking"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Good question billboard"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

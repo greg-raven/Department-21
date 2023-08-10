@@ -1,6 +1,6 @@
 ---
 title: "Hide the decline"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Here's your change: Obamacare"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

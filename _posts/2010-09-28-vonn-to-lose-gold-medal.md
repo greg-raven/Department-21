@@ -1,6 +1,6 @@
 ---
 title: "Vonn to lose gold medal"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

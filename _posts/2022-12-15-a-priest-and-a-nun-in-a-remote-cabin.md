@@ -1,6 +1,6 @@
 ---
 title: "A priest and a nun in a remote cabin"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

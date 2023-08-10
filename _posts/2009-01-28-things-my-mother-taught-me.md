@@ -1,6 +1,6 @@
 ---
 title: "Things my mother taught me"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Doctors vs. gun owners"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

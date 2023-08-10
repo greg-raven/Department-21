@@ -1,6 +1,6 @@
 ---
 title: "Ban fox hunting"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

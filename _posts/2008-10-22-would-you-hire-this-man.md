@@ -1,6 +1,6 @@
 ---
 title: "Would you hire this man?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Terms used in medical research"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

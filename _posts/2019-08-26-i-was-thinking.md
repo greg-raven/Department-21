@@ -1,6 +1,6 @@
 ---
 title: "I was thinking"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Global Warming™ a boon the ski industry"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Idiot sightings"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Anti-terrorist exercise this Saturday!"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Take this job and shove it"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

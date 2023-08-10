@@ -1,6 +1,6 @@
 ---
 title: "Top Ten Ways the Bible Would Have Been Different if Written by College Students"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

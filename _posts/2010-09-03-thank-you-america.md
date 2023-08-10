@@ -1,6 +1,6 @@
 ---
 title: "Thank you, America!"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

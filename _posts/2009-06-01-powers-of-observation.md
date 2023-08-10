@@ -1,6 +1,6 @@
 ---
 title: "Powers of observation"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

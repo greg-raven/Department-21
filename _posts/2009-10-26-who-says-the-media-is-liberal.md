@@ -1,6 +1,6 @@
 ---
 title: "Who says the media are liberal?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

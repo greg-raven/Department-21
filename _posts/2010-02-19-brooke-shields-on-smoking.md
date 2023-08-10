@@ -1,6 +1,6 @@
 ---
 title: "Brooke Shields on smoking"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

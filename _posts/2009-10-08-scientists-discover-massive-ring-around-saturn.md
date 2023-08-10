@@ -1,6 +1,6 @@
 ---
 title: "Scientists discover massive ring around Saturn"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

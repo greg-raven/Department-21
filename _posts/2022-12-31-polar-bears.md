@@ -1,6 +1,6 @@
 ---
 title: "Polar bears"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The white Christmas"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

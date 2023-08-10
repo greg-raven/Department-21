@@ -1,6 +1,6 @@
 ---
 title: "She bought Barack a parrot"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Women as viewed by engineers"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

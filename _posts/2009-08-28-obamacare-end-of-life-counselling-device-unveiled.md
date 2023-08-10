@@ -1,6 +1,6 @@
 ---
 title: "Obamacare end-of-life counselling device unveiled"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

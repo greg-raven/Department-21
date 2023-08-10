@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas billboard"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

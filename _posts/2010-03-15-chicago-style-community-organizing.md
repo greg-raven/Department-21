@@ -1,6 +1,6 @@
 ---
 title: "Chicago-style community organizing"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

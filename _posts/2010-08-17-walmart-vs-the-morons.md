@@ -1,6 +1,6 @@
 ---
 title: "Walmart vs. The 'Morons'"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

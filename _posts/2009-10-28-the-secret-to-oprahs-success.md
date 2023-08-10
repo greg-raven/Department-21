@@ -1,6 +1,6 @@
 ---
 title: "The secret to Oprah's success"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

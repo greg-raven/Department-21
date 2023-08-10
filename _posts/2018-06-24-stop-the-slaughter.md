@@ -1,6 +1,6 @@
 ---
 title: "Stop the slaughter"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

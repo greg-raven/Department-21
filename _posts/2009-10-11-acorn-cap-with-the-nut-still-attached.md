@@ -1,6 +1,6 @@
 ---
 title: "ACORN cap with the nut still attached"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

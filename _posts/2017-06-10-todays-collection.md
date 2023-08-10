@@ -1,6 +1,6 @@
 ---
 title: "Today's collection"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

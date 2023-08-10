@@ -1,6 +1,6 @@
 ---
 title: "Deadly disease: Gonorrhea Lectim"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

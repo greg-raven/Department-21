@@ -1,6 +1,6 @@
 ---
 title: "Diversity car show"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

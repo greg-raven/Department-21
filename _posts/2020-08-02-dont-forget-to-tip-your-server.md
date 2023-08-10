@@ -1,6 +1,6 @@
 ---
 title: "Don't forget to tip your server"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

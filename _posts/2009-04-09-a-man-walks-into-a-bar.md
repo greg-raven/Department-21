@@ -1,6 +1,6 @@
 ---
 title: "A man walks into a bar …"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

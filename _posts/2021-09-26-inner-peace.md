@@ -1,6 +1,6 @@
 ---
 title: "Inner peace"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

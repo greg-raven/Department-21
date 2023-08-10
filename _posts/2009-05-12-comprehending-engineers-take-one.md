@@ -1,6 +1,6 @@
 ---
 title: "Comprehending Engineers — Take One"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

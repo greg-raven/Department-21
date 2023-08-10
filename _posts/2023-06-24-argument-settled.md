@@ -1,6 +1,6 @@
 ---
 title: "Argument settled"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

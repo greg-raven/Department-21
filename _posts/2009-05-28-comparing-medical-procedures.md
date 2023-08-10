@@ -1,6 +1,6 @@
 ---
 title: "Comparing medical procedures"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

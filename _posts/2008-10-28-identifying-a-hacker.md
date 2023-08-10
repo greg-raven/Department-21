@@ -1,6 +1,6 @@
 ---
 title: "How to identify a hacker"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "How a missile guidance system works"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

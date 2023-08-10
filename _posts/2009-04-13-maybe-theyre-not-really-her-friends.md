@@ -1,6 +1,6 @@
 ---
 title: "Maybe they're not really her friends"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

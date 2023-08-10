@@ -1,6 +1,6 @@
 ---
 title: "Men at work and at play"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

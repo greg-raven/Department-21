@@ -1,6 +1,6 @@
 ---
 title: "Let me get this straight"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

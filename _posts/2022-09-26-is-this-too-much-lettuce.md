@@ -1,6 +1,6 @@
 ---
 title: "Is this too much lettuce?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

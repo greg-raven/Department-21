@@ -1,6 +1,6 @@
 ---
 title: "More signs from the Indian Hills Community Center"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

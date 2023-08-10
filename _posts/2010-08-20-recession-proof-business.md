@@ -1,6 +1,6 @@
 ---
 title: "Recession-proof business"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

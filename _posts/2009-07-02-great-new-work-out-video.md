@@ -1,6 +1,6 @@
 ---
 title: "Great new work-out video"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

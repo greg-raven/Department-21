@@ -1,6 +1,6 @@
 ---
 title: "U.S. Army billboard"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

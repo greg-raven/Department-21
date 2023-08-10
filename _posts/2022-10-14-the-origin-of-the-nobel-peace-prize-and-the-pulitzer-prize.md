@@ -1,6 +1,6 @@
 ---
 title: "The Origin of the Nobel Peace Prize and the Pulitzer Prize"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

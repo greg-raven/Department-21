@@ -1,6 +1,6 @@
 ---
 title: "Now that's a hotline!"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

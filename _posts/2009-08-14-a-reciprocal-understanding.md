@@ -1,6 +1,6 @@
 ---
 title: "A reciprocal understanding"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

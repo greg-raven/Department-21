@@ -1,6 +1,6 @@
 ---
 title: "My neighbors aren't real happy about this, but I'm saving a bundle …"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Italians — it's in their blood"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

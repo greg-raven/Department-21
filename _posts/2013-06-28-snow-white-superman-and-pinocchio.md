@@ -1,6 +1,6 @@
 ---
 title: "Snow White, Superman, and Pinocchio"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Worst day of my life"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Writing tips"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

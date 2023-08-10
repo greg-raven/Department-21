@@ -1,6 +1,6 @@
 ---
 title: "Cost-cutting measures"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

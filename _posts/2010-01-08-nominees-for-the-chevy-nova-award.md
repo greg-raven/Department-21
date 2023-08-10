@@ -1,6 +1,6 @@
 ---
 title: "Nominees for the Chevy Nova Award"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

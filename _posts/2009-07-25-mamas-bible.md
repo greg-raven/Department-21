@@ -1,6 +1,6 @@
 ---
 title: "Mama's Bible"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Funniest joke ever (and it's on us)"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

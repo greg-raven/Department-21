@@ -1,6 +1,6 @@
 ---
 title: "Don't forget the 'diversity'"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "To my friends who enjoy a glass of wine, and those who don't"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

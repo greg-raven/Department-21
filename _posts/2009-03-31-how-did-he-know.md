@@ -1,6 +1,6 @@
 ---
 title: "How did he know?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

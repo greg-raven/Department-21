@@ -1,6 +1,6 @@
 ---
 title: "What do they have in common?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

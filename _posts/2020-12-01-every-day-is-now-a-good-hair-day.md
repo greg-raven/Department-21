@@ -1,6 +1,6 @@
 ---
 title: "Every day is now a good-hair day"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

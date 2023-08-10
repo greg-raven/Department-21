@@ -1,6 +1,6 @@
 ---
 title: "The Pope and Nancy Pelosi"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

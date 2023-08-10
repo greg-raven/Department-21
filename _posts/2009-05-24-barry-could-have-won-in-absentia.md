@@ -1,6 +1,6 @@
 ---
 title: "Barry could have won in absentia"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

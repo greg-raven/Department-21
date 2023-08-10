@@ -1,6 +1,6 @@
 ---
 title: "Finding inner peace"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

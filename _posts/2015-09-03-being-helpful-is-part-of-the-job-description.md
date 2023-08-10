@@ -1,6 +1,6 @@
 ---
 title: "Being helpful is part of the job description"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 

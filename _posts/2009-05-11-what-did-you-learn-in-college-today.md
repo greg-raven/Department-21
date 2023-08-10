@@ -1,6 +1,6 @@
 ---
 title: "What did you learn in college today?"
-author: 'Noam Sain'
+author: "Noam Sain"
 layout: post
 ---
 
