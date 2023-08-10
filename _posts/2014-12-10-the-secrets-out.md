@@ -4,4 +4,4 @@ author: 'Noam Sain'
 layout: post
 ---
 
-![secret-bunker](/assets/2014/2014-12-secret-bunker.jpg)
+![Secret nuclear bunker](/assets/2014/2014-12-secret-bunker.jpg "Secret nuclear bunker")

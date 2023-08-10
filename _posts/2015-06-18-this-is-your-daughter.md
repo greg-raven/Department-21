@@ -6,8 +6,8 @@ layout: post
 
 This is your daughter:
 
-![RD](/assets/2015/2015-06-rd-before.jpg)
+![Before](/assets/2015/2015-06-rd-before.jpg "Before")
 
 This is your daughter on drugs:
 
-![RD](/assets/2015/2015-06-rd-post.jpg)
+![After](/assets/2015/2015-06-rd-post.jpg "After")
