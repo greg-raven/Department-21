@@ -1,5 +1,5 @@
 ---
-title: 'What do they have in common?'
+title: "What do they have in common?"
 author: 'Noam Sain'
 layout: post
 ---

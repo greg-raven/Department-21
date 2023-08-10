@@ -1,5 +1,5 @@
 ---
-title: 'Quotidian haiku'
+title: "Quotidian haiku"
 author: 'Noam Sain'
 layout: post
 ---
@@ -32,13 +32,13 @@ Like a bonsai tree,
 your terrible posture at  
 my dinner table.
 
-Coroner’s report —  
-“The deceased, wearing no hat,  
-caught his death of cold.”
+Coroner's report —  
+"The deceased, wearing no hat,  
+caught his death of cold."
 
 Lonely mantra of  
-the Buddhist monk: “They never  
-call, they never write.”
+the Buddhist monk: "They never  
+call, they never write."
 
 The sparkling blue sea  
 beckons me to wait one hour  
@@ -50,8 +50,8 @@ of when to change lanes.
 
 Is one Nobel Prize  
 too much to ask from a child  
-after all I’ve done?
+after all I've done?
 
-Sorry I’m not home  
+Sorry I'm not home  
 to take your call. At the tone  
 please state your bad news.

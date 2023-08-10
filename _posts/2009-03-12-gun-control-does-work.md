@@ -1,5 +1,5 @@
 ---
-title: 'Gun control does work'
+title: "Gun control does work"
 author: 'Noam Sain'
 layout: post
 ---

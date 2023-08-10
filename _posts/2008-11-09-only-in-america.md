@@ -1,5 +1,5 @@
 ---
-title: 'Only in America'
+title: "Only in America"
 author: 'Noam Sain'
 layout: post
 ---
@@ -18,11 +18,11 @@ Only in America do banks leave both doors open and then chain their pens to the 
 
 Only in America do we leave cars worth thousands of dollars in the driveway and put useless junk in the garage.
 
-Only in America do we use answering machines to screen calls and then have call waiting so we won’t miss a call from someone we didn’t want to talk to in the first place.
+Only in America do we use answering machines to screen calls and then have call waiting so we won't miss a call from someone we didn't want to talk to in the first place.
 
 Only in America do we buy hot dogs in packages of ten and buns in packages of eight.
 
-Only in America do we use the word politics to describe our process. In Latin “poli” means “many” and “ticks” means “bloodsucking creatures.”
+Only in America do we use the word politics to describe our process. In Latin "poli" means "many" and "ticks" means "bloodsucking creatures."
 
 Only in America can a homeless combat veteran live in a cardboard box and a draft dodger get elected to public office.
 

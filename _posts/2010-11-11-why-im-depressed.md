@@ -1,12 +1,12 @@
 ---
-title: 'Why I’m Depressed'
+title: "Why I'm Depressed"
 author: 'Noam Sain'
 layout: post
 ---
 
-Over five thousand years ago, Moses said to the children of Israel, “Pick up your shovels, mount your asses and camels, and I will lead you to the Promised Land.”
+Over five thousand years ago, Moses said to the children of Israel, "Pick up your shovels, mount your asses and camels, and I will lead you to the Promised Land."
 
-Nearly 75 years ago, (when welfare was introduced) Roosevelt said, “Lay down your shovels, sit on your asses, and light up a Camel, this is the Promised Land.”
+Nearly 75 years ago, (when welfare was introduced) Roosevelt said, "Lay down your shovels, sit on your asses, and light up a Camel, this is the Promised Land."
 
 Today, Obama has stolen your shovel, taxed your asses, raised the price of camels, and mortgaged the Promised Land!
 

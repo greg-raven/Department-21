@@ -1,5 +1,5 @@
 ---
-title: 'Funny protest signs'
+title: "Funny protest signs"
 author: 'Noam Sain'
 layout: post
 ---

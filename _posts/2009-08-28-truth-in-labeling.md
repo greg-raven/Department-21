@@ -1,5 +1,5 @@
 ---
-title: 'Truth in labeling'
+title: "Truth in labeling"
 author: 'Noam Sain'
 layout: post
 ---

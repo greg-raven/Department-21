@@ -1,5 +1,5 @@
 ---
-title: 'Trick or treat!'
+title: "Trick or treat!"
 author: 'Noam Sain'
 layout: post
 ---

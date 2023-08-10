@@ -1,5 +1,5 @@
 ---
-title: 'New health care plan for seniors'
+title: "New health care plan for seniors"
 author: 'Noam Sain'
 layout: post
 ---
@@ -12,6 +12,6 @@ Of course, this means you will be sent to prison, but there you will get three m
 
 New teeth, no problem. Need glasses, great. New hip, knees, kidney, lungs, heart? All covered, and your kids can come and visit you as often as they do now.
 
-Who will be paying for all of this? The same government that now tells you that you are too old for health care. Plus, because you are a prisoner, you don’t have to pay any income taxes anymore.
+Who will be paying for all of this? The same government that now tells you that you are too old for health care. Plus, because you are a prisoner, you don't have to pay any income taxes anymore.
 
 Is this a great country or what?

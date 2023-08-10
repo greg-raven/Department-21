@@ -1,5 +1,5 @@
 ---
-title: 'Get back to work!'
+title: "Get back to work!"
 author: 'Noam Sain'
 layout: post
 ---

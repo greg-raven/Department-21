@@ -1,5 +1,5 @@
 ---
-title: 'Chef Gordon Ramsay’s crispy pancake recipe'
+title: "Chef Gordon Ramsay's crispy pancake recipe"
 author: 'Noam Sain'
 layout: post
 ---

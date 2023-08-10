@@ -1,5 +1,5 @@
 ---
-title: 'Job available'
+title: "Job available"
 author: 'Noam Sain'
 layout: post
 ---

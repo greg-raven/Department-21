@@ -1,5 +1,5 @@
 ---
-title: 'Worst parents of the year'
+title: "Worst parents of the year"
 author: 'Noam Sain'
 layout: post
 ---

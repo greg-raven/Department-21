@@ -1,5 +1,5 @@
 ---
-title: 'No offense'
+title: "No offense"
 layout: post
 author:
 - Patriot Post

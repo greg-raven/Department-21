@@ -1,5 +1,5 @@
 ---
-title: 'Nautical sense of humor'
+title: "Nautical sense of humor"
 author: 'Noam Sain'
 layout: post
 ---
@@ -20,7 +20,7 @@ layout: post
 
 ![Vitamin Sea](/assets/2022/2022-10-boats-8.jpg "Vitamin Sea")
 
-![Amy’s Wine House](/assets/2022/2022-10-boats-9.jpg "Amy’s Wine House")
+![Amy's Wine House](/assets/2022/2022-10-boats-9.jpg "Amy's Wine House")
 
 ![Breakin Wind](/assets/2022/2022-10-boats-10.jpg "Breakin Wind")
 

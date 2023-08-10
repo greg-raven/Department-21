@@ -1,5 +1,5 @@
 ---
-title: 'Ban fox hunting'
+title: "Ban fox hunting"
 author: 'Noam Sain'
 layout: post
 ---

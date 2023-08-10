@@ -1,5 +1,5 @@
 ---
-title: 'Barry the Marxist and Joe the Plumber'
+title: "Barry the Marxist and Joe the Plumber"
 author: 'Noam Sain'
 layout: post
 ---

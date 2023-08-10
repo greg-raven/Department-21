@@ -1,5 +1,5 @@
 ---
-title: 'Bear scientists'
+title: "Bear scientists"
 author: 'Noam Sain'
 layout: post
 ---
@@ -12,6 +12,6 @@ The Russian and the Czech were given portable phones and told to report in every
 
 They followed the trail of a male and a female bear. They found the female and decided they must kill the animal to find out if she had eaten the scientist because they feared an international incident.
 
-They killed the female animal and opened the stomach to find the remains of the Russian. One ranger turned to the other and said, “You know what this means, don’t you?”
+They killed the female animal and opened the stomach to find the remains of the Russian. One ranger turned to the other and said, "You know what this means, don't you?"
 
-The other ranger responded, “Of course, the Czech is in the male.”
+The other ranger responded, "Of course, the Czech is in the male."

@@ -1,10 +1,10 @@
 ---
-title: 'How many zeros in a billion?'
+title: "How many zeros in a billion?"
 author: 'Noam Sain'
 layout: post
 ---
 
-The next time you hear a politician use the word “billion” in a casual manner, think about whether you want politicians spending YOUR tax money.  
+The next time you hear a politician use the word "billion" in a casual manner, think about whether you want politicians spending YOUR tax money.  
   
 A billion is a difficult number to comprehend, but one advertising agency did a good job of putting that figure into some perspective in one of its releases.
 
@@ -14,7 +14,7 @@ A billion is a difficult number to comprehend, but one advertising agency did a 
 - A billion days ago nothing walked the earth on two feet.
 - A billion dollars ago was only 8 hours and 20 minutes, at the rate our government is spending it.
 
-While this thought is still fresh in our brain, let’s take a look at the situation in New Orleans. It’s amazing what you can learn with some simple division.
+While this thought is still fresh in our brain, let's take a look at the situation in New Orleans. It's amazing what you can learn with some simple division.
 
 Louisiana Senator Mary Landrieu (D) was asking Congress for 250 billion dollars to rebuild New Orleans.
 
@@ -26,7 +26,7 @@ Or, if you have one of the 188,251 homes in New Orleans, your home gets $1,329,7
 
 Or, if you are a family of four, your family gets $2,066,012.
 
-This is YOUR money, not the government’s! They got it through:
+This is YOUR money, not the government's! They got it through:
 
 - Accounts Receivable Tax
 - Building Permit Tax
@@ -73,7 +73,7 @@ This is YOUR money, not the government’s! They got it through:
 - Well Permit Tax
 - Workers Compensation Tax
 
-(And don’t forget inflation: The hidden tax.)
+(And don't forget inflation: The hidden tax.)
 
 Not one of these taxes existed 100 years ago, and our nation was the most prosperous in the world.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Why Americans ride bicycles'
+title: "Why Americans ride bicycles"
 author: 'Noam Sain'
 layout: post
 ---

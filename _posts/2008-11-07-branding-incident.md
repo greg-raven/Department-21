@@ -1,5 +1,5 @@
 ---
-title: 'The branding incident'
+title: "The branding incident"
 author: 'Noam Sain'
 layout: post
 ---

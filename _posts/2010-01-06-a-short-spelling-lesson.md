@@ -1,5 +1,5 @@
 ---
-title: 'A short spelling lesson'
+title: "A short spelling lesson"
 author: 'Noam Sain'
 layout: post
 ---

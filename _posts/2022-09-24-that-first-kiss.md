@@ -1,5 +1,5 @@
 ---
-title: 'That first kiss'
+title: "That first kiss"
 author: 'Noam Sain'
 layout: post
 ---

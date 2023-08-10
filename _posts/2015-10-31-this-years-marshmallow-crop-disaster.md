@@ -1,5 +1,5 @@
 ---
-title: 'This year’s marshmallow crop disaster'
+title: "This year's marshmallow crop disaster"
 author: 'Noam Sain'
 layout: post
 ---

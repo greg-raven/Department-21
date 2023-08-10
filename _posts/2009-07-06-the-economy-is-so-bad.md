@@ -1,12 +1,12 @@
 ---
-title: 'The Economy Is So Bad …'
+title: "The Economy Is So Bad …"
 author: 'Noam Sain'
 layout: post
 ---
 
 CEOs are now playing miniature golf.  
   
-Even people who have nothing to do with the Obama administration aren’t paying their taxes.
+Even people who have nothing to do with the Obama administration aren't paying their taxes.
 
 Hotwheels and Matchbox stocks are trading higher than GM.
 
@@ -18,7 +18,7 @@ Illegal aliens are going back to Mexico.
 
 The most highly-paid job is now jury duty.
 
-Motel Six won’t leave the light on.
+Motel Six won't leave the light on.
 
 The Mafia is laying off judges.
 

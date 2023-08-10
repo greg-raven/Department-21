@@ -1,5 +1,5 @@
 ---
-title: 'Get out of the house and enjoy nature!'
+title: "Get out of the house and enjoy nature!"
 author: 'Noam Sain'
 layout: post
 ---

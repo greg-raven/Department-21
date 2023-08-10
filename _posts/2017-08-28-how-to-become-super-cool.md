@@ -1,5 +1,5 @@
 ---
-title: 'How to become Super Cool'
+title: "How to become Super Cool"
 author: 'Noam Sain'
 layout: post
 ---

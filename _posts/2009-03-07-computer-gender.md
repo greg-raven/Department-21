@@ -1,14 +1,14 @@
 ---
-title: 'Computer gender'
+title: "Computer gender"
 author: 'Noam Sain'
 layout: post
 ---
 
-A language instructor was explaining to her class that French nouns, unlike their English counterparts, are grammatically designated as masculine or feminine. Things like “chalk” or pencil,” she described, would have a gender association – even though in English, these words were neutral.
+A language instructor was explaining to her class that French nouns, unlike their English counterparts, are grammatically designated as masculine or feminine. Things like "chalk" or pencil," she described, would have a gender association – even though in English, these words were neutral.
 
-Puzzled, one student raised his hand and asked, “What gender is a computer?”
+Puzzled, one student raised his hand and asked, "What gender is a computer?"
 
-The teacher wasn’t certain, so divided the class into two groups and asked them to decide if a computer should be masculine or feminine. One group was composed of the women in the class, and the other, of men. Both groups were asked to give four reasons for their recommendation.
+The teacher wasn't certain, so divided the class into two groups and asked them to decide if a computer should be masculine or feminine. One group was composed of the women in the class, and the other, of men. Both groups were asked to give four reasons for their recommendation.
 
 The group of women concluded that computers should be referred to in the masculine gender because:
 

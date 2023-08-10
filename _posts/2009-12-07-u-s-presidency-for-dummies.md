@@ -1,5 +1,5 @@
 ---
-title: 'U.S. Presidency for Dummies'
+title: "U.S. Presidency for Dummies"
 author: 'Noam Sain'
 layout: post
 ---

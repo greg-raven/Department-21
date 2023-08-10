@@ -1,5 +1,5 @@
 ---
-title: 'Various views of the cattle business'
+title: "Various views of the cattle business"
 author: 'Noam Sain'
 layout: post
 ---
@@ -46,7 +46,7 @@ You have two cows. You engineer them so they are all blond, drink lots of beer, 
 
 **ITALIAN CORPORATION**
 
-You have two cows but you don’t know where they are. While ambling around, you see a beautiful woman. You break for lunch. Life is good.
+You have two cows but you don't know where they are. While ambling around, you see a beautiful woman. You break for lunch. Life is good.
 
 **RUSSIAN CORPORATION**
 
@@ -54,7 +54,7 @@ You have two cows. You have some vodka. You count them and learn you have five c
 
 **TALIBAN CORPORATION**
 
-You have all the cows in Afghanistan, which are two. You don’t milk them because you cannot touch any creature’s private parts. You get a $40 million grant from the US government to find alternatives to milk production but use the money to buy weapons.
+You have all the cows in Afghanistan, which are two. You don't milk them because you cannot touch any creature's private parts. You get a $40 million grant from the US government to find alternatives to milk production but use the money to buy weapons.
 
 **IRAQI CORPORATION**
 
@@ -66,11 +66,11 @@ You have two bulls. Employees are regularly maimed and killed attempting to milk
 
 **BELGIAN CORPORATION**
 
-You have one cow. The cow is schizophrenic. Sometimes the cow thinks he’s French, other times he’s Flemish. The Flemish cow won’t share with the French cow. The French cow wants control of the Flemish cow’s milk. The cow asks permission to be cut in half. The cow dies happy.
+You have one cow. The cow is schizophrenic. Sometimes the cow thinks he's French, other times he's Flemish. The Flemish cow won't share with the French cow. The French cow wants control of the Flemish cow's milk. The cow asks permission to be cut in half. The cow dies happy.
 
 **FLORIDA CORPORATION**
 
-You have a black cow and a brown cow. Everyone votes for the better looking one. Some of the people who actually like the brown one better accidentally vote for the black one. Some people vote for both. Some people vote for neither. Some people can’t figure out how to vote at all. Finally, a bunch of guys from out-of-state tell you which one you think is the best-looking cow.
+You have a black cow and a brown cow. Everyone votes for the better looking one. Some of the people who actually like the brown one better accidentally vote for the black one. Some people vote for both. Some people vote for neither. Some people can't figure out how to vote at all. Finally, a bunch of guys from out-of-state tell you which one you think is the best-looking cow.
 
 **CALIFORNIA CORPORATION**
 

@@ -1,5 +1,5 @@
 ---
-title: 'Praying for Obama'
+title: "Praying for Obama"
 author: 'Noam Sain'
 layout: post
 ---

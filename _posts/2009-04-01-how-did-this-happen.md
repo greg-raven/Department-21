@@ -1,5 +1,5 @@
 ---
-title: 'How did this happen?'
+title: "How did this happen?"
 author: 'Noam Sain'
 layout: post
 ---

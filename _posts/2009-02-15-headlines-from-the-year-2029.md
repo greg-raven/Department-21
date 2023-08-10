@@ -1,12 +1,12 @@
 ---
-title: 'Headlines from The Year 2029'
+title: "Headlines from The Year 2029"
 author: 'Noam Sain'
 layout: post
 ---
 
 Ozone created by electric cars now killing millions in the seventh largest country in the world, Mexifornia, formerly known as California.  
   
-White minorities still trying to have English recognized as Mexifornia’s third language.
+White minorities still trying to have English recognized as Mexifornia's third language.
 
 Spotted Owl plague threatens northwestern United States crops and livestock.
 

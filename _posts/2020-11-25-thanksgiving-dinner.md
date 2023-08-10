@@ -1,5 +1,5 @@
 ---
-title: 'Thanksgiving dinner'
+title: "Thanksgiving dinner"
 author: 'Noam Sain'
 layout: post
 ---

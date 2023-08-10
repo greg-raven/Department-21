@@ -1,5 +1,5 @@
 ---
-title: 'Christmas funnies'
+title: "Christmas funnies"
 author: 'Noam Sain'
 layout: post
 ---

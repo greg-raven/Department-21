@@ -1,5 +1,5 @@
 ---
-title: 'New gizmo from Sony (language warning)'
+title: "New gizmo from Sony (language warning)"
 author: 'Noam Sain'
 layout: post
 ---

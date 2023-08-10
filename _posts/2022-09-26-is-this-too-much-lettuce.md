@@ -1,5 +1,5 @@
 ---
-title: 'Is this too much lettuce?'
+title: "Is this too much lettuce?"
 author: 'Noam Sain'
 layout: post
 ---

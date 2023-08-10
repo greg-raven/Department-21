@@ -1,5 +1,5 @@
 ---
-title: 'Top Ten Ways the Bible Would Have Been Different if Written by College Students'
+title: "Top Ten Ways the Bible Would Have Been Different if Written by College Students"
 author: 'Noam Sain'
 layout: post
 ---
@@ -8,9 +8,9 @@ layout: post
 
 9). Ten Commandments are actually only five, but because they are double-spaced and written in a large font, they look like ten.
 
-8). Forbidden fruit would have been eaten because it wasn’t dorm food.
+8). Forbidden fruit would have been eaten because it wasn't dorm food.
 
-7). Paul’s Letters to the Romans become Paul’s E-Mail to the Romans.
+7). Paul's Letters to the Romans become Paul's E-Mail to the Romans.
 
 6). Reason Cain killed Abel: They were roommates.
 
@@ -18,7 +18,7 @@ layout: post
 
 4). Book of Armaments would be in there somewhere.
 
-3). Reason why Moses and followers walked in desert for 40 years: They didn’t want to ask directions and look like a Freshman.
+3). Reason why Moses and followers walked in desert for 40 years: They didn't want to ask directions and look like a Freshman.
 
 2). Tower of Babel blamed for Foreign Language requirement.
 

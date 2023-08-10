@@ -1,5 +1,5 @@
 ---
-title: 'Seen on the streets of Bismarck, ND'
+title: "Seen on the streets of Bismarck, ND"
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Inner peace'
+title: "Inner peace"
 author: 'Noam Sain'
 layout: post
 ---

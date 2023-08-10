@@ -1,5 +1,5 @@
 ---
-title: 'When God created the cat'
+title: "When God created the cat"
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Cost-cutting measures'
+title: "Cost-cutting measures"
 author: 'Noam Sain'
 layout: post
 ---
@@ -16,7 +16,7 @@ Hitchhiking is the preferred mode of travel in lieu of commercial transport. Lum
 
 **Meals**
 
-Expenditures for meals will be limited to an absolute minimum. It should be noted that certain grocery and specialty chains, such as Hickory Farms, General Nutrition centers, and, Costco, Sams stores etc. often provide free samples of promotional items. Entire meals can be obtained in this manner. Travelers should also be familiar with indigenous roots, berries, and other protein sources available at their destinations. If restaurants must be utilized, travelers should use “all you can eat” salad bars. This is especially effective for employees traveling together as one plate can be used to feed the entire group. Employees are also encouraged to bring their own food on business travel. Cans of tuna fish, Spam, and Beef-a-roni can be consumed at your leisure without the necessary bother of heating or costly preparation.
+Expenditures for meals will be limited to an absolute minimum. It should be noted that certain grocery and specialty chains, such as Hickory Farms, General Nutrition centers, and, Costco, Sams stores etc. often provide free samples of promotional items. Entire meals can be obtained in this manner. Travelers should also be familiar with indigenous roots, berries, and other protein sources available at their destinations. If restaurants must be utilized, travelers should use "all you can eat" salad bars. This is especially effective for employees traveling together as one plate can be used to feed the entire group. Employees are also encouraged to bring their own food on business travel. Cans of tuna fish, Spam, and Beef-a-roni can be consumed at your leisure without the necessary bother of heating or costly preparation.
 
 **Miscellaneous**
 

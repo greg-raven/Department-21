@@ -1,5 +1,5 @@
 ---
-title: 'Scientific product labeling'
+title: "Scientific product labeling"
 author: 'Noam Sain'
 layout: post
 ---
@@ -14,9 +14,9 @@ CAUTION: The mass of this product contains the energy equivalent of 85 million t
 
 HANDLE WITH EXTREME CARE: This product contains minute electrically charged particles moving at velocities in excess of five hundred million miles per hour.
 
-CONSUMER NOTICE: Because of the “Heisenberg Uncertainty Principle,” it is impossible for the consumer to find out at the same time both precisely where this product is and how fast it is moving. (Note: This one is optional on the grounds that Heisenberg was never quite sure that his principle was correct).
+CONSUMER NOTICE: Because of the "Heisenberg Uncertainty Principle," it is impossible for the consumer to find out at the same time both precisely where this product is and how fast it is moving. (Note: This one is optional on the grounds that Heisenberg was never quite sure that his principle was correct).
 
-ADVISORY: There is an extremely small but nonzero chance that, through a process know as “tunneling,” this product may spontaneously disappear from its present location and reappear at any random place in the universe, including your neighbor’s domicile. The manufacturer will not be responsible for any damages or inconvenience that may result.
+ADVISORY: There is an extremely small but nonzero chance that, through a process know as "tunneling," this product may spontaneously disappear from its present location and reappear at any random place in the universe, including your neighbor's domicile. The manufacturer will not be responsible for any damages or inconvenience that may result.
 
 READ THIS BEFORE OPENING PACKAGE: According to certain suggested versions of the grand unified theory, the primary particles constituting this product may decay to nothingness within the next four hundred million years.
 
@@ -24,11 +24,11 @@ THIS IS A 100% MATTER PRODUCT: In the event that this merchandise should contact
 
 PUBLIC NOTICE AS REQUIRED BY LAW: Any use of this product, in any manner whatsoever, will increase the amount of disorder in the universe. Although no liability is implied herein, the consumer is warned that this process will ultimately led to the heat death of the universe.
 
-NOTE: The most fundamental particles in this product are held together by a “gluing” force about which little is currently known and whose adhesive power can therefore not be permanently guaranteed. The user is advised to use caution.
+NOTE: The most fundamental particles in this product are held together by a "gluing" force about which little is currently known and whose adhesive power can therefore not be permanently guaranteed. The user is advised to use caution.
 
 ATTENTION: Despite any other listing of product contents found hereon, the consumer is advised that, in actuality, this product consists of 99.9999999999% Empty space.
 
-NEW GRAND UNIFIED THEORY DISCLAIMER: The manufacturer may technically be entitled to claim that this product is ten-dimensional. However, the consumer is reminded that this confers no legal rights above and beyond those applicable to three-dimensional objects, since the seven new dimensions are “rolled up” into such a small “area” that they cannot be detected.
+NEW GRAND UNIFIED THEORY DISCLAIMER: The manufacturer may technically be entitled to claim that this product is ten-dimensional. However, the consumer is reminded that this confers no legal rights above and beyond those applicable to three-dimensional objects, since the seven new dimensions are "rolled up" into such a small "area" that they cannot be detected.
 
 PLEASE NOTE: Some quantum physics theories suggest that when the consumer is not directly observing this product, it may cease to exist or will exist only in a vague and undetermined state.
 

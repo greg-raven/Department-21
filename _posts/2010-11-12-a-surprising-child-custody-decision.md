@@ -1,5 +1,5 @@
 ---
-title: 'A surprising child custody decision'
+title: "A surprising child custody decision"
 author: 'Noam Sain'
 layout: post
 ---

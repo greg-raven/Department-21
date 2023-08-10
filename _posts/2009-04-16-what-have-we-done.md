@@ -1,5 +1,5 @@
 ---
-title: 'What have we done?'
+title: "What have we done?"
 author: 'Noam Sain'
 layout: post
 ---

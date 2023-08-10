@@ -1,5 +1,5 @@
 ---
-title: 'Gentle words for our age'
+title: "Gentle words for our age"
 author: 'Noam Sain'
 layout: post
 ---
@@ -50,7 +50,7 @@ With searching comes loss
 
 and the presence of absence:
 
-“My Novel” not found.
+"My Novel" not found.
 
  – – – – – – – – – – – –
 
@@ -120,7 +120,7 @@ But we never will.
 
 Having been erased,
 
-The document you’re seeking
+The document you're seeking
 
 Must now be retyped.
 
@@ -130,7 +130,7 @@ Rather than a beep
 
 Or a rude error message,
 
-These words: “File not found.”
+These words: "File not found."
 
  – – – – – – – – – – – –
 

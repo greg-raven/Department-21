@@ -1,5 +1,5 @@
 ---
-title: 'Summer classes for men at The Learning Center'
+title: "Summer classes for men at The Learning Center"
 author: 'Noam Sain'
 layout: post
 ---
@@ -78,7 +78,7 @@ Is It Genetically Impossible To Sit Quietly While She Parallel Parks?
 
 Driving Simulations.
 
-4 weeks, Saturday’s noon, 2 hours.
+4 weeks, Saturday's noon, 2 hours.
 
 **Class 11**
 
@@ -98,7 +98,7 @@ Meets 4 weeks, Tuesday and Thursday for 2 hours beginning at 7:00 p.m.
 
 **Class 13**
 
-How to Fight Cerebral Atrophy — Remembering Birthdays, Anniversaries and Other Important Dates and Calling When You’re Going To Be Late.
+How to Fight Cerebral Atrophy — Remembering Birthdays, Anniversaries and Other Important Dates and Calling When You're Going To Be Late.
 
 Cerebral Shock Therapy Sessions and Full Lobotomies Offered.
 

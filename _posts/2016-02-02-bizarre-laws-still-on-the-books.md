@@ -1,5 +1,5 @@
 ---
-title: 'Bizarre laws still on the books'
+title: "Bizarre laws still on the books"
 author: 'Noam Sain'
 layout: post
 ---
@@ -10,7 +10,7 @@ Alaska: It is illegal to wake a sleeping bear to take a photo.
 
 Arizona: It is illegal for donkeys to sleep in bathtubs.
 
-Arkansas: It is illegal to mispronounce “Arkansas.”
+Arkansas: It is illegal to mispronounce "Arkansas."
 
 California: A frog that dies during a frog-jumping contest cannot legally be eaten.
 
@@ -24,7 +24,7 @@ Florida: If an elephant is left tied to a parking meter, the parking fee has to 
 
 Georgia: It is illegal to keep an ice cream cone in your back pocket on Sundays.
 
-Hawaii: Coins are not allowed to be placed in one’s ears.
+Hawaii: Coins are not allowed to be placed in one's ears.
 
 Idaho: It is illegal to give your sweetheart a box of chocolates weighing more than 50 pounds.
 
@@ -38,7 +38,7 @@ Kansas: A poorly-worded law states that if two trains meet on the same track, ne
 
 Kentucky: One may not dye a duckling blue and offer it for sale, unless more than six are for sale at once.
 
-Louisiana: You can be fined $500 for sending a pizza order to someone’s house without his or her knowledge.
+Louisiana: You can be fined $500 for sending a pizza order to someone's house without his or her knowledge.
 
 Maryland: It is a violation to be in a public park with a sleeveless shirt. $10 fine.
 
@@ -46,7 +46,7 @@ Maine: It is illegal to keep Christmas decorations up after January 14.
 
 Massachusetts: It is illegal to own an explosive golf ball.
 
-Michigan: It is illegal for women to cut their own hair without their husband’s permission.
+Michigan: It is illegal for women to cut their own hair without their husband's permission.
 
 Minnesota: A person may not cross state lines with a duck atop his or her head.
 
@@ -80,7 +80,7 @@ Oregon: It is illegal to go hunting in a cemetery.
 
 Pennsylvania: It is illegal to tell a fortune teller where to dig for buried treasure.
 
-Rhode Island: Biting off someone’s limb will result in 1 – 20 years in prison.
+Rhode Island: Biting off someone's limb will result in 1 – 20 years in prison.
 
 South Carolina: Horses must not be kept in bathtubs.
 
@@ -88,7 +88,7 @@ South Dakota: It is illegal to sleep in a cheese factory.
 
 Tennessee: It is illegal to share your Netflix password.
 
-Texas: It is illegal to sell one’s eye.
+Texas: It is illegal to sell one's eye.
 
 Utah: It is illegal NOT to drink milk.
 

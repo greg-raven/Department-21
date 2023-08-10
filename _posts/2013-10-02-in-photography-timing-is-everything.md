@@ -1,5 +1,5 @@
 ---
-title: 'In photography, timing is everything'
+title: "In photography, timing is everything"
 author: 'Noam Sain'
 layout: post
 ---

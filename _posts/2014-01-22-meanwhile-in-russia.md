@@ -1,5 +1,5 @@
 ---
-title: 'Meanwhile, in Russia'
+title: "Meanwhile, in Russia"
 author: 'Noam Sain'
 layout: post
 ---

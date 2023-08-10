@@ -1,5 +1,5 @@
 ---
-title: 'Well, this is awkward'
+title: "Well, this is awkward"
 author: 'Noam Sain'
 layout: post
 ---

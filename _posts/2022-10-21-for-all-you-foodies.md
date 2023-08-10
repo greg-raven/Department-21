@@ -1,5 +1,5 @@
 ---
-title: 'For all you foodies'
+title: "For all you foodies"
 author: 'Noam Sain'
 layout: post
 ---

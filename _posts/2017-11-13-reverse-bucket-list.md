@@ -1,10 +1,10 @@
 ---
-title: 'Reverse bucket list'
+title: "Reverse bucket list"
 author: 'Noam Sain'
 layout: post
 ---
 
-Things you don’t need to do before you die.
+Things you don't need to do before you die.
 
 ![Reverse bucket list item](/assets/2017/2017-11-bucketlist-01.jpg "Reverse bucket list item")
 

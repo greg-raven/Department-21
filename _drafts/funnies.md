@@ -1,7 +1,7 @@
 # Funnies
 
 ---
-title: 'Memory clinic'
+title: "Memory clinic"
 author: 'Noam Sain'
 layout: post
 ---
@@ -20,7 +20,7 @@ Then the three men turned to the Government Worker and said, "What can your dog 
 ------
 
 ---
-title: 'Help Craig beat cancer'
+title: "Help Craig beat cancer"
 author: 'Noam Sain'
 layout: post
 ---
@@ -39,7 +39,7 @@ Then the three men turned to the Government Worker and said, "What can your dog 
 ------
 
 ---
-title: 'Horse tips'
+title: "Horse tips"
 author: 'Noam Sain'
 layout: post
 ---
@@ -64,7 +64,7 @@ Horses smell fear. Deodorant won't help.
 ------
 
 ---
-title: 'Special High-Intensity Training'
+title: "Special High-Intensity Training"
 author: 'Noam Sain'
 layout: post
 ---
@@ -79,7 +79,7 @@ Thank you, BOSS IN GENERAL, SPECIAL HIGH INTENSITY TRAINING (B.I.G. S.H.I.T.)
 ------
 
 ---
-title: 'Computer gender'
+title: "Computer gender"
 author: 'Noam Sain'
 layout: post
 ---
@@ -107,7 +107,7 @@ The men, on the other hand concluded that computers should be referred to in the
 
 
 ---
-title: 'Not the answer he was seeking'
+title: "Not the answer he was seeking"
 author: 'Noam Sain'
 layout: post
 ---
@@ -228,7 +228,7 @@ Little Johnny responded,
 ------
 
 ---
-title: 'Playing the long game'
+title: "Playing the long game"
 author: 'Noam Sain'
 layout: post
 ---
@@ -247,7 +247,7 @@ Junior said, "Well, if I took the dime, they'd quit doing it!"
 ------
 
 ---
-title: 'Noah's Ark'
+title: "Noah's Ark"
 author: 'Noam Sain'
 layout: post
 ---

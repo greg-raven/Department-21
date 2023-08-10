@@ -1,10 +1,10 @@
 ---
-title: 'Internet cleaning time again'
+title: "Internet cleaning time again"
 author: 'Noam Sain'
 layout: post
 ---
 
-We’ve had an important notice, that simply had to be passed on; for those who’ve seen it before, revel in your old-sk00l style: It’s that time again!
+We've had an important notice, that simply had to be passed on; for those who've seen it before, revel in your old-sk00l style: It's that time again!
 
 As many of you know, each year the Internet must be shut down for 24 hours in order to allow us to clean it.
 

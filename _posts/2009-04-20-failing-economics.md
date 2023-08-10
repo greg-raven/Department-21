@@ -1,5 +1,5 @@
 ---
-title: 'Failing economics'
+title: "Failing economics"
 author: 'Noam Sain'
 layout: post
 ---
@@ -8,7 +8,7 @@ An economics professor at a local college made a statement that he had never fai
 
 That class had insisted that socialism worked and that no one would be poor and no one would be rich, a great equalizer.
 
-The professor then said, “OK, we will have an experiment in this class on socialism.All grades would be averaged and everyone would receive the same grade so no one would fail and no one would receive an A.
+The professor then said, "OK, we will have an experiment in this class on socialism.All grades would be averaged and everyone would receive the same grade so no one would fail and no one would receive an A.
 
 After the first test, the grades were averaged and everyone got a B.
 

@@ -1,5 +1,5 @@
 ---
-title: 'What constitutes a millionaire?'
+title: "What constitutes a millionaire?"
 author: 'Noam Sain'
 layout: post
 ---

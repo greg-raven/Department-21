@@ -1,5 +1,5 @@
 ---
-title: 'Life in Lake Havasu City'
+title: "Life in Lake Havasu City"
 author: 'Noam Sain'
 layout: post
 ---
@@ -22,12 +22,12 @@ You notice the best parking place is determined by shade instead of distance.
 
 Hot water comes out of both taps.
 
-It’s noon in July, kids are on summer vacation, and not one person is out on the streets.
+It's noon in July, kids are on summer vacation, and not one person is out on the streets.
 
 You actually burn your hand opening the car door.
 
 No one would dream of putting vinyl upholstery in a car or not having air conditioning.
 
-Your biggest bicycle wreck fear is, “What if I get knocked out and end up lying on the pavement and cook to death?”
+Your biggest bicycle wreck fear is, "What if I get knocked out and end up lying on the pavement and cook to death?"
 
 You know that asphalt has a liquid state.

@@ -1,5 +1,5 @@
 ---
-title: 'Riddle for the day'
+title: "Riddle for the day"
 author: 'Noam Sain'
 layout: post
 ---

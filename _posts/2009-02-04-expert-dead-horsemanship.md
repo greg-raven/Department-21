@@ -1,5 +1,5 @@
 ---
-title: 'Expert (dead) horsemanship'
+title: "Expert (dead) horsemanship"
 author: 'Noam Sain'
 layout: post
 ---
@@ -20,15 +20,15 @@ Modern organizations — often run by people with magnificant-sounding education
 
 6. Lowering the standards so that dead horses can be included.
 
-7. Reclassifying the dead horse as “living-impaired.”
+7. Reclassifying the dead horse as "living-impaired."
 
 8. Hiring outside contractors to ride the dead horse.
 
 9. Harnessing several dead horses together to increase speed.
 
-10. Providing additional funding and/or training to increase the dead horse’s performance.
+10. Providing additional funding and/or training to increase the dead horse's performance.
 
-11. Doing a productivity study to see if lighter riders would improve the dead horse’s performance.
+11. Doing a productivity study to see if lighter riders would improve the dead horse's performance.
 
 12. Declaring that the dead horse carries lower overhead and therefore contributes more to the bottom line than some other horses.
 

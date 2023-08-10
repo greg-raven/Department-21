@@ -1,5 +1,5 @@
 ---
-title: 'How the turbo encabulator works'
+title: "How the turbo encabulator works"
 author: 'Noam Sain'
 layout: post
 ---

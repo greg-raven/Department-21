@@ -1,5 +1,5 @@
 ---
-title: 'Obamacare tablets'
+title: "Obamacare tablets"
 author: 'Noam Sain'
 layout: post
 ---

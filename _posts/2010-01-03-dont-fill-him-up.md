@@ -1,5 +1,5 @@
 ---
-title: 'Don&rsquo;t fill him up!'
+title: "Don&rsquo;t fill him up!"
 author: 'Noam Sain'
 layout: post
 ---
@@ -11,6 +11,6 @@ In a sheer panic and fearing he was turning white all over, he called his doctor
 
 After an examination, the doctor mixed a concoction of brown liquid, gave it to Barack, and told him to drink it all.
 
-Barack drank the concoction and said, “That tasted like sh\*t!”
+Barack drank the concoction and said, "That tasted like sh\*t!"
 
-“It was.” the doctor replied, “You were a quart low.”
+"It was." the doctor replied, "You were a quart low."

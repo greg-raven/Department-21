@@ -1,5 +1,5 @@
 ---
-title: 'Behind Mt. Rushmore'
+title: "Behind Mt. Rushmore"
 author: 'Noam Sain'
 layout: post
 ---

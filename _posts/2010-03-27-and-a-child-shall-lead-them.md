@@ -1,5 +1,5 @@
 ---
-title: 'And a child shall lead them'
+title: "And a child shall lead them"
 author: 'Noam Sain'
 layout: post
 ---

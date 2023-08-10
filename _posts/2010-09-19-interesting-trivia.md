@@ -1,5 +1,5 @@
 ---
-title: 'Interesting trivia'
+title: "Interesting trivia"
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'General Public Notice'
+title: "General Public Notice"
 author: 'Noam Sain'
 layout: post
 ---
@@ -7,7 +7,7 @@ layout: post
 Please be advised I am sick to death of receiving questions about my dog who mauled:
 
 - 3 Muslims sitting on a rug next to my back wall,
-- 6 illegal’s wearing Obama t-shirts,
+- 6 illegal's wearing Obama t-shirts,
 - 4 Democrats wearing Pelosi t-shirts,
 - 2 rappers,
 - 5 phone operators who asked me to press #1 for English,

@@ -1,5 +1,5 @@
 ---
-title: 'Celebrity opinions'
+title: "Celebrity opinions"
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'One cool cat'
+title: "One cool cat"
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Senate investigation'
+title: "Senate investigation"
 author: 'Noam Sain'
 layout: post
 ---

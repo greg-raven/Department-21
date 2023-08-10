@@ -1,5 +1,5 @@
 ---
-title: 'Copy cat or cat scan?'
+title: "Copy cat or cat scan?"
 author: 'Noam Sain'
 layout: post
 ---

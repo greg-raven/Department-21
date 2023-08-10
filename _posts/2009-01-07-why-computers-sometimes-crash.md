@@ -1,5 +1,5 @@
 ---
-title: 'Why computers sometimes crash'
+title: "Why computers sometimes crash"
 author: 'Noam Sain'
 layout: post
 ---

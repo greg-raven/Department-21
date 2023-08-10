@@ -1,5 +1,5 @@
 ---
-title: 'Second-term strength anti-depressant'
+title: "Second-term strength anti-depressant"
 author: 'Noam Sain'
 layout: post
 ---

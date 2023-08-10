@@ -1,5 +1,5 @@
 ---
-title: 'Worst job in the world'
+title: "Worst job in the world"
 author: 'Noam Sain'
 layout: post
 ---

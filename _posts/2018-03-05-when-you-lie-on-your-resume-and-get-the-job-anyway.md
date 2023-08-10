@@ -1,5 +1,5 @@
 ---
-title: 'When you lie on your résumé and get the job anyway'
+title: "When you lie on your résumé and get the job anyway"
 author: 'Noam Sain'
 layout: post
 ---

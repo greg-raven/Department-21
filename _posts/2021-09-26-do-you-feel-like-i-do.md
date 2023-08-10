@@ -1,5 +1,5 @@
 ---
-title: 'Do you feel like I do?'
+title: "Do you feel like I do?"
 author: 'Noam Sain'
 layout: post
 ---
@@ -8,7 +8,7 @@ I am sorry I have not been very responsive lately. I have been somewhat under th
 
 PIST-AWF is a newly discovered disease that it is so contagious that it already has become widespread.
 
-As of February, it had already infected over half of the United States and is anticipated to continue to spread. The disease itself affects the cells of a person’s entire body then goes dormant. The disease ravages the body and leaves serious side effects including: embarrassment for your country, depression, anxiety as to when it will come to an end, wondering how much more damage he can do, and despairing that the damage may not be reversible.
+As of February, it had already infected over half of the United States and is anticipated to continue to spread. The disease itself affects the cells of a person's entire body then goes dormant. The disease ravages the body and leaves serious side effects including: embarrassment for your country, depression, anxiety as to when it will come to an end, wondering how much more damage he can do, and despairing that the damage may not be reversible.
 
 Symptoms include:
 

@@ -1,5 +1,5 @@
 ---
-title: '(Gimme Some of That) Ol’ Atonal Music'
+title: "(Gimme Some of That) Ol' Atonal Music"
 author: 'Noam Sain'
 layout: post
 ---

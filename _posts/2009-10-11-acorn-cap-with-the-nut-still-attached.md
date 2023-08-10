@@ -1,5 +1,5 @@
 ---
-title: 'ACORN cap with the nut still attached'
+title: "ACORN cap with the nut still attached"
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Plan of action'
+title: "Plan of action"
 author: 'Noam Sain'
 layout: post
 ---

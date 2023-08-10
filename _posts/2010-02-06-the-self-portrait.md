@@ -1,5 +1,5 @@
 ---
-title: 'The Self-portrait'
+title: "The Self-portrait"
 author: 'Noam Sain'
 layout: post
 ---

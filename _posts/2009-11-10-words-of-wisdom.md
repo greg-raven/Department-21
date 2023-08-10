@@ -1,5 +1,5 @@
 ---
-title: 'Words of wisdom'
+title: "Words of wisdom"
 author: 'Noam Sain'
 layout: post
 ---

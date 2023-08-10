@@ -1,5 +1,5 @@
 ---
-title: 'Who gets the last beer?'
+title: "Who gets the last beer?"
 author: 'Noam Sain'
 layout: post
 ---

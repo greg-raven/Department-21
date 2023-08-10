@@ -1,5 +1,5 @@
 ---
-title: 'Meet ‘Budd,’ the driving dog'
+title: "Meet 'Budd,' the driving dog"
 author: 'Noam Sain'
 layout: post
 ---

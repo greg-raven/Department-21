@@ -1,5 +1,5 @@
 ---
-title: 'To my friends who enjoy a glass of wine, and those who don’t'
+title: "To my friends who enjoy a glass of wine, and those who don't"
 author: 'Noam Sain'
 layout: post
 ---
@@ -24,6 +24,6 @@ Water = Poop
 
 Wine = Health
 
-Therefore, it’s better to drink wine and talk stupid, than to drink water and be full of shit.
+Therefore, it's better to drink wine and talk stupid, than to drink water and be full of shit.
 
-There is no need to thank me for this valuable information: I’m doing it as a public service!
+There is no need to thank me for this valuable information: I'm doing it as a public service!

@@ -1,5 +1,5 @@
 ---
-title: 'Passing the torch'
+title: "Passing the torch"
 author: 'Noam Sain'
 layout: post
 ---

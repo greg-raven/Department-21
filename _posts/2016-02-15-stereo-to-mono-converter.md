@@ -1,5 +1,5 @@
 ---
-title: 'Stereo-to-mono converter'
+title: "Stereo-to-mono converter"
 author: 'Noam Sain'
 layout: post
 ---

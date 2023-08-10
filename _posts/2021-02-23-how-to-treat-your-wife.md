@@ -1,5 +1,5 @@
 ---
-title: 'How to treat your wife'
+title: "How to treat your wife"
 author: 'Noam Sain'
 layout: post
 ---

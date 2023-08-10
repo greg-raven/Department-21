@@ -1,5 +1,5 @@
 ---
-title: 'Global warming protest'
+title: "Global warming protest"
 author: 'Noam Sain'
 layout: post
 ---

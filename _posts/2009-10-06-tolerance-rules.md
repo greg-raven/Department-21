@@ -1,5 +1,5 @@
 ---
-title: 'Tolerance rules'
+title: "Tolerance rules"
 author: 'Noam Sain'
 layout: post
 ---

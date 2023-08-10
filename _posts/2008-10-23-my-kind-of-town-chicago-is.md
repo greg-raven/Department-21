@@ -1,5 +1,5 @@
 ---
-title: 'My kind of town, Chicago is'
+title: "My kind of town, Chicago is"
 author: 'Noam Sain'
 layout: post
 ---
@@ -22,4 +22,4 @@ Cook County (Chicago) sales tax 10.25% highest in country.
 
 Chicago school system rated one of the worst in the country.
 
-This is the political culture that Obama comes from in Illinois. And he’s gonna “fix” Washington politics for us!
+This is the political culture that Obama comes from in Illinois. And he's gonna "fix" Washington politics for us!

@@ -1,5 +1,5 @@
 ---
-title: '9 Careers for Gender Studies majors'
+title: "9 Careers for Gender Studies majors"
 author: 'Noam Sain'
 layout: post
 ---

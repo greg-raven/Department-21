@@ -1,5 +1,5 @@
 ---
-title: 'Wild vehicles'
+title: "Wild vehicles"
 author: 'Noam Sain'
 layout: post
 ---

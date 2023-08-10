@@ -1,5 +1,5 @@
 ---
-title: 'Some oldies but goodies'
+title: "Some oldies but goodies"
 author: 'Noam Sain'
 layout: post
 ---

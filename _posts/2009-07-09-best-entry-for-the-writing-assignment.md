@@ -1,5 +1,5 @@
 ---
-title: 'Best entry for the writing assignment'
+title: "Best entry for the writing assignment"
 author: 'Noam Sain'
 layout: post
 ---
@@ -12,4 +12,4 @@ A college class was told they had to write a short story in as few words as poss
 
 Below is the only A+ short story in the class:
 
-“Good God, I’m pregnant, I wonder who did it?”
+"Good God, I'm pregnant, I wonder who did it?"

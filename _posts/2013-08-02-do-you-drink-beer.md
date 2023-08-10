@@ -1,5 +1,5 @@
 ---
-title: 'Do you drink beer?'
+title: "Do you drink beer?"
 author: 'Noam Sain'
 layout: post
 ---
@@ -28,10 +28,10 @@ Woman: If in one year you spend $5,400, not accounting for inflation, the past 2
 
 Man: Correct.
 
-Woman: Do you know that if you didn’t drink so much beer, that money could have been put in a step-up interest savings account and after accounting for compound interest for the past 20 years, you could have now bought a Ferrari?
+Woman: Do you know that if you didn't drink so much beer, that money could have been put in a step-up interest savings account and after accounting for compound interest for the past 20 years, you could have now bought a Ferrari?
 
 Man: Do you drink beer?
 
 Woman: No.
 
-Man: Where’s your Ferrari?
+Man: Where's your Ferrari?

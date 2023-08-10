@@ -1,12 +1,12 @@
 —-
-title: 'Welcome to the neighborhood'
+title: "Welcome to the neighborhood"
 author: 'Noam Sain'
 layout: post
 —-
 
 How to score: 0 if the statement is never true, 1 if it is rarely true, 2 if it is sometimes true, and 3 if it is always true.
 
-1. ___ Conversations often begin with “Put the gun down, and then we can talk”.
+1. ___ Conversations often begin with "Put the gun down, and then we can talk".
 
 2. ___ The school principal has your number on speed-dial.
 
@@ -20,9 +20,9 @@ How to score: 0 if the statement is never true, 1 if it is rarely true, 2 if it 
 
 7. ___ No one has _time_ to wait for microwave TV dinners.
 
-8. ___ “Family meetings” are often mediated by law enforcement officials.
+8. ___ "Family meetings" are often mediated by law enforcement officials.
 
-9. ___ You have to check your kid’s day-timer to see if he can take out the trash.
+9. ___ You have to check your kid's day-timer to see if he can take out the trash.
 
 10. ___ No-Doze gives you bulk rates.
 

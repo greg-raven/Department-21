@@ -1,5 +1,5 @@
 ---
-title: 'Men’s age as determined by a trip to Home Depot'
+title: "Men's age as determined by a trip to Home Depot"
 author: 'Noam Sain'
 layout: post
 ---
@@ -22,19 +22,19 @@ Stop what you are doing, put on clean shorts and shirt. Change shoes. You marrie
 
 In your 40s:
 
-Stop what you are doing. Put on a sweatshirt that is long enough to cover the hole in the crotch of your shorts. Put on different shoes and a hat. Wash your hands. Your bottle of Brute Cologne is almost empty so you don’t want to waste any of it on a trip to Home Depot. Check yourself in the mirror and do more sucking in than flexing. The spicy young thing running the register is your daughter’s age and you feel weird thinking she is spicy.
+Stop what you are doing. Put on a sweatshirt that is long enough to cover the hole in the crotch of your shorts. Put on different shoes and a hat. Wash your hands. Your bottle of Brute Cologne is almost empty so you don't want to waste any of it on a trip to Home Depot. Check yourself in the mirror and do more sucking in than flexing. The spicy young thing running the register is your daughter's age and you feel weird thinking she is spicy.
 
 In your 50s:
 
-Stop what you are doing. Put a hat on, wipe the dirt off your hands onto your shirt. Change shoes because you don’t want to get dog doo-doo in your new sports car. Check yourself in the mirror and you swear not to wear that shirt anymore because it makes you look fat The Cutie running the register smiles when she sees you coming and you think you still have it. Then you remember the hat you have on is from Buddy’s Bait &amp; Beer Bar and it says, “I Got Worms.”
+Stop what you are doing. Put a hat on, wipe the dirt off your hands onto your shirt. Change shoes because you don't want to get dog doo-doo in your new sports car. Check yourself in the mirror and you swear not to wear that shirt anymore because it makes you look fat The Cutie running the register smiles when she sees you coming and you think you still have it. Then you remember the hat you have on is from Buddy's Bait &amp; Beer Bar and it says, "I Got Worms."
 
 In your 60s:
 
-Stop what you are doing. No need for a hat anymore. Hose the dog doo-doo off your shoes. The mirror was shattered when you were in your 50’s. You hope you have underwear on so nothing hangs out the hole in your pants. The girl running the register may be cute, but you don’t have your glasses on so you are not sure.
+Stop what you are doing. No need for a hat anymore. Hose the dog doo-doo off your shoes. The mirror was shattered when you were in your 50's. You hope you have underwear on so nothing hangs out the hole in your pants. The girl running the register may be cute, but you don't have your glasses on so you are not sure.
 
 In your 70s:
 
-Stop what you are doing. Wait to go to Home Depot until the drug store has your prescriptions ready, too. Don’t even notice the dog doo-doo on your shoes. The young thing at the register smiles at you because you remind her of her grandfather.
+Stop what you are doing. Wait to go to Home Depot until the drug store has your prescriptions ready, too. Don't even notice the dog doo-doo on your shoes. The young thing at the register smiles at you because you remind her of her grandfather.
 
 In your 80s:
 

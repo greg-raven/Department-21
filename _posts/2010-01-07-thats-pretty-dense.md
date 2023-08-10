@@ -1,5 +1,5 @@
 ---
-title: 'That’s pretty dense'
+title: "That's pretty dense"
 author: 'Noam Sain'
 layout: post
 ---
@@ -12,7 +12,7 @@ These particles are held together by dark forces called morons, which are surrou
 
 The symbol of Pelosium is PU.
 
-Pelosium’s mass actually increases over time, as morons randomly interact with various elements in the atmosphere and become assistant deputy neutrons within the Pelosium molecule, leading to the formation of isodopes.
+Pelosium's mass actually increases over time, as morons randomly interact with various elements in the atmosphere and become assistant deputy neutrons within the Pelosium molecule, leading to the formation of isodopes.
 
 This characteristic of moron-promotion leads some scientists to believe that Pelosium is formed whenever morons reach a critical concentration. This hypothetical quantity is referred to as Critical Morass.
 

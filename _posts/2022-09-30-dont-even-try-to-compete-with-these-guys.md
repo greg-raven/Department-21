@@ -1,5 +1,5 @@
 ---
-title: 'Don’t even try to compete with these guys'
+title: "Don't even try to compete with these guys"
 author: 'Noam Sain'
 layout: post
 ---

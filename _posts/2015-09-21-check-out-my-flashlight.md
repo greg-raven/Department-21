@@ -1,5 +1,5 @@
 ---
-title: 'Check out my flashlight'
+title: "Check out my flashlight"
 author: 'Noam Sain'
 layout: post
 ---

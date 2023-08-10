@@ -1,5 +1,5 @@
 ---
-title: 'For sale: Old people'
+title: "For sale: Old people"
 author: 'Noam Sain'
 layout: post
 ---

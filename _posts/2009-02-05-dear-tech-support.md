@@ -1,5 +1,5 @@
 ---
-title: 'Dear Tech Support …'
+title: "Dear Tech Support …"
 author: 'Noam Sain'
 layout: post
 ---
@@ -10,7 +10,7 @@ Last year I upgraded from Boyfriend 5.0 to Husband 1.0 and noticed that the new 
   
 No mention of this phenomenon was included in The product brochure. In addition, Husband 1.0 uninstalls many other valuable programs such as DinnerDancing 7.5, CruiseShip 2.3, and OperaNight 6.1 and installs new, undesirable programs such as PokerNight 1.3, Football 5.0, Golf 2.4 and MassiveClutter 4.5.
 
-Conversation 8.0 no longer runs, and invariably crashes the system. Under no circumstances will it run DiaperChanging 14.1 or HouseCleaning 2.6. I’ve tried running the Nagging 5.3 fix but this all purpose utility is of limited effectiveness.
+Conversation 8.0 no longer runs, and invariably crashes the system. Under no circumstances will it run DiaperChanging 14.1 or HouseCleaning 2.6. I've tried running the Nagging 5.3 fix but this all purpose utility is of limited effectiveness.
 
 Can you help, please!!!!
 
@@ -24,11 +24,11 @@ This is a very common problem women complain about, but it is mostly due to a pr
 
 Hidden operating files within your system would cause Boyfriend 5.0 to emulate Husband 1.0, so nothing is gained.
 
-It is impossible to uninstall, delete, or purge The program files from the system, once installed. Any new program files can only be installed once per year, as Husband 1.0 has severely limited memory. Error messages are common, and a normal part of Husband 1.0. In desperation to play some of their “old time” favorite applications, or to get new applications to work, some women have tried to install Boyfriend 6.0, or Husband 2.0.
+It is impossible to uninstall, delete, or purge The program files from the system, once installed. Any new program files can only be installed once per year, as Husband 1.0 has severely limited memory. Error messages are common, and a normal part of Husband 1.0. In desperation to play some of their "old time" favorite applications, or to get new applications to work, some women have tried to install Boyfriend 6.0, or Husband 2.0.
 
-However, these women end up with more problems than encountered with Husband 1.0. Look in your manual under “Warnings: Divorce/Child Support”. You will notice that this program runs very poorly, and comes bundled with HeartBreak 1.3. I recommend you keep Husband 1.0, and just learn the quirks of this strange and illogical system.
+However, these women end up with more problems than encountered with Husband 1.0. Look in your manual under "Warnings: Divorce/Child Support". You will notice that this program runs very poorly, and comes bundled with HeartBreak 1.3. I recommend you keep Husband 1.0, and just learn the quirks of this strange and illogical system.
 
-Having Husband 1.0 installed myself, I might also suggest you read the entire section regarding General Partnership Faults \[GPFs\]. This is a wonderful feature of Husband 1.0, secretly installed by the parent company as an integral part of the operating system. Husband 1.0 must assume ALL responsibility for ALL faults and problems, regardless of root cause. To activate this great feature enter the command “C: I THOUGHT YOU LOVED ME”. Sometimes Tears 6.2 must be run simultaneously while entering the command. Husband 1.0 should then run the applications Apologize 12.3 and Flowers/Chocolates 7.8.
+Having Husband 1.0 installed myself, I might also suggest you read the entire section regarding General Partnership Faults \[GPFs\]. This is a wonderful feature of Husband 1.0, secretly installed by the parent company as an integral part of the operating system. Husband 1.0 must assume ALL responsibility for ALL faults and problems, regardless of root cause. To activate this great feature enter the command "C: I THOUGHT YOU LOVED ME". Sometimes Tears 6.2 must be run simultaneously while entering the command. Husband 1.0 should then run the applications Apologize 12.3 and Flowers/Chocolates 7.8.
 
 TECH TIP!
 

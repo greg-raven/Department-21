@@ -1,5 +1,5 @@
 ---
-title: 'Memes and other funnies'
+title: "Memes and other funnies"
 author: 'Noam Sain'
 layout: post
 ---

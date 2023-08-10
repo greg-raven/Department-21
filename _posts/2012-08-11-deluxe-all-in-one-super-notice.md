@@ -1,5 +1,5 @@
 ---
-title: 'Deluxe, all-in-one super notice'
+title: "Deluxe, all-in-one super notice"
 author: 'Noam Sain'
 layout: post
 ---

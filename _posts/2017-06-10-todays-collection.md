@@ -1,10 +1,10 @@
 ---
-title: 'Today’s collection'
+title: "Today's collection"
 author: 'Noam Sain'
 layout: post
 ---
 
-![Maybe if we tell people the brain is an app, they’ll start using it.](/assets/2017/2017-06-gallery-2.jpg)
+![Maybe if we tell people the brain is an app, they'll start using it.](/assets/2017/2017-06-gallery-2.jpg)
 
 ![Old people at weddings always poke me and say "You're next." So, I started doing the same thing to them at funerals.](/assets/2017/2017-06-gallery-3.jpg)
 

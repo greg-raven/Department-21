@@ -1,5 +1,5 @@
 ---
-title: 'Vonn to lose gold medal'
+title: "Vonn to lose gold medal"
 author: 'Noam Sain'
 layout: post
 ---

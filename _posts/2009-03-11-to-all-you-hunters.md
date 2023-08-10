@@ -1,5 +1,5 @@
 ---
-title: 'To all you hunters …'
+title: "To all you hunters …"
 author: 'Noam Sain'
 layout: post
 ---

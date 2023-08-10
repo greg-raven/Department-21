@@ -1,5 +1,5 @@
 ---
-title: 'Modern living'
+title: "Modern living"
 author: 'Noam Sain'
 layout: post
 ---
@@ -8,15 +8,15 @@ layout: post
 
 2. You have a list of 15 phone numbers to reach your family of three.
 
-3. You call your son’s beeper to let him know it’s time to eat. He emails you back from his bedroom, “What’s for dinner?”
+3. You call your son's beeper to let him know it's time to eat. He emails you back from his bedroom, "What's for dinner?"
 
 4. Your daughter sells Girl Scout Cookies via her web site.
 
-5. You chat several times a day with a stranger from South Africa, but you haven’t spoken with your next door neighbor yet this year.
+5. You chat several times a day with a stranger from South Africa, but you haven't spoken with your next door neighbor yet this year.
 
 6. You check the ingredients on a can of chicken noodle soup to see if it contains Echinacea.
 
-7. You check your blow-dryer to see if it’s Y2K compliant.
+7. You check your blow-dryer to see if it's Y2K compliant.
 
 8. Your grandmother clogs up your e-mail inbox asking you to send her a JPEG file of your newborn so she can create a screen saver.
 
@@ -40,6 +40,6 @@ layout: post
 
 18. You hear most of your jokes via e-mail instead of in person.
 
-19. You’re reading this.
+19. You're reading this.
 
-20. Even worse; you’re going to forward it to someone else.
+20. Even worse; you're going to forward it to someone else.

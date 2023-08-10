@@ -1,5 +1,5 @@
 ---
-title: 'The history of pharmacology'
+title: "The history of pharmacology"
 author: 'Noam Sain'
 layout: post
 ---
@@ -14,4 +14,4 @@ layout: post
 
 1985 A.D. – That pill is ineffective. Here, take this antibiotic.
 
-2000 A.D. – That antibiotic doesn’t work anymore. Here, eat this root.
+2000 A.D. – That antibiotic doesn't work anymore. Here, eat this root.

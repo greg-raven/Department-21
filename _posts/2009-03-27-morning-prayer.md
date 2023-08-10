@@ -1,5 +1,5 @@
 ---
-title: 'Morning prayer'
+title: "Morning prayer"
 author: 'Noam Sain'
 layout: post
 ---

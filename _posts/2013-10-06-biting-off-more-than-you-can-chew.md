@@ -1,5 +1,5 @@
 ---
-title: 'Biting off more than you can chew'
+title: "Biting off more than you can chew"
 author: 'Noam Sain'
 layout: post
 ---
@@ -12,7 +12,7 @@ The fish was totally exhausted from trying to dive unsuccessfully, because the b
 
 The guy tried numerous times to get the ball out, but was unsuccessful. He finally had his wife cut the ball in order to deflate it and release the hungry catfish.
 
-You probably wouldn’t have believed this if you hadn’t seen the pictures.
+You probably wouldn't have believed this if you hadn't seen the pictures.
 
 ![Fish-0](/assets/2013/2013-10-FwdAFish-31.jpg)  
 ![Fish-1](/assets/2013/2013-10-FwdAFish-1.jpg)  

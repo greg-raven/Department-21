@@ -1,5 +1,5 @@
 ---
-title: 'Get connected with Kronies action figures'
+title: "Get connected with Kronies action figures"
 author: 'Noam Sain'
 layout: post
 ---

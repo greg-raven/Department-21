@@ -1,5 +1,5 @@
 ---
-title: 'Apple does it again!'
+title: "Apple does it again!"
 author: 'Noam Sain'
 layout: post
 ---

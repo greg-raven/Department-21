@@ -1,5 +1,5 @@
 ---
-title: 'Finding Bin Laden'
+title: "Finding Bin Laden"
 author: 'Noam Sain'
 layout: post
 ---

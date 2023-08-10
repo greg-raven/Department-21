@@ -1,5 +1,5 @@
 ---
-title: 'Work safely'
+title: "Work safely"
 author: 'Noam Sain'
 layout: post
 ---

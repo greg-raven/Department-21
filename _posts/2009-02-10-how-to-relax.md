@@ -1,5 +1,5 @@
 ---
-title: 'How to relax'
+title: "How to relax"
 author: 'Noam Sain'
 layout: post
 ---
@@ -18,6 +18,6 @@ The soothing sound of a gentle waterfall fills the air with a cascade of serenit
 
 The water is crystal clear …
 
-You can easily make out the face of the person whose head you’re holding under the water …
+You can easily make out the face of the person whose head you're holding under the water …
 
 There now … feeling better?

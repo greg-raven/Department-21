@@ -1,5 +1,5 @@
 ---
-title: 'An insomniac, an agnostic, and a dyslexic'
+title: "An insomniac, an agnostic, and a dyslexic"
 author: 'Noam Sain'
 layout: post
 ---

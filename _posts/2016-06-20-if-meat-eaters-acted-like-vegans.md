@@ -1,5 +1,5 @@
 ---
-title: 'If meat eaters acted like vegans'
+title: "If meat eaters acted like vegans"
 author: 'Noam Sain'
 layout: post
 ---

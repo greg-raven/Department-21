@@ -1,5 +1,5 @@
 ---
-title: 'Temperature sensitivity'
+title: "Temperature sensitivity"
 author: 'Noam Sain'
 layout: post
 ---
@@ -18,7 +18,7 @@ Chicago residents plant gardens.
 
 **40 above**
 
-Italian cars won’t start.
+Italian cars won't start.
 
 Chicago residents drive with the windows down.
 
@@ -26,7 +26,7 @@ Chicago residents drive with the windows down.
 
 Distilled water freezes.
 
-Lake Michigan’s water gets thicker.
+Lake Michigan's water gets thicker.
 
 **20 above**
 
@@ -56,17 +56,17 @@ Chicago residents get out their winter coats.
 
 Hollywood disintegrates.
 
-Chicago’s Girl Scouts begin selling cookies door to door.
+Chicago's Girl Scouts begin selling cookies door to door.
 
 **60 below**
 
 Polar bears begin to evacuate Antarctica.
 
-Chicago’s Boy Scouts postpone “Winter Survival” classes until it gets cold enough.
+Chicago's Boy Scouts postpone "Winter Survival" classes until it gets cold enough.
 
 **80 below**
 
-Mt. St. Helen’s freezes.
+Mt. St. Helen's freezes.
 
 Chicago residents rent some videos.
 
@@ -74,7 +74,7 @@ Chicago residents rent some videos.
 
 Santa Claus abandons the North Pole.
 
-Chicago residents get frustrated when they can’t thaw the keg.
+Chicago residents get frustrated when they can't thaw the keg.
 
 **297 below**
 
@@ -86,7 +86,7 @@ Illinois cows complain of farmers with cold hands.
 
 ALL atomic motion stops.
 
-Chicago residents start asking, “Cold ’nuff for ya?”
+Chicago residents start asking, "Cold 'nuff for ya?"
 
 **500 below**
 

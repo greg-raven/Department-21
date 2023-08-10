@@ -1,5 +1,5 @@
 ---
-title: 'More signs from the Indian Hills Community Center'
+title: "More signs from the Indian Hills Community Center"
 author: 'Noam Sain'
 layout: post
 ---

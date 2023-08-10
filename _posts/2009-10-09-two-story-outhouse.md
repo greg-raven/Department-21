@@ -1,5 +1,5 @@
 ---
-title: 'Two-story outhouse'
+title: "Two-story outhouse"
 author: 'Noam Sain'
 layout: post
 ---

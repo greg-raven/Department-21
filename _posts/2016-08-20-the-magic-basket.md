@@ -1,5 +1,5 @@
 ---
-title: 'The magic basket'
+title: "The magic basket"
 author: 'Noam Sain'
 layout: post
 ---

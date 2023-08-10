@@ -1,5 +1,5 @@
 ---
-title: 'The latest technology'
+title: "The latest technology"
 author: 'Noam Sain'
 layout: post
 ---

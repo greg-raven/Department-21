@@ -1,14 +1,14 @@
 ---
-title: 'A little-known tidbit of naval history'
+title: "A little-known tidbit of naval history"
 author: 'Noam Sain'
 layout: post
 ---
 
 The U.S.S. Constitution (Old Ironsides), as a combat vessel, carried 48,600 gallons of fresh water for her crew of 475 officers and men. This was sufficient to last six months of sustained operations at sea. She carried no evaporators (i.e. fresh water distillers).
 
-However, let it be noted that according to her ship’s log, “On July 27, 1798, the U.S.S. Constitution sailed from Boston with a full complement of 475 officers and men, 48,600 gallons of fresh water, 7,400 cannon shot, 11,600 pounds of black powder and 79,400 gallons of rum.”
+However, let it be noted that according to her ship's log, "On July 27, 1798, the U.S.S. Constitution sailed from Boston with a full complement of 475 officers and men, 48,600 gallons of fresh water, 7,400 cannon shot, 11,600 pounds of black powder and 79,400 gallons of rum."
 
-Her mission: “To destroy and harass English shipping.”
+Her mission: "To destroy and harass English shipping."
 
 Making Jamaica on 6 October, she took on 826 pounds of flour and 68,300 gallons of rum.
 

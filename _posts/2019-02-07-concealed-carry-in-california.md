@@ -1,5 +1,5 @@
 ---
-title: 'Concealed carry in California'
+title: "Concealed carry in California"
 author: 'Noam Sain'
 layout: post
 ---

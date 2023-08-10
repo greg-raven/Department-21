@@ -1,5 +1,5 @@
 ---
-title: 'Doctors vs. gun owners'
+title: "Doctors vs. gun owners"
 author: 'Noam Sain'
 layout: post
 ---
@@ -11,7 +11,7 @@ layout: post
   
 Now think about this:
 
-1. The number of gun owners in the US is 80,000,000. (Yes, that’s 80 million)
+1. The number of gun owners in the US is 80,000,000. (Yes, that's 80 million)
 2. The number of accidental gun deaths per year, for all age groups, is 1,500.
 3. The number of accidental deaths per gun owner is .0000188.
 
@@ -19,7 +19,7 @@ Statistically, doctors are approximately 9,000 times more dangerous than gun own
 
 Fact: Not everyone has a gun, but almost everyone has at least one doctor, and the current administration is attempting to ensure that everyone does have access to at least one doctor.
 
-Please alert your friends to this alarming threat. Guns don’t kill people, doctors do.
+Please alert your friends to this alarming threat. Guns don't kill people, doctors do.
 
 We must restrict access to doctors (if not ban them completely) before this gets out of hand.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Did you know …'
+title: "Did you know …"
 author: 'Noam Sain'
 layout: post
 ---
@@ -18,6 +18,6 @@ Stewardesses is the longest word typed with only the left hand.
 
 The strongest muscle in the body is the tongue.
 
-“I am” is the shortest complete sentence in the English language.
+"I am" is the shortest complete sentence in the English language.
 
 The names of all of the continents end with the letter with which they start.

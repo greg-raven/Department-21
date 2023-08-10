@@ -1,5 +1,5 @@
 ---
-title: 'How a missile guidance system works'
+title: "How a missile guidance system works"
 author: 'Noam Sain'
 layout: post
 ---

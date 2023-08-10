@@ -1,5 +1,5 @@
 ---
-title: 'Time breakdown of modern web design'
+title: "Time breakdown of modern web design"
 author: 'Noam Sain'
 layout: post
 ---

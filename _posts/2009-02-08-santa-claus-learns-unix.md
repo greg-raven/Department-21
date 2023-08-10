@@ -1,5 +1,5 @@
 ---
-title: 'Santa Claus learns Unix'
+title: "Santa Claus learns Unix"
 author: 'Noam Sain'
 layout: post
 ---
@@ -34,7 +34,7 @@ layout: post
         be good
     }
 
-    echo “Oh,”
+    echo "Oh,"
 
     better !pout !cry
 

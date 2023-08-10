@@ -1,5 +1,5 @@
 ---
-title: 'Splinters in her crotch'
+title: "Splinters in her crotch"
 author: 'Noam Sain'
 layout: post
 ---
@@ -14,6 +14,6 @@ The doctor listened to her story with great patience and then told her to go wai
 
 She sat and waited three hours before the doctor reappeared.
 
-The angry woman demanded, “What took you so long?”
+The angry woman demanded, "What took you so long?"
 
-He smiled and then told her, “Well, I had to get permits from the Environmental Protection Agency, the Forest Service, and the Bureau of Land Management before I could remove old-growth timber from a “recreational area” so close to a waste treatment facility. I’m sorry, but due to Obamacare they turned you down!”
+He smiled and then told her, "Well, I had to get permits from the Environmental Protection Agency, the Forest Service, and the Bureau of Land Management before I could remove old-growth timber from a "recreational area" so close to a waste treatment facility. I'm sorry, but due to Obamacare they turned you down!"

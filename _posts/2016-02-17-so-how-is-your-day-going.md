@@ -1,5 +1,5 @@
 ---
-title: 'So, how is your day going?'
+title: "So, how is your day going?"
 author: 'Noam Sain'
 layout: post
 ---

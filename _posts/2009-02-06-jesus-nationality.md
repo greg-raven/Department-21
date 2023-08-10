@@ -1,12 +1,12 @@
 ---
-title: 'Jesus’ nationality'
+title: "Jesus' nationality"
 author: 'Noam Sain'
 layout: post
 ---
 
 THREE INDICATIONS THAT JESUS WAS JEWISH:
 
-1. He went into his father’s business.
+1. He went into his father's business.
 2. He lived at home until the age of 33.
 3. He was sure his mother was a virgin, and his mother was sure he was God.
 

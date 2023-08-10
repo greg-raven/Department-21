@@ -1,5 +1,5 @@
 ---
-title: 'Proud of my kid'
+title: "Proud of my kid"
 author: 'Noam Sain'
 layout: post
 ---

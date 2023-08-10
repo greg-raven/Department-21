@@ -1,5 +1,5 @@
 ---
-title: 'Da soop kichen'
+title: "Da soop kichen"
 author: 'Noam Sain'
 layout: post
 ---

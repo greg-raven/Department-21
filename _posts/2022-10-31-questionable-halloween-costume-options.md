@@ -1,5 +1,5 @@
 ---
-title: 'Questionable Halloween costume options'
+title: "Questionable Halloween costume options"
 author: 'Noam Sain'
 layout: post
 ---
@@ -12,7 +12,7 @@ Includes:
 - Swim googles
 - Swim cap
 
-“Tuck tape not included
+"Tuck tape not included
 
 ![Questionable Halloween costume options](/assets/2022/2022-10-costume01.jpg "Questionable Halloween costume options")
 
@@ -34,9 +34,9 @@ Includes:
 - Assorted pronouns
 - Useless degree
 - Disappointed parents
-- “Race” card
-- “Sexist” card
-- “Fascist” card
+- "Race" card
+- "Sexist" card
+- "Fascist" card
 - Hurt feelings
 - Avoidance of reality
 

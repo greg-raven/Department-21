@@ -1,5 +1,5 @@
 ---
-title: 'Marijuana-filled firewood'
+title: "Marijuana-filled firewood"
 author: 'Noam Sain'
 layout: post
 ---

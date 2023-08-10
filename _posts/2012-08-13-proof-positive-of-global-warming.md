@@ -1,5 +1,5 @@
 ---
-title: 'Proof positive of global warming'
+title: "Proof positive of global warming"
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Great expectations'
+title: "Great expectations"
 author: 'Noam Sain'
 layout: post
 ---
@@ -33,9 +33,9 @@ What I Want In A Man, Revised List … (at age 32)
 What I Want In A Man, Revised List … (at age 42)
 
 1. Not too ugly – bald head OK
-2. Doesn’t drive off until I’m in the car
+2. Doesn't drive off until I'm in the car
 3. Works steady – splurges on dinner at McDonalds on occasion
-4. Nods head at appropriate times when I’m talking
+4. Nods head at appropriate times when I'm talking
 5. Usually remembers the punch lines of jokes
 6. Is in good enough shape to rearrange the furniture
 7. Usually wears shirt that covers stomach
@@ -46,10 +46,10 @@ What I Want In A Man, Revised List … (at age 42)
 What I Want In A Man, Revised List … (at age 52)
 
 1. Keeps nose and ear hair trimmed to appropriate length
-2. Doesn’t belch or scratch in public
-3. Doesn’t borrow money too often
-4. Doesn’t nod off to sleep while I’m emotional
-5. Doesn’t re-tell same joke too many times
+2. Doesn't belch or scratch in public
+3. Doesn't borrow money too often
+4. Doesn't nod off to sleep while I'm emotional
+5. Doesn't re-tell same joke too many times
 6. Is in good enough shape to get off couch on weekends
 7. Usually wears matching socks and fresh underwear
 8. Appreciates a good TV Dinner
@@ -58,11 +58,11 @@ What I Want In A Man, Revised List … (at age 52)
 
 What I Want In A Man, Revised List … (at age 62)
 
-1. Doesn’t scare small children
+1. Doesn't scare small children
 2. Remembers where bathroom is
-3. Doesn’t require much money for upkeep
+3. Doesn't require much money for upkeep
 4. Only snores lightly when awake
-5. Doesn’t forget why he’s laughing too often
+5. Doesn't forget why he's laughing too often
 6. Is in good enough shape to stand up by himself
 7. Usually wears some clothes
 8. Likes soft foods

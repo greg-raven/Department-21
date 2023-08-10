@@ -1,5 +1,5 @@
 ---
-title: 'My great, great, great-grandfather invented in-flight movies'
+title: "My great, great, great-grandfather invented in-flight movies"
 author: 'Noam Sain'
 layout: post
 ---

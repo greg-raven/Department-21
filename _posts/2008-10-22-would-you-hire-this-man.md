@@ -1,5 +1,5 @@
 ---
-title: 'Would you hire this man?'
+title: "Would you hire this man?"
 author: 'Noam Sain'
 layout: post
 ---

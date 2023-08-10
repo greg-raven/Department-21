@@ -1,5 +1,5 @@
 ---
-title: 'Power of proofreading'
+title: "Power of proofreading"
 author: 'Noam Sain'
 layout: post
 ---
@@ -40,9 +40,9 @@ In a safari park:
 
 At a conference:
 
-> For anyone who has children and doesn’t know it, there is a day care on the 1st floor.
+> For anyone who has children and doesn't know it, there is a day care on the 1st floor.
 
-In a farmer’s field:
+In a farmer's field:
 
 > The farmer allows walkers to cross the field for free, but the bull charges.
 
@@ -52,7 +52,7 @@ Message on a leaflet:
 
 On a repair shop door:
 
-> We can repair anything. (Please knock hard on the door — the bell doesn’t work.)
+> We can repair anything. (Please knock hard on the door — the bell doesn't work.)
 
 ## Headlines
 
@@ -70,7 +70,7 @@ Juvenile court to try shooting defendant
 
 War dims hope for peace
 
-If strike isn’t settled quickly, it may last a while
+If strike isn't settled quickly, it may last a while
 
 Cold wave linked to temperatures
 

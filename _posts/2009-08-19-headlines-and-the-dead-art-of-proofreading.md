@@ -1,5 +1,5 @@
 ---
-title: 'Headlines and the dead art of proofreading'
+title: "Headlines and the dead art of proofreading"
 author: 'Noam Sain'
 layout: post
 ---
@@ -18,7 +18,7 @@ Wow, really?
 
 **Police Begin Campaign to Run Down Jaywalkers**
 
-Now that’s taking things a bit far!
+Now that's taking things a bit far!
 
 ————————-
 
@@ -30,7 +30,7 @@ What a guy!
 
 **Miners Refuse to Work after Death**
 
-No-good-for-nothing, lazy so-and-so’s!
+No-good-for-nothing, lazy so-and-so's!
 
 ————————-
 
@@ -46,7 +46,7 @@ I can see where it might have that effect!
 
 ————————-
 
-**If Strike Isn’t Settled Quickly, It May Last Awhile**
+**If Strike Isn't Settled Quickly, It May Last Awhile**
 
 Ya think?!
 
@@ -66,7 +66,7 @@ They may be on to something!
 
 **Red Tape Holds Up New Bridges**
 
-You mean there’s something stronger than duct tape?
+You mean there's something stronger than duct tape?
 
 ————————-
 
@@ -78,13 +78,13 @@ He probably IS the battery charge!
 
 **New Study of Obesity Looks for Larger Test Group**
 
-Weren’t they fat enough?!
+Weren't they fat enough?!
 
 ————————-
 
 **Astronaut Takes Blame for Gas in Spacecraft**
 
-That’s what he gets for eating those beans!
+That's what he gets for eating those beans!
 
 ————————-
 

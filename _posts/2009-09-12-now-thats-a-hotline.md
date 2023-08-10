@@ -1,5 +1,5 @@
 ---
-title: 'Now that’s a hotline!'
+title: "Now that's a hotline!"
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Drugs for women'
+title: "Drugs for women"
 author: 'Noam Sain'
 layout: post
 ---
@@ -8,13 +8,13 @@ layout: post
 
 Take two and the rest of the world can go to hell for up to eight full hours.
 
-**ST. MOMMA’S WORT**
+**ST. MOMMA'S WORT**
 
-Plant extract that treats mom’s depression by rendering preschoolers unconscious for up to two days.
+Plant extract that treats mom's depression by rendering preschoolers unconscious for up to two days.
 
 **EMPTYNESTROGEN**
 
-Suppository that eliminates melancholy and loneliness by reminding you of how awful they were as teenagers and how you couldn’t wait till they moved out.
+Suppository that eliminates melancholy and loneliness by reminding you of how awful they were as teenagers and how you couldn't wait till they moved out.
 
 **PEPTOBIMBO**
 
@@ -30,7 +30,7 @@ Increases life expectancy of commuters by controlling road rage and the urge to 
 
 **MENICILLIN**
 
-Potent anti-boy-otic for older women. Increases resistance to such lethal lines as, “You make me want to be a better person … Can we get naked now?”
+Potent anti-boy-otic for older women. Increases resistance to such lethal lines as, "You make me want to be a better person … Can we get naked now?"
 
 **BUYAGRA**
 
@@ -38,7 +38,7 @@ Injectable stimulant taken prior to shopping Increases potency, duration, and cr
 
 **JACKASSPIRIN**
 
-Relieves headache caused by a man who can’t remember your birthday, anniversary, phone number, or to put the toilet seat back down.
+Relieves headache caused by a man who can't remember your birthday, anniversary, phone number, or to put the toilet seat back down.
 
 **ANTI-TALKSIDENT**
 

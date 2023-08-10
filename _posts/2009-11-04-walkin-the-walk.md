@@ -1,5 +1,5 @@
 ---
-title: 'Walkin’ the walk'
+title: "Walkin' the walk"
 author: 'Noam Sain'
 layout: post
 ---
@@ -10,6 +10,6 @@ Impressed by his talent, she decided to marry him immediately.
 
 The next morning she noticed him walking sideways like any ordinary crab.
 
-She asked, “What happened? Yesterday you were able to walk straight!”
+She asked, "What happened? Yesterday you were able to walk straight!"
 
-He answered “What? I don’t get that drunk every day.”
+He answered "What? I don't get that drunk every day."

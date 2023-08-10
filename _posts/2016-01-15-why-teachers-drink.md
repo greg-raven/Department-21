@@ -1,5 +1,5 @@
 ---
-title: 'Why teachers drink'
+title: "Why teachers drink"
 author: 'Noam Sain'
 layout: post
 ---

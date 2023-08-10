@@ -1,5 +1,5 @@
 ---
-title: 'The Good Samaritan'
+title: "The Good Samaritan"
 author: 'Noam Sain'
 layout: post
 ---

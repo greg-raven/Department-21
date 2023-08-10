@@ -1,5 +1,5 @@
 ---
-title: 'Rules are rules'
+title: "Rules are rules"
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,10 +1,10 @@
 ---
-title: 'Am I lucky, or what?'
+title: "Am I lucky, or what?"
 author: 'Noam Sain'
 layout: post
 ---
 
-I’ve won a Kenyan Lottery, according to an e-mail I just received from a Nigerian prince! He has 5 MILLION DOLLARS, and he wants to send it to me FREE! All I have to do is give him all my BANK ACCOUNT NUMBERS so he can transfer the money!
+I've won a Kenyan Lottery, according to an e-mail I just received from a Nigerian prince! He has 5 MILLION DOLLARS, and he wants to send it to me FREE! All I have to do is give him all my BANK ACCOUNT NUMBERS so he can transfer the money!
 
 ![Kenyan](/assets/2014/2014-10-kenyan1.jpg "Kenyan prince")
 

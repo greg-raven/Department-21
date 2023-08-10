@@ -1,5 +1,5 @@
 ---
-title: 'Blonde painter'
+title: "Blonde painter"
 author: 'Noam Sain'
 layout: post
 ---

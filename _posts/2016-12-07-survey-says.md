@@ -1,5 +1,5 @@
 ---
-title: 'Survey says …'
+title: "Survey says …"
 author: 'Noam Sain'
 layout: post
 ---

@@ -1,51 +1,51 @@
 ---
-title: 'When fishermen meet'
+title: "When fishermen meet"
 author: 'Noam Sain'
 layout: post
 ---
 
-“Hiyamac.”  
+"Hiyamac."  
   
-“Lobuddy.”
+"Lobuddy."
 
-“Binearlong?”
+"Binearlong?"
 
-“Coplours.”
+"Coplours."
 
-“Cetchenny?”
+"Cetchenny?"
 
-“Goddafew.”
+"Goddafew."
 
-“Kindarthay?”
+"Kindarthay?"
 
-“Bassencarp.”
+"Bassencarp."
 
-“Ennysizetoom?”
+"Ennysizetoom?"
 
-“Couplapowns.”
+"Couplapowns."
 
-“Hittinhard?”
+"Hittinhard?"
 
-“Sordalike.”
+"Sordalike."
 
-“Wachoosen?”
+"Wachoosen?"
 
-“Gobbawurms.”
+"Gobbawurms."
 
-“Fishanonaboddum?”
+"Fishanonaboddum?"
 
-“Rydonaboddum.”
+"Rydonaboddum."
 
-“Whatchadrinkin?”
+"Whatchadrinkin?"
 
-“Jugajimbeam.”
+"Jugajimbeam."
 
-“Igoddago.”
+"Igoddago."
 
-“Tubad.”
+"Tubad."
 
-“Seeyaroun.”
+"Seeyaroun."
 
-“Yeahtakideezy.”
+"Yeahtakideezy."
 
-“Guluck.”
+"Guluck."

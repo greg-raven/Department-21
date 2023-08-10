@@ -1,5 +1,5 @@
 ---
-title: 'Driving styles'
+title: "Driving styles"
 author: 'Noam Sain'
 layout: post
 ---
@@ -20,7 +20,7 @@ Both hands in air, gesturing, both feet on accelerator, head turned to talk to s
 
 One hand on latte, one knee on wheel, cradling cell phone, foot on brake, mind on game: Seattle.
 
-One hand on wheel, one hand on hunting rifle, alternating between both feet being on the accelerator and both feet on brake, throwing McDonald’s bag out the window: Texas.
+One hand on wheel, one hand on hunting rifle, alternating between both feet being on the accelerator and both feet on brake, throwing McDonald's bag out the window: Texas.
 
 Four-wheel drive pick-up truck, monster tires, shotgun mounted in rear window, beer cans on floor, Rebel flag attached to antenna, fishing rod holders and beer cooler mounted on grill, hunting dogs in back, Earnhardt bumper stickers all over: Alabama, Tennessee, or Mississippi — your choice.
 

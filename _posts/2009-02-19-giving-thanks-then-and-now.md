@@ -1,10 +1,10 @@
 ---
-title: 'Giving thanks: Then and now'
+title: "Giving thanks: Then and now"
 author: 'Noam Sain'
 layout: post
 ---
 
-When I was younger, I remember receiving the inevitable homework assignment to write an essay on “something I am thankful for.” Then I’d spend a lot of time sitting in my room trying to figure out just what in the world that could possibly be; and I’d end up writing down everything I could think of from God to environmental consciousness. But after having children, my priorities have clearly changed:
+When I was younger, I remember receiving the inevitable homework assignment to write an essay on "something I am thankful for." Then I'd spend a lot of time sitting in my room trying to figure out just what in the world that could possibly be; and I'd end up writing down everything I could think of from God to environmental consciousness. But after having children, my priorities have clearly changed:
 
 - - - - - -
 
@@ -34,7 +34,7 @@ AFTER CHILDREN: I am thankful to finish a complete thought without being interru
 
 BEFORE CHILDREN: I was thankful for holistic medicine and natural herbs.
 
-AFTER CHILDREN: I am thankful for pediatric cough syrup guaranteed to “cause drowsiness” in young children.
+AFTER CHILDREN: I am thankful for pediatric cough syrup guaranteed to "cause drowsiness" in young children.
 
 - - - - - -
 

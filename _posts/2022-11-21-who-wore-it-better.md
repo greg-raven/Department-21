@@ -1,5 +1,5 @@
 ---
-title: 'Who wore it better?'
+title: "Who wore it better?"
 author: 'Noam Sain'
 layout: post
 ---

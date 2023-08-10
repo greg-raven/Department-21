@@ -1,5 +1,5 @@
 ---
-title: 'Ask Carnac the Magnificent'
+title: "Ask Carnac the Magnificent"
 author: 'Noam Sain'
 layout: post
 ---

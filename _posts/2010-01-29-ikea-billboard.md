@@ -1,5 +1,5 @@
 ---
-title: 'Ikea billboard'
+title: "Ikea billboard"
 author: 'Noam Sain'
 layout: post
 ---

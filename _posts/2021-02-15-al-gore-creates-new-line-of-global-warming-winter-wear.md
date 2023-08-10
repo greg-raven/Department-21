@@ -1,5 +1,5 @@
 ---
-title: 'Al Gore creates new line of global warming winter wear'
+title: "Al Gore creates new line of global warming winter wear"
 author: 'Noam Sain'
 layout: post
 ---

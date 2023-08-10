@@ -1,5 +1,5 @@
 ---
-title: 'Hope for real change'
+title: "Hope for real change"
 author: 'Noam Sain'
 layout: post
 ---

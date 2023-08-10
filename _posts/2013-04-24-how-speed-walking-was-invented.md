@@ -1,5 +1,5 @@
 ---
-title: 'How speed-walking was invented'
+title: "How speed-walking was invented"
 author: 'Noam Sain'
 layout: post
 ---

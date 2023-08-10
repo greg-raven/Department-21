@@ -1,25 +1,25 @@
 ---
-title: 'How did he know?'
+title: "How did he know?"
 author: 'Noam Sain'
 layout: post
 ---
 
-Hello, is this Rabbi Schwartz?”
+Hello, is this Rabbi Schwartz?"
 
-“It is.”
+"It is."
 
-“This is the IRS. Can you help us?”
+"This is the IRS. Can you help us?"
 
-“I’ll try.”
+"I'll try."
 
-“Do you know a Sam Cohen?”
+"Do you know a Sam Cohen?"
 
-“I do.”
+"I do."
 
-“Is he a member of your congregation?”
+"Is he a member of your congregation?"
 
-“He is.”
+"He is."
 
-“Did he donate $10,000?”
+"Did he donate $10,000?"
 
-“He will.”
+"He will."

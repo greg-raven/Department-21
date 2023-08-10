@@ -1,5 +1,5 @@
 ---
-title: 'Three friends'
+title: "Three friends"
 author: 'Noam Sain'
 layout: post
 ---

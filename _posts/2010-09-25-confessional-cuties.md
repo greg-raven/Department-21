@@ -1,5 +1,5 @@
 ---
-title: 'Confessional Cuties'
+title: "Confessional Cuties"
 author: 'Noam Sain'
 layout: post
 ---

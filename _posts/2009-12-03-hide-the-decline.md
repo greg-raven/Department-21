@@ -1,5 +1,5 @@
 ---
-title: 'Hide the decline'
+title: "Hide the decline"
 author: 'Noam Sain'
 layout: post
 ---

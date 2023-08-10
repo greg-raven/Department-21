@@ -1,5 +1,5 @@
 ---
-title: 'Gracie Allen’s Classic Roast Beef Recipe'
+title: "Gracie Allen's Classic Roast Beef Recipe"
 author: 'Noam Sain'
 layout: post
 ---

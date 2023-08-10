@@ -1,5 +1,5 @@
 ---
-title: 'Italians — it’s in their blood'
+title: "Italians — it's in their blood"
 author: 'Noam Sain'
 layout: post
 ---

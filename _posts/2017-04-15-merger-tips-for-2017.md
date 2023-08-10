@@ -1,5 +1,5 @@
 ---
-title: 'Merger tips for 2017'
+title: "Merger tips for 2017"
 author: 'Noam Sain'
 layout: post
 ---
@@ -16,4 +16,4 @@ Watch for these consolidations in 2017:
 6. Fairchild Electronics and Honeywell Computers will become: Fairwell Honeychild.
 7. Grey Poupon and Docker Pants are expected to become: PouponPants.
 8. Knotts Berry Farm and the National Organization of Women will become: Knott NOW!
-9. Victoria’s Secret and Smith &amp; Wesson will merge under the new name: TittyTittyBangBang
+9. Victoria's Secret and Smith &amp; Wesson will merge under the new name: TittyTittyBangBang

@@ -1,5 +1,5 @@
 ---
-title: '(In-) Action Figure'
+title: "(In-) Action Figure"
 author: 'Noam Sain'
 layout: post
 ---

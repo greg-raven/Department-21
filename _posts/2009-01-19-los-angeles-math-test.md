@@ -1,5 +1,5 @@
 ---
-title: 'Los Angeles math test'
+title: "Los Angeles math test"
 author: 'Noam Sain'
 layout: post
 ---
@@ -12,7 +12,7 @@ GANG \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 2. Leroy has two ounces of cocaine. If he sells an 8 ball to Antonio for $320 and two grams to Juan for $85 per gram, what be the street value of the rest of his shit?
 
-3. Dwayne pimps three hos. If the price is $85 per trick, how many tricks per day must each ho turn to support Dwayne’s $800 per day Crack habit?
+3. Dwayne pimps three hos. If the price is $85 per trick, how many tricks per day must each ho turn to support Dwayne's $800 per day Crack habit?
 
 4. Raul wants to cut the pound of cocaine he bought for $40,000 to make 20 percent profit. How many ounce bags will he need to make to gets the 20 percent upside?
 
@@ -24,6 +24,6 @@ GANG \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 8. Tyrone knocked up four girls in the gang. There be 20 girls in his gang. What be the percentage of bitches Tyrone knocked up?
 
-9. LaShaunda is a lookout for the gang. LaShaunda also has a boa constrictor that eats five rats per week and the cost be $5 per rat. If LaShaunda makes $700 a week as a lookout, how many weeks can she feed her snake with one week’s income?
+9. LaShaunda is a lookout for the gang. LaShaunda also has a boa constrictor that eats five rats per week and the cost be $5 per rat. If LaShaunda makes $700 a week as a lookout, how many weeks can she feed her snake with one week's income?
 
-10. Marvin steals Juan’s skateboard. As Marvin skates away at 15 mph, Juan loads his .357 Magnum piece. If it takes Juan 20 seconds to load his piece, how far away will Marvin be when he gets whacked?
+10. Marvin steals Juan's skateboard. As Marvin skates away at 15 mph, Juan loads his .357 Magnum piece. If it takes Juan 20 seconds to load his piece, how far away will Marvin be when he gets whacked?

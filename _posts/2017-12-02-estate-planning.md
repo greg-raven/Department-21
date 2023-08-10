@@ -1,5 +1,5 @@
 ---
-title: 'Estate planning'
+title: "Estate planning"
 author: 'Noam Sain'
 layout: post
 ---
@@ -15,7 +15,7 @@ Still, Tom had two goals:
 
 One evening at an investment meeting, he spotted the most beautiful woman he had ever seen. Her natural beauty took his breath away.
 
-“I may look like just an ordinary man,” he said to her, “But when my father passes away, I stand to inherit 200 million dollars.”
+"I may look like just an ordinary man," he said to her, "But when my father passes away, I stand to inherit 200 million dollars."
 
 Impressed, the woman obtained his business card.
 

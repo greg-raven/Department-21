@@ -1,12 +1,12 @@
 ---
-title: 'Did he forget or just not give a darn?'
+title: "Did he forget or just not give a darn?"
 author: 'Noam Sain'
 layout: post
 ---
 
 Rick forgot his wedding anniversary and his wife was really angry.
 
-She told him, “Tomorrow morning, I expect to find a gift in the driveway that goes from 0 to 200 in less than 6 seconds.
+She told him, "Tomorrow morning, I expect to find a gift in the driveway that goes from 0 to 200 in less than 6 seconds.
 
 The next morning Rick got up early and left for work. When his wife woke up she looked out the window and sure enough there was a box gift-wrapped in the middle of the driveway.
 

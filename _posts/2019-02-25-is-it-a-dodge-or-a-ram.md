@@ -1,5 +1,5 @@
 ---
-title: 'Is it a Dodge or a Ram?'
+title: "Is it a Dodge or a Ram?"
 author: 'Noam Sain'
 layout: post
 ---

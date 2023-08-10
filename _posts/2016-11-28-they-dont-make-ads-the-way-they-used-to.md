@@ -1,5 +1,5 @@
 ---
-title: 'They don’t make ads the way they used to'
+title: "They don't make ads the way they used to"
 author: 'Noam Sain'
 layout: post
 ---

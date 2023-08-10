@@ -1,5 +1,5 @@
 ---
-title: 'Bill Clinton at the Pearly Gates'
+title: "Bill Clinton at the Pearly Gates"
 author: 'Noam Sain'
 layout: post
 ---

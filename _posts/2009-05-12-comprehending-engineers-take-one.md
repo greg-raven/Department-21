@@ -1,5 +1,5 @@
 ---
-title: 'Comprehending Engineers — Take One'
+title: "Comprehending Engineers — Take One"
 author: 'Noam Sain'
 layout: post
 ---

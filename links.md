@@ -23,7 +23,7 @@ Some of my other sites
 - [Weather News Blog](https://weathernewsblog.wordpress.com/) / Extreme news about normal weather occurrences
 - [WordPress](https://gregraven.wordpress.com/) / Side Six: A WordPress blog about WordPress on WordPress.com
 
-No one knows what’s going on with these sites
+No one knows what's going on with these sites
 
 - [Greg Raven CLUB](https://www.gregraven.vip/404.html)
 - [Greg Raven FUN](https://www.gregraven.vip/404.html)

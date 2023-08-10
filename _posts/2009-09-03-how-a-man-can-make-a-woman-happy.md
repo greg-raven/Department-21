@@ -1,10 +1,10 @@
 ---
-title: 'How a man can make a woman happy'
+title: "How a man can make a woman happy"
 author: 'Noam Sain'
 layout: post
 ---
 
-It’s not difficult to make a woman happy. A man only needs to be:
+It's not difficult to make a woman happy. A man only needs to be:
 
 1. a friend
 2. a companion

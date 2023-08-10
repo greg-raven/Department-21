@@ -1,5 +1,5 @@
 ---
-title: 'Women who know their place'
+title: "Women who know their place"
 author: 'Noam Sain'
 layout: post
 ---
@@ -12,6 +12,6 @@ She recently returned to Kabul and observed that women still walk behind their h
 
 Despite the overthrow of the oppressive Taliban regime, the women now seem happy to maintain the old custom.
 
-Ms Walters approached one of the Afghani women and asked, “Why do you now seem happy with an old custom that you once tried so desperately to change?””
+Ms Walters approached one of the Afghani women and asked, "Why do you now seem happy with an old custom that you once tried so desperately to change?""
 
-The woman looked Ms Walters straight in the eyes, and without hesitation said, “Land mines.”
+The woman looked Ms Walters straight in the eyes, and without hesitation said, "Land mines."

@@ -1,5 +1,5 @@
 ---
-title: 'Everyone to the kitchen!'
+title: "Everyone to the kitchen!"
 author: 'Noam Sain'
 layout: post
 ---

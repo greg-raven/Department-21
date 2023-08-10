@@ -1,5 +1,5 @@
 ---
-title: 'Laughs for today'
+title: "Laughs for today"
 author: 'Noam Sain'
 layout: post
 ---

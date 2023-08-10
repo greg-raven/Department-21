@@ -1,5 +1,5 @@
 ---
-title: 'Recession, Depression, and Recovery'
+title: "Recession, Depression, and Recovery"
 author: 'Noam Sain'
 layout: post
 ---

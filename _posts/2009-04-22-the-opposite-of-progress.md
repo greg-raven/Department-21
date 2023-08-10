@@ -1,5 +1,5 @@
 ---
-title: 'The opposite of progress'
+title: "The opposite of progress"
 author: 'Noam Sain'
 layout: post
 ---

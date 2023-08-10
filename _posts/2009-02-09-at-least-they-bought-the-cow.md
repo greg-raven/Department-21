@@ -1,5 +1,5 @@
 ---
-title: 'At least they bought the cow'
+title: "At least they bought the cow"
 author: 'Noam Sain'
 layout: post
 ---
@@ -12,10 +12,10 @@ They got a bull and led the cow and the bull into the pasture. When the bull cam
 
 When the bull moved in to mount the cow from the left, the cow moved to the right. This went on all day. Finally, in desperation, the people decided to go ask the Rabbi what to do. After all he was very wise.
 
-They told him the story. “Rabbi, we’ve tried all day to mate our cow. When the bull moves in from the right, the cow moves left, and when the bull moves in from the left, the cow moves to the right. What do we do?”
+They told him the story. "Rabbi, we've tried all day to mate our cow. When the bull moves in from the right, the cow moves left, and when the bull moves in from the left, the cow moves to the right. What do we do?"
 
-The Rabbi thought a moment and asked, “Did you buy this cow from Minsk?”
+The Rabbi thought a moment and asked, "Did you buy this cow from Minsk?"
 
-“Rabbi!” they replied as one, “You are so wise! We never said we bought the cow from Minsk. How did you know that?”
+"Rabbi!" they replied as one, "You are so wise! We never said we bought the cow from Minsk. How did you know that?"
 
-The Rabbi said, sadly, “My wife is from Minsk.”
+The Rabbi said, sadly, "My wife is from Minsk."

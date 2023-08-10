@@ -1,5 +1,5 @@
 ---
-title: '‘Big O’ stamp'
+title: "'Big O' stamp"
 author: 'Noam Sain'
 layout: post
 ---

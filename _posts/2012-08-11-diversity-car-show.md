@@ -1,5 +1,5 @@
 ---
-title: 'Diversity car show'
+title: "Diversity car show"
 author: 'Noam Sain'
 layout: post
 ---

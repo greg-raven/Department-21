@@ -1,5 +1,5 @@
 ---
-title: 'In case of fire …'
+title: "In case of fire …"
 author: 'Noam Sain'
 layout: post
 ---

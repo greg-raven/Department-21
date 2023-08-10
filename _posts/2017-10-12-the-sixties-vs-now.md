@@ -1,5 +1,5 @@
 ---
-title: 'The Sixties vs. now'
+title: "The Sixties vs. now"
 author: 'Noam Sain'
 layout: post
 ---

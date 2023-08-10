@@ -1,5 +1,5 @@
 ---
-title: 'Husband of the Year Awards'
+title: "Husband of the Year Awards"
 author: 'Noam Sain'
 layout: post
 ---
@@ -24,6 +24,6 @@ It was very, very close but the runner up prize was awarded to Serbia.
 
 ![Husband of the Year Awards](https://1.bp.blogspot.com/_8aN4krk1nsk/Son-cSq4eJI/AAAAAAAAAPs/qGYb2DaVUHA/s1600/serbia.jpg)](https://1.bp.blogspot.com/_8aN4krk1nsk/Son-cSq4eJI/AAAAAAAAAPs/qGYb2DaVUHA/s1600-h/serbia.jpg)
 
-But the winner of the husband/partner of the year is Ireland. Ya gotta love the Irish. The Irish are true romantics. Look, he’s even holding her hand!
+But the winner of the husband/partner of the year is Ireland. Ya gotta love the Irish. The Irish are true romantics. Look, he's even holding her hand!
 
 ![Husband of the Year Awards](https://2.bp.blogspot.com/_8aN4krk1nsk/Son-iUBV5nI/AAAAAAAAAP0/8FDHxQQLOFg/s1600/ireland.jpg "Husband of the Year Awards")
