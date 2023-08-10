@@ -4,14 +4,14 @@ author: 'Noam Sain'
 layout: post
 ---
 
-Air Force General: Mr. President, we’ve just invented an invisibility clock for Air Force One.
+Air Force General: "Mr. President, we've just invented an invisibility cloak for Air Force One."
 
-Obama: No way!
+Obama: "No way!"
 
-General: That’s right, sir, the plane will be invisible. Will you be going along on the maiden flight?
+General: "That's right, sir, the plane will be invisible. Will you be going along on the maiden flight?"
 
-Obama: Wouldn’t miss a good press opportunity for the world.
+Obama: "Wouldn't miss a good press opportunity for the world."
 
-General: Have a good trip, sir.
+General: "Have a good trip, sir."
 
-![cloaked](/assets/2014/2014-10-cloak.jpeg)
+![Cloaked](/assets/2014/2014-10-cloak.jpeg "Invisible airplane")
