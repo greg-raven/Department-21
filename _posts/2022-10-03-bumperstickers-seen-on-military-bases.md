@@ -48,4 +48,4 @@ Naval Corollary: Dead Men Don't Testify.
 
 > Some people spend an entire lifetime wondering if they made a difference in the world. But the U.S. ARMED FORCES don't have that problem.
 >
-> <footer>— Ronald Reagan</footer>
+> <footer>Ronald Reagan</footer>

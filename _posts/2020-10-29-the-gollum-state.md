@@ -6,4 +6,4 @@ layout: post
 
 > "There is science, logic, reason; there is thought verified by experience. And then there is California."
 >
-> <footer>— Edward Abbey</footer>
+> <footer>Edward Abbey</footer>
