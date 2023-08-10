@@ -4,20 +4,20 @@ author: 'Noam Sain'
 layout: post
 ---
 
-A young Arab asks his father: “What is this weird hat that we are wearing?”  
-  
-“It’s a ‘chechia’ because it protects our heads from the sun in the sweltering heat of the desert!”
+A young Arab asks his father: "What is this weird hat that we are wearing?"
 
-“And what is this type of clothing that we are wearing?”
+"It's a 'chechia' because it protects our heads from the sun in the sweltering heat of the desert!"
 
-“It’s a ‘djbellah’ because it protects your body from the soaring temperatures of the desert!”
+"And what is this type of clothing that we are wearing?"
 
-“And what are these ugly shoes that we have on our feet?”
+"It's a 'djbellah' because it protects your body from the soaring temperatures of the desert!"
 
-“These are ‘babouches’, which keep us from burning our feet when crossing the hot, blistering sands of the desert!”
+"And what are these ugly shoes that we have on our feet?"
 
-“Tell me, papa …”
+"These are 'babouches', which keep us from burning our feet when crossing the hot, blistering sands of the desert!"
 
-“Yes, my son?”
+"Tell me, papa …"
 
-“You know there’s no desert here in Dearborn, Michigan, right?”
+"Yes, my son?"
+
+"You know there's no desert here in Dearborn, Michigan, right?"
