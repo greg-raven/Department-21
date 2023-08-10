@@ -1,11 +1,11 @@
 ---
-title: "Teacher&rsquo;s pet"
+title: "Teacher's pet"
 author: 'Noam Sain'
 layout: post
 ---
 
-On the first day of school, the children brought gifts for their teacher.  
-  
+On the first day of school, the children brought gifts for their teacher.
+
 The supermarket manager's daughter brought the teacher a basket of assorted fruit.
 
 The florist's son brought the teacher a bouquet of flowers.

@@ -1,5 +1,5 @@
 ---
-title: "It&rsquo;s only money"
+title: "It's only money"
 author: 'Noam Sain'
 layout: post
 ---
