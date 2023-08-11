@@ -4,4 +4,4 @@ author: "Noam Sain"
 layout: post
 ---
 
-<iframe height="473" src="https://www.youtube.com/embed/z0O_VYcsIk8?feature=oembed" title="If Meat Eaters Acted Like Vegans - Ultra Spiritual Life episode 35" width="840"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z0O_VYcsIk8" title="If Meat Eaters Acted Like Vegans - Ultra Spiritual Life episode 35"></iframe>

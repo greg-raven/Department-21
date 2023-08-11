@@ -4,4 +4,4 @@ author: "Noam Sain"
 layout: post
 ---
 
-<iframe height="630" src="https://www.youtube.com/embed/SQNCsQqjuGw?feature=oembed" title="Worst Job Ever" width="840"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SQNCsQqjuGw" title="Worst Job Ever"></iframe>

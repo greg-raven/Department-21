@@ -4,4 +4,4 @@ author: "Noam Sain"
 layout: post
 ---
 
-<iframe height="473" src="https://www.youtube.com/embed/SqQgDwA0BNU?feature=oembed" title="THE MYSTERY OF THE BASKET" width="840"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SqQgDwA0BNU" title="The mystery of the basket"></iframe>

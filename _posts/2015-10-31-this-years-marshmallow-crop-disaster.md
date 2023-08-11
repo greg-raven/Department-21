@@ -4,4 +4,4 @@ author: "Noam Sain"
 layout: post
 ---
 
-<iframe height="630" src="https://www.youtube.com/embed/yflTu150QZw?feature=oembed" title="Marshmallow Farming" width="840"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yflTu150QZw" title="Marshmallow Farming"></iframe>

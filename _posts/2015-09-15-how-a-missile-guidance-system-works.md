@@ -4,4 +4,4 @@ author: "Noam Sain"
 layout: post
 ---
 
-<iframe height="473" src="https://www.youtube.com/embed/3Bby5pOVZJ0?feature=oembed" title="Missile Guidance System" width="840"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Bby5pOVZJ0" title="Missile Guidance System"></iframe>
