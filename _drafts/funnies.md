@@ -11,209 +11,169 @@
 
 - Stand silent and motionless in the corner, facing the wall, without getting off.
 
-- When arriving at your floor, grunt and strain to yank the
-doors open, then act embarrassed when they open by
-themselves.
+- When arriving at your floor, grunt and strain to yank the doors open, then act embarrassed when they open by themselves.
 
-- Greet everyone getting on the elevator with a warm
-handshake and ask them to call you Admiral.
+- Greet everyone getting on the elevator with a warm handshake and ask them to call you Admiral.
 
-- On the highest floor, hold the door open and demand that it
-stay open until you hear the penny you dropped down the shaft
-go "plink" at the bottom.
+- On the highest floor, hold the door open and demand that it stay open until you hear the penny you dropped down the shaft go "plink" at the bottom.
 
-- Stare, grinning, at another passenger for a while, and then
-announce: "I've got new socks on!"
+- Stare, grinning, at another passenger for a while, and then announce: "I've got new socks on!"
 
-- When at least 8 people have boarded, moan from the back:
-"Oh, not now … motion sickness!"
+- When at least 8 people have boarded, moan from the back: "Oh, not now ... motion sickness!"
 
-- Bet the other passengers you can fit a quarter in your
-nose.
+- Bet the other passengers you can fit a quarter in your nose.
 
-- Frown and mutter "gotta go, gotta go" then sigh and say
-"oops!"
+- Frown and mutter "gotta go, gotta go" then sigh and say "oops!"
 
 - Show other passengers a wound and ask if it looks infected.
 
 - Walk on with a cooler that says "human head" on the side.
 
-- Stare at another passenger for a while, then announce
-"You're one of THEM!" and move to the far corner of the
-elevator.
+- Stare at another passenger for a while, then announce "You're one of THEM!" and move to the far corner of the elevator.
 
 - Leave a box between the doors.
 
-- Ask each passenger getting on if you can push the button
-for them.
+- Ask each passenger getting on if you can push the button for them.
 
-- Wear a puppet on your hand and talk to other passengers
-"through" it.
+- Wear a puppet on your hand and talk to other passengers "through" it.
 
 - Start a sing-along.
 
-- When the elevator is silent, look around and ask "is that
-your beeper?"
+- When the elevator is silent, look around and ask "is that your beeper?"
 
-- Draw a little square on the floor with chalk and announce
-to the other passengers that this is your "personal space."
+- Draw a little square on the floor with chalk and announce to the other passengers that this is your "personal space."
 
-- Announce in a demonic voice: "I must find a more suitable
-host body."
+- Announce in a demonic voice: "I must find a more suitable host body."
 
 - Carry a blanket and clutch it protectively.
 
-- If anyone brushes against you, recoil and holler "Bad
-touch!"
+- If anyone brushes against you, recoil and holler "Bad touch!"
 
-- While the doors are opening, hurriedly whisper, "Hide it … quick!" then whistle innocently.
-
-------
-
-3050 B.C. — A Sumerian invents the wheel. Within the week, the idea is stolen and duplicated by other Sumerians, thereby establishing the business ethic for all times.
-
-2900 B.C. — Wondering why the Egyptians call that new thing a Sphinx becomes the first of the world's Seven Great Wonders.
-
-1850 B.C. — Britons proclaim Operation Stonehenge a success. They've finally gotten those boulders arranged in a sufficiently meaningless pattern to confuse the hell out of scientists for centuries.
-
-1785 B.C. — The first calendar, composed of a year with 354 days, is introduced by Babylonian scientists.
-
-1768 B.C. — Babylonians realize something is wrong when winter begins in June.
-
-776 B.C. — The world's first known money appears in Persia, immediately causing the world's first known counterfeiter to appear in Persia the next day.
-
-525 B.C. — The first Olympics are held, and prove similar to the modern games, except that the Russians don't try to enter a six-footer with a mustache in the women's shot put. However, the Egyptians do!
-
-410 B.C. — Rome ends the practice of throwing debtors into slavery, thus removing the biggest single obstacle to the development of the credit card.
-
-404 B.C. — The Peloponnesian war has been going on for 27 years now because neither side can find a treaty writer who knows how to spell Peloponnesian.
-
-214 B.C. — Tens of thousands of Chinese labor for a generation to build the 1,500 mile long Great Wall of China. And after all that, it still doesn't keep the neighbor's dog out.
-
-1 B.C. — Calendar manufacturers find themselves in total disagreement over what to call next year.
-
-79 A.D. — Buying property in Pompeii turns out to have been a lousy real estate investment.
-
-432 — St. Patrick introduces Christianity to Ireland, thereby giving the natives something interesting to fight about for the rest of their recorded history.
-
-1000 — Leif Ericsson discovers America, but decides it's not worth mentioning.
-
-1043 — Lady Godiva finds a means of demonstrating against high taxes that immediately makes everyone forget what she is demonstrating against.
-
-1125 — Arabic numerals are introduced to Europe, enabling peasants to solve the most baffling problem that confronts them: How much tax do you owe on MMMDCCCLX Lira when you're in the XXXVI percent bracket?
-
-1233 — The Inquisition is set up to torture and kill anyone who disagrees with the Law of the Church. However, the practice is so un-Christian that it is permitted to continue for only 600 years.
-
-1297 — The world's first stock exchange opens, but no one has the foresight to buy IBM or Xerox.
-
-1433 — Portugal launches the African slave trade, which just proves what a small, ambitious country can do with a little bit of ingenuity and a whole lot of evil!
-
-1456 — An English judge reviews Joan of Arc's case and cancels her death sentence. Unfortunately for her, she was put to death in 1431.
-
-1492 — Columbus proves how lost he really is by landing in the Bahamas, naming the place San Salvador, and calling the people who live there Indians.
-
-1497 — Amerigo Vespucci becomes the 7th or 8th explorer to become the new world, but the first to think of naming it in honor of himself … the United States of Vespuccia!
-
-1508 — Michelangelo finally agrees to paint the ceiling of the Sistine Chapel, but he still refuses to wash the windows.
-
-1513 — Ponce de Leon claims he found the Fountain of Youth, but dies of old age trying to remember where it was he found it.
-
-1522 — Scientists, who know the world is flat, conclude that Magellan made it all the way around by crawling across the bottom.
-
-1568 — Saddened over the slander of his good name, Ivan the Terrible kills another 100,000 peasants to make them stop calling him Ivan the Terrible.
-
-1607 — The Indians laugh themselves silly as the first European tourist to visit Virginia tries to register as "John Smith."
-
-1618 — Future Generations are doomed as the English execute Sir Walter Raleigh, but allow his tobacco plants to live.
-
-1642 — Nine students receive the first Bachelor of Arts degrees conferred in America, and immediately discover there are no jobs open for a kid with a liberal arts education.
-
-1670 — The pilgrims are too busy burning false witches to observe the golden anniversary of their winning religious freedom.
-
-1755 — Samuel Johnson issues the first English Dictionary, at last providing young children with a book they can look up dirty words in.
-
-1758 — New Jersey is chosen as the site of America's first Indian reservation, which should give Indians an idea of the kind of shabby living conditions they can expect from here on out.
-
-1763 — The French and Indian War ends. The French and Indians both lost.
-
-1770 — The shooting of three people in the Boston Massacre touches off the Revolution. 200 Years later, three shootings in Boston will be considered just about average for a Saturday Night.
-
-1773 — Colonists dump tea into Boston Harbor. British call the act "barbaric," noting that no one added cream.
-
-1776 — Napoleon decides to maintain a position of neutrality in the American Revolution, primarily because he is only seven years old.
-
-1779 — John Paul Jones notifies the British, "I have just begun to fight!" and then feels pretty foolish when he discovers that his ship is sinking.
-
-1793 — "Let them eat cake!" becomes the most famous thing Marie Antoinette ever said. Also, the least diplomatic thing she ever said. Also, the last thing she ever said.
-
-1799 — Translation of the Rosetta Stone finally enables scholars to learn that Egyptian hieroglyphics don't say anything important. "Dear Ramses, How are you? I am fine."
-
-1805 — Robert Fulton invents the torpedo.
-
-1807 — Robert Fulton invents the steamship so he has something to blow up with his torpedo.
-
-1815 — Post Office policy is established as Andrew Jackson wins the Battle of New Orleans a month after he should have received the letter telling him the War of 1812 is over.
-
-1840 — William Henry Harrison is elected president in a landslide, proving that the campaign motto, "Tippecanoe and Tyler too" is so meaningless that very few can disagree with it.
-
-1850 — Henry Clay announces, "I'd rather be right than president," which gets quite a laugh, coming from a guy who has run for president five times without winning.
-
-1859 — Charles Darwin writes "Origin of the Species". It has the same general plot as "Planet of the Apes", but fails to gross as much money.
-
-1865 — Union Soldiers face their greatest challenge of the war: Getting General Grant sober enough to accept Lee's surrender.
-
-1894 — Thomas Edison displays the first motion picture, and everybody likes it except the movie critics.
-
-1903 — The opening of the Trans-Siberian Railway enables passengers from Moscow to reach Vladivostok in eight days, which is a lot sooner than most of them want to get there.
-
-1910 — The founding of the Boy Scouts of America comes as bad news to old ladies who would rather cross the street by themselves.
-
-1911 — Roald Amundsen discovers the South Pole and confirms what he's suspected all along: It looks a helluva lot like the North Pole!
-
-1912 — People with reservations for the voyage of the Titanic get their money back.
-
-1920 — The 18th Amendment to the Constitution makes drinking illegal in the U.S. so everyone stops. Except for the 40 million who don't stop!
-
-1924 — Hitler is released from prison four years early, after convincing the parole board that he is a changed man who won't cause any more trouble.
-
-1928 — Herbert Hoover promises "a chicken in every pot and a car in every garage," but he neglects to add that most Americans will soon be without pots and garages.
-
-1930 — Pluto is discovered. Not the dog, stupid; the planet. The dog wasn't discovered until 1938.
-
-1933 — German housewives begin to realize why that crazy wallpaper hanger with the mustache never came back to finish his work.
-
-1933 — Hitler establishes the Third Reich, and announces that it will last for a thousand years. As matters develop, he is only 988 years off.
-
-1934 — John Dillinger is gunned down by police as he leaves a Chicago movie theater. And just to make the evening a complete washout, he didn't enjoy the movie either.
-
-1934 — As if the Great Depression weren't giving businessmen enough headaches, Ralph Nader is born.
-
-1938 — Great Britain and Germany sign a peace treaty, thereby averting all possibility of WWII.
-
-1944 — Hitler's promise of Volkswagens for all Germans as soon as they've won the war doesn't prove to be as strong an incentive as he had hoped.
+- While the doors are opening, hurriedly whisper, "Hide it ... quick!" then whistle innocently.
 
 ------
 
-Man goes to see the Rabbi.
+3050 B.C. --- A Sumerian invents the wheel. Within the week, the idea is stolen and duplicated by other Sumerians, thereby establishing the business ethic for all times.
 
-"Rabbi, something terrible is happening and I have to talk to you about it."
+2900 B.C. --- Wondering why the Egyptians call that new thing a Sphinx becomes the first of the world's Seven Great Wonders.
 
-The Rabbi asked, "What's wrong?"
+1850 B.C. --- Britons proclaim Operation Stonehenge a success. They've finally gotten those boulders arranged in a sufficiently meaningless pattern to confuse the hell out of scientists for centuries.
 
-The man replied, "My wife is poisoning me."
+1785 B.C. --- The first calendar, composed of a year with 354 days, is introduced by Babylonian scientists.
 
-The Rabbi, very surprised by this, asks, "How can that be?"
+1768 B.C. --- Babylonians realize something is wrong when winter begins in June.
 
-The man then pleads, "I'm telling you, I'm certain she's poisoning me, what should I do?"
+776 B.C. --- The world's first known money appears in Persia, immediately causing the world's first known counterfeiter to appear in Persia the next day.
 
-The Rabbi then offers, "Tell you what. Let me talk to her, I'll see what I can find out and I'll let you know."
+525 B.C. --- The first Olympics are held, and prove similar to the modern games, except that the Russians don't try to enter a six-footer with a mustache in the women's shot put. However, the Egyptians do!
 
-A week later the Rabbi calls the man and says, "Well, I spoke to your wife. I spoke to her on the phone for three hours. You want my advice?"
+410 B.C. --- Rome ends the practice of throwing debtors into slavery, thus removing the biggest single obstacle to the development of the credit card.
 
-The man anxiously says, "Yes."
+404 B.C. --- The Peloponnesian war has been going on for 27 years now because neither side can find a treaty writer who knows how to spell Peloponnesian.
 
-"Take the poison," says the Rabbi.
+214 B.C. --- Tens of thousands of Chinese labor for a generation to build the 1,500 mile long Great Wall of China. And after all that, it still doesn't keep the neighbor's dog out.
 
+1 B.C. --- Calendar manufacturers find themselves in total disagreement over what to call next year.
+
+79 A.D. --- Buying property in Pompeii turns out to have been a lousy real estate investment.
+
+432 --- St. Patrick introduces Christianity to Ireland, thereby giving the natives something interesting to fight about for the rest of their recorded history.
+
+1000 --- Leif Ericsson discovers America, but decides it's not worth mentioning.
+
+1043 --- Lady Godiva finds a means of demonstrating against high taxes that immediately makes everyone forget what she is demonstrating against.
+
+1125 --- Arabic numerals are introduced to Europe, enabling peasants to solve the most baffling problem that confronts them: How much tax do you owe on MMMDCCCLX Lira when you're in the XXXVI percent bracket?
+
+1233 --- The Inquisition is set up to torture and kill anyone who disagrees with the Law of the Church. However, the practice is so un-Christian that it is permitted to continue for only 600 years.
+
+1297 --- The world's first stock exchange opens, but no one has the foresight to buy IBM or Xerox.
+
+1433 --- Portugal launches the African slave trade, which just proves what a small, ambitious country can do with a little bit of ingenuity and a whole lot of evil!
+
+1456 --- An English judge reviews Joan of Arc's case and cancels her death sentence. Unfortunately for her, she was put to death in 1431.
+
+1492 --- Columbus proves how lost he really is by landing in the Bahamas, naming the place San Salvador, and calling the people who live there Indians.
+
+1497 --- Amerigo Vespucci becomes the 7th or 8th explorer to become the new world, but the first to think of naming it in honor of himself ... the United States of Vespuccia!
+
+1508 --- Michelangelo finally agrees to paint the ceiling of the Sistine Chapel, but he still refuses to wash the windows.
+
+1513 --- Ponce de Leon claims he found the Fountain of Youth, but dies of old age trying to remember where it was he found it.
+
+1522 --- Scientists, who know the world is flat, conclude that Magellan made it all the way around by crawling across the bottom.
+
+1568 --- Saddened over the slander of his good name, Ivan the Terrible kills another 100,000 peasants to make them stop calling him Ivan the Terrible.
+
+1607 --- The Indians laugh themselves silly as the first European tourist to visit Virginia tries to register as "John Smith."
+
+1618 --- Future Generations are doomed as the English execute Sir Walter Raleigh, but allow his tobacco plants to live.
+
+1642 --- Nine students receive the first Bachelor of Arts degrees conferred in America, and immediately discover there are no jobs open for a kid with a liberal arts education.
+
+1670 --- The pilgrims are too busy burning false witches to observe the golden anniversary of their winning religious freedom.
+
+1755 --- Samuel Johnson issues the first English Dictionary, at last providing young children with a book they can look up dirty words in.
+
+1758 --- New Jersey is chosen as the site of America's first Indian reservation, which should give Indians an idea of the kind of shabby living conditions they can expect from here on out.
+
+1763 --- The French and Indian War ends. The French and Indians both lost.
+
+1770 --- The shooting of three people in the Boston Massacre touches off the Revolution. 200 Years later, three shootings in Boston will be considered just about average for a Saturday Night.
+
+1773 --- Colonists dump tea into Boston Harbor. British call the act "barbaric," noting that no one added cream.
+
+1776 --- Napoleon decides to maintain a position of neutrality in the American Revolution, primarily because he is only seven years old.
+
+1779 --- John Paul Jones notifies the British, "I have just begun to fight!" and then feels pretty foolish when he discovers that his ship is sinking.
+
+1793 --- "Let them eat cake!" becomes the most famous thing Marie Antoinette ever said. Also, the least diplomatic thing she ever said. Also, the last thing she ever said.
+
+1799 --- Translation of the Rosetta Stone finally enables scholars to learn that Egyptian hieroglyphics don't say anything important. "Dear Ramses, How are you? I am fine."
+
+1805 --- Robert Fulton invents the torpedo.
+
+1807 --- Robert Fulton invents the steamship so he has something to blow up with his torpedo.
+
+1815 --- Post Office policy is established as Andrew Jackson wins the Battle of New Orleans a month after he should have received the letter telling him the War of 1812 is over.
+
+1840 --- William Henry Harrison is elected president in a landslide, proving that the campaign motto, "Tippecanoe and Tyler too" is so meaningless that very few can disagree with it.
+
+1850 --- Henry Clay announces, "I'd rather be right than president," which gets quite a laugh, coming from a guy who has run for president five times without winning.
+
+1859 --- Charles Darwin writes "Origin of the Species". It has the same general plot as "Planet of the Apes", but fails to gross as much money.
+
+1865 --- Union Soldiers face their greatest challenge of the war: Getting General Grant sober enough to accept Lee's surrender.
+
+1894 --- Thomas Edison displays the first motion picture, and everybody likes it except the movie critics.
+
+1903 --- The opening of the Trans-Siberian Railway enables passengers from Moscow to reach Vladivostok in eight days, which is a lot sooner than most of them want to get there.
+
+1910 --- The founding of the Boy Scouts of America comes as bad news to old ladies who would rather cross the street by themselves.
+
+1911 --- Roald Amundsen discovers the South Pole and confirms what he's suspected all along: It looks a helluva lot like the North Pole!
+
+1912 --- People with reservations for the voyage of the Titanic get their money back.
+
+1920 --- The 18th Amendment to the Constitution makes drinking illegal in the U.S. so everyone stops. Except for the 40 million who don't stop!
+
+1924 --- Hitler is released from prison four years early, after convincing the parole board that he is a changed man who won't cause any more trouble.
+
+1928 --- Herbert Hoover promises "a chicken in every pot and a car in every garage," but he neglects to add that most Americans will soon be without pots and garages.
+
+1930 --- Pluto is discovered. Not the dog, stupid; the planet. The dog wasn't discovered until 1938.
+
+1933 --- German housewives begin to realize why that crazy wallpaper hanger with the mustache never came back to finish his work.
+
+1933 --- Hitler establishes the Third Reich, and announces that it will last for a thousand years. As matters develop, he is only 988 years off.
+
+1934 --- John Dillinger is gunned down by police as he leaves a Chicago movie theater. And just to make the evening a complete washout, he didn't enjoy the movie either.
+
+1934 --- As if the Great Depression weren't giving businessmen enough headaches, Ralph Nader is born.
+
+1938 --- Great Britain and Germany sign a peace treaty, thereby averting all possibility of WWII.
+
+1944 --- Hitler's promise of Volkswagens for all Germans as soon as they've won the war doesn't prove to be as strong an incentive as he had hoped.
 
 ------
 
@@ -223,9 +183,9 @@ Are you harboring a fugitive? Hu Yu Hai Ding?
 
 See me ASAP. Kum Hia Nao
 
-Stupid Man Dum Gai
+Stupid man. Dum Gai
 
-Small Horse Tai Ni Po Ni
+Small horse. Tai Ni Po Ni
 
 Did you go to the beach? Wai Yu So Tan?
 
@@ -259,114 +219,6 @@ Your body odor is offensive. Yu Stin Ki Pu
 
 ------
 
-One day there was a man who was walking through the forest and got lost. He wandered around for over a week, and was beginning to starve.
-
-He spotted a Bald Eagle who had just caught a fish and chased it, hoping to get it to drop the fish so he could eat it. Then he saw the bird land on a tree stump not far from him, so he picked up a stone to toss at it — hoping the bird would be frightened and fly away without the fish. But, weak as he was, his aim was off and he hit the poor bird square on the head, and killing it.
-
-"Well," he thought to himself, "no sense letting it go to waste, if I leave it here it will just rot, and it could save my life if I eat it."
-
-So, he built himself a little fire — using a couple of stones — and cooked the eagle to eat. While it was cooking a ranger stumbled upon the man, and when he saw what he was up to, he immediately arrested him — because as you know, that is quite illegal!
-
-The man told the ranger what had happened, and asked for a trial so he could explain the situation to a judge.
-
-So, the day of his trial he told the judge, "Please your Honor, it was a life or death situation! I was lost and starving, and I didn't mean to harm the bird — I only wanted the fish! And when I accidentally killed it, well, I felt terrible but couldn't see any reason to let it go to waste!"
-
-The judge listened to the man's story and deemed him, "Not guilty, on the grounds of extenuating circumstances."
-
-The man was very grateful, and thanked the judge for his fairness.
-
-Then, the judge leaned over and quietly asked the man, "Just between you and me, what DOES a Bald Eagle taste like anyway??"
-
-The man contemplated this for a moment and then spoke, "Well, it's kind of hard to explain … but, I would say somewhere between a California Condor and a Spotted Owl."
-
-------
-
-Reality is a crutch for people who can't handle drugs.
-
-Keep honking, I'm reloading.
-
-Hang up and drive.
-
-Lord save me from your followers.
-
-Ask me about microwaving cats for fun and profit.
-
-I said "no" to drugs, but they just wouldn't listen.
-
-Friends don't let friends drive naked.
-
-If we aren't supposed to eat animals, why are they made of meat?
-
-Lottery: A tax on people who are bad at math.
-
-Friends help you move. Real friends help you move bodies.
-
-------
-
-On a busy surgical floor the doctor stops the nurse to brief her on a patient's condition. "This patient is a fellow physician and my favorite golf partner. His injury is serious and I fear he will not be able to play golf again unless you follow my orders exactly."
-
-The doctor then began listing orders, "You must give an injection in a different location every twenty minutes followed by a second injection exactly five minutes after the first. He must take two pills at exactly every hour followed by one pill every fifteen minutes for eight hours. He must drink no more and no less than ten ounces of water every twenty-five minutes and must void between. Soak his arm in warm water for fifteen minutes then place ice for ten minutes and repeat over and over for the rest of the day. Give range of motion every thirty minutes. He requires a back rub and foot rub every hour. Feed him something tasty every hour. Be cheerful and do whatever he asks at all times. Chart his condition and vital signs every twenty minutes. You must do these things exactly as I ordered or his injury will not heal properly, and he will not able to play golf well."
-
-The nurse left the doctor and entered the patient's room. She was greeted by anxious family and an equally anxious patient. All asked the nurse what the doctor had said about the patient. The nurse started, "The doctor said that you will live." Then quickly reviewing the orders, the nurse added, "But you will have to learn a new sport."
-
-------
-
-Once upon a time, a perfect man and a perfect woman met. After a perfect courtship, they had a perfect wedding. Their life together was, of course, perfect.
-
-One snowy, stormy Christmas Eve, this perfect couple was driving their perfect car (a Grand Caravan) along a winding road, when they noticed someone at the side of the road in distress. Being the perfect couple, they stopped to help.
-
-There stood Santa Claus with a huge bundle of toys. Not wanting to disappoint any children on the eve of Christmas, the perfect couple loaded Santa and his toys into their vehicle.
-
-Soon they were driving along delivering toys. Unfortunately, the driving conditions deteriorated and the perfect couple and Santa Claus had an accident. Only one of them survived the accident.
-
-The brain teaser question is: Who was the survivor?
-
-(Scroll down for the answer.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The perfect woman survived. She's the only one who really existed in the first place. Everyone knows there is no Santa Claus and there is no such thing as a perfect man.
-
-******Women stop reading here. That is the end of the joke. ******** ***********Men keep scrolling.**************
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-So, if there is no perfect man and no Santa Claus, the perfect woman must have been driving. And that explains why there was a car accident.
-
-By the way, if you're a woman and you're reading this, this illustrates another point: Women never listen, either.
-
-------
-
 You have a list of 15 phone numbers to reach your family of three.
 
 You chat several times a day with a stranger from South Africa, but you haven't spoken with your next-door neighbor yet this year.
@@ -382,17 +234,6 @@ You pull up in your own driveway and use your cell phone to see if anyone is hom
 Cleaning up the dining room means getting the fast food bags out of the back seat of your car.
 
 ------
-
-WIFE: "There's trouble with the car. It has water in the carburetor."
-
-HUSBAND: "Water in the carburetor? That's ridiculous."
-
-WIFE: "I tell you the car has water in the carburetor."
-
-HUSBAND: "You don't even know what a carburetor is. I'll check it out. Where's the car?"
-
-WIFE: "In the pool."
-
 ------
 
 A Sunday School teacher asked her class of young children a very simple question, or so she thought. She asked, "What is Easter?"
@@ -401,7 +242,7 @@ Immediately many children raised their hands. So the teacher called on one to an
 
 The sweet child replied, "Oh, that's easy! It's the holiday in November when everyone gets together, eats turkey, and are thankful."
 
-"Wrong!," replied the teacher, and proceeded to choose a second child to answer the same question, "What is Easter?"
+"Wrong!", replied the teacher, and proceeded to choose a second child to answer the same question, "What is Easter?"
 
 The second child replied, "Easter is the holiday in December when we put up a nice tree, exchange presents, and celebrate the birth of Jesus."
 
@@ -417,65 +258,7 @@ The third child smiles confidently and looks into the teacher's eyes and says, "
 
 The teacher smiles broadly with delight.
 
-Then the child continues, "Every year the boulder is moved aside so that Jesus can come out … and, if he sees his shadow, there will be six more weeks of winter."
-
-------
-
-A young boy came to Sunday School late. His teacher knew that he was usually very prompt and asked him if anything was wrong.
-
-The boy replied no, that he was going fishing but his dad told him that he needed to go to church. The teacher was very impressed and asked the boy if his dad had explained to him why it was more important to go to church than to go fishing,
-
-To which the boy replied, yes he did, dad said he didn't have enough bait for both of us.
-
-------
-
-A young man was visiting his brother and sister-in-law and was surprised to find his young nephew, Timmy, helping them bake the cupcakes. After they were done, his sister-in-law allowed Timmy to put the icing on. When he had finished, he brought them to the table.
-
-"The cupcakes look delicious, Tim." his uncle said. And he took a bite while looking at the other cupcakes. "Timmy these are so good."
-
-As he finished one and took another he again complimented his little nephew. "The cupcakes look beautiful, Tim," his uncle said. "How did you get them iced so evenly?" And he took a large bite while waiting for the answer.
-
-His nephew replied, "I licked them."
-
-------
-
-One man was explaining to another why he fired his secretary: Two weeks ago, it was my 45th birthday. I wasn't feeling too hot when I got up that morning, you know, another year older, and everything. Anyway, I went down to breakfast knowing that my wife would be pleasant and say "Happy Birthday" and probably have a present for me, but she didn't even say "Good Morning." I thought, "Well, that's great, certainly the children will remember." The children came into breakfast and didn't say a word.
-
-By the time I got to the office, I was feeling very low and despondent. As I walked in my secretary, Janet said, "Good Morning!…Happy Birthday!" Then I felt a little better that someone remembered.
-
-About noon she knocked at the door and said,"You know, it's such a beautiful day outside, and it's your birthday. Let's go out to lunch, just you and me."
-
-So I said, "That's the best thing I've heard all day. Let's go."
-
-We went to lunch. But we didn't go to the place we usually went to. Instead we went to a little place in the country, which was more private. We had two drinks, and lunch was tremendous. I enjoyed it a lot. On the way back to the office, she said,"You know, it's such a beautiful day. Do we have to go back to the office?" I said, "No, I guess not." She said, "Good, my apartment isn't too far from here. Let's go over and I'll fix you another drink."
-
-So we went to her apartment and had another drink. She said, "If you don't mind, I think I'll go into the bedroom and change into something more comfortable." I said,"OK" as I didn't mind a bit.
-
-She went into the bedroom, and in about five mintues she came out of the bedroom carrying a large birthday cake, followed by my wife and children, and they were all singing "Happy Birthday."
-
-And there I sat with nothing on but my socks!
-
-------
-
-Nine-year-old Joey was asked by his mother what he had learned in Sunday School.
-
-"Well, Mom, our teacher told us how God sent Moses behind enemy lines on a rescue mission to lead the Israelites out of Egypt. When he got to the Red Sea, he had his engineers build a pontoon bridge, and all the people walked across safely. He used his walkie-talkie to radio headquarters and call in an air strike. They sent in bombers to blow up the bridge and all the Israelites were saved."
-
-"Now, Joey, is that REALLY what your teacher taught you?" his mother asked.
-
-"Well, no, Mom, but if I told it the way the teacher did, you'd never believe it!"
-
-------
-
-A lady wakes up one morning to find a gorilla in her tree. She looks in the phone book and finds a gorilla removal service.
-
-When she asks if they can remove the gorilla, the service guy asks, "Is it a male or female?" "Male," she replies. "Oh yeah, we can do it. I'll be right there," he states.
-
-An hour later, the service guy shows up with a stick, a Chihuahua, a shotgun, and a pair of handcuffs.
-
-He then gives the woman some instructions. "I'm going to climb this tree and poke the gorilla with the stick until he falls out of the tree. When he does, the trained Chihuahua will go to bite the gorilla's testicles off. The gorilla will then cross his hands to protect himself, allowing you to put the handcuffs on him."
-
-The woman asks, "What do I do with the shotgun?" The service guy replies, "If I fall out of the tree before the gorilla does, shoot the Chihuahua."
+Then the child continues, "Every year the boulder is moved aside so that Jesus can come out ... and, if he sees his shadow, there will be six more weeks of winter."
 
 ------
 
@@ -565,11 +348,7 @@ How often do you bathe:
 How far is your home from a paved road?
 (_) 1 mile
 (_) 2 miles
-(_) just a whoop-and-a-holler >>
-
-------
-
-Stevie Wonder and Tiger Woods are in a bar. Woods turns to Wonder and says, " How is the singing career going?" Stevie Wonder replies: "Not too bad! How's the golf?" Woods replies: "Not too bad, I've had some problems with my swing, but I think I've got that right now. "Stevie Wonder says: "I always find that when my swing goes wrong, I need to stop playing for a while and not think about it. Then, the next time I play, it seems to be all right. Tiger Woods says: "You play golf?" Stevie Wonder says: "Oh, yes, I've been playing for years." And Woods says: "But, you're blind How can you play golf if you're blind?" Wonder replies: "I get my caddy to stand in the middle of the fairway and call to me. I listen for the sound of his voice and play the ball towards him. Then, when I get to where the ball lands, the caddy moves to the green or farther down the fairway, and again I play the ball towards his voice." "But, how do you putt?", asks Woods. "Well," says Stevie, "I get my caddy to lean down in front of the hole and call to me with his head on the ground and I just play the ball towards his voice." Woods asks: "What's your handicap?" Stevie says, "Well, I'm a scratch golfer." Woods, incredulous, says to Stevie: "We've got to play a round sometime." Wonder replies: "Well, people don't take me seriously, so I only play for money, and never play for less than $10,000 a hole." Woods thinks about it and says, "OK, I'm game for that, when would you like to play?" Stevie says, "Pick a night!"
+(_) just a whoop-and-a-holler
 
 ------
 
@@ -597,13 +376,13 @@ Did you hear about the South Carolina redneck who passed away and left his
 entire estate in trust for his beloved widow?
 She can't touch it till she's fourteen.
 
->>------------------------------------------
+------------------------------------------
 
 What's the difference between a good ol' boy and a redneck?
 The good ol' boy raises livestock.
 The redneck gets emotionally involved
 
->>-------------------------------------
+-------------------------------------
 
 Emily Sue passed away and Bubba called 911.
 
@@ -616,112 +395,112 @@ The operator asked, "Can you spell that for me?"
 
 There was a long pause and finally Bubba said, "How 'bout if I drag her over to Oak Street and you pick her up there?"
 
->>----------------------------------------
+----------------------------------------
 
 How do you know when your staying in a Kentucky hotel?
 
 When you call the front desk and say "I've gotta leak in my sink" and the person at the front desk says "go ahead."
 
->>---------------------------------------
+---------------------------------------
 
 How can you tell if a Texas redneck is married?
 There is dried chewing tobacco on both sides of his pickup truck.
 
->>------------------------------------------
+------------------------------------------
 
 Did you hear that they have raised the minimum drinking age in Tennessee
 to 32? It seems they want to keep alcohol out of the high schools!
 
->>--------------------------------------
+--------------------------------------
 
 What do they call reruns of "Hee Haw" in Mississippi?
 A documentary.
 
->>----------------------------------------
+----------------------------------------
 
 How many rednecks does it take eat a 'possum?
 Two.
 One to eat, and one to watch out for traffic.
 
->>----------------------------------------
+----------------------------------------
 
 Why did God invent armadillos?
 So that Texas rednecks can have 'possum on the half shell.
 
->>-----------------------------------------
+-----------------------------------------
 
 Where was the toothbrush invented?
 Arkansas.
 If it was invented anywhere else it would have been called a teethbrush.
 
->>------------------------------------------
+------------------------------------------
 
 Arkansas State trooper pulls over a pickup truck on I-40. He says to the
 driver,
 "Got any ID?"
 The driver says, "Bout what?"
 
->>------------------------------------------
+------------------------------------------
 
 Did you hear about the $3,000,000 Tennessee State Lottery?
 The winner gets $3 a year for a million years.
 
->>------------------------------------------
+------------------------------------------
 
 Why did O. J. Simpson want to move to West Virginia?
 Everyone has the same DNA.
 
->>----------------------------------------
+----------------------------------------
 
 Did you hear that the governor's mansion in Little Rock, Arkansas burne down?
 Yep. Pert' near took out the whole trailer park.
 
->>-----------------------------------------
+-----------------------------------------
 
 A new law recently passed in North Carolina: When a couple gets divorced,
 they're still brother and sister.
 
->>----------------------------------------
+----------------------------------------
 
 What's the best thing to ever come out of Arkansas?
 I-40.
 
->>--------------------------------------
+--------------------------------------
 
 Two Mississippians are walking down different ends of a street toward each
 other, and one is carrying a sack. When they meet, one says,
 "Hey Tommy Ray,what'cha got in th' bag?" "Jus' some chickens."
 "If I guesses how many they are, can I have one?"
 "Shoot, ya guesses right and I'll give you both of them."
-"OK. Ummmmm … five?"
+"OK. Ummmmm ... five?"
 
->>-----------------------------------------
+-----------------------------------------
 
 What do a divorce in Georgia, a tornado in Kansas, and a hurricane in
 Florida have in common?
 
 Somebody's fixin' to lose them a trailer.
 
->>-----------------------------------
+-----------------------------------
 
 A Mississippian came home and found his house on fire, he rushed next
 door, telephoned the fire department and shouted,
 "Hurry over here. My house is on fire!" "OK," replied the fireman, "how do we
 get there?" "Shucks, don't you still have those big red trucks?"
 
->>-----------------------------------
+-----------------------------------
 
 Why do folks in Kentucky go to the movie theater in groups of 18 or more?
 Cuz 17 and under not admitted.
 
->>--------------------------------
+--------------------------------
 
 What do you get when you have 32 rednecks in the same room?
 A full set of teeth.
 
 ------
 
-If you love something, set it free. If it comes back, it will always be yours. If it doesn't come back, it was never yours to begin with. But, if it just sits in your living room, messes up your stuff, eats your food, uses your telephone, takes your money, and doesn't appear to realize that you had set it free … You either married it or gave birth to it.
+If you love something, set it free. If it comes back, it will always be yours. If it doesn't come back, it was never yours to begin with. But, if it just sits in your living room, messes up your stuff, eats your food, uses your telephone, takes your money, and doesn't appear to realize that you had set it free ... You either married it or gave birth to it.
 
 Insanity is my only means of relaxation.
 
@@ -747,11 +526,11 @@ I gave up jogging for my health when my thighs kept rubbing together and setting
 
 Amazing! You hang something in your closet for awhile and it shrinks two sizes!
 
-Skinny people irritate me! Especially when they say things like, "You know, sometimes I just forget to eat." — Now I've forgotten my address, my mother's maiden name, and my keys. But I've never forgotten to eat. You have to be a special kind of stupid to forget to eat.
+Skinny people irritate me! Especially when they say things like, "You know, sometimes I just forget to eat." --- Now I've forgotten my address, my mother's maiden name, and my keys. But I've never forgotten to eat. You have to be a special kind of stupid to forget to eat.
 
 A friend of mine confused her valium with her birth control pills. She had 14 kids, but she doesn't really care.
 
-They keep telling us to get in touch with our bodies. Mine isn't all that communicative but I heard from it the other day after I said, "Body, how'd you like to go to the six o'clock class in vigorous toning?" Clear as a bell my body said, "listen witch … do it and die."
+They keep telling us to get in touch with our bodies. Mine isn't all that communicative but I heard from it the other day after I said, "Body, how'd you like to go to the six o'clock class in vigorous toning?" Clear as a bell my body said, "listen witch ... do it and die."
 
 The trouble with some women is that they get all excited about nothing and then they marry him.
 
@@ -817,7 +596,7 @@ Patron: Well, I'm so hungry now, I'll eat anything.
 
 Patron: Waiter! There's a gnat in my soup!
 
-The check: Soup of the Day … … … . $5.00 Upgrade to newer Soup of the Day. . $2.50 Access to support … … … $1.00
+The check: Soup of the Day ... ... ... . $5.00 Upgrade to newer Soup of the Day. . $2.50 Access to support ... ... ... $1.00
 
 ------
 
@@ -874,7 +653,7 @@ HERS:
 
 ------
 
-A plane was taking off from Kennedy Airport. After it reached a comfortable cruising altitude, the captain made an announcement over the intercom, "Ladies and gentlemen, this is your captain speaking. Welcome to Flight Number 293, nonstop from New York to Los Angeles. The weather ahead is good and therefore we should have a smooth and uneventful flight. Now sit back and relax — OH MY GOD!"
+A plane was taking off from Kennedy Airport. After it reached a comfortable cruising altitude, the captain made an announcement over the intercom, "Ladies and gentlemen, this is your captain speaking. Welcome to Flight Number 293, nonstop from New York to Los Angeles. The weather ahead is good and therefore we should have a smooth and uneventful flight. Now sit back and relax --- OH MY GOD!"
 
 Silence.
 
@@ -927,7 +706,7 @@ changed it".
 
 8. If a girl accidentally burps, she will be embarrassed. If a boy accidentally burps, he will follow it with a dozen fake belches.
 
-9. Boys grow their fingernails long because they're too lazy to cut them. Girls grow their fingernails long — not because they look nice — but because they can dig them into a boys arm.
+9. Boys grow their fingernails long because they're too lazy to cut them. Girls grow their fingernails long --- not because they look nice --- but because they can dig them into a boys arm.
 
 10. Girls are attracted to boys, even at an early age. At an early age, boys are attracted to dirt.
 
@@ -965,13 +744,13 @@ As soon as he is sure that his son has suffered no lasting ill-effects, the fath
 
 No, Windows is not a virus. Here's what viruses do:
 
-1. They replicate quickly — OK, Windows does that.
+1. They replicate quickly --- OK, Windows does that.
 
-2. Viruses use up valuable system resources, slowing down the system as they do so — okay, Windows does that.
+2. Viruses use up valuable system resources, slowing down the system as they do so --- okay, Windows does that.
 
-3. Viruses will, from time to time, trash your hard disk — okay, Windows does that too.
+3. Viruses will, from time to time, trash your hard disk --- okay, Windows does that too.
 
-4. Viruses are usually carried, unknown to the user, along with valuable programs and systems. Sigh … Windows does that, too.
+4. Viruses are usually carried, unknown to the user, along with valuable programs and systems. Sigh ... Windows does that, too.
 
 5. Viruses will occasionally make the user suspect their system is too slow (see 2) and the user will buy new hardware. Yup, Windows does that, too.
 
@@ -985,7 +764,7 @@ It's a bug.
 
 An old cowboy dressed to kill with cowboy shirt, hat, jeans, spurs, and chaps went to a bar and ordered a drink. As he sat there sipping his whiskey, a young lady sat down next to him. After she ordered her drink she turned to the cowboy and asked him, "Are you a real cowboy?"
 
-"Well, I have spent my whole life on the ranch herding cows, breaking horses, mending fences … I guess I am," replied the cowboy. After a short while he asked her what she was.
+"Well, I have spent my whole life on the ranch herding cows, breaking horses, mending fences ... I guess I am," replied the cowboy. After a short while he asked her what she was.
 
 "I've never been on a ranch so I'm not a cowboy, but I am a lesbian. I spend my whole day thinking about women. As soon as I get up in the morning I think of women, when I eat, shower, watch TV, everything seems to make me think of women," said the young lady.
 
@@ -1051,13 +830,13 @@ Mr. Jefferson: Can we stick to the substance of the document, please? Shoot. Low
 
 Mr. Sherman: What have you got, a Toshiba? No, mine isn't compatible.
 
-Mr. Franklin: Hello, PCs Philadelphia? What does it mean when the floppy drive buzzes? OK, I'll hold …
+Mr. Franklin: Hello, PCs Philadelphia? What does it mean when the floppy drive buzzes? OK, I'll hold ...
 
 Mr. Livingston: The "In Congress" part here at the top; have you thought about blowing that up really big and maybe centering it in 72 point Helvetica?
 
 Mr. Jefferson: Not a bad idea. Aw, nuts! Word macro virus! I can't save the file.
 
-Mr. Franklin: That's all right, Thomas. We can manage. Here, borrow my quill pen …
+Mr. Franklin: That's all right, Thomas. We can manage. Here, borrow my quill pen ...
 
 ------
 
@@ -1147,7 +926,7 @@ his thumb behind him says, "Dog shit, 20 feet back."
 
 The following is an excerpt from a children's book, "Captain
 Underpants and the Perilous Plot of Professor Poopypants", by Dav Pilkey:
-The evil Professor forces everyone to assume new names …
+The evil Professor forces everyone to assume new names ...
 
 Use the first letter of your first name to determine your NEW first name:
 
@@ -1246,7 +1025,7 @@ z = juice
 
 4. Your child's 3rd grade teacher has purple hair, a nose ring, and is named Breeze.
 
-5. You can't remember … is pot illegal?
+5. You can't remember ... is pot illegal?
 
 6. You've been to more than one baby shower that has two mothers and a sperm donor.
 
@@ -1268,7 +1047,7 @@ z = juice
 
 15. Your car insurance costs as much as your house payment.
 
-16. The gym is packed at 3 p.m. … on a workday.
+16. The gym is packed at 3 p.m. ... on a workday.
 
 17. Your hairdresser is straight, your plumber is gay, the woman who delivers your mail is into S&amp;M, and your Mary Kay rep is a guy in drag.
 
@@ -1434,7 +1213,7 @@ There once was a man named George Thomas, a pastor in a small New England town. 
 
 The pastor was silent for a moment. "How much do you want for those birds, son?"
 
-"Huh??!!! Why, you don't want them birds, mister. They're just plain old field birds. They don't sing — they ain't even pretty!"
+"Huh??!!! Why, you don't want them birds, mister. They're just plain old field birds. They don't sing --- they ain't even pretty!"
 
 "How much?" the pastor asked again.
 
@@ -1488,271 +1267,52 @@ Are you laughing?
 
 Isn't it funny how when you go to forward this message, you will not send it to many on your address list because you're not sure what they believe, or what they will think of you for sending it to them.
 
-Isn't it funny how I can be more worried about what other people think of me than what God thinks of me. >>
+Isn't it funny how I can be more worried about what other people think of me than what God thinks of me.
 
 ------
-
-Knowing that the minister was very fond of cherry brandy, one of the church elders offered to present him with a bottle on one consideration — that the pastor acknowledge receipt of the gift in the church paper.
-
-"Gladly," responded the good man.
-
-When the church magazine came out a few days later, the elder turned at once to the "appreciation" column. There he read: "The minister extends his thanks to Elder Brown for his gift of fruit and for the spirit in which it was given."
-
-------
-
-The following psychological test was developed by a think tank of top U.S. and European psychologists. The results are incredibly accurate in describing your personality with one simple question:
-
-Which is your favorite Teletubbie:
-
-A. Yellow B. Purple C. Green D. Red
-
-(DECIDE BEFORE SCROLLING DOWN)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Profile for women …
-
-A. If you chose the Yellow Teletubbie. You are bubbly and cheerful. People come to you when troubled because you always make them feel better about themselves. You are apt to clash with Red Teletubbie people.
-
-B. If you chose the Purple Teletubbie. You are active and erratic. You have many ideas and set high standards for yourselves and others. Stay away from Green Teletubbie people, they tend to bring you down.
-
-C. If you chose the Green Teletubbie. You are calm and reliable. Family plays a major role in your life and you often sacrifice your needs to please others. Yellow Teletubbie people are a good match for you.
-
-D.If you chose the Red Teletubbie. You are bold and emotional. You are fierce in your opinions and quick to anger, but stick by your friends through thick and thin. Purple and Red Teletubbie people are an explosive combination.
-
-Profile for men …
-
-A. If you chose the Yellow Teletubbie. You are gay.
-
-B. If you chose the Purple Teletubbie. You are gay.
-
-C. If you chose the Green Teletubbie. You are gay.
-
-D. If you chose the Red Teletubbie. You are gay.
-
-------
-
-Your stationery has fax number, two e-mail addresses, and your Internet address.
-
-You have two or more Internet Service Providers.
-
-You disdain people who use low baud, screen refresh or MHz rates.
-
-You rotate your screen savers more frequently than your automobile tires.
-
-You need to fill out a form with a typewriter; but you only know computers with laser printers.
-
-You would rather get more dots per inch than miles per gallon.
-
-You think jokes about being unable to program a VCR are stupid.
-
-You own a set of itty-bitty screwdrivers and you actually know where they are.
-
-You think of gadgets as "friends," but forget to send real friends birthday cards.
-
-You have a good copier and a fax, but your toaster turns bread into charcoal.
-
-You use all the Internet terms in conversations without even thinking about it.
-
-You sign cards by putting :-) next to your signature.
-
-And worse: you can think of nineteen keystroke symbols that are far more clever!
-
-The fact that the term "CD" could also refer to finance/music rarely occurs to you.
-
-In a computer store, you answer the customers' questions; the salesperson listens.
-
-You know hundreds of e-mail address and URLs, but not your social security number.
-
-You stop saying "phone number" and replace it with the term "voice number."
-
-You read computer manuals faster than everyone else reads fiction novels.
-
-At computer trade shows you map out your path of the exhibit hall in advance.
-
-And finally …
-
-You actually understood all the humor in this message.
-
-
-
-------
-
 
 Teaching Math in 1950:
 
-A logger sells a truckload of lumber for $100. His cost of production is
-4/5 of the price. What is his profit?
+A logger sells a truckload of lumber for $100. His cost of production is 4/5 of the price. What is his profit?
 
 Teaching Math in 1960:
 
-A logger sells a truckload of lumber for $100. His cost of production
-is 4/5 of the price, or $80. What is his profit?
-
+A logger sells a truckload of lumber for $100. His cost of production is 4/5 of the price, or $80. What is his profit?
 
 Teaching Math in 1960:
 
-A logger sells a truckload of lumber for $100. His cost of production
-is 4/5 of the price, or $80. What is his profit?
+A logger sells a truckload of lumber for $100. His cost of production is 4/5 of the price, or $80. What is his profit?
 
 Teaching Math in 1970:
 
-A logger exchanges a set "L" of lumber for a set "M" of money. The
-cardinality of set "M" is 100. Each element is worth one dollar. Make
-100 dots representing the elements of the set "M". The set "C", the cost of
-production, contains 20 fewer points than set "M." Represent the set "C"
-as a subset of set "M" and answer the following question: What is the
-cardinality of the set "P" for profits?
+A logger exchanges a set "L" of lumber for a set "M" of money. The cardinality of set "M" is 100. Each element is worth one dollar. Make 100 dots representing the elements of the set "M". The set "C", the cost of production, contains 20 fewer points than set "M." Represent the set "C" as a subset of set "M" and answer the following question: What is the cardinality of the set "P" for profits?
 
 Teaching Math in 1980:
 
-A logger sells a truckload of lumber for $100. Her cost of production
-is $80 and her profit is $20. Your assignment: Underline the number 20.
+A logger sells a truckload of lumber for $100. Her cost of production is $80 and her profit is $20. Your assignment: Underline the number 20.
 
 Teaching Math in 1990:
 
-By cutting down beautiful forest trees, the logger makes $20. What do
-you think of this way of making a living? Topic for class participation
-after answering the question: How did the forest birds and squirrels feel as
-the logger cut down the trees? There are no wrong answers.
+By cutting down beautiful forest trees, the logger makes $20. What do you think of this way of making a living? Topic for class participation after answering the question: How did the forest birds and squirrels feel as the logger cut down the trees? There are no wrong answers.
 
 Teaching Math in 1996:
 
-By laying off 40% of its loggers, a company improves its stock price
-from $80 to $100. How much capital gain per share does the CEO make by
-exercising his stock options at $80? Assume capital gains are no longer
-taxed, because this encourages investment.
+By laying off 40% of its loggers, a company improves its stock price from $80 to $100. How much capital gain per share does the CEO make by exercising his stock options at $80? Assume capital gains are no longer taxed, because this encourages investment.
 
 Teaching Math in 1997:
 
-A company out-sources all of its loggers. The firm saves on benefits,
-and when demand for its product is down, the logging work force can easily be
-cut back. The average logger employed by the company earned $50,000, and three
-weeks vacation, a nice retirement plan and medical insurance. The
-contracted logger charges $50 an hour. Was outsourcing a good move?
+A company out-sources all of its loggers. The firm saves on benefits, and when demand for its product is down, the logging work force can easily be cut back. The average logger employed by the company earned $50,000, and three weeks vacation, a nice retirement plan and medical insurance. The contracted logger charges $50 an hour. Was outsourcing a good move?
 
 Teaching Math in 1998:
 
-A laid-off logger with four kids at home and a ridiculous alimony from
-his first failed marriage comes into the logging-company corporate offices and
-goes postal, mowing down 16 executives and a couple of secretaries, and
-gets lucky when he nails a politician on the premises collecting his kickback.
-Was outsourcing the loggers a good move for the company?
+A laid-off logger with four kids at home and a ridiculous alimony from his first failed marriage comes into the logging-company corporate offices and goes postal, mowing down 16 executives and a couple of secretaries, and gets lucky when he nails a politician on the premises collecting his kickback. Was outsourcing the loggers a good move for the company?
 
 Teaching Math in 1999:
 
-A laid-off logger serving time in Folsom for blowing away 19 people is
-being trained as a COBOL programmer in order to work on Y2K projects.
-What is the probability that the automatic cell doors will open on their own
-as of 00:01, 01/01/00?
+A laid-off logger serving time in Folsom for blowing away 19 people is being trained as a COBOL programmer in order to work on Y2K projects. What is the probability that the automatic cell doors will open on their own as of 00:01, 01/01/00?
 
 ------
 
-Dear Mom,
-
-Our scout master told us all to write to our parents in case you saw the flood on TV and worried. We are OK. Only 1 of our tents and 2 sleeping bags got washed away. Luckily, none of us got drowned because we were all up on the mountain looking for Chad when it happened.
-
-Oh yes, please call Chad's mother and tell her he is OK. He can't write because of the cast. I got to ride in one of the search and rescue jeeps It was neat. We never would have found him in the dark if it hadn't been for the lightning.
-
-Scoutmaster Webb got mad at Chad for going on a hike alone without telling anyone. Chad said he did tell him, but it was during the fire so he probably didn't hear him. Did you know that if you put gas on a fire, the gas can will blow up? The wet wood still didn't burn, but one of our tents did. Also some of our clothes. John is going to look weird until his hair grows back. We will be home on Saturday if Scoutmaster Webb gets the car fixed. It wasn't his fault about the wreck. The brakes worked OK when we left. Scoutmaster Webb said that a car that old you have to expect something to break down; that's probably why he can't get insurance on it. We think it's a neat car. He doesn't care if we get it dirty, and if it's hot, sometimes he lets us ride on the tailgate. It gets pretty hot with 10 people in a car. He let us take turns riding in the trailer until the highway patrolman stopped and talked to us.
-
-Scoutmaster Webb is a neat guy. Don't worry, he is a good driver. In fact, he is teaching Terry how to drive. But he only lets him drive on the mountain roads where there isn't any traffic. All we ever see up there are logging trucks.
-
-This morning all of the guys were diving off the rocks and swimming out in the lake Scoutmaster Webb wouldn't let me because I can't swim and Chad was afraid he would sink because of his cast, so he let us take the canoe across the lake. It was great. You can still see some of the trees under the water from the flood. Scoutmaster Webb isn't crabby like some scoutmasters. He didn't even get mad about the life jackets. He has to spend a lot of time working on the car so we are trying not to cause him any trouble.
-
-Guess what? We've all passed our first aid merit badges. When Dave dove in the lake and cut his arm, we got to see how a tourniquet works. Also Wade and I threw up. Scoutmaster Webb said it probably was just food poisoning from the leftover chicken. He said they got sick that way with the food they ate in prison. I'm so glad he got out and became our scoutmaster. He said he sure figured out how to get things done better while he was doing his time.
-
-Have to go now, we are going into town to mail our letters and buy bullets. Don't worry about anything. We are fine.
-
-Love, Camden
-
-P.S. How long has it been since I had a tetanus shot?
-
-------
-
-The politician was sitting at his campaign headquarters when the phone rang. He listened intently, and after a moment his face brightened.
-
-When he hung up, he immediately phoned his mother to tell her the good news.
-
-"Ma," he shouted, "the results are in. I won the election!"
-
-"Honestly?"
-
-The politician's smiled faded. "Aw hell, Ma, why bring that up at a time like this?"
-
-------
-
-George Phillips, a civil engineer at UC-Davis, has become a cult hero in the
-
-obsessive subculture of people who collect frequent-flier miles by parlaying
-
-$3,150 worth of pudding into 1.2 million miles. Oh, yeah — he's also going to claim an $815 tax write-off.
-
-Last May, Phillips was pushing his shopping cart down the frozen-food aisle of his local supermarket when a promotion on a Healthy Choice frozen entree caught his eye: He could earn 500 miles for every 10 Universal Product Codes (bar codes) from Healthy Choice products he sent to the company by Dec.31. Even better: Any bar codes mailed by the end of the month would rack up double the mileage, or 1,000 miles for every 10 labels.
-
-"I started doing the math, and I realized that this was a great deal,"he said. "I wanted to take my family to Europe this summer, and this could be the way." Frozen entrees were about $2 apiece, but a few aisles away Phillips found cans of Healthy Choice soups at 90 cents each. He filled his cart with them, and then headed to his local Grocery Outlet, a warehouse-style discount store. And there he hit the mother lode. "They had individual servings of chocolate pudding for 25 cents apiece,"he said. "And each serving had its own bar code on it. I did some more math and decided to escalate my plans." Phillips cleaned the store out-bought every last cup of pudding in the warehouse. He then asked the manager for the addresses of all the other Grocery Outlet in the Central Valley and, with his mother-in-law riding shotgun in his van, spent a weekend scouring the shelves of every store from Davis to Fresno. "There were 10 stores in all," he said. "Luckily, most of them were right off the freeway." He filled his garage to the rafters with chocolate pudding and stacked additional cases in his living room.
-
-But Phillips wasn't finished yet — he had the manager of his local Grocery Outlet order him 60 more cases. "A few days later I went out behind the store," he said, "and there were two whole pallets of chocolate pudding with my name on them." All in all, he'd purchased 12,150 individual servings of pudding. Around this time, Phillips began to reveal his scheme to fellow readers of the Webflyer Web site (www.flyertalk.com < <http://www.flyertalk.com> ) where he posted an account under the name "Pudding Guy." Phillips' tale was met with skepticism, if not outright disbelief, until he uploaded photos of his haul. They're still there, at <http://www.flyertalk.com/pudding.htm> But then Pudding Guy discovered he had a problem on his hands: The eadline for earning double miles was quickly approaching, and there was simply no way Phillips and his wife could tear off all those bar codes in time. "I had to come up with something to do with all that pudding, fast" he said. Phillips trucked the pudding to two local food banks and the Salvation Army, which agreed to tear off the bar codes in exchange for the food donation. "We'd never seen anything like it," said Larry Hostetler, community relations director for the Sacramento Salvation Army. "We've gotten some big donations, but always from companies and institutions, not individual people."
-
-Phillips got his bar codes in the mail in time to beat the deadline, and then held his breath. The promotion specifically said I could get the miles for any Healthy Choice product," he said. "But still, it seemed like there was a good chance they'd get me on some technicality." But then packages-large packages-started arriving in the mail from Healthy Choice. In all, they contained 2,506 certificates, each good for 500 miles. That's 1,253,000 miles. Under the terms of the promotion, Phillips could have the mileage posted in any airline account. He split 216,000 between his United, Delta and Northwest accounts and posted the rest — 1,037,000 miles-to his American Airlines account. By surpassing the million-mile mark, Pudding Guy now has AAdvantage Gold status for life, entitling him to a special reservations number, priorty boarding, upgrades and bonus miles.
-
-While we talked on the phone, Pudding Guy did a little math-as you might have noticed by now, he's very, very good at math-and figured out that scheme netted him enough miles for 31 round-trip coach tickets to Europe, or 42 tickets to Hawaii, or 21 tickets to Australia, or 50 tickets anywhere in the U.S. "Wow — 31 trips to Europe for a little over $3,000," I said. "That's less than $100 a ticket." "Oh, it's better than that," Phillips said. "Since I gave the pudding to charity I can take a tax write-off of $815. So that brings the cost of a ticket to Europe down to $75." As it turns out, Pudding Guy didn't donate all his stash to the food banks. He kept about 100 servings for himself, and he's just about finished them. "Actually," he said, "I really like the stuff." 2000 San Francisco Examiner
-
-------
-
-Dyslexics ahve more fnu.
-
-Clones are people two.
-
-Entropy isn't what it used to be.
-
-Microbiology Lab: Staph Only!
-
-Santa's elves are just a bunch of subordinate Clauses.
-
-Ground Beef: A Cow With No Legs!
-
-186,000 miles/sec: Not just a good idea, it's the LAW!
-
-A waist is a terrible thing to mind.
-
-Chemistry professors never die, they just smell that way!
-
-COLE'S LAW: Thinly sliced cabbage.
-
-Does the name Pavlov ring a bell?
-
-Editing is a rewording activity.
-
-Gene Police: YOU! Out of the pool.
-
-Help stamp out and eradicate superfluous redundancy.
-
-I used to be indecisive; now I'm not sure.
-
-What if there were no hypothetical question?
-
-Energizer bunny arrested, charged with battery.
-
-No sense being pessimistic. It wouldn't work anyway.
-
-Boycott shampoo!!!! Demand REAL poo!
-
-The flogging will continue until morale improves.
 
 ------
 
@@ -1813,32 +1373,6 @@ Be it hereby known that this device, together with but not excluding all those c
 
 ------
 
-Five and half year-old Jennie answered the door when the census taker came by. She told the census taker that her daddy was a doctor and wasn't home because he was performing an appendectomy.
-
-"My," said the census taker, "that sure is a big word for such a little girl. Do you know what it means?"
-
-"Oh, Sure! Fifteen-hundred bucks straight up. Of course, that doesn't even include the anesthesiologist!"
-
-------
-
-Seems an elderly gentleman had serious hearing problems for a number of years.
-
-He went to the doctor and the doctor was able to have him fitted for a set of hearing aids that allowed the gentleman to hear 100%. The elderly gentleman went back in a month to the doctor and the doctorsaid, "your hearing is perfect. Your family must be really pleased you can hear again."
-
-To which the gentleman said, "Oh, I haven't told my family yet. I just sit around and listen to the conversations. I've changed my will three times!"
-
-------
-
-A guy walks into a post office one day to see a middle-aged, balding man standing at the counter methodically placing "Love" stamps on bright pink envelopes with hearts all over them. He then takes out a perfume bottle and starts spraying scent all over them.
-
-His curiosity getting the better of him, he goes up to the balding man and asks him what he is doing. The man says "I'm sending out 1,000 Valentine cards signed, 'Guess who?'"
-
-"But why?" asks the man.
-
-"I'm a divorce lawyer," the man replies.
-
-------
-
 On my hairdryer instructions:
 Do not use while sleeping.
 
@@ -1889,34 +1423,6 @@ Do not attempt to stop chain with your hands.
 
 ------
 
-Here's something everyone should know:
-
-On July 8, 1947, witnesses claim a spaceship with five aliens aboard crashed
-on a sheep-and-cattle ranch outside Roswell NM … an incident they say has
-been covered up by the military.
-
-On March 31, 1948, exactly nine months after that day, Al Gore was born.
-
-That clears up a lot of things.
-
-------
-
-A young couple got married and left on their honeymoon. When they got back, the bride immediately called her mother. Her mother asked, "How was the honeymoon?"
-
-"Oh, mama," she replied, "the honeymoon was wonderful! So romantic …"
-
-Suddenly she burst out crying. "But, mama, as soon as we returned Sam started using the most horrible language … things I'd never heard before! I mean, all these awful 4-letter words! You've got to come get me and take me home … Please mama!"
-
-"Sarah, Sarah," her mother said, "calm down! Tell me, what could be so awful? What 4-letter words?"
-
-"Please don't make me tell you, mama," wept the daughter, "I'm so embarrassed they're just too awful! Come get me, please!"
-
-"Darling, baby, you must tell me what has you so upset … Tell your mother these horrible 4-letter words!"
-
-Still sobbing, the bride said, "Oh, mama … words like DUST, WASH, IRON, COOK …!"
-
-------
-
 If you have too many years of college, this may actually make sense. Be afraid. Be very afraid.
 
 Solipsism Warning:
@@ -1954,157 +1460,6 @@ Despite the above warning, the manufacturer is confident that all its product cl
 Philosopher-General's Existentialist Tobacco Products Label:
 
 Warning! this product has been found to cause cancer and ephysema, and to lead to increased likelihood of strokes and heart disease. However, as the Universe is a soulless waste inhabited by unthinking machines it doesn't matter in the least whether you smoke or not. Go ahead, light up, it's all the same to me if you live or die.
-
-------
-
-An American, a Scot, and a Canadian were in a terrible car accident. They were all brought to the same emergency room, but all three of them died before they arrived. Just as they were about to put the toe tag on the American, he stirred and opened his eyes. Astonished, the doctors and nurses present asked him what happened.
-
-"Well," said the American, "I remember the crash, and then there was a beautiful light, and then the Canadian and the Scot and I were standing at the gates of heaven. St. Peter approached us and said that we were all too young to die, and that for a donation of $50, we could return to the earth. So of course I pulled out my wallet and gave him the $50, and the next thing I knew I was back here."
-
-"That's amazing!" said one of the doctors, "But what happened to the other two?"
-
-"Well, when I left, the Scot was haggling over the price and the Canadian was waiting for the government to pay for his."
-
-------
-
-
-Volunteer Fire Department
-
-A fire started on some grassland near a farm in Indiana. The fire department from the nearby town was called to put the fire out.
-
-The fire proved to be more than the small town fire department could handle, so someone suggested that a rural volunteer fire department be called. Though there was doubt that they would be of any assistance, the call was made.
-
-The volunteer fire department arrived in a dilapidated old fire truck. They drove straight towards the fire and stopped in the middle of the flames. The volunteer firemen jumped off the truck and frantically started spraying water in all directions. Soon they had snuffed out the center of the fire, breaking the blaze into two easily controllable parts.
-
-The farmer was so impressed with the volunteer fire department's work and so grateful that his farm had been spared, that he presented the volunteer fire department with a check for $1,000.
-
-A local news reporter asked the volunteer fire captain what the department planned to do with the funds. "That should be obvious," he responded, "the first thing we're gonna do is get the brakes fixed on that stupid fire truck."
-
-------
-
-The liberal UC San Francisco Math Placement Test
-
-1. Zelda and Jane were given a Rottweiler at their commitment ceremony. If their dog needs to be walked two miles a day and they walk at a rate of one mile per hour, how much time will they spend discussing their relationship in public?
-
-2. Michael has two abusive stepfathers and an alcoholic mother. If his self-esteem is reduced by 20% per dysfunctional parent, but Michael feels 3% better for every person he denigrates, how long will it take before he's ready to go home if 1 person walks by the cafe every 2 minutes?
-
-3. Sanjeev has 7 piercings. If the likelihood of getting cellulitis on a given day is 10% per piercing, what is the likelihood Sanjeev will need to renew his erythromycin prescription during the next week?
-
-4. Chad wants to take half a pound of heroin to Orinda and sell it at a 20% profit. If it originally cost him $1,500 in food stamps, how much should Nicole write the check for?
-
-5. The City and County of San Francisco decided to destroy 50 rats infesting downtown. If 9,800 animal rights activists hold a candlelight vigil, how many people did each dead rat empower?
-
-6. A red sock, a yellow sock, a blue sock, and a white sock are tossed randomly in a drawer. What is the likelihood that the first two socks drawn will be socks of color?
-
-7. George weighs 245 pounds and drinks two triple lattes every morning. If each shot of espresso contains 490 mg of caffeine, what is George's average caffeine density in mg/pound?
-
-8. There are 4500 homes in Mill Valley and all of them recycle plastic. If each household recycles 10 soda bottles a day and buys one polar fleece pullover per month, does Mill Valley have a monthly plastic surplus or deficit? Bonus question: Assuming all the plastic bottles are 1 liter size, how much Evian are they drinking?
-
-9. If the average person can eat one pork pot sticker in 30 seconds, and the waitress brings a platter of 12 pot stickers, how long will it take five vegans to not eat them?
-
-10. Todd begins walking down Market Street with 12 $1 bills in his wallet. If he always gives panhandlers a single buck, how many legs did he have to step over if he has $3 left when he reaches the other end and met only one double-amputee?
-
-Advanced Placement Students Only:
-
-11. Katie, Trip, Ling, John-John, and Effie share a three-bedroom apartment on Guerrero for $2,400 a month. Effie and Trip can share one bedroom, but the other three need their own rooms with separate ISDN lines to run their web servers. None of them wants to use the futon in the living room as a bed, and they each want to save $650 in three months to attend Burning Man.
-
-What is their best option: a) All five roommates accept a $12/hour job-share as handgun monitors at Mission High. b) Ask Miles, the bisexual auto mechanic, to share Effie and Trip's bedroom for $500/month. c) Petition the Board of Supervisors to advance Ling her annual digital-artists-of-color stipend. d) Rent strike.
-
-------
-
-
-
-Rule One:
-
-If you pull into my driveway and honk you'd better be delivering a
-package, because you're sure not picking anything up.
-
-Rule Two:
-
-You do not touch my daughter in front of me. You may glance at
-her, so long as you do not peer at anything below her neck. If you
-cannot keep your eyes or hands off of my daughter's body, I will remove
-them.
-
-Rule Three:
-
-I am aware that it is considered fashionable for boys of your age
-to wear their trousers so loosely that they appear to be falling off
-their hips. Please do not take this as an insult, but you and all of your
-friends are complete idiots. Still, I want to be fair and open minded
-about this issue, so I propose this compromise: You may come to the door
-with your underwear showing and your pants ten sizes to big, and I will
-not object. However, in order to ensure that your clothes do not, in fact
-come off during the course of you date with my daughter, I will take my
-electric nail gun and fasten your trousers securely in place to your
-waist.
-
-Rule Four:
-
-I'm sure you've been told that in today's world, sex without
-utilizing a "Barrier method" of some kind can kill you. Let me elaborate,
-when it comes to sex, I am the barrier, and I will kill you.
-
-
-Rule Five:
-
-It is usually understood that in order for us to get to know
-each other, we should talk about sports, politics, and other issues of
-the day. Please do not do this. The only information I require from you
-is an indication of when you expect to have my daughter safely back at my
-house, and the only word I need from you on this subject is: early."
-
-Rule Six:
-
-I have no doubt you are a popular fellow, with many opportunities
-to date other girls. This is fine with me as long as it is okay with my
-daughter. Otherwise, once you have gone out with my little girl, you will
-continue to date no one but her until she is finished with you. If you
-make her cry, I will make you cry.
-
-Rule Seven:
-
-As you stand in my front hallway, waiting for my daughter to
-appear, and more than an hour goes by, do not sigh and fidget. If you
-want to be on time for the movie, you should not be dating. My daughter
-is putting on her makeup, a process than can take longer than painting
-the Golden Gate Bridge. Instead of just standing there, why don't you do
-something useful, like changing the oil in my car?
-
-Rule Eight:
-
-The following places are not appropriate for a date with my
-daughter: Places where there are beds, sofas, or anything softer than a
-wooden stool. Places where there is darkness. Places where there is
-dancing, holding hands, or happiness. Places where the ambient
-temperature is warm enough to introduce my daughter to wear shorts, tank
-tops, midriff T-shirts, or anything other than overalls, a sweater, and a
-goose down parka — zipped up to her throat. Movies with a strong
-romantic or sexual theme are to be avoided; movies which features chain
-saws are okay. Hockey games are okay. Old folks homes are better.
-
-Rule Nine:
-
-Do not lie to me. I may appear to be a potbellied, balding,
-middle-aged, dimwitted has-been. But on issues relating to my daughter,
-I am the all-knowing, merciless God of your universe. If I ask you
-where you are going and with whom, you have one chance to tell me the
-truth, the whole truth and nothing but the truth. I have a shotgun, a
-shovel, and five acres behind the house. Do not trifle with me.
-
-Rule Ten:
-
-Be afraid. Be very afraid. It takes very little for me to
-mistake the sound of your car in the driveway for a chopper coming in
-over a rice paddy near Hanoi. When my Agent Orange starts acting up, the
-voices in my head frequently tell me to clean the guns as I wait for you
-to bring my daughter home. As soon as you pull into the driveways you
-should exit the car with both hands in plain sight. Speak the perimeter
-password, announce in a clear voice that you have brought my daughter
-home safely and early, then return to your car — there is no need for
-you to come inside. The camouflaged face at the window is mine.
-
-Thank you
 
 ------
 
@@ -2178,7 +1533,7 @@ The brunette explains, "My sister's a blonde. She'll read it slow."
 
 Q: How many women with PMS does it take to change a light bulb?
 
-A: One. Only ONE!! And do you know WHY it only takes ONE? Because no one else in this house knows HOW to change a light bulb. They don't even know the bulb is BURNED OUT. They would sit in this house in the dark for THREE DAYS before they figured it OUT. And once they figured it out they wouldn't be able to find the light bulbs despite the fact that they've been in the SAME CUPBOARD for the past SEVENTEEN YEARS. But if they did, by some miracle, actually find the light bulbs, TWO DAYS LATER the chair that they dragged from two rooms over to stand on to change the STUPID light bulb would STILL BE IN THE SAME SPOT!! AND UNDERNEATH IT WOULD BE THE CRUMPLED WRAPPER THE STUPID @*!#$% LIGHT BULBS CAME IN! WHY?! BECAUSE NO ONE IN THIS HOUSE EVER CARRIES OUT THE GARBAGE!! IT'S A WONDER WE HAVEN'T ALL SUFFOCATED FROM THE PILES OF GARBAGE THAT ARE 12 FEET DEEP THROUGHOUT THE ENTIRE HOUSE. THE HOUSE!! IT WOULD TAKE AN ARMY TO CLEAN THIS … I'm sorry … what did you ask me?
+A: One. Only ONE!! And do you know WHY it only takes ONE? Because no one else in this house knows HOW to change a light bulb. They don't even know the bulb is BURNED OUT. They would sit in this house in the dark for THREE DAYS before they figured it OUT. And once they figured it out they wouldn't be able to find the light bulbs despite the fact that they've been in the SAME CUPBOARD for the past SEVENTEEN YEARS. But if they did, by some miracle, actually find the light bulbs, TWO DAYS LATER the chair that they dragged from two rooms over to stand on to change the STUPID light bulb would STILL BE IN THE SAME SPOT!! AND UNDERNEATH IT WOULD BE THE CRUMPLED WRAPPER THE STUPID @*!#$% LIGHT BULBS CAME IN! WHY?! BECAUSE NO ONE IN THIS HOUSE EVER CARRIES OUT THE GARBAGE!! IT'S A WONDER WE HAVEN'T ALL SUFFOCATED FROM THE PILES OF GARBAGE THAT ARE 12 FEET DEEP THROUGHOUT THE ENTIRE HOUSE. THE HOUSE!! IT WOULD TAKE AN ARMY TO CLEAN THIS ... I'm sorry ... what did you ask me?
 
 ------
 
@@ -2206,7 +1561,7 @@ You have scored an eight out of ten on our automated health maintenance phone sy
 
 If you think the problem has terminated, please hang up now as other subscribers may be trying to call our system.
 
-Your call is important so do not hang up. You have selected "1", so please do not hang up, your call will be answered by the next available nurse manager … All of our nurse managers are currently helping other subscribers and the next available nurse manager will get to you as soon as possible.
+Your call is important so do not hang up. You have selected "1", so please do not hang up, your call will be answered by the next available nurse manager ... All of our nurse managers are currently helping other subscribers and the next available nurse manager will get to you as soon as possible.
 
 If you feel that you have made this call in error, please hang up now.
 
@@ -2349,7 +1704,7 @@ Mommy has told her little girl all about the making of babies. Little Annie is n
 
 15. A pat on the back is only a few centimeters from a kick in the butt.
 
-16. Don't be irreplaceable — if you can't be replaced, you can't be promoted.
+16. Don't be irreplaceable --- if you can't be replaced, you can't be promoted.
 
 17. After any salary raise, you will have less money at the end of the month than you did before.
 
@@ -2493,7 +1848,7 @@ George Carlin
 
 ------
 
-A small boy is sent to bed by his father. Five minutes later: "Da-ad …"
+A small boy is sent to bed by his father. Five minutes later: "Da-ad ..."
 
 "What?"
 
@@ -2501,13 +1856,13 @@ A small boy is sent to bed by his father. Five minutes later: "Da-ad …"
 
 "No. You had your chance. Lights out."
 
-Five minutes later: "Da-aaaad…"
+Five minutes later: "Da-aaaad..."
 
-"WHAT?" "I'm THIRSTY … Can I have a drink of water??"
+"WHAT?" "I'm THIRSTY ... Can I have a drink of water??"
 
 "I told you NO! If you ask again I'll have to spank you!!"
 
-Five minutes later: "Daaaa-aaaad…"
+Five minutes later: "Daaaa-aaaad..."
 
 "WHAT??!!"
 
@@ -2526,7 +1881,7 @@ One summer evening during a violent thunderstorm a mother was tucking her small 
 
 ******************************************************************
 
-A mother took her three-year-old daughter to church for the first time The church lights were lowered, and then the choir came down the aisle, carrying lighted candles. All was quiet until the little one started to sing in a loud voice, "Happy birthday to you. Happy birthday to you …"
+A mother took her three-year-old daughter to church for the first time The church lights were lowered, and then the choir came down the aisle, carrying lighted candles. All was quiet until the little one started to sing in a loud voice, "Happy birthday to you. Happy birthday to you ..."
 
 
 
@@ -2732,13 +2087,13 @@ ST. FRANCIS: They cut down trees and grind them up to make the mulch.
 
 GOD: Enough. I don't want to think about this anymore. St. Catherine, you're in charge of the arts. What movie have you scheduled for us tonight?
 
-ST. CATHERINE: Dumb and Dumber, Lord. It's a real stupid movie about …
+ST. CATHERINE: Dumb and Dumber, Lord. It's a real stupid movie about ...
 
 GOD: Never mind, I think I just heard the whole story from St. Francis.
 
 ------
 
-"Lawyers typically aren't funny — unless by accident. Case in point: The following questions from lawyers were taken from official court records nationwide …
+"Lawyers typically aren't funny --- unless by accident. Case in point: The following questions from lawyers were taken from official court records nationwide ...
 
 Was that the same nose you broke as a child?
 
@@ -2834,7 +2189,7 @@ Next they went to the club house and saw the lavish buffet lunch with the cuisin
 
 "Well, where are the low fat and low cholesterol foods?" the old man asked timidly.
 
-"That's the best part … you can eat as much as you like of whatever you like and you never get fat and you never get sick. This is Heaven."
+"That's the best part ... you can eat as much as you like of whatever you like and you never get fat and you never get sick. This is Heaven."
 
 The old man looked at his wife and said, "You and your blasted bran muffins!! I could have been here ten years ago!"
 
@@ -2856,7 +2211,7 @@ Along comes a bus. The dog goes and looks at the number, notices it's the right 
 
 The bus travels through town and out to the suburbs. Eventually the dog gets up, moves to the front of the bus, and standing on his hind legs, pushes the button to stop the bus. The dog gets off, groceries still in his mouth, and the butcher still following.
 
-They walk down the road, and the dog approaches a house. He walks up the path, and drops the groceries on the step. Then he walks back down the path, takes a big run, and throws himself — whap! — against the door. He goes back down the path, takes another run, and throws himself — whap! — against the door gain! There's no answer at the door, so the dog goes back down the path, jumps up on a narrow wall, and walks along the perimeter of the garden. He gets to a window, and bangs his head against it several times. He walks back, jumps off the wall, and waits at the door. The butcher watches as a big guy opens the door, and starts laying into the dog, really yelling at him.
+They walk down the road, and the dog approaches a house. He walks up the path, and drops the groceries on the step. Then he walks back down the path, takes a big run, and throws himself --- whap! --- against the door. He goes back down the path, takes another run, and throws himself --- whap! --- against the door gain! There's no answer at the door, so the dog goes back down the path, jumps up on a narrow wall, and walks along the perimeter of the garden. He gets to a window, and bangs his head against it several times. He walks back, jumps off the wall, and waits at the door. The butcher watches as a big guy opens the door, and starts laying into the dog, really yelling at him.
 
 The butcher runs up and stops the guy. "What the heck are you doing? This dog is a genius. He could be on TV, for God's sake!" To which the guy responds, "Clever, my eye. This is the second time this week he's forgotten his key."
 
@@ -2882,7 +2237,7 @@ In the mid 60s a U.S. Navy cruiser put in to port in Mississippi for a week's sh
 
 > Dear Captain,
 >
-> Thursday, will be my daughter Melinda's coming of age party. I would like you to send four well-mannered, handsome, unmarried officers. They should arrive at 8:00 p.m. prepared for an evening of polite Southern conversation and dance with our lovely young ladies. One last point: No Jews — We don't like Jews.
+> Thursday, will be my daughter Melinda's coming of age party. I would like you to send four well-mannered, handsome, unmarried officers. They should arrive at 8:00 p.m. prepared for an evening of polite Southern conversation and dance with our lovely young ladies. One last point: No Jews --- We don't like Jews.
 
 Sure enough, at 8:00 p.m. on Thursday, the lady heard a rap at the door, which she opened to find, in dress uniform, four exquisitely mannered, smiling African-American officers. Her lower jaw hit the floor, but pulling herself together she stammered, "There must be some mistake."
 
@@ -2902,7 +2257,7 @@ The walls closed and the boy and his father watched the small circular numbers a
 
 Finally the walls opened up again and a gorgeous, voluptuous 24 year old blonde woman stepped out.
 
-The father, not taking his eyes off the young woman, said quietly to his son… "Go get your mother."
+The father, not taking his eyes off the young woman, said quietly to his son... "Go get your mother."
 
 ------
 
@@ -2945,9 +2300,9 @@ The little boy looked at him happily and said, "Just keep pulling on that string
 
 A first grader was sitting in class as the teacher was reading the story of the Three Little Pigs. She came to the part of the story where the first pig was trying to acquire building materials for his home.
 
-She said, "…And so the pig went up to the man with a wheelbarrow full of straw and said, 'Pardon me sir, but might I have some of that straw to build my house with?'"
+She said, "...And so the pig went up to the man with a wheelbarrow full of straw and said, 'Pardon me sir, but might I have some of that straw to build my house with?'"
 
-Then the teacher asked the class, "And what do you think that man said?" and my friend's son raised his hand and said "I know! I know!, he said…'Holy shit! A talking pig!'"
+Then the teacher asked the class, "And what do you think that man said?" and my friend's son raised his hand and said "I know! I know!, he said...'Holy shit! A talking pig!'"
 
 The teacher was unable to teach for the next 10 minutes.
 
@@ -2956,7 +2311,7 @@ The teacher was unable to teach for the next 10 minutes.
 English: The Hostile Takeover
 By HENRY BEARD
 
-Rumors are rampant in the tiny, tight-knit world of dictionary compilers about what inside sources are calling "the deal of the century, no matter what century this actually is": the impending acquisition by a consortium of companies — including America Online Time Warner, Microsoft, Amazon.com, Yahoo and AT&amp;T — of the English language.
+Rumors are rampant in the tiny, tight-knit world of dictionary compilers about what inside sources are calling "the deal of the century, no matter what century this actually is": the impending acquisition by a consortium of companies --- including America Online Time Warner, Microsoft, Amazon.com, Yahoo and AT&amp;T --- of the English language.
 
 In recent days, word has spread among lexicographers that these computer and Internet giants have entered into an agreement with dictionary publishers and the cash-strapped British royal family, formal holders of the title to the Queen's English, to purchase exclusive worldwide rights to the venerable language and its offshoots, Baby Talk and Pidgin English.
 
@@ -2975,9 +2330,6 @@ A thesaurus editor was troubled by suggestions that, in a form of linguistic pro
 Henry Beard is the author of "Computing: A Hacker's Lexicon."
 
 ------
-
-Forwarded by Ivan Berger <iberger@home.com>
-
 
 From: "Jeff Menzigian" via Alice via Evy via Ivan
 
@@ -3133,9 +2485,9 @@ In response to Bill's comments, General Motors issued a press release stating th
 
 A small-town patrolman stopped a motorist for speeding and approached the driver. Peering into the back seat, he saw a large collection of knives, machetes, and swords. Thinking he had some wacko on his hands, the policeman placed a cautious hand on his firearm and asked the man to step out of the car. When queried about the contents of the back seat, the driver replied, "Oh, those! Officer, I'm a juggler and those are part of my act." Skeptical, the policeman thought he would call the man's bluff.
 
-"If you can juggle these here machetes like you say, I'll let you off", the officer says. Well, sure enough, the driver IS a juggler, and his hands explode into a dizzying frenzy of spinning, twirling, flying blades, reflecting brilliantly in the afternoon sun! The blades fly behind his back, under his legs and over his head, in seamless fluid motion. He even tosses an apple into the fray and quarters it without missing a beat…
+"If you can juggle these here machetes like you say, I'll let you off", the officer says. Well, sure enough, the driver IS a juggler, and his hands explode into a dizzying frenzy of spinning, twirling, flying blades, reflecting brilliantly in the afternoon sun! The blades fly behind his back, under his legs and over his head, in seamless fluid motion. He even tosses an apple into the fray and quarters it without missing a beat...
 
-As this is occurring, a man driving by says to his wife, "Martha, it's a good thing I gave up drinkin'… look at the sobriety test they're giving now!"
+As this is occurring, a man driving by says to his wife, "Martha, it's a good thing I gave up drinkin'... look at the sobriety test they're giving now!"
 
 ------
 
@@ -3145,7 +2497,7 @@ It leaves your groin unprotected.
 2. I'm not into working out. My
 philosophy: No pain, no pain.
 
-3. I am in shape. Round's a shape…
+3. I am in shape. Round's a shape...
 
 4. I'm desperately trying to figure out
 why kamikaze pilots wore helmets.
@@ -3220,7 +2572,7 @@ As she got my tit in line,
 "And tell me when it hurts," she said,
 "Ah, yes! There! That's just fine."
 
-She stepped upon a pedal…
+She stepped upon a pedal...
 I could not believe my eyes!
 A plastic plate was pressing down.
 My boob was in a vise!!!
@@ -3251,7 +2603,7 @@ I'll bet she's never had this done
 To her tender little hide!
 
 If I had no problem when I came in,
-I surely have one now…
+I surely have one now...
 If there had been a cyst in there,
 It would have popped, Ker-pow!!
 
@@ -3311,7 +2663,7 @@ MIKE TYSON'S GUIDE TO DATING ETIQUETTE
 
 Now, for another non-urban legend, have I told you about the visiting Japanese police chiefs delegation when my wife was translating for then-Mayor Neil Goldschmidt?
 
-…it is necessary to recognize that the Japanese have neither the upside-down e sound, like the u in funny, nor the sharp a sound like the a in Fanny. Both are represented by the broad a sound of the a in father.
+...it is necessary to recognize that the Japanese have neither the upside-down e sound, like the u in funny, nor the sharp a sound like the a in Fanny. Both are represented by the broad a sound of the a in father.
 
 Neil Goldschmidt, then mayor of Portland, later Carter's Secretary of Transportation, later Governor of Oregon, speaks very fast, a real machine-gun style of delivery. Most foreign language interpreters have great difficulty staying up with him. When he was mayor, therefore, City Hall often called upon my wife, who has a fast ear, for Japanese-English translations for and English-Japenese translations of Hizzoner; she did other translations for the City as well.
 
@@ -3327,7 +2679,7 @@ Then one in Japanese asked my wife to clarify: is that _really_ how they handle 
 
 ------
 
-OTTAWA (CP) — An on-air prank by This Hour Has 22 Minutes, CBC-TV's satirical sketch series, at the expense of U.S. presidential candidate George W. Bush has drawn tremendous response from the show's viewers, says producer Geoff D'Eon. D'Eon says he has also received "a deluge of calls" from U.S. media, but there has been no official response from the Bush campaign.
+OTTAWA (CP) --- An on-air prank by This Hour Has 22 Minutes, CBC-TV's satirical sketch series, at the expense of U.S. presidential candidate George W. Bush has drawn tremendous response from the show's viewers, says producer Geoff D'Eon. D'Eon says he has also received "a deluge of calls" from U.S. media, but there has been no official response from the Bush campaign.
 
 This week's 22 Minutes aired a video clip showing comic Rick Mercer buttonholing the Texas governor during the recent Michigan primary.
 
@@ -3368,33 +2720,33 @@ I hear that all Australian women are beautiful. Is that true and if so,
 can you send me pictures of the available ones? (Italy)
 
 I want to go swimming at Bondi Beach on October 20th. Will I turn blue?
-(Germany) [More likely brown, considering the effluent…]
+(Germany) [More likely brown, considering the effluent...]
 
 Does it ever get windy in Australia? I have never seen it rain on TV, so
 how do the plants grow? (UK) [Upwards, out of the ground, like the person
 who asked this question, who themselves will need watering if their IQ
-drops any lower…]
+drops any lower...]
 
 Will I be able to see kangaroos in the street? (USA) [Depends on how much
-beer you've consumed…]
+beer you've consumed...]
 
-Which direction should I drive — Perth to Darwin or Darwin to Perth — to
+Which direction should I drive --- Perth to Darwin or Darwin to Perth --- to
 avoid driving with the sun in my eyes? (Germany) [Excellent question,
 considering that the Olympics are being held in Sydney.]
 
-I want to walk from Perth to Sydney — can I follow the railroad tracks?
+I want to walk from Perth to Sydney --- can I follow the railroad tracks?
 (Sweden) [Sure, it's only seven thousand miles, so you'll need to have
 started about a year and a half ago to get there in time for this
-October…]
+October...]
 
 Is it safe to run around in the bushes in Australia? (Sweden) [And
 accomplish what?]
 
 It is imperative that I find the names and addresses of places to contact
-for a stuffed porpoise. (Italy) [I'm not touching this one…]
+for a stuffed porpoise. (Italy) [I'm not touching this one...]
 
 My client wants to take a steel pooper-scooper into Australia. Will you
-let her in? (South Africa) [Why? We do have toilet paper here…]
+let her in? (South Africa) [Why? We do have toilet paper here...]
 
 Are there any ATMs in Australia? Can you send me a list of them in
 Brisbane, Cairns, Townsville and Hervey Bay? (UK)
@@ -3404,15 +2756,15 @@ Where can I learn underwater welding in Australia? (Portugal)
 Do the camels in Australia have one hump or two? (UK)
 
 Can I bring cutlery into Australia? (UK) [Why bother? Use your fingers
-like the rest of us…]
+like the rest of us...]
 
 Do you have perfume in Australia? (France) [No. Everybody stinks.]
 
 Do tents exist in Australia? (Germany) [Yes, but only in sporting supply
-stores, peoples' garages, and most national parks…]
+stores, peoples' garages, and most national parks...]
 
 Can I wear high heels in Australia? (UK) [This HAS to have been asked by
-a blonde…]
+a blonde...]
 
 Can you tell me the regions in Tasmania where the female population is
 smaller than the male population? (Italy) [Yes. Gay nightclubs.]
@@ -3432,7 +2784,7 @@ Are there supermarkets in Sydney and is milk available all year round?
 (Germany) [Another blonde?]
 
 Please send a list of all doctors in Australia who can dispense
-rattlesnakeserum. (USA) [I love this one…there are no rattlesnakes in
+rattlesnakeserum. (USA) [I love this one...there are no rattlesnakes in
 Australia]
 
 Which direction is North in Australia? (USA) [Face North and you should
@@ -3459,7 +2811,7 @@ Will I be able to speak English most places I go? (USA)
 
 ------
 
-After an overnight flight to meet my father at his latest military assignment, my mother wearily arrived at Rhein-Main Air Base in Germany with my eight siblings and me — all under age 11.
+After an overnight flight to meet my father at his latest military assignment, my mother wearily arrived at Rhein-Main Air Base in Germany with my eight siblings and me --- all under age 11.
 
 Collecting our many suitcases, the ten of us entered the cramped customs area. A young customs official watched our entourage in disbelief. "Ma'am," he said, "do all these children and this luggage belong to you?"
 
@@ -3555,14 +2907,14 @@ A pro golfer took time out of his career to get married to a woman he barely kne
 
 On their wedding night she said, "I have something to confess: I'm a hooker."
 
-"No problem," he said, "just fold your right thumb under your left palm like this…"
+"No problem," he said, "just fold your right thumb under your left palm like this..."
 
 ------
 
 Below are actual insurance claim form gaffes.
 
 These are NEW (mostly), and are the collection made by Norwich Union
-for their annual Christmas magazine…
+for their annual Christmas magazine...
 
 "I started to slow down but the traffic was more stationary than I thought."
 
@@ -3576,10 +2928,10 @@ A: Travelled by bus?
 A Norwich Union customer collided with a cow. The questions and
 answers on the claim form were:
 
-Q — What warning was given by you?
-A — Horn
-Q — What warning was given by the other party?
-A — Moo
+Q --- What warning was given by you?
+A --- Horn
+Q --- What warning was given by the other party?
+A --- Moo
 
 "I started to turn and it was at this point I noticed a camel and an
 elephant tethered at the verge. This distraction caused me to lose
@@ -3773,7 +3125,7 @@ The old man leaned forward and said softly to his wife, "Dear, there is somethin
 
 The wife dropped her head, unable to look her husband in the eye. She paused for moment and then confessed sadly: "Yes. Yes, he did."
 
-The old man was very shaken. The reality of what his wife was admitting hit him harder than he had expected. With a tear in his eye, the husband asked, "Who?… Who was he? Who was the father?"
+The old man was very shaken. The reality of what his wife was admitting hit him harder than he had expected. With a tear in his eye, the husband asked, "Who?... Who was he? Who was the father?"
 
 Again the old woman dropped her head, saying nothing at first as she tried to muster the courage to tell the truth to her husband. Then, finally, she admitted, "You."
 
@@ -3813,7 +3165,7 @@ The following Shabbos, the Rabbi, too, hired a Shabbos goy who brought a tape re
 
 Witnesses said this marked the first incidence in history of artificial insermonation.
 
-* Shabbos goy [Sabbath gentile] — a gentile who performs tasks forbidden to observant Jews on the Sabbath, such as turning lights on and off.
+* Shabbos goy [Sabbath gentile] --- a gentile who performs tasks forbidden to observant Jews on the Sabbath, such as turning lights on and off.
 
 ------
 
@@ -3978,7 +3330,7 @@ Every effort has been made to reproduce these gems verbatim.
 Monotony means being married to the same person for all your life.
 
 Use the word "judicious" in a sentence to show you understand its
-meaning… 'Hands that judicious can be as soft as your face…'
+meaning... 'Hands that judicious can be as soft as your face...'
 
 How important are elections to a democratic society?
 Sex can only happen when a male gets an election
@@ -4053,10 +3405,10 @@ A super-saturated solution is one that holds more than it can hold.
 
 Mushrooms always grow in damp places and so they look like umbrellas.
 
-The body consists of three parts — the brainium, the borax and the
+The body consists of three parts --- the brainium, the borax and the
 abominable cavity. The brainium contains the brain, the borax
 contains the heart and lungs, and the abominable cavity contains the
-bowels, of which there are five — a, e, I, o and u.
+bowels, of which there are five --- a, e, I, o and u.
 
 Momentum: What you give a person when they are going away.
 
@@ -4182,8 +3534,8 @@ Compliment her, respect her, honor her, cuddle her, kiss her, caress
 her, love her, stroke her, tease her, comfort her, protect her, hug
 her, hold her, spend money on her, wine and dine her, buy things for
 her, listen to her, care for her, stand by her, support her, hold
-her, go to the ends of the Earth for her…
-… AND A MAN?
+her, go to the ends of the Earth for her...
+... AND A MAN?
 Show up naked. Bring food.
 
 ------
@@ -4194,11 +3546,11 @@ The woman sits up in bed and says, "What's wrong with my baby, Doctor? What's wr
 
 The doctor says, "Well, now, nothing's wrong, exactly, but your baby is a little bit different. Your baby is a hermaphrodite."
 
-The woman says, "A hermaphrodite… what's that???"
+The woman says, "A hermaphrodite... what's that???"
 
-The doctor says, "Well, it means your baby has the… er… features… of a male and a female."
+The doctor says, "Well, it means your baby has the... er... features... of a male and a female."
 
-The woman turns pale. She says, "Oh my god! You mean it has a penis… AND a brain?"
+The woman turns pale. She says, "Oh my god! You mean it has a penis... AND a brain?"
 
 ------
 
@@ -4290,7 +3642,7 @@ about to jump off, so I ran over and said, "Stop! don't do it!"
 
 I said, "Well, there's so much to live for!" He said, "Like what?"
 
-I said, "Well…are you religious or atheist?" He said, "Religious."
+I said, "Well...are you religious or atheist?" He said, "Religious."
 
 I said, "Me too! Are you Christian or Buddhist?" He said, "Christian."
 
@@ -4459,7 +3811,7 @@ But baby Moses grew up tall,
 And said he'd save them all.
 He did, and yet,
 We swear we won't forget.
-That….
+That....
 Chorus
 While the maror is being passed,
 We all refill our water glass,
@@ -4473,7 +3825,7 @@ Chorus
 8. Same time next year
 (to the tune of "Makin' Whoopee")
 Another Pesach, another year,
-The family seder with near and dear… Our faces shining,
+The family seder with near and dear... Our faces shining,
 All thoughts of dining
 Are put on hold now.
 We hear four questions,
@@ -4487,7 +3839,7 @@ This year the Jews all over
 Are free to perform the rites.
 A gorgeous dinner--who can deny it--
 Won't make us thinner, to hell with diet!
-It's such great cooking…
+It's such great cooking...
 and no one's looking,
 So just enjoy it.
 Moving along at steady clip
@@ -4500,8 +3852,8 @@ For Echad Mi Yodea:
 Which tune shall we use?
 We pray next Pesach
 We'll all be here.
-It's a tradition…
-Same time next year…
+It's a tradition...
+Same time next year...
 So fill it up now, the final cup now, Next year at ____________
 
 9. The Ballad of the Four Sons
@@ -4556,10 +3908,10 @@ Y'all come back now, y'hear!
 
 11. Afikomen 'Round the Mountain
 Chorus
-Afikomen 'round the mountain when she comes …
-(1) She'll be drinkin' Mogen David…
+Afikomen 'round the mountain when she comes ...
+(1) She'll be drinkin' Mogen David...
 slurp, slurp
-(2) She'll be burpin on charoses ….
+(2) She'll be burpin on charoses ....
 burp, burp
 (3) She'll be chewin' on a shank bone
 chomp, chomp
@@ -4581,7 +3933,7 @@ eat it up, eat it up.
 He doesn't like the matzah dish
 Heat it up, heat it up.
 can't wait for him to change --
-Hey buddy… (repeat 1st verse).
+Hey buddy... (repeat 1st verse).
 
 13. Morror
 (Sung to the tune of "More")
@@ -4591,12 +3943,12 @@ Morror were the ghettos of across the sea,
 But here we habitate a land that's free.
 Morror on the table, we are sure and
 we're able to look forward to many
-types of joy — oh boy-oi-oi-oi…
+types of joy --- oh boy-oi-oi-oi...
 Morror is the bitter herb upon our plate,
 And if we were sober we would palitate
 Morror is the answer for the schnorer,
 who is rich or poorer --
-Why can't we love forever …Morror!
+Why can't we love forever ...Morror!
 
 14. The Eight Nights of Passover:
 (To the tune of 'The Twelve Days of Christmas')
@@ -4627,7 +3979,7 @@ Moshe's in the palace with Pharaoh,
 Warning of all God's clout, clout, clout.
 Moshe's in the palace with Pharaoh,
 And God's gonna get us out!
-We're singing … .
+We're singing ... .
 Fee, Fi, Fiddely eye oh,
 Make our matzahs "to go" oh oh oh.
 Fee, Fi, Fiddely eye oh,
@@ -4737,7 +4089,7 @@ taken more seriously.
 
 * Trades in his Whiskas for prune-flavored Whippasnappas.
 
-* "You call this catnip? Hell, I remember back in the '90s, I once scored some Meowie Wowie that would knock your friggin' claws off…"
+* "You call this catnip? Hell, I remember back in the '90s, I once scored some Meowie Wowie that would knock your friggin' claws off..."
 
 * Instead of shredding your drapes, she sub-contracts the job.
 
@@ -4806,21 +4158,21 @@ to present the present.
 
 ------
 
-Reader David Burrows tells us "How To Deal with Telemarketers" It's long-- — but I laughed out loud at a couple of the items. Now, if I only have the courage to try some of these…
+Reader David Burrows tells us "How To Deal with Telemarketers" It's long-- --- but I laughed out loud at a couple of the items. Now, if I only have the courage to try some of these...
 
 1. If they want to loan you money, tell them you just filed for bankruptcy and you could sure use some money.
 
-2. If they start out with, "How are you today?" say, "I'm so glad you asked, because no one these days seems to care, and I have all these problems; my arthritis is acting up, my eyelashes are sore, my dog just died…"
+2. If they start out with, "How are you today?" say, "I'm so glad you asked, because no one these days seems to care, and I have all these problems; my arthritis is acting up, my eyelashes are sore, my dog just died..."
 
 3. If they say they're John Doe from XYZ Company, ask them to spell their name. Then ask them to spell the company name. Then ask them where it is located, how long it has been in business, how many people work there, how they got into this line of work, are they married?, kids?, etc. Continue asking them personal questions or questions about their company for as long as necessary.
 
-4. This works great if you are male: Telemarketer: "Hi, my name is Judy and I'm with XYZ Company…" You: Wait for a second and with a real husky voice ask, "What are you wearing?"
+4. This works great if you are male: Telemarketer: "Hi, my name is Judy and I'm with XYZ Company..." You: Wait for a second and with a real husky voice ask, "What are you wearing?"
 
 5. Cry out in surprise,"Judy! Is that you? Oh my God! Judy, how have you been?" Hopefully, this will give Judy a few brief moments of terror as she tries to figure out where the hell she could know you from.
 
 6. Say "No", over and over. Be sure to vary the sound of each one, and keep a rhythmic tempo, even as they are trying to speak. This is most fun if you can do it until they hang up.
 
-7. If MCI calls trying to get you to sign up for the Family and Friends Plan, reply, in as SINISTER a voice as you can, "I don't have any friends… would you be my friend?"
+7. If MCI calls trying to get you to sign up for the Family and Friends Plan, reply, in as SINISTER a voice as you can, "I don't have any friends... would you be my friend?"
 
 8. If the company cleans rugs, respond: "Can you get out blood? Can you get out GOAT blood? How about HUMAN blood?
 
@@ -4844,7 +4196,7 @@ Reader David Burrows tells us "How To Deal with Telemarketers" It's long-- — b
 
 18. Insist that the caller is really your buddy Leon, playing a joke. "Come on Leon, cut it out! Seriously, Leon, how's your mom?"
 
-19. Tell them you are hard of hearing and that they need to speak up… louder… louder…louder…
+19. Tell them you are hard of hearing and that they need to speak up... louder... louder...louder...
 
 20. Tell them to talk VERY SLOWLY, because you want to write EVERY WORD down.
 
@@ -4868,7 +4220,7 @@ One day, in the Garden of Eden, Eve called out to God, "Lord, I have a problem!"
 
 "Sounds great," says Eve, with an ironically raised eyebrow. "What's the catch, Lord?"
 
-"Well, you may have him on one condition…"
+"Well, you may have him on one condition..."
 
 "What is that, Lord?"
 
@@ -4896,7 +4248,7 @@ Sally replied, "It's called 'Head Cleaner'."
 
 GATES TO U.S.: 'BRING MY SOURCE CODE BACK!'
 
-(Macworld Wire Services) REDMOND, Wash. — Protestors continued to clash with police in this sleepy Seattle suburb after a daring predawn raid in which armed federal agents stormed Microsoft headquarters and seized the source code for the Windows operating system.
+(Macworld Wire Services) REDMOND, Wash. --- Protestors continued to clash with police in this sleepy Seattle suburb after a daring predawn raid in which armed federal agents stormed Microsoft headquarters and seized the source code for the Windows operating system.
 
 The raid, ordered by Attorney General Janet Reno, came after months of contentious negotiations between the government and the software giant over antitrust allegations against Microsoft.
 
@@ -4940,11 +4292,11 @@ Many mondegreens are uttered by children and lovingly collected by parents. When
 
 Hank De Sutter knew a kid who returned from San Francisco with excited descriptions of "fisherman's dwarf." David Dulberg's called eucalyptus trees "coo coo lipstick trees." Hedi Gerkin once performed with the Distaff Singers; the son of one of the other singers, just before a performance, encouraged his mother with "Break an egg, Mom."
 
-When Dave Morrow was a child, he sang the lovely Christmas carol "Atomic bomb, atomic bomb …" Who knew what a "tannenbaum" was, anyway?
+When Dave Morrow was a child, he sang the lovely Christmas carol "Atomic bomb, atomic bomb ..." Who knew what a "tannenbaum" was, anyway?
 
 Religion is the source of much childhood confusion. Larry Rowinsky tells this story: "Growing up in a half- Yiddish/half-English home environment, I often felt hampered by nagging doubts about my ability to communicate in any language. When I entered public school, I really discovered I knew nothing about nothing. Particularly at Christmas.
 
-"I didn't know what 'a way in a manger' was — what way? But I sang carols with the other kids … and I was still singing when I got home: 'The little Lord Cheezits … the little Lord Cheezits.'
+"I didn't know what 'a way in a manger' was --- what way? But I sang carols with the other kids ... and I was still singing when I got home: 'The little Lord Cheezits ... the little Lord Cheezits.'
 
 "'Shh,' said my mother. 'Don't say those words. God will punish you.'"
 
@@ -5026,35 +4378,6 @@ The fairy picked up her wand and boom! He was 90.
 
 ------
 
-HAL MEGGISON ALWAYS wondered why Paul Simon was singing, "She's got diamonds on the sofa machine," and was not comforted to learn that she's actually got diamonds on the soles of her shoes. Helen Garvey heard a 3-year-old child singing, "Who is the daddy of the angel Aquarius?" and it's a good question.
-
-Jennifer Cavalli's friend heard Pearl Jam sing "She can't find a pyramid," although "Better Man" is the name of the song. And Tama Blough somehow thought the balladeer was longing for "someone to walk over me," which was a little too pre-feminist for her tastes.
-
-Erica Kelly heard Steve Winwood sing "bring me a higher love" as "bring me an iron lung," an equally poignant sentiment.
-
-And then there's Anne, who failed to give her last name in her fine e-mail communication, who thought that the chorus of "Tubthumping" was "I've got no down, but I've got overhead," making it a rousing ditty about a heavily leveraged mortgage banker (actual lyric: "I get knocked down, but I get up again.").
-
-She also believed that TAFKAPrince wanted "your estrogen and your kiss" (actually: "extra time"), while her husband went around singing "Werewolves and Thunder" (actually: "Werewolves of London.") What a zany family!
-
-An entirely anonymous e-mailer wrote: "While I was riding in the car with my father in 1975, he asked in bewilderment, as Van McCoy's disco-era anthem boomed from the tinny car radio, 'Why do they keep saying, "Tuna hot dog?"' The correct phrase, of course, is 'Do the hustle,' but I still hear it the other way."
-
-BEWILDERINGLY, DIANA ROSE heard Hank Williams Jr. sing, "I've got on the clothes I'm wearing," which was like, duh, only later learned it was "I don't own the clothes I'm wearing," which was only marginally more sensible.
-
-Alexander van Broek heard Paul Simon sing "Mama don't take my clothes and throw 'em away," while Jan Nickum's son heard the same lyric as "Mama don't take my chromosomes away," which is closer to "don't take my Kodachrome away," which the singer enjoys because of its nice bright colors, its greens of summer, etc.
-
-Donna Blow heard Elvis sing, "Wise men say, only fools love ships," which is an odd thing for wise men to say. Actually: "Fools rush in."
-
-ANDREA FRANK'S CHUM Sean Rozell heard the Police sing, "When the world is running down, you make the best homemade stew around," which is very homey, although not "you make the best of what's still around."
-
-By contrast, Chris Johnk heard the Police line "We are spirits in the material world" as "We are Cheerios in the bowl upstairs." By further contrast, Velva Hampton heard those very same Police sing, "You live your life like a canary in a coma."
-
-Michael Dorman's wife heard the Red Hot Chili Peppers sing, "With the bourbon I'll share this lonely view," which is actually more decadent than the real "with the birds I'll share this lonely view."
-
-Jim Ayres was convinced that the Jefferson Airplane sang, "When the turkey's found to be lies" (some anti-Thanksgiving reference, perhaps) and was disappointed by "When the truth is found to be lies." Similarly, Meg Rosenfield still prefers the JA's Summer-of-Lovish "And when she speaks, the whole world blesses the grass" to "when she speaks, oh what a pleasant surprise!"
-
-Daniel Bernstein heard "Mighty square faces going ticktock to love" from "Addicted to Love." David Phillips commemorates the death of Hoyt Axton with "Joy to the world, all the boys and girls, joy to officials in the deep blue sea." Fishes! Creighton Bell heard Eric Clapton's "living on Tulsa time" as "living on toast and wine," which is Claptonesque indeed.
-
-Finally: Jenny Sill-Holeman heard her husband singing the basketball player's lament: "Will you still need me, will you still feed me, when I'm 6 feet 4?"
 
 ------
 
@@ -5066,7 +4389,7 @@ Finally, Moishe invited Shmuel to visit him in his new apartment. "I got a wife 
 
 "Here's the address. And there's plenty of parking behind the apartment. Park and come around to the front door, kick it open with your foot, go to the elevator and press the button with your left elbow, then enter. When you reach the sixth floor, go down the hall until you see my name on the door. Then press the doorbell with your right elbow and I'll let you in."
 
-"Good. But tell me… what is all this business of kicking the front door open, then pressing elevator buttons with my right, then my left elbow?"
+"Good. But tell me... what is all this business of kicking the front door open, then pressing elevator buttons with my right, then my left elbow?"
 
 "What, you're coming empty-handed?"
 
@@ -5076,7 +4399,7 @@ Two widows in Miami Beach are talking.
 
 "That nice fellow Morris asked me out for a date. I know you went out with him last week, and I wanted to talk with you about him before an answer I give him."
 
-"Well," the other widow says, "I'll tell you. When I went on my date with him, he shows up at my apartment punctual like a clock. And like such a mensch he is dressed. Fine suit, wonderful lining. And he brings me such beautiful flowers, you could die from. Then he takes me downstairs, and what's there but such a beautiful car … a limousine even, uniformed chauffeur and all. Then he takes me out for a dinner, a marvelous dinner. Kosher even. Then we go see a show. Let me tell you, I enjoyed it so much I could just plotz. So then we are coming back to my apartment, and into an ANIMAL he turns. Completely crazy, he tears off my expensive new dress and has his way with me!"
+"Well," the other widow says, "I'll tell you. When I went on my date with him, he shows up at my apartment punctual like a clock. And like such a mensch he is dressed. Fine suit, wonderful lining. And he brings me such beautiful flowers, you could die from. Then he takes me downstairs, and what's there but such a beautiful car ... a limousine even, uniformed chauffeur and all. Then he takes me out for a dinner, a marvelous dinner. Kosher even. Then we go see a show. Let me tell you, I enjoyed it so much I could just plotz. So then we are coming back to my apartment, and into an ANIMAL he turns. Completely crazy, he tears off my expensive new dress and has his way with me!"
 
 "Oy vey," the first widow responds, "So you are telling me I shouldn't go out with him?"
 
@@ -5092,17 +4415,12 @@ Now in full blown rage, the bear roared, "If you don't serve me a beer, I'm goin
 
 The bear then went to the end of the bar and true to his word, ate the woman. That done he went back to his seat and once again demanded a beer. Unfazed, the bartender simply stated, "Sorry, we don't serve beer to belligerent, bullying bears in bars in Billings who are on drugs."
 
-To this the bear snarled, "I'm NOT on drugs ! ! ! !"
+To this the bear snarled, "I'm NOT on drugs!"
 
 The bartender smiled engagingly while saying, "You are now. That was a barbitchyouate."
 
 ------
 
-YOU HAVE NOW RECEIVED THE UNIX VIRUS -
-
-This virus works on the honor system:
-
-If you're running a variant of unix or linux, please forward this message to everyone you know and delete a bunch of your own files at random.
 
 ------
 
@@ -5178,7 +4496,7 @@ At this point, I asked my colleague if he would give up. He conceded, and gave t
 
 At this point, I asked the student if he really did not know the conventional answer to this question. He admitted that he did, but said that he was fed up with high school and college instructors trying to teach him how to think.
 
-The student was Niels Bohr (1885-1962), Danish Physicist, Nobel-Prize winner in 1922, best known for proposing the first 'model' of the atom with protons and neutrons, and various energy states of the surrounding electrons--the familiar icon of the small nucleus circled by three elliptical orbits … but more significantly, an innovator in Quantum Theory.
+The student was Niels Bohr (1885-1962), Danish Physicist, Nobel-Prize winner in 1922, best known for proposing the first 'model' of the atom with protons and neutrons, and various energy states of the surrounding electrons--the familiar icon of the small nucleus circled by three elliptical orbits ... but more significantly, an innovator in Quantum Theory.
 
 ------
 
@@ -5264,13 +4582,13 @@ Survey data now shows that 98% of Jews approved Janet Reno's retrieval of Elian 
 
 9. You never use the living room anymore because the acoustics suck.
 
-8. Your welcome mat is gaffed down…so no one will trip over it.
+8. Your welcome mat is gaffed down...so no one will trip over it.
 
 7. You made a tape of the tour bus engine to play at night so you can sleep.
 
 6. Your walkman has a sub-woofer, and runs off a 12 volt truck battery.
 
-5. All your furniture has wheels…(Anvil cases w/ Colson casters).
+5. All your furniture has wheels...(Anvil cases w/ Colson casters).
 
 4. You've re-wired your whole house to use Hubbell Twist-Lok plugs.
 
@@ -5282,7 +4600,7 @@ Survey data now shows that 98% of Jews approved Janet Reno's retrieval of Elian 
 
 HONORABLE MENTIONS
 
-12. You change the gels on your living room lights nightly…for effect.
+12. You change the gels on your living room lights nightly...for effect.
 
 11. Your clothing no longer resides in a dresser, but rather in a duffel bag.
 
@@ -5300,16 +4618,13 @@ HONORABLE MENTIONS
 
 4. Your favorite incense smells like rosin core solder.
 
-3. You know all the best music stores to get stuff at… in every town but your own.
+3. You know all the best music stores to get stuff at... in every town but your own.
 
 2. When you're home, you ask your parents what the Per Diem pay is for being there.
 
-1. Your Christmas lights consists of a truss and a few cans for the reindeer…and a super trouper for Santa.
+1. Your Christmas lights consists of a truss and a few cans for the reindeer...and a super trouper for Santa.
 
 ------
-
-------
-
 
 ------
 
@@ -5328,43 +4643,43 @@ That night, on a repast of lightly saut&eacute;ed frogs legs seasoned in a white
 
 19\. But I appeared in a commercial wearing a sweater! Would an evil overlord of an industry-crippling monopoly appear on TV wearing a *sweater*?
 
-18> Okay, let me get this straight: You're saying you want us to have *two* monopolies instead of one?!?
+18\. Okay, let me get this straight: You're saying you want us to have *two* monopolies instead of one?!?
 
-17> Her first name ain't Baby, it's Janet — Miss Reno if you're nasty!
+17\. Her first name ain't Baby, it's Janet --- Miss Reno if you're nasty!
 
-16> Continue with this foolishness, mortal, and I will be forced to unleash the vengeance of my 500-foot metal battle-robot, Mechasoft!
+16\. Continue with this foolishness, mortal, and I will be forced to unleash the vengeance of my 500-foot metal battle-robot, Mechasoft!
 
-15> This court has performed an illegal operation and will be shut down. [Close] [Details]
+15\. This court has performed an illegal operation and will be shut down. [Close] [Details]
 
-14> Splitting the company would leave the whole world domination thing wide open for Oprah.
+14\. Splitting the company would leave the whole world domination thing wide open for Oprah.
 
-13> Our reasons for appealing this judgement are myriad and a bit complicated to explain because you people are — no offense — WAY too stupid to understand.
+13\. Our reasons for appealing this judgement are myriad and a bit complicated to explain because you people are --- no offense --- WAY too stupid to understand.
 
-12> Isn't anyone at all concerned that McDonalds sells breakfast AND lunch?
+12\. Isn't anyone at all concerned that McDonalds sells breakfast AND lunch?
 
-11> Once we start splitting, there'll be no end to it. We'll continue multiplying and dominating every market we enter. Beware the tribble factor!!
+11\. Once we start splitting, there'll be no end to it. We'll continue multiplying and dominating every market we enter. Beware the tribble factor!!
 
-10> We've got fifteen million reasons to throw out this case — in small, unmarked bills.
+10\. We've got fifteen million reasons to throw out this case --- in small, unmarked bills.
 
-9> Divestiture will restrict the free flow of pornography guaranteed to all Americans by the Bill of Rights.
+9\. Divestiture will restrict the free flow of pornography guaranteed to all Americans by the Bill of Rights.
 
-8> If Windows and our applications can't work together, the system may become unstable and prone to crashing… Ha!! Just a little humor, Your Honor!!
+8\. If Windows and our applications can't work together, the system may become unstable and prone to crashing ... Ha!! Just a little humor, Your Honor!!
 
-7> Let me explain it this way, Your Honor: as part of Microsoft's endless commitment to serving the needs of its users, we track all traffic to www.humongous-asses.com. Do you catch my drift, gavelman778?
+7\. Let me explain it this way, Your Honor: as part of Microsoft's endless commitment to serving the needs of its users, we track all traffic to www.humongous-asses.com. Do you catch my drift, gavelman778?
 
-6> Lay off or the animated paperclip gets it!
+6\. Lay off or the animated paperclip gets it!
 
-5> We've begun the split, Your Honor, by appointing Donato the head of one company and Marisleysis the head of the other.
+5\. We've begun the split, Your Honor, by appointing Donato the head of one company and Marisleysis the head of the other.
 
-4> Immunity from prosecution was clearly stipulated in Mr. Gates's blood contract with Satan.
+4\. Immunity from prosecution was clearly stipulated in Mr. Gates's blood contract with Satan.
 
-3> A split would force Microsoft to release some of its geeks back into the wild, making America 90% less sexy.
+3\. A split would force Microsoft to release some of its geeks back into the wild, making America 90% less sexy.
 
-2> Mr. Gates agrees to remove the helmet, breathing apparatus and cape, and refrain from strangling or hurling heavy equipment at his adversaries. In exchange, he gets to keep the Death Star.
+2\. Mr. Gates agrees to remove the helmet, breathing apparatus and cape, and refrain from strangling or hurling heavy equipment at his adversaries. In exchange, he gets to keep the Death Star.
 
-*** and The Number 1 Argument in Microsoft's Appeal…
+*** and The Number 1 Argument in Microsoft's Appeal ...
 
-1> Two companies would mean Melinda would have to sleep with Bill twice each year to retain her stock options.
+1\. Two companies would mean Melinda would have to sleep with Bill twice each year to retain her stock options.
 
 ------
 
@@ -5437,7 +4752,7 @@ OY!
 2. You make over $250,000 and still can't afford a house.
 3. You take a bus and are shocked at 2 people carrying on a conversation in English.
 4. Your child's 3rd grade teacher has purple hair, a nose ring, and is named Breeze.
-5. You can't remember … is pot illegal?
+5. You can't remember ... is pot illegal?
 6. You've been to a baby shower that has two mothers and a sperm donor.
 7. You have a very strong opinion about where your coffee beans are grown and can taste the difference between Sumatran and Ethiopian.
 8. You know which restaurant serves the freshest arugula.
@@ -5591,7 +4906,7 @@ LIGHT BULBS CAME IN. WHY??? BECAUSE NO ONE IN THIS
 HOUSE EVER CARRIES OUT THE GARBAGE!!!! IT'S A WONDER WE HAVEN'T
 ALL SUFFOCATED FROM PILES OF GARBAGE 12 FEET DEEP
 THROUGHOUT THE ENTIRE HOUSE. THE HOUSE!! THE HOUSE!!! IT WOULD
-TAKE AN ARMY TO CLEAN THIS …
+TAKE AN ARMY TO CLEAN THIS ...
 
 That's how many.
 
