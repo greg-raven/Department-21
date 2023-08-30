@@ -8,7 +8,7 @@ A man takes the day off work and decides to go out golfing. He is on the second 
 
 The man looks around and doesn't see anyone. Again, he hears, "Ribbit 9 Iron." He looks at the frog and decides to prove the frog wrong, puts the club away, and grabs a 9 iron. Boom!
 
-He hits it 10 inches from the cup. He is shocked. He says to the frog, "Wow that's amazing. You must be a lucky frog, eh? The frog replies, "Ribbit lucky frog."
+He hits it ten inches from the cup. He is shocked. He says to the frog, "Wow that's amazing. You must be a lucky frog, eh? The frog replies, "Ribbit lucky frog."
 
 The man decides to take the frog with him to the next hole. "What do you think frog?" the man asks. "Ribbit 3 wood." The guy takes out a 3 wood and, Boom! Hole in one. The man is befuddled and doesn't know what to say. By the end of the day, the man golfed the best game of golf in his life and asks the frog, "OK where to next?"
 
