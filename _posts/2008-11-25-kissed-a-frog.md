@@ -1,4 +1,8 @@
---- title: 'He kissed a frog' author: 'Noam Sain' layout: post ---
+---
+title: 'He kissed a frog'
+author: 'Noam Sain'
+layout: post
+---
 
 A man takes the day off work and decides to go out golfing. He is on the second hole when he notices a frog sitting next to the green. He thinks nothing of it and is about to shoot when he hears, Ribbit 9 Iron."
 
