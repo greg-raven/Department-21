@@ -6,7 +6,7 @@ layout: post
 
 1. Kidnappers are not very interested in you.
 2. In a hostage situation you are likely to be released first.
-3. No one expects you to run — anywhere.
+3. No one expects you to run --- anywhere.
 4. People call at 9 P.M. and ask, did I wake you?
 5. People no longer view you as a hypochondriac.
 6. There is nothing left to learn the hard way.

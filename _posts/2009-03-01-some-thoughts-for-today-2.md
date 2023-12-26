@@ -20,7 +20,7 @@ layout: post
 
 - A husband is someone who, after taking the trash out, gives the impression that he just cleaned the whole house.
 
-- My next house will have no kitchen — just vending machines and a large trash can.
+- My next house will have no kitchen --- just vending machines and a large trash can.
 
 - A blonde said, "I was worried that my mechanic might try to rip me off. I was relieved when he told me all I needed was turn signal fluid."
 

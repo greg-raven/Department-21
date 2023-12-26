@@ -18,7 +18,7 @@ If I agreed with you we'd both be wrong.
 
 We never really grow up, we only learn how to act in public.
 
-War does not determine who is right — only who is left.
+War does not determine who is right --- only who is left.
 
 Knowledge is knowing a tomato is a fruit; wisdom is not putting it in a fruit salad.
 

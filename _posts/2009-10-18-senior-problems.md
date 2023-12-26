@@ -8,7 +8,7 @@ Bill and Sam, two elderly friends, met in the park every day to feed the pigeons
 
 One day Bill didn't show up. Sam didn't think much about it and figured maybe he had a cold or something. But after Bill hadn't shown up For a week or so, Sam really got worried. However, since the only time they ever got together was at the park, Sam didn't know where Bill lived, so he was unable to find out what had happened to him.
 
-A month had passed, and Sam figured he had seen the last of Bill, But one day, Sam approached the park and — lo and behold! — there sat Bill! Sam was very excited and happy to see him and told him so. Then He said, "For crying out loud Bill, what in the world happened to you?"
+A month had passed, and Sam figured he had seen the last of Bill, But one day, Sam approached the park and --- lo and behold! --- there sat Bill! Sam was very excited and happy to see him and told him so. Then He said, "For crying out loud Bill, what in the world happened to you?"
 
 Bill replied, "I have been in jail."
 

@@ -24,10 +24,10 @@ layout: post
 18. The pharmacist has become your new best friend.
 19. Getting "lucky" means you found your car in the parking lot.
 20. The twinkle in your eye is merely a reflection from the sun on your bifocals.
-21. It takes twice as long — to look half as good.
-22. Everything hurts, and what doesn't hurt — doesn't work.
+21. It takes twice as long --- to look half as good.
+22. Everything hurts, and what doesn't hurt --- doesn't work.
 23. You look for your glasses for half an hour and they were on your head the whole time.
-24. You sink your teeth into a steak — and they stay there.
+24. You sink your teeth into a steak --- and they stay there.
 25. You give up all your bad habits and still don't feel good.
 26. You have more patience, but it is actually that you just don't care anymore.
 27. You finally get your head together and your body starts falling apart.

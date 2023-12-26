@@ -1,5 +1,5 @@
 ---
-title: "The Night Before Christmas, Legally Speaking"
+title: "The night before Christmas, legally speaking"
 author: "Noam Sain"
 layout: post
 ---
@@ -32,4 +32,6 @@ Claus immediately departed for an unknown destination. However, prior to the dep
 
 Or words to that effect.
 
-Respectfully Submitted, The Grinch
+Respectfully Submitted,
+
+The Grinch

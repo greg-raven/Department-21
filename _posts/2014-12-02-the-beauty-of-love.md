@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-An old man lay dying in his bed when lo and behold, he smelled the aroma of his favorite food — chocolate chip cookies — wafting up the stairs.
+An old man lay dying in his bed when lo and behold, he smelled the aroma of his favorite food --- chocolate chip cookies --- wafting up the stairs.
 
 He gathered what little was left of his remaining strength and lifted himself from the bed. Leaning against the wall, he slowly made his way out of the bedroom, and with even greater effort climbed down the stairs, gripping the railing with both hands. With labored breath, he leaned against the door frame, gazing into the kitchen.
 

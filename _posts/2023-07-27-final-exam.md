@@ -1,5 +1,5 @@
 ---
-title: "Final exam — 1895"
+title: "Final exam --- 1895"
 author: "Noam Sain"
 layout: post
 ---

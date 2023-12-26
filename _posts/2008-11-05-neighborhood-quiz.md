@@ -26,11 +26,11 @@ How to score: 0 if the statement is never true, 1 if it is rarely true, 2 if it 
 
 10. ___ No-Doze gives you bulk rates.
 
-How you rate: 30 — a perfect score. Welcome to the neighborhood!
+How you rate: 30 --- a perfect score. Welcome to the neighborhood!
 
-20-29 — You are doing reasonably well, but still have too little going on in your life. Crank it up.
+20-29 --- You are doing reasonably well, but still have too little going on in your life. Crank it up.
 
-10-19 — You have mastered some of the aspects of the stress-filled life, but still have a long way to go. Have you considered a parallel career path?
+10-19 --- You have mastered some of the aspects of the stress-filled life, but still have a long way to go. Have you considered a parallel career path?
 
-0-9 — Enjoying all that extra time? What do you _do_ anyway?
+0-9 --- Enjoying all that extra time? What do you _do_ anyway?
 

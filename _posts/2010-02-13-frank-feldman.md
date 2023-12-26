@@ -20,7 +20,7 @@ Cabbie: "There's more. He had a memory like a computer. He remembered everybody'
 
 Passenger: "Wow, some guy then."
 
-Cabbie: "He always knew the quickest way to go in traffic and avoid traffic jams. Not like me, I always seem to get stuck in them. But Frank, he never made a mistake, and he really knew how to treat a woman and make her feel good. He would never answer her back even if she was in the wrong; and his clothing was always immaculate, shoes highly polished too — he was the perfect man! He never made a mistake. No one could ever measure up to Frank Feldman."
+Cabbie: "He always knew the quickest way to go in traffic and avoid traffic jams. Not like me, I always seem to get stuck in them. But Frank, he never made a mistake, and he really knew how to treat a woman and make her feel good. He would never answer her back even if she was in the wrong; and his clothing was always immaculate, shoes highly polished too --- he was the perfect man! He never made a mistake. No one could ever measure up to Frank Feldman."
 
 Passenger: "An amazing fellow. How did you meet him?"
 

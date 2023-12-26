@@ -10,7 +10,7 @@ When I was younger, I remember receiving the inevitable homework assignment to w
 
 BEFORE CHILDREN: I was thankful to have been born the USA, the most powerful free democracy in the world.
 
-AFTER CHILDREN: I am thankful for Velcro tennis shoes. As well as saving valuable time, now I can hear the sound of my son taking off his shoes — which gives me three extra seconds to activate the safety locks on the back seat windows right before he hurls them out of the car and onto the freeway.
+AFTER CHILDREN: I am thankful for Velcro tennis shoes. As well as saving valuable time, now I can hear the sound of my son taking off his shoes --- which gives me three extra seconds to activate the safety locks on the back seat windows right before he hurls them out of the car and onto the freeway.
 
 ---
 
@@ -22,7 +22,7 @@ AFTER CHILDREN: I am thankful for swim diapers because every time my son wanders
 
 BEFORE CHILDREN: I was thankful for fresh, organic vegetables.
 
-AFTER CHILDREN: I am thankful for microwaveable macaroni and cheese — without which my children would be surviving on about three bites of cereal and their own spit.
+AFTER CHILDREN: I am thankful for microwaveable macaroni and cheese --- without which my children would be surviving on about three bites of cereal and their own spit.
 
 ---
 

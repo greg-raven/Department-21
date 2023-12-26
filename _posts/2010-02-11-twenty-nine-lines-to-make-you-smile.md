@@ -12,7 +12,7 @@ layout: post
 6. You're just jealous because the voices only talk to me
 7. Beauty is in the eye of the beer holder.
 8. Earth is the insane asylum for the universe.
-9. I'm not a complete idiot — Some parts are just missing.
+9. I'm not a complete idiot --- Some parts are just missing.
 10. Out of my mind. Back in five minutes.
 11. NyQuil, the stuffy, sneezy, why-the-heck-is-the-room-spinning medicine.
 12. God must love stupid people; He made so many.

@@ -22,11 +22,11 @@ layout: post
 
 - If electricity comes from electrons, does that mean that morality comes from morons?
 
-- Energizer Bunny arrested — charged with battery.
+- Energizer Bunny arrested --- charged with battery.
 
 - A pessimist's blood type is always B-negative.
 
-- Practice safe eating — always use condiments.
+- Practice safe eating --- always use condiments.
 
 - A Freudian slip is when you say one thing but mean your mother.
 

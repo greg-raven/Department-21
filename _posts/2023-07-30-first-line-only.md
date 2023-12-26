@@ -22,7 +22,7 @@ These are the 10 winners of this year's Bulwer-Lytton contest, wherein one write
 
 3\. "Like an overripe beefsteak tomato rimmed with cottage cheese, the corpulent remains of Santa Claus lay dead on the hotel floor."
 
-2\. "Mike Hardware was the kind of private eye who didn't know the meaning of the word 'fear,' a man who could laugh in the face of danger and spit in the eye of death — in short, a moron with suicidal tendencies."
+2\. "Mike Hardware was the kind of private eye who didn't know the meaning of the word 'fear,' a man who could laugh in the face of danger and spit in the eye of death --- in short, a moron with suicidal tendencies."
 
 AND THE WINNER IS…
 

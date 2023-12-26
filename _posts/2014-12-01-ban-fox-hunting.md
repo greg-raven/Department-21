@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-We in no way support any type of gun control, but after seeing this we are — unfortunately — believe that something needs to change.
+We in no way support any type of gun control, but after seeing this we are --- unfortunately --- believe that something needs to change.
 
 Fox hunting in Colorado must be banned!
 

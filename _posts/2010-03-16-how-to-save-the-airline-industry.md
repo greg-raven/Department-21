@@ -14,7 +14,7 @@ Because of the tips, female flight attendants wouldn't need a salary, thus savin
 
 Muslims would be afraid to get on the planes for fear of seeing naked women. Hijackings would come to a screeching halt, and the airline industry would see record revenues.
 
-This is definitely a win-win situation if we handle it right — a golden opportunity to turn a liability into an asset.
+This is definitely a win-win situation if we handle it right --- a golden opportunity to turn a liability into an asset.
 
 Why didn't Obama think of this? Why do I still have to do everything myself?
 

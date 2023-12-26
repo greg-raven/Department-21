@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-A group of youths stole a car, and Juan — having the most experience in this sort of thing — was the one who climbed behind the wheel.
+A group of youths stole a car, and Juan --- having the most experience in this sort of thing --- was the one who climbed behind the wheel.
 
 As they were speeding along, they came to an intersection where the light was red for them. Juan sped through the intersection without even lifting off the gas. After the others stopped screaming in panic, they demanded to know what Juan was doing.
 

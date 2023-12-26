@@ -6,7 +6,7 @@ layout: post
 
 A town in Poland had only one cow and it stopped giving milk. The townspeople did a little research and discovered they could get a cow from Moscow for 2,000 rubles, or one from Minsk for only 1,000 rubles. So, naturally, they got the cow from Minsk.
 
-It was a great cow — had a wonderful disposition — and gave lots of milk and lots of cream. Everybody loved it dearly. The people decided they should mate the cow, so they would never again have to worry about their milk supply.
+It was a great cow --- had a wonderful disposition --- and gave lots of milk and lots of cream. Everybody loved it dearly. The people decided they should mate the cow, so they would never again have to worry about their milk supply.
 
 They got a bull and led the cow and the bull into the pasture. When the bull came in from the right to mount the cow, the cow moved to the left.
 

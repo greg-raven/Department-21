@@ -26,4 +26,4 @@ Don't spread my wealth, spread my work ethic.
 
 Look out taxpayers, Obama thinks you're rich.
 
-OBAMA — One Big Ass Mistake, America.
+OBAMA --- One Big Ass Mistake, America.

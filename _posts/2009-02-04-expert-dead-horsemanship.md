@@ -6,7 +6,7 @@ layout: post
 
 A simpleminded person might say that when you discover that you are riding a dead horse, the best strategy is to dismount.
 
-Modern organizations — often run by people with magnificant-sounding educations — employ other strategies, including the following:
+Modern organizations --- often run by people with magnificant-sounding educations --- employ other strategies, including the following:
 
 1. Buying a stronger whip.
 

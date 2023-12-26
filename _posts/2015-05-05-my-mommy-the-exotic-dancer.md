@@ -6,7 +6,7 @@ layout: post
 
 One day a fourth-grade teacher asked the children what their mothers did for a living.
 
-All the typical answers came up — teacher, nurse, businesswoman, saleswoman, doctor, lawyer, and so forth.
+All the typical answers came up --- teacher, nurse, businesswoman, saleswoman, doctor, lawyer, and so forth.
 
 However, little Johnny was being uncharacteristically quiet, so when the teacher prodded him about his mother, he replied, "Well, my mother's an exotic dancer in a cabaret and takes off all her clothes in front of men and they put money in her underwear. Sometimes, if the offer is really good, she will go home with some guy and stay with him all night for money."
 

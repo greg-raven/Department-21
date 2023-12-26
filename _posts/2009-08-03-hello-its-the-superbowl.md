@@ -6,7 +6,7 @@ layout: post
 
 For his great work, Bob received a free ticket to the Superbowl from his company.
 
-Unfortunately, when Bob arrives at the stadium he realizes the seat is in the last row in the corner of the stadium — he is closer to the Goodyear Blimp than the field.
+Unfortunately, when Bob arrives at the stadium he realizes the seat is in the last row in the corner of the stadium --- he is closer to the Goodyear Blimp than the field.
 
 About halfway through the first quarter, Bob notices an empty seat 10 rows off the field, right on the 50 yard line. He decides to take a chance and makes his way through the stadium and around the security guards to the empty seat.
 

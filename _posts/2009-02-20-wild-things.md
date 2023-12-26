@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-An old man was sitting on a bench at the mall. A young man walked up to the bench and sat down. He had spiked hair all different colors — green, red, orange, blue, and yellow.
+An old man was sitting on a bench at the mall. A young man walked up to the bench and sat down. He had spiked hair all different colors --- green, red, orange, blue, and yellow.
 
 The old man just stared.
 

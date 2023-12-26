@@ -6,7 +6,7 @@ layout: post
 
 You are in the middle of some kind of project around the house mowing the lawn, putting a new fence in, painting the living room, or whatever.
 
-You are hot and sweaty, covered in dirt or paint. You have your old work clothes on. You know the outfit — shorts with the hole in crotch, old T-shirt with a stain from who knows what, and an old pair of tennis shoes.
+You are hot and sweaty, covered in dirt or paint. You have your old work clothes on. You know the outfit --- shorts with the hole in crotch, old T-shirt with a stain from who knows what, and an old pair of tennis shoes.
 
 Right in the middle of this great home improvement project you realize you need to run to Home Depot to get some thing to help complete the job.
 

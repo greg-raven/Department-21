@@ -16,7 +16,7 @@ Tom thought this was a good idea and said he would look for one that afternoon.
 
 About four months later, the banker ran into Tom in town again. "How's the new wife?" asked the banker.
 
-Tom proudly said, "Good — she's pregnant."
+Tom proudly said, "Good --- she's pregnant."
 
 The banker, happy that his sage advice had worked out, continued, " And how's the hired hand?"
 

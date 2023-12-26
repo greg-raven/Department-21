@@ -22,7 +22,7 @@ The tenth man (the richest) would pay $59.
 
 So, that's what they decided to do. The ten men drank in the bar every day and seemed quite happy with the arrangement, until one day, the owner threw them a curve. "Because you are such good customers," he said, "I'm going to reduce the cost of your daily beer by $20." Drinks for the ten now cost just $80.
 
-The group still wanted to pay the bill the way we pay our taxes, so the first four men were unaffected. They would still drink for free. But what about the other six men — the paying customers? How could they divide the $20 windfall so that everyone would get his "fair share?"
+The group still wanted to pay the bill the way we pay our taxes, so the first four men were unaffected. They would still drink for free. But what about the other six men --- the paying customers? How could they divide the $20 windfall so that everyone would get his "fair share?"
 
 They realized that $20 divided by six is $3.33. But if they subtracted that from everybody's share, then the fifth man and the sixth man would each end up being paid to drink his beer. So, the bar owner suggested that it would be fair to reduce each man's bill by roughly the same amount, and he proceeded to work out the amounts each should pay. And so The fifth man, like the first four, now paid nothing (100% savings).
 

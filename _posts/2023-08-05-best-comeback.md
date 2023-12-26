@@ -18,7 +18,7 @@ A defense attorney was cross-examining a police officer during a felony trial.
 
 **A:** Yes sir, with my life.
 
-**Q:** With your life? Let me ask you this then, officer: Do you have a locker room in the police station — a room where you change your clothes in preparation for your daily duties?
+**Q:** With your life? Let me ask you this then, officer: Do you have a locker room in the police station --- a room where you change your clothes in preparation for your daily duties?
 
 **A:** Yes sir, we do.
 

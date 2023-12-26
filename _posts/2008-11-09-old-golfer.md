@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-A fellow was trying to get in a quick round of golf before heading home one afternoon. He was playing alone, but as he walked onto the first tee, an older man — senior citizen, actually — asked if he could join him.
+A fellow was trying to get in a quick round of golf before heading home one afternoon. He was playing alone, but as he walked onto the first tee, an older man --- senior citizen, actually --- asked if he could join him.
 
 The guy was in a hurry, but didn't have the heart to reject the older man. What the heck, he figured, if the man slowed him down, he'd move off on his own later on.
 

@@ -74,11 +74,11 @@ This is a true story from the WordPerfect Helpline which was transcribed from a 
 
 "Even if you maybe put your knee on something and lean way over?"
 
-"Oh, it's not because I don't have the right angle — it's because it's dark."
+"Oh, it's not because I don't have the right angle --- it's because it's dark."
 
 "Dark?"
 
-"Yes — the office lights are off, and the only light I have is coming in from the window."
+"Yes --- the office lights are off, and the only light I have is coming in from the window."
 
 "Well, turn on the office light then."
 

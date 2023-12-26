@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-Two elderly women were out driving in a large car — both could barely see over the dashboard. As they were cruising along, they came to an intersection.
+Two elderly women were out driving in a large car --- both could barely see over the dashboard. As they were cruising along, they came to an intersection.
 
 The stoplight was red, but they just went on through. The woman in the passenger seat thought to herself, "I must be losing it. I could have sworn we just went through a red light."
 

@@ -6,7 +6,7 @@ layout: post
 
 The following are from a January 5 column by John Krueger, Editor of the Light and Champion newspaper in Center, Texas.
 
-I know we've all done stupid things in our lives—me included—but I think if we can look back at them later and either learn from them or laugh at them, they are not done in vain. Here are a few "stories" that I've picked up here and there from 2006. I hope they make you feel smarter because you know someone else has done stupid things, and make you laugh because life is too short to take serious all the time. I call it … the Idiot Report. — John Krueger
+I know we've all done stupid things in our lives—me included—but I think if we can look back at them later and either learn from them or laugh at them, they are not done in vain. Here are a few "stories" that I've picked up here and there from 2006. I hope they make you feel smarter because you know someone else has done stupid things, and make you laugh because life is too short to take serious all the time. I call it … the Idiot Report. --- John Krueger
 
 **Number One Idiot of 2006**
 

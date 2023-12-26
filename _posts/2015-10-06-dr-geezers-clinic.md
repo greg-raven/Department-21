@@ -30,7 +30,7 @@ Dr. Geezer: "Congratulations! You've got your memory back. That will be $500."
 
 Now having lost $1,000, Mr. Young leaves angrily, but comes back after several more days.
 
-Mr. Young: "My eyesight has become weak — I can hardly see anything!
+Mr. Young: "My eyesight has become weak --- I can hardly see anything!
 
 Dr. Geezer hands Mr. Young a $10 bill, saying "Well, I don't have any medicine for that so, here's $1,000."
 

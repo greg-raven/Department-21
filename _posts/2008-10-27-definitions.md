@@ -25,7 +25,7 @@ CHAINSAW CONSULTANT
 CHIPS &amp; SALSA
 : Chips = hardware, Salsa = software. "Well, first we gotta figure out if the problem's in your chips or your salsa.
 
-CLM — Career Limiting Move
+CLM --- Career Limiting Move
 : Used among microserfs to describe ill-advised activity. Trashing your boss while he or she is within earshot is a serious CLM.
 
 CUBE FARM

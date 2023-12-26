@@ -14,6 +14,6 @@ Outside the Bristol Zoo, in England, there is a parking lot for 150 cars and 8 c
 
 "Err, no!" insisted the Council.
 
-Sitting in his villa somewhere on the coast of Spain (presumably), is a man who had been taking the parking lot fees, estimated at about $560 per day at Bristol Zoo for the last 25 years. Assuming 7 days a week, this amounts to just over $7 million — or $280,000 every year for 25 years!
+Sitting in his villa somewhere on the coast of Spain (presumably), is a man who had been taking the parking lot fees, estimated at about $560 per day at Bristol Zoo for the last 25 years. Assuming 7 days a week, this amounts to just over $7 million --- or $280,000 every year for 25 years!
 
 And no one even knows his name.

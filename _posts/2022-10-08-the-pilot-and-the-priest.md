@@ -16,4 +16,4 @@ Next, it's the priest's turn. He stands erect and booms out, "I am Father Bob, p
 
 "Just a minute," says the good father. "That man was a pilot and he gets a silken robe and golden staff and I get only cotton and wood. How can this be?"
 
-"Up here — we go by results," says Saint Peter. "When you preached — people slept. When he flew, people prayed."
+"Up here --- we go by results," says Saint Peter. "When you preached --- people slept. When he flew, people prayed."

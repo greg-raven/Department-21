@@ -42,4 +42,4 @@ layout: post
 
 19\. Tell them to talk VERY SLOWLY, because you want to write DOWN EVERY WORD.
 
-20\. If they tell you that you have won something start shouting as if there is another person in the room with you — WE WON! WE WON!! Oh I can't believe it — WE WON!!!
+20\. If they tell you that you have won something start shouting as if there is another person in the room with you --- WE WON! WE WON!! Oh I can't believe it --- WE WON!!!

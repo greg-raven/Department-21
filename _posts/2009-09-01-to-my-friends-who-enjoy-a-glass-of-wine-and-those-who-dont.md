@@ -12,7 +12,7 @@ As Ben Franklin said:
 > 
 > In water there is bacteria.
 
-In a number of carefully controlled trials, scientists have demonstrated that if we drink 1 liter of water each day, at the end of the year we would have absorbed more than 1 kilo of Escherichia coli, (E. Coli) — bacteria found in feces.
+In a number of carefully controlled trials, scientists have demonstrated that if we drink 1 liter of water each day, at the end of the year we would have absorbed more than 1 kilo of Escherichia coli, (E. Coli) --- bacteria found in feces.
 
 In other words, we are consuming 1 kilo of poop.
 

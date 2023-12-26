@@ -14,7 +14,7 @@ You do not have the right to a new car, big screen TV or any other form of wealt
 
 **ARTICLE II:**
 
-You do not have the right to never be offended. This country is based on freedom, and that means freedom for everyone — not just you! You may leave the room, turn the channel, express a different opinion, etc., but the world is full of idiots, and probably always will be.
+You do not have the right to never be offended. This country is based on freedom, and that means freedom for everyone --- not just you! You may leave the room, turn the channel, express a different opinion, etc., but the world is full of idiots, and probably always will be.
 
 **ARTICLE III:**
 
@@ -46,5 +46,5 @@ You don't have the right to a job. All of us sure want all of you to have one, a
 
 **ARTICLE X:**
 
-You do not have the right to happiness. Being an American means that you have the right to pursue happiness — which by the way, is a lot easier if you are unencumbered by an over-abundance of idiotic laws created by those of you who were confused by the Bill of Rights.
+You do not have the right to happiness. Being an American means that you have the right to pursue happiness --- which by the way, is a lot easier if you are unencumbered by an over-abundance of idiotic laws created by those of you who were confused by the Bill of Rights.
 

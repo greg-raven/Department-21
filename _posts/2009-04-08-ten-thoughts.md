@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-Here are 10 thoughts that may make you think — and smile!
+Here are 10 thoughts that may make you think --- and smile!
 
 1. It's always darkest before dawn. So if you're going to steal your neighbor's newspaper, that's the time to do it.
 2. Never test the depth of the water with both feet.

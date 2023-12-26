@@ -22,6 +22,6 @@ One hand on latte, one knee on wheel, cradling cell phone, foot on brake, mind o
 
 One hand on wheel, one hand on hunting rifle, alternating between both feet being on the accelerator and both feet on brake, throwing McDonald's bag out the window: Texas.
 
-Four-wheel drive pick-up truck, monster tires, shotgun mounted in rear window, beer cans on floor, Rebel flag attached to antenna, fishing rod holders and beer cooler mounted on grill, hunting dogs in back, Earnhardt bumper stickers all over: Alabama, Tennessee, or Mississippi — your choice.
+Four-wheel drive pick-up truck, monster tires, shotgun mounted in rear window, beer cans on floor, Rebel flag attached to antenna, fishing rod holders and beer cooler mounted on grill, hunting dogs in back, Earnhardt bumper stickers all over: Alabama, Tennessee, or Mississippi --- your choice.
 
 Two hands gripping wheel, blue hair barely visible above windshield, driving 35 on the interstate in the center lane with the left blinker on: Florida.

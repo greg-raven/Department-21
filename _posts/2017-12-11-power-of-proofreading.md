@@ -28,7 +28,7 @@ In another office:
 
 Outside a second-hand shop:
 
-> We exchange anything — bicycles, washing machines, etc. Why not bring your wife along and get a wonderful bargain?
+> We exchange anything --- bicycles, washing machines, etc. Why not bring your wife along and get a wonderful bargain?
 
 Notice in health food shop window:
 
@@ -52,7 +52,7 @@ Message on a leaflet:
 
 On a repair shop door:
 
-> We can repair anything. (Please knock hard on the door — the bell doesn't work.)
+> We can repair anything. (Please knock hard on the door --- the bell doesn't work.)
 
 ## Headlines
 

@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-WASHINGTON (SR) — Barack Obama, the first openly-gay resident of the United States, has directed the Pentagon to replace the "don't ask, don't tell" policy with one that will allow openly gay men and women to serve in the military.
+WASHINGTON (SR) --- Barack Obama, the first openly-gay resident of the United States, has directed the Pentagon to replace the "don't ask, don't tell" policy with one that will allow openly gay men and women to serve in the military.
 
 Defense Secretary Robert Gates and the chairman of the Joint Chiefs of Staff, Admiral Mike Mullen, will present details of the plan to U.S. lawmakers next Tuesday.
 

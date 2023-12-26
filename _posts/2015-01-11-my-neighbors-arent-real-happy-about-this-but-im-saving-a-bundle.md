@@ -6,7 +6,7 @@ layout: post
 
 I've disconnected my home alarm system and de-registered from Neighborhood Watch.
 
-Instead, I've got two Pakistani flags raised in the front yard — one at each corner — and 10-foot-square black ISIS flag on the roof
+Instead, I've got two Pakistani flags raised in the front yard --- one at each corner --- and 10-foot-square black ISIS flag on the roof
 
 The local police, sheriff, FBI, CIA, NSA, Homeland Security, Secret Service, and other agencies are each watching the house 24/7.
 

@@ -28,7 +28,7 @@ On a Taxidermist's window: "We really know our stuff."
 
 On a Fence: "Salesmen welcome! Dog food is expensive!"
 
-At a Car Dealership: "The best way to get back on your feet — miss a car payment."
+At a Car Dealership: "The best way to get back on your feet --- miss a car payment."
 
 Outside a Car Exhaust Store: "No appointment necessary. We hear you coming."
 

@@ -26,6 +26,6 @@ The young man thinks about it for a second and then says, "Okay, why not?"
 
 "Wow! That's correct," says the yuppie, "but how did you guess that?"
 
-"No guessing required," answered the cowboy. "You showed up here even though nobody called you, you wanted to get paid for an answer I already knew, to a question I never asked. You used millions of dollars' worth of equipment trying to show me how much smarter than me you are, and you don't know crap about how working people make a living — or about cows, for that matter. This is a herd of sheep."
+"No guessing required," answered the cowboy. "You showed up here even though nobody called you, you wanted to get paid for an answer I already knew, to a question I never asked. You used millions of dollars' worth of equipment trying to show me how much smarter than me you are, and you don't know crap about how working people make a living --- or about cows, for that matter. This is a herd of sheep."
 
 "Now give me back my dog."

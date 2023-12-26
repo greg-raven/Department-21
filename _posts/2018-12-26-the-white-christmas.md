@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-## December 8 — 6:00 p.m.
+## December 8 --- 6:00 p.m.
 
 It started to snow.
 
@@ -40,7 +40,7 @@ The sun has melted all our lovely snow.
 
 Such a disappointment!
 
-My neighbor tells me not to worry — we'll definitely have a white Christmas.
+My neighbor tells me not to worry --- we'll definitely have a white Christmas.
 
 No snow on Christmas would be awful!
 

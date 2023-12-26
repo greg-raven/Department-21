@@ -1,5 +1,5 @@
 ---
-title: "Steven Wright Wrecks"
+title: "Steven Wright wrecks"
 author: "Noam Sain"
 layout: post
 ---
@@ -22,7 +22,7 @@ So what's the speed of dark?
 
 How come you don't ever hear about gruntled employees? And who has been dis-ing them anyhow?
 
-After eating, do amphibians need to wait an hour before getting OUT of the water?
+After eating, do amphibians need to wait an hour before getting *out* of the water?
 
 Why don't they just make mouse-flavored cat food?
 

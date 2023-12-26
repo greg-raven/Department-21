@@ -6,4 +6,4 @@ layout: post
 
 **Vote for Obamacare to solve all of your medical problems!**\*
 
-\* Side effects may include delayed treatment, elevated taxes, swelled deficits, shortages of doctors, and — in some cases — death.
+\* Side effects may include delayed treatment, elevated taxes, swelled deficits, shortages of doctors, and --- in some cases --- death.

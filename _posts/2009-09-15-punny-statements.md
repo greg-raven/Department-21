@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-If you're a logophile — a lover of words — you might find yourself cringing as you read these.
+If you're a logophile --- a lover of words --- you might find yourself cringing as you read these.
 
 - Police were called to a daycare center where a three-year-old was resisting a rest.
 

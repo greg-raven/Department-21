@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-Scientists at NASA have discovered a nearly invisible ring around Saturn — one so large that it would take 1 billion Earths to fill it.
+Scientists at NASA have discovered a nearly invisible ring around Saturn --- one so large that it would take 1 billion Earths to fill it.
 
 Resident Obama claimed that this was an example of the "Shovel Ready" projects completed using federal stimulus money.
 

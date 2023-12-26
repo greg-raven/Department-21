@@ -6,17 +6,17 @@ layout: post
 
 It is now official: You are all morons.
 
-The U.S. Postal Service was established in 1775 — you have had 234 years to get it right; it is broke.
+The U.S. Postal Service was established in 1775 --- you have had 234 years to get it right; it is broke.
 
-Social Security was established in 1935 — you have had 74 years to get it right; it is broke.
+Social Security was established in 1935 --- you have had 74 years to get it right; it is broke.
 
-Fannie Mae was established in 1938 — you have had 71 years to get it right; it is broke.
+Fannie Mae was established in 1938 --- you have had 71 years to get it right; it is broke.
 
-War on Poverty started in 1964 — you have had 45 years to get it right; $1 trillion of our money is confiscated each year and transferred to "the poor"; it hasn't worked.
+War on Poverty started in 1964 --- you have had 45 years to get it right; $1 trillion of our money is confiscated each year and transferred to "the poor"; it hasn't worked.
 
-Medicare and Medicaid were established in 1965 — you've had 44 years to get it right; they're broke.
+Medicare and Medicaid were established in 1965 --- you've had 44 years to get it right; they're broke.
 
-Freddie Mac was established in 1970 — you have had 39 years to get it right; it is broke.
+Freddie Mac was established in 1970 --- you have had 39 years to get it right; it is broke.
 
 Trillions of dollars in the massive political payoff called the TARP bill of 2009 shows NO sign of working.
 

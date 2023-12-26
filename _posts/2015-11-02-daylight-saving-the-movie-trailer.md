@@ -1,5 +1,5 @@
 ---
-title: "Daylight Saving — the movie (trailers)"
+title: "Daylight Saving --- the movie (trailers)"
 author: "Noam Sain"
 layout: post
 ---

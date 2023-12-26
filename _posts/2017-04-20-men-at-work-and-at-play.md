@@ -52,7 +52,7 @@ Oh yeah, like that's gonna help?
 
 ![not-a-toy](/assets/2017/2017-04-not-a-toy.jpg)
 
-Can't find your helmet? No problem — use a bucket.
+Can't find your helmet? No problem --- use a bucket.
 
 ![buckethead](/assets/2017/2017-04-buckethead.jpg)
 

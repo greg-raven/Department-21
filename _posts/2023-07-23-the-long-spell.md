@@ -6,7 +6,7 @@ layout: post
 
 After a long illness, a woman died and arrived at the Gates of Heaven. While she was waiting for Saint Peter to greet her, she peeked through the Gates.
 
-She saw a beautiful banquet table. Sitting all around were her parents and all the other people she had loved and who had died before her. They saw her and began calling greetings to her — "Hello!" "How are you?" "We've been waiting for you!" "Good to see you."
+She saw a beautiful banquet table. Sitting all around were her parents and all the other people she had loved and who had died before her. They saw her and began calling greetings to her --- "Hello!" "How are you?" "We've been waiting for you!" "Good to see you."
 
 When Saint Peter came by, the woman said to him, "This is such a wonderful place! How do I get in?"
 

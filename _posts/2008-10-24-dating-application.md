@@ -38,7 +38,7 @@ Note: This application will be incomplete and rejected unless accompanied by a c
 
 15. Please fill in the blanks: If I were shot, the last place on my body I would want wounded would be my ____________________________ If I were beaten, the last bone I would want broken would be my ____________________________ A woman's place is in the ____________________________ The one thing I hope this application doesn't ask is ____________________________ When I meet a girl, the one thing I always notice about her first is ____________________________
 
-*Note: If answer to last question begins with "T" or "A", discontinue and leave premises — keeping your head low and running in a serpentine fashion is advised*
+*Note: If answer to last question begins with "T" or "A", discontinue and leave premises --- keeping your head low and running in a serpentine fashion is advised*
 
 What do you want to be IF you grow up?
 

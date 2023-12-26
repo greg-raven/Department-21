@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-A lonely female crab was walking down the beach one evening when she noticed a male crab coming toward her — but he was walking straight and not sideways.  
+A lonely female crab was walking down the beach one evening when she noticed a male crab coming toward her --- but he was walking straight and not sideways.  
   
 Impressed by his talent, she decided to marry him immediately.
 

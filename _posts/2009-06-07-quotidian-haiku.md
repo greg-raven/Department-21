@@ -8,11 +8,11 @@ Hey! Get back indoors.
 Whatever you were doing  
 Could put an eye out.
 
-A lovely nose ring —  
+A lovely nose ring ---  
 excuse me while I put my  
 head in the oven.
 
-Hidden connection —  
+Hidden connection ---  
 starvation in Africa,  
 food left on my plate.
 
@@ -20,7 +20,7 @@ How soft the petals
 of the floral arrangement  
 I have just stolen.
 
-My nature journal —  
+My nature journal ---  
 today, I saw some trees and birds.  
 I should know the names?
 
@@ -32,7 +32,7 @@ Like a bonsai tree,
 your terrible posture at  
 my dinner table.
 
-Coroner's report —  
+Coroner's report ---  
 "The deceased, wearing no hat,  
 caught his death of cold."
 

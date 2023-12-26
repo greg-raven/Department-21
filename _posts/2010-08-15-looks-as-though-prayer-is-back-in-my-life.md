@@ -10,6 +10,6 @@ I was in slow-moving traffic the other day and the car in front of me had a bump
   
 When I got home, I looked up that Bible passage. It read:
 
-Psalm 109:8 — "Let his days be few and brief; and let others step forward to replace him."
+Psalm 109:8 --- "Let his days be few and brief; and let others step forward to replace him."
 
 Let us all bow our heads and pray.

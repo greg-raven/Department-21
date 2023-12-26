@@ -28,4 +28,4 @@ Hard to believe, but the following are replies that Detroit women have written o
 
 11. I am unsure as to the identity of the father of my baby, after all, like when you eat a can of beans you can't be sure which one made you fart.
 
-Yep, you guessed it right — you are paying taxes to support these people!
+Yep, you guessed it right --- you are paying taxes to support these people!

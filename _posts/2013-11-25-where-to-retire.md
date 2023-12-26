@@ -80,7 +80,7 @@ OR
 FINALLY You can retire to Florida where …
 
 1. You eat dinner at 3:15 in the afternoon.
-2. All purchases include a coupon of some kind — even houses and cars.
+2. All purchases include a coupon of some kind --- even houses and cars.
 3. Everyone can recommend an excellent dermatologist.
 4. Road construction never ends anywhere in the state.
 5. Cars in front of you often appear to be driven by headless people.

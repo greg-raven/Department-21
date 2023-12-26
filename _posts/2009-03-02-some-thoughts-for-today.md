@@ -6,7 +6,7 @@ layout: post
 
 I have kleptomania, but when it gets bad, I take something for it.
 
-Follow your dreams — except that one where you're naked in church.
+Follow your dreams --- except that one where you're naked in church.
 
 Sometimes too much to drink isn't enough.
 

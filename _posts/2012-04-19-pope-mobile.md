@@ -18,7 +18,7 @@ Reluctantly, the driver gets in the back as the Pope climbs in behind the wheel.
 
 "Please slow down, Your Holiness," pleads the worried driver, but the Pope keeps the pedal to the metal until they hear sirens.
 
-"Oh, dear God, I'm going to lose my license — and my job!" moans the driver.
+"Oh, dear God, I'm going to lose my license --- and my job!" moans the driver.
 
 The Pope pulls over and rolls down the window as the cop approaches, but the cop takes one look at him, goes back to his motorcycle, and gets on the radio.
 
