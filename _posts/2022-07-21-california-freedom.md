@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/naqTTlb8Exs" title="CALIFORNIA FREEDOM 60"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/naqTTlb8Exs" title="CALIFORNIA FREEDOM 60" allowfullscreen></iframe>
 
 It's Independence Day, so let's talk about what's going on in America. Freedom is under attack.
 
