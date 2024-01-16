@@ -1,6 +1,7 @@
 ---
 title: "I made a snowman"
-author: "Kevin Sorbo"
+tags:
+- Kevin Sorbo
 layout: post
 ---
 

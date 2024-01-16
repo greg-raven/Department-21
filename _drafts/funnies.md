@@ -4284,38 +4284,6 @@ Meanwhile, in Havana, Cuban officials celebrated the news that the Windows sourc
 
 ------
 
-MONDEGREENS ARE MISHEARINGS of common phrases, prayers, song lyrics and whatnot. Why they are called "mondegreens" and not "roundjohns" or "sundaymonkeys" is explained at http://www.sfgate.com/columnists/carroll, a fine Web site in every way.
-
-Every year I publish mondegreens collected in the past 12 months, which yields a spate of more mondegreens. I would plead with contributors to a) include your name and b) include the real phrase or lyric or whatever, no matter how obvious it may seem to you.
-
-Many mondegreens are uttered by children and lovingly collected by parents. When Kerry Halligan was living in Seattle, the family frequently went on jaunts that took them through the Battery Street Tunnel. When her daughter Heather recognized the route, she would yell, "Here comes the tunnel, everybody hold your breasts."
-
-Hank De Sutter knew a kid who returned from San Francisco with excited descriptions of "fisherman's dwarf." David Dulberg's called eucalyptus trees "coo coo lipstick trees." Hedi Gerkin once performed with the Distaff Singers; the son of one of the other singers, just before a performance, encouraged his mother with "Break an egg, Mom."
-
-When Dave Morrow was a child, he sang the lovely Christmas carol "Atomic bomb, atomic bomb ..." Who knew what a "tannenbaum" was, anyway?
-
-Religion is the source of much childhood confusion. Larry Rowinsky tells this story: "Growing up in a half- Yiddish/half-English home environment, I often felt hampered by nagging doubts about my ability to communicate in any language. When I entered public school, I really discovered I knew nothing about nothing. Particularly at Christmas.
-
-"I didn't know what 'a way in a manger' was --- what way? But I sang carols with the other kids ... and I was still singing when I got home: 'The little Lord Cheezits ... the little Lord Cheezits.'
-
-"'Shh,' said my mother. 'Don't say those words. God will punish you.'"
-
-And thus a child learned that a snack cracker was a tool of oppression. It's the power of mondegreens.
-
-OVERHEARD PHRASES ON radio and television are another lode of mondegreens. Rich Carlsen heard on KCBS: "Putnam Oldsmobile is opening its nudist play area." Barbara Bishop heard Greta Van Susteren on CNN say, "Good night from Bird in a Poof," a reasonably fey name for a show often called "Burden of Proof." Another reader heard those Volkswagen ads praising "Fahrvergnugen" as promising "four Fig Newtons," perhaps handed out by the little Lord Cheezits.
-
-Buff Silvera heard a top-of-the-news teaser about prisoners in San Quentin suffering from "the Berkeley locusts." Alas: tuberculosis. Doug Stone could have sworn he heard a news story about the Chinese producing new trombones. Alas: neutron bombs.
-
-Earlier this year, Nicholas Mitchell decided to listen to the State of the Union address: "My mind was beginning to wander, but I was suddenly jolted to attention when I heard Clinton refer to 'a cannibal for progress.' I later read the text online and realized I had heard the phrase 'accountable for progress.'"
-
-SHEILA BRENNAN WONDERS about those "offbeat minutes" the cell phone companies are always offering her. When Jo Donegan was reading bureaucratic forms for a living, she remembers, listed under "occupation," one particularly interesting entry: "arrow space."
-
-Frank McGrady's friend Ron Holmes always wondered why Americans get together on New Year's Eve to sing about "old Hank's eye." Kyle in San Francisco writes: "She told me they had fresh urban cheese muffins. I said OK, yes, whatever. I'm a city person. I can handle it. She pulled the muffin from a bin labeled 'Herb 'n' Cheese Muffin.'"
-
-But by far the greatest concentration of mondegreens comes from popular song lyrics, rock 'n' roll favorites from all eras, and that's tomorrow's column.
-
-------
-
 1. Flights never leave from Gate #1 at any terminal in the world.
 
 2. No flight ever leaves on time unless you are running late and need the delay to make the flight
@@ -4919,3 +4887,54 @@ Jewish telegram: "Begin worrying. Details to follow."
 5759 Year according to Jewish calendar
 4696 Year according to Chinese calendar
 1063 Total # of years that Jews went without Chinese food
+
+
+Still trying to get my head around the fact that "take out" can mean food, dating, or murder.
+
+The older I get, the more I understand why roosters scream to start their day.
+
+Being popular on Facebook is like sitting at the "cool table" in the cafeteria of a mental hospital.
+
+You know you're over 50 when you have "upstairs ibuprofen" and "downstairs ibuprofen."
+
+How did doctors come to the conclusion that exercise prolongs life, when the rabbit is always jumping but only lives for around two years, and the turtle that doesn't exercise at all lives over 200 years.
+
+If only vegetables smelled as good as bacon.
+
+The biggest joke on mankind is that computers have begun asking humans to prove they aren't a robot.
+
+When a kid says "Daddy, I want mommy," that's the kid version of "I'd like to speak to your supervisor."
+
+It's weird being the same age as old people.
+
+Just once, I want a username and password prompt to respond "CLOSE ENOUGH."
+
+If Adam and Eve were Cajuns they would have eaten the snake instead of the apple and saved us all a lot of trouble.
+
+We celebrated last night with a couple of adult beverages ... Metamucil and Ensure.
+
+You know you are getting old when friends with benefits means knowing someone who can drive at night.
+
+Weight loss goal: To be able to clip my toenails and breathe at the same time.
+
+After watching how some people wore their masks, I understand why contraception fails.
+
+Some of my friends exercise every day. Meanwhile I am watching a show I don't like because the remote fell on the floor.
+
+For those of you that don't want Alexa or Siri listening in on your conversation, they are making a male version. It doesn't listen to anything.
+
+I just got a present labeled, "From Mom and Dad," and I know darn well that Dad has no idea what's inside.
+
+Now that COVID has everyone washing their hands correctly, next week: Turn signals.
+
+Someone said, "Nothing rhymes with orange." I said, "No, it doesn't."
+
+The pessimist complains about the wind. The optimist expects it to change. The realist adjusts his sails.
+
+There's a fine line between a numerator and a denominator. Only a fraction of people will find this funny.
+
+I have many hidden talents. I just wish I could remember where I hid them.
+
+My idea of a Super Bowl is a toilet that cleans itself. February 11, 2024
+
+Exercise helps you with decision-making. It's true. I went for a run this morning and decided I'm never going again.
