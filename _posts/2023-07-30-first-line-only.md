@@ -27,4 +27,3 @@ These are the 10 winners of this year's Bulwer-Lytton contest, wherein one write
 AND THE WINNER IS…
 
 1\. "The sun oozed over the horizon, shoved aside darkness, crept along the greensward, and, with sickly fingers, pushed through the castle window, revealing the pillaged princess, hand at throat, crown asunder, gaping in frenzied horror at the sated, sodden amphibian lying beside her, disbelieving the magnitude of the frog's deception, screaming madly, 'You lied!'"
-

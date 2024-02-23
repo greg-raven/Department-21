@@ -17,4 +17,3 @@ After a while she said, "Oldies," and instantly she heard Fats Domino singing "B
 A few minutes later, a woman in a new Cadillac cut her off in traffic. "Stupid, inconsiderate bitch!" she yelled. The radio paused for a second, and then she heard,
 
 "Hello again and welcome back to the program. This is Dr. Laura."
-
