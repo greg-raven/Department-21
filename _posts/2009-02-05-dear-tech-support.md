@@ -6,8 +6,8 @@ layout: post
 
 Dear Technical Support:
 
-Last year I upgraded from Boyfriend 5.0 to Husband 1.0 and noticed that the new program began making unexpected changes to the accounting software; severely limiting access to wardrobe, flower and jewelry applications that operated flawlessly under Boyfriend 5.0.  
-  
+Last year I upgraded from Boyfriend 5.0 to Husband 1.0 and noticed that the new program began making unexpected changes to the accounting software; severely limiting access to wardrobe, flower and jewelry applications that operated flawlessly under Boyfriend 5.0.
+
 No mention of this phenomenon was included in The product brochure. In addition, Husband 1.0 uninstalls many other valuable programs such as DinnerDancing 7.5, CruiseShip 2.3, and OperaNight 6.1 and installs new, undesirable programs such as PokerNight 1.3, Football 5.0, Golf 2.4 and MassiveClutter 4.5.
 
 Conversation 8.0 no longer runs, and invariably crashes the system. Under no circumstances will it run DiaperChanging 14.1 or HouseCleaning 2.6. I've tried running the Nagging 5.3 fix but this all purpose utility is of limited effectiveness.

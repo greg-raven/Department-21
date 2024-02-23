@@ -4,8 +4,8 @@ author: "Noam Sain"
 layout: post
 ---
 
-So, how's that "hope" and "change" working out for you?  
-  
+So, how's that "hope" and "change" working out for you?
+
 You can't blame Bush anymore!
 
 1.5 million people attended the inauguration and only 14 missed work.

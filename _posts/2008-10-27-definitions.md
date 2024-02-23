@@ -105,4 +105,3 @@ XEROX SUBSIDY
 
 YUPPIE FOOD STAMPS
 : The ubiquitous $20 bills spewed out of ATMs everywhere. Often used when trying to split the bill after a meal, "We each owe $8, but all anybody's got are yuppie food stamps."
-

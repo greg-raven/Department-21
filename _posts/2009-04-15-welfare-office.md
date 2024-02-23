@@ -4,8 +4,8 @@ author: "Noam Sain"
 layout: post
 ---
 
-A guy walked into the local welfare office to pick up his check.  
-  
+A guy walked into the local welfare office to pick up his check.
+
 He marched straight up to the counter and said, "Hi. You know, I just HATE drawing welfare. I'd really rather have a job."
 
 The social worker behind the counter said, "Your timing is excellent. We just got a job opening from a very wealthy old man who wants a chauffeur and bodyguard for his beautiful daughter.

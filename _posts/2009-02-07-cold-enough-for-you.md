@@ -4,8 +4,8 @@ author: "Noam Sain"
 layout: post
 ---
 
-A Chicago man dies and goes to hell. When he gets there, the devil comes over to welcome him. The devil then says "sometimes it gets pretty uncomfortable down here," the man says, "no problem. I'm from Chicago."  
-  
+A Chicago man dies and goes to hell. When he gets there, the devil comes over to welcome him. The devil then says "sometimes it gets pretty uncomfortable down here," the man says, "no problem. I'm from Chicago."
+
 So the devil goes over to the thermostat, turns the temperature up to 90, and the humidity up to 90. He then goes back to the Chicago man to see how he's doing. To the devil's surprise, the man is doing just fine. "No problem … just like Chicago in June," the man says.
 
 So the devil goes back over to the thermostat, and turns the temperature up to 100, and the humidity up to 95. He then goes back over to see how the Chicago man is doing. The man is sweating a little, but overall looks comfortable. "No problem … Just like Chicago in July," the man says.

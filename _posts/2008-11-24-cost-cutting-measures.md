@@ -21,4 +21,3 @@ Expenditures for meals will be limited to an absolute minimum. It should be note
 **Miscellaneous**
 
 All employees are encouraged to devise innovative techniques in effort to save company dollars. One enterprising individual has already suggested that money could be raised during airport layover periods which could be used to defray travel expenses. In support of this idea, red caps will be issued to all employees prior to their departure so that they may earn tips by helping others with their luggage. Small plastic roses and ball point pens will also be available to employees so that sales may be made as time permits.
-

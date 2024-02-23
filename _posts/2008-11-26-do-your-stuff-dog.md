@@ -13,4 +13,3 @@ But the Accountant said his dog could do better. He called his dog and said, "Sl
 The Chemist said that his dog could top that. He called his dog and said, "Measure, do your stuff." Measure got up, walked over to the fridge, took out a quart of milk, got a 10 ounce glass from the cupboard and poured exactly 8 ounces without spilling a drop. Everyone agreed that was good.
 
 Then the three men turned to the Government Worker and said, "What can your dog do?" The Government Worker called to his dog and said, Coffee Break, do your stuff." Coffee Break jumped to his feet, ate the cookies, drank the milk, dumped on the paper, had sex with the other three dogs, claimed he injured his back while doing so, filed a grievance report for unsafe working conditions, put in for workman's compensation and went home on sick leave.
-

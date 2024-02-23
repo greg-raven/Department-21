@@ -51,4 +51,3 @@ A. So they can find their way back to the house.
 Q: Why were hurricanes usually named after women?
 
 A: Because when they arrive, they're wet and wild, but when they go they take your house and car.
-

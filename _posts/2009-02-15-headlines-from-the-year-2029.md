@@ -4,8 +4,8 @@ author: "Noam Sain"
 layout: post
 ---
 
-Ozone created by electric cars now killing millions in the seventh largest country in the world, Mexifornia, formerly known as California.  
-  
+Ozone created by electric cars now killing millions in the seventh largest country in the world, Mexifornia, formerly known as California.
+
 White minorities still trying to have English recognized as Mexifornia's third language.
 
 Spotted Owl plague threatens northwestern United States crops and livestock.

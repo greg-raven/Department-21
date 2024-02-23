@@ -17,4 +17,3 @@ The frog replies, "Ribbit Las Vegas." They go to Las Vegas and the guy says, "OK
 Boom! Tons of cash comes sliding back across the table. The man takes his winnings and buys the best room in the hotel. He sits the frog down and says, "Frog, I don't know how to repay you. You've won me all this money and I am forever grateful."
 
 The frog replies, "Ribbit Kiss Me." He figures why not, since after all the frog did for him, he deserves it. With a kiss, the frog turns into a gorgeous 15-year-old girl. "And that, your honor, is how the girl ended up in my room. So help me God or my name is not William Jefferson Clinton."
-

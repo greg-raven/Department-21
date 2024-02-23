@@ -47,4 +47,3 @@ You don't have the right to a job. All of us sure want all of you to have one, a
 **ARTICLE X:**
 
 You do not have the right to happiness. Being an American means that you have the right to pursue happiness --- which by the way, is a lot easier if you are unencumbered by an over-abundance of idiotic laws created by those of you who were confused by the Bill of Rights.
-

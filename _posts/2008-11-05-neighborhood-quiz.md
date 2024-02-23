@@ -33,4 +33,3 @@ How you rate: 30 --- a perfect score. Welcome to the neighborhood!
 10-19 --- You have mastered some of the aspects of the stress-filled life, but still have a long way to go. Have you considered a parallel career path?
 
 0-9 --- Enjoying all that extra time? What do you _do_ anyway?
-

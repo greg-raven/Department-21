@@ -11,4 +11,3 @@ Next door to her lived an atheist who would get so angry at her proclamations th
 The next morning, the lady went out on her porch and noted a large bag of groceries and shouted, "PRAISE THE LORD!" The neighbor jumped from behind a bush and said, "HA … HA. I told you there was no Lord! I bought those groceries, myself! God didn't!"
 
 The lady started jumping up and down and clapping her hands and saying, "PRAISE THE LORD! He not only sent me groceries, but He made the Devil pay for them! PRAISE THE LORD!"
-

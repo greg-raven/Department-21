@@ -27,4 +27,3 @@ Only in America do we use the word politics to describe our process. In Latin "p
 Only in America can a homeless combat veteran live in a cardboard box and a draft dodger get elected to public office.
 
 What a country!
-

@@ -4,8 +4,8 @@ author: "Noam Sain"
 layout: post
 ---
 
-I recently asked my friend's little girl what she wanted to be when she grows up. She said she wanted to be president some day.  
-  
+I recently asked my friend's little girl what she wanted to be when she grows up. She said she wanted to be president some day.
+
 Both of her parents, liberal Democrats, were standing there, so I asked her, "If you were president what would be the first thing you would do?"
 
 She replied, "I'd give food and houses to all the homeless people."

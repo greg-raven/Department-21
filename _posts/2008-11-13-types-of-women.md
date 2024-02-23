@@ -21,4 +21,3 @@ Huffy --- "I see nothing humorous in those silly cartoons you keep snickering at
 Woman from Mars --- "I believe this interpretive dance will explain how I feel about our relationship" Also known as: The Babbler, Spooky Girl, Screwball, Loony, Bad News, Artistic.<br>Advantages: Entertaining, unfathomable.<br>Disadvantages: Will read her poetry aloud.
 
 Ms. Dreamgirl --- "I am utterly content with you just the way you are, my handsome genius of a boyfriend. I think we must make love like crazed weasels now." Also known as: Ms. Right, Goddess, Knockout, Perfection, Gorgeous.<br>Advantages: Funny, intelligent uninhibited.<br>Disadvantages: Will have nothing to do with you.
-

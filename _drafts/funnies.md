@@ -2720,33 +2720,33 @@ I hear that all Australian women are beautiful. Is that true and if so,
 can you send me pictures of the available ones? (Italy)
 
 I want to go swimming at Bondi Beach on October 20th. Will I turn blue?
-(Germany) [More likely brown, considering the effluent...]
+(Germany) \[More likely brown, considering the effluent ...\]
 
 Does it ever get windy in Australia? I have never seen it rain on TV, so
-how do the plants grow? (UK) [Upwards, out of the ground, like the person
+how do the plants grow? (UK) \[Upwards, out of the ground, like the person
 who asked this question, who themselves will need watering if their IQ
-drops any lower...]
+drops any lower...\]
 
-Will I be able to see kangaroos in the street? (USA) [Depends on how much
-beer you've consumed...]
+Will I be able to see kangaroos in the street? (USA) \[Depends on how much
+beer you've consumed...\]
 
 Which direction should I drive --- Perth to Darwin or Darwin to Perth --- to
-avoid driving with the sun in my eyes? (Germany) [Excellent question,
-considering that the Olympics are being held in Sydney.]
+avoid driving with the sun in my eyes? (Germany) \[Excellent question,
+considering that the Olympics are being held in Sydney.\]
 
 I want to walk from Perth to Sydney --- can I follow the railroad tracks?
-(Sweden) [Sure, it's only seven thousand miles, so you'll need to have
+(Sweden) \[Sure, it's only seven thousand miles, so you'll need to have
 started about a year and a half ago to get there in time for this
-October...]
+October...\]
 
-Is it safe to run around in the bushes in Australia? (Sweden) [And
-accomplish what?]
+Is it safe to run around in the bushes in Australia? (Sweden) \[And
+accomplish what?\]
 
 It is imperative that I find the names and addresses of places to contact
-for a stuffed porpoise. (Italy) [I'm not touching this one...]
+for a stuffed porpoise. (Italy) \[I'm not touching this one...\]
 
 My client wants to take a steel pooper-scooper into Australia. Will you
-let her in? (South Africa) [Why? We do have toilet paper here...]
+let her in? (South Africa) \[Why? We do have toilet paper here...\]
 
 Are there any ATMs in Australia? Can you send me a list of them in
 Brisbane, Cairns, Townsville and Hervey Bay? (UK)
@@ -2798,11 +2798,11 @@ I have a question about a famous animal in Australia, but I forget its
 name. It's a kind of bear and lives in trees. (USA)
 
 I have developed a new product that is the fountain of youth. Can you
-tell me where I can sell it in Australia? (USA) [From Liz Taylor,
-perhaps?]
+tell me where I can sell it in Australia? (USA) \[From Liz Taylor,
+perhaps?\]
 
 Are there places in Australia where you can make love outdoors? (Italy)
-[Yes. Outdoors.]
+\[Yes. Outdoors.\]
 
 I was in Australia in 1969 on R+R, and I want to contact the girl I dated
 while I was staying in Kings Cross. Can you help?(USA)
