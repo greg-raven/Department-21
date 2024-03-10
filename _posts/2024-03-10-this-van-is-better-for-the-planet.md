@@ -1,5 +1,5 @@
 ---
-title: "This van is better for the planet"
+title: "Better for the planet"
 author: "Noam Sain"
 layout: post
 ---
