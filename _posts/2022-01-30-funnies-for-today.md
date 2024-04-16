@@ -4,7 +4,11 @@ author: "Noam Sain"
 layout: post
 ---
 
+Did you know? By replacing your potato chips with grapefruit as a snack you can lose up to 90% of what little joy you still have left in your life.
+
 ![](/assets/2022/2022-01-funny-01.jpg)
+
+Beer is now cheaper than gas. Drink. Don't drive.
 
 ![](/assets/2022/2022-01-funny-02.jpg)
 
