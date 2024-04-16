@@ -10,17 +10,17 @@ The priest said, "What do you mean, almost?"
 
 The Irishman said, "Well, we got undressed and rubbed together, but then I stopped."
 
-The priest said, "Rubbing together is the same as putting it in. You"re not to see that woman again.
+The priest said, "Rubbing together is the same as putting it in. You're not to see that woman again.
 
-For your penance, say five Hail Mary"s and put $50 in the poor box."
+"For your penance, say five Hail Marys and put $50 in the poor box."
 
 The Irishman left the confessional, said his prayers, and then walked over to the poor box.
 
 He paused for a moment and then started to leave.
 
-The priest, who was watching, quickly ran over to him saying, "I saw that. You didn"t put any money in the poor box!"
+The priest, who was watching, quickly ran over to him saying, "I saw that. You didn't put any money in the poor box!"
 
-The Irishman replied, "Yeah, but I rubbed the $50 on the box, and according to you, that"s the same as putting it in!"
+The Irishman replied, "Yeah, but I rubbed the $50 on the box, and according to you, that's the same as putting it in!"
 
 ---
 
@@ -40,13 +40,13 @@ The priest said, "No, but it will wipe that smile off of your face."
 
 ---
 
-Muldoon lived alone in the Irish countryside with only a pet dog for company. One day the dog died, and Muldoon went to the parish priest and asked, "Father, my dog is dead. Could ya" be saying" a Mass for the poor creature?"
+Muldoon lived alone in the Irish countryside with only a pet dog for company. One day the dog died, and Muldoon went to the parish priest and asked, "Father, my dog is dead. Could ya' be sayin' a Mass for the poor creature?"
 
-Father Patrick replied, "I"m afraid not; we cannot have services for an animal in the church. But there are some Baptists down the lane, and there"s no tellin" what they believe. Maybe they"ll do something for the creature."
+Father Patrick replied, "I'm afraid not; we cannot have services for an animal in the church. But there are some Baptists down the lane, and there's no tellin' what they believe. Maybe they'll do something for the creature."
 
-Muldoon said, "I"ll go right away Father. Do ya think $5,000 is enough to donate to them for the service?"
+Muldoon said, "I'll go right away Father. Do ya think $5,000 is enough to donate to them for the service?"
 
-Father Patrick exclaimed, "Sweet Mary, Mother of Jesus! Why didn"t ya tell me the dog was Catholic?
+Father Patrick exclaimed, "Sweet Mary, Mother of Jesus! Why didn't ya tell me the dog was Catholic?"
 
 ---
 
@@ -58,8 +58,8 @@ Man: "What sins?"
 
 Priest: "What kind of a Catholic are you?"
 
-Man: "I"m Jewish."
+Man: "I'm Jewish."
 
 Priest: "Why are you telling me all this?"
 
-Man: "I"m 92 years old … I"m telling everybody."
+Man: "I'm 92 years old ... I'm telling everybody."
