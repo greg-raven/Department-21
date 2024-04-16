@@ -10,9 +10,7 @@ The priest said, "What do you mean, almost?"
 
 The Irishman said, "Well, we got undressed and rubbed together, but then I stopped."
 
-The priest said, "Rubbing together is the same as putting it in. You're not to see that woman again.
-
-"For your penance, say five Hail Marys and put $50 in the poor box."
+The priest said, "Rubbing together is the same as putting it in. You're not to see that woman again. For your penance, say five Hail Marys and put $50 in the poor box."
 
 The Irishman left the confessional, said his prayers, and then walked over to the poor box.
 
