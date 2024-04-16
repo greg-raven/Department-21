@@ -24,6 +24,6 @@ So we went to her apartment and had another drink. She said, "If you don't mind,
 
 I said, "OK" as I didn't mind a bit.
 
-She went into the bedroom, and in about five mintues she came out of the bedroom carrying a large birthday cake, followed by my wife and children, and they were all singing "Happy Birthday."
+She went into the bedroom, and in about five minutes she came out of the bedroom carrying a large birthday cake, followed by my wife and children, and they were all singing "Happy Birthday."
 
 And there I sat with nothing on but my socks!
