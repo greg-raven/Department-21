@@ -10,7 +10,7 @@ layout: post
 
 - I find it ironic that the colors red, white and blue stand for freedom until they are flashing behind you.
 
-- When wearing a bikini, women reveal 90% of their body … men are so polite they only look at the covered parts.
+- When wearing a bikini, women reveal 90% of their body ... men are so polite they only look at the covered parts.
 
 - A recent study has found that woman who carry a little extra weight live longer than the men who mention it.
 
@@ -26,7 +26,7 @@ layout: post
 
 - I think my neighbor is stalking me as she's been googling my name on her computer. I saw it through my telescope last night.
 
-- You're not fat, you're just … easier to see.
+- You're not fat, you're just ... easier to see.
 
 - I always wondered what the job application is like at Hooters. Do they just give you a bra and say, Here, fill this out?
 

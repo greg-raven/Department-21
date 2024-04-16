@@ -30,7 +30,7 @@ Increases life expectancy of commuters by controlling road rage and the urge to 
 
 **MENICILLIN**
 
-Potent anti-boy-otic for older women. Increases resistance to such lethal lines as, "You make me want to be a better person … Can we get naked now?"
+Potent anti-boy-otic for older women. Increases resistance to such lethal lines as, "You make me want to be a better person ... Can we get naked now?"
 
 **BUYAGRA**
 

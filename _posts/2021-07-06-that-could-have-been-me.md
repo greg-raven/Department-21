@@ -10,6 +10,6 @@ They looked over at me and yelled, "Defund the police!" Without waiting for the 
 
 At that moment, an 18-wheeler entered the crossroads and T-boned their car, crushing it completely and killing everyone inside.
 
-For several minutes I sat in my car thinking, "Man … that coulda been me!"
+For several minutes I sat in my car thinking, "Man ... that coulda been me!"
 
 So, bright and early this morning, I went out and got a job as a truck driver.

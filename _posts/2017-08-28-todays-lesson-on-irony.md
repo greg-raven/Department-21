@@ -1,5 +1,5 @@
 ---
-title: "Today's lesson on irony …"
+title: "Today's lesson on irony ..."
 author: "Noam Sain"
 layout: post
 ---

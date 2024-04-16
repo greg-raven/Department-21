@@ -26,7 +26,7 @@ layout: post
 
 - I drew incredibly large crowds during my public appearances. This bolstered my ego.
 
-- At first, my political campaign focused on my country's foreign policy … I was very critical of my country in the last war and seized every opportunity to bash my country.
+- At first, my political campaign focused on my country's foreign policy ... I was very critical of my country in the last war and seized every opportunity to bash my country.
 
 - But what launched my rise to national prominence were my views on the country's economy. I announced that I had a really good plan on how we could do better and every poor person would be fed and housed for free.
 

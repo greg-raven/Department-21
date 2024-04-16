@@ -29,7 +29,7 @@ layout: post
 23. They call it PMS because Mad Cow Disease was already taken.
 24. He who dies with the most toys is nonetheless DEAD.
 25. A picture is worth a thousand words, but it uses up three thousand times the memory.
-26. Ham and eggs … A day's work for a chicken, a lifetime commitment for a pig.
+26. Ham and eggs ... A day's work for a chicken, a lifetime commitment for a pig.
 27. The trouble with life is there's no background music.
 28. The original point and click interface was a Smith &amp; Wesson.
 29. I smile because I don't know what the hell is going on.

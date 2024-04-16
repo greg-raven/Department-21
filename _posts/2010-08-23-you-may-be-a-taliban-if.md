@@ -1,12 +1,12 @@
 ---
-title: "You May Be A Taliban If …"
+title: "You May Be A Taliban If ..."
 author: "Noam Sain"
 layout: post
 ---
 
 By Jeff Foxworthy
 
-You may be a Taliban if …
+You may be a Taliban if ...
 
 1. You refine heroin for a living, but have a moral objection to liquor.
 2. You own a $3,000 machine gun and $5,000 rocket launcher, but can't afford shoes.

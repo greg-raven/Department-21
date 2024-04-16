@@ -14,7 +14,7 @@ And others birds were boisterous and loud. They sat on the feeder and squawked a
 
 After a while, I couldn't even sit on my own back porch anymore. So I took down the bird feeder and in three days the birds were gone. I cleaned up their mess and took down the many nests they had built all over the patio.
 
-Soon, the back yard was like it used to be … quiet, serene and no one demanding their rights to a free meal.
+Soon, the back yard was like it used to be ... quiet, serene and no one demanding their rights to a free meal.
 
 Now let's see.
 

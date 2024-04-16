@@ -44,7 +44,7 @@ A young Jewish man calls his mother and says, "Mom, I'm bringing home a wonderfu
 
 "You have to have an Indian name too, Mom," he says.
 
-"I already do," says the mother … "Just call me Sitting Shiva."
+"I already do," says the mother ... "Just call me Sitting Shiva."
 
 ---
 

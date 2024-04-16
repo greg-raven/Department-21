@@ -40,7 +40,7 @@ Whenever I fill out an application, in the part that says "If an emergency, noti
 
 I didn't say it was your fault, I said I was blaming you.
 
-I saw a woman wearing a sweat shirt with "Guess" on it … so I said "Implants?"
+I saw a woman wearing a sweat shirt with "Guess" on it ... so I said "Implants?"
 
 Why does someone believe you when you say there are four billion stars, but check when you say the paint is wet?
 
@@ -68,7 +68,7 @@ Some cause happiness wherever they go. Others, whenever they go.
 
 I used to be indecisive. Now I'm not sure.
 
-I always take life with a grain of salt … plus a slice of lemon and a shot of tequila.
+I always take life with a grain of salt ... plus a slice of lemon and a shot of tequila.
 
 You're never too old to learn something stupid.
 

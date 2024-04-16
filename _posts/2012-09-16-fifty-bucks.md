@@ -18,7 +18,7 @@ Ed and Norma agreed and up they went.
 
 The pilot did all kinds of fancy maneuvers, but not a word was heard.
 
-He did his daredevil tricks over and over again, but still not a word …
+He did his daredevil tricks over and over again, but still not a word ...
 
 When they landed, the pilot turned to Ed and said, "By golly, I did everything I could to get you to say something, but you didn't. I'm impressed!"
 

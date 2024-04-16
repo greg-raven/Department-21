@@ -6,7 +6,7 @@ layout: post
 
 Father Norton woke up Sunday morning and realizing it was an exceptionally beautiful and sunny early spring day, decided he just had to play golf.
 
-So … he told the Associate Pastor that he was feeling sick and persuaded him to say Mass for him that day.
+So ... he told the Associate Pastor that he was feeling sick and persuaded him to say Mass for him that day.
 
 As soon as the Associate Pastor left the room, Father Norton headed out of town to a golf course about forty miles away.
 

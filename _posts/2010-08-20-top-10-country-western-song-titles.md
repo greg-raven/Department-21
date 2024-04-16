@@ -24,6 +24,6 @@ These are some of the great toe tappers and can't-get-that-song-out-of-my-mind h
 
 2\. She's Lookin' Better with Every Beer.
 
-And the number one Country &amp; Western song is …
+And the number one Country &amp; Western song is ...
 
 1\. It's Hard To Kiss The Lips At Night That Chewed My Ass All Day.

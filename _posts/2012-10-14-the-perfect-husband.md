@@ -28,7 +28,7 @@ WOMAN: "$90,000."
 
 MAN: "OK, but for that price I want it with all the options."
 
-WOMAN: "Great! Oh, and one more thing … I was just talking to Janie and found out that the house I wanted last year is back on the market. They're asking $980,000 for it."
+WOMAN: "Great! Oh, and one more thing ... I was just talking to Janie and found out that the house I wanted last year is back on the market. They're asking $980,000 for it."
 
 MAN: "Well, then go ahead and make an offer of $900,000. They'll probably take it. If not, we can go the extra eighty-thousand if it's what you really want."
 

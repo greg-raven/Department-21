@@ -30,4 +30,4 @@ The Libertarian felt his back straightening up and he raised his hands, praised 
 
 Then, Jesus walked towards the Democrat just smiling.
 
-The Democrat jumped up and yelled, "Don't touch me … I'm collecting disability."
+The Democrat jumped up and yelled, "Don't touch me ... I'm collecting disability."

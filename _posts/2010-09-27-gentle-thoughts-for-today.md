@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-Birds of a feather flock together … and then poop on your car.
+Birds of a feather flock together ... and then poop on your car.
 
 A penny saved is a government oversight.
 

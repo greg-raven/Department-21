@@ -20,6 +20,6 @@ layout: post
 
 8\. A group of friars were behind on their belfry payments, so they opened up a small florist shop to raise funds. Since everyone liked to buy flowers from the men of God, a rival florist across town thought the competition was unfair. He asked the good fathers to close down, but they would not. He went back and begged the friars to close. They ignored him. So, the rival florist hired Hugh MacTaggart, the roughest and most vicious thug in town to "persuade" them to close. Hugh beat up the friars and trashed their store, saying he'd be back if they didn't close up shop. Terrified, they did so, thereby proving that only Hugh can prevent florist friars.
 
-9\. Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. He also ate very little, which made him rather frail and, with his odd diet, he suffered from bad breath. This made him … a super calloused fragile mystic hexed by halitosis.
+9\. Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet. He also ate very little, which made him rather frail and, with his odd diet, he suffered from bad breath. This made him ... a super calloused fragile mystic hexed by halitosis.
 
 10\. And finally, we sent ten different puns to our friends, with the hope that at least one of the puns would make them laugh. No pun in ten did.

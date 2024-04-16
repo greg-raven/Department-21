@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-At last a guy has taken the time to write this all down. Finally, the guys' side of the story. We always hear "the rules" from the female side. Now here are the rules from the male side. These are our rules! Please note … these are all numbered "1" ON PURPOSE!
+At last a guy has taken the time to write this all down. Finally, the guys' side of the story. We always hear "the rules" from the female side. Now here are the rules from the male side. These are our rules! Please note ... these are all numbered "1" ON PURPOSE!
 
 1\. Men are NOT mind readers.
 
@@ -22,7 +22,7 @@ At last a guy has taken the time to write this all down. Finally, the guys' side
 
 1\. Come to us with a problem only if you want help solving it. That's what we do. Sympathy is what your girlfriends are for.
 
-1\. A headache that lasts for 17 months is a problem … See a doctor.
+1\. A headache that lasts for 17 months is a problem ... See a doctor.
 
 1\. Anything we said 6 months ago is inadmissible in an argument. In fact, all comments become null and void after 7 days.
 
@@ -46,7 +46,7 @@ At last a guy has taken the time to write this all down. Finally, the guys' side
 
 1\. If you ask a question you don't want an answer to, expect an answer you don't want to hear.
 
-1\. When we have to go somewhere, absolutely anything you wear is fine … really.
+1\. When we have to go somewhere, absolutely anything you wear is fine ... really.
 
 1\. Don't ask us what we're thinking about unless you are prepared to discuss such topics as baseball, the shotgun formation, or golf.
 

@@ -22,6 +22,6 @@ The Marine, understandably agitated at this point, looked at the man and said , 
 
 I've told you already several times that Mrs. Clinton is not the President and doesn't reside here. Don't you understand?"
 
-The old man answered, "Oh, I understand you fine, I just love hearing your answer …"
+The old man answered, "Oh, I understand you fine, I just love hearing your answer ..."
 
-The Marine snapped to attention, saluted, and said, "See you tomorrow …"
+The Marine snapped to attention, saluted, and said, "See you tomorrow ..."

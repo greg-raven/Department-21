@@ -52,7 +52,7 @@ layout: post
 
 22\. Childproof
 
-21\. "Now, then …"
+21\. "Now, then ..."
 
 20\. Synthetic natural gas
 

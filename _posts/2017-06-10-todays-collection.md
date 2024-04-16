@@ -18,11 +18,11 @@ layout: post
 
 ![Generation gap](/assets/2017/2017-06-gallery-8.jpg)
 
-![Growing old is hard work …](/assets/2017/2017-06-gallery-9.jpg)
+![Growing old is hard work ...](/assets/2017/2017-06-gallery-9.jpg)
 
 ![Old Himalayan cure for constipation](/assets/2017/2017-06-gallery-10.jpg)
 
-![Don't mind me … just pickup up this year's Christmas tree …](/assets/2017/2017-06-gallery-11.jpg)
+![Don't mind me ... just pickup up this year's Christmas tree ...](/assets/2017/2017-06-gallery-11.jpg)
 
 ![How cute](/assets/2017/2017-06-gallery-12.jpg)
 
@@ -30,10 +30,10 @@ layout: post
 
 ![Telling your twins apart. Level: Expert](/assets/2017/2017-06-gallery-14.jpg)
 
-![Oh hey … you're home early.](/assets/2017/2017-06-gallery-15.jpg)
+![Oh hey ... you're home early.](/assets/2017/2017-06-gallery-15.jpg)
 
 ![I've made a huge mistake](/assets/2017/2017-06-gallery-16.jpg)
 
-![Not quite sure what to do right now …](/assets/2017/2017-06-gallery-17.jpg)
+![Not quite sure what to do right now ...](/assets/2017/2017-06-gallery-17.jpg)
 
-![I wonder if common sense will ever make a comeback …](/assets/2017/2017-06-gallery-18.png)
+![I wonder if common sense will ever make a comeback ...](/assets/2017/2017-06-gallery-18.png)

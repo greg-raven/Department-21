@@ -16,7 +16,7 @@ A young Arab asks his father: "What is this weird hat that we are wearing?"
 
 "These are 'babouches', which keep us from burning our feet when crossing the hot, blistering sands of the desert!"
 
-"Tell me, papa …"
+"Tell me, papa ..."
 
 "Yes, my son?"
 

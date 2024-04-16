@@ -16,7 +16,7 @@ In a laundromat:
 
 In a department store:
 
-> Bargain basement upstairs …
+> Bargain basement upstairs ...
 
 In an office:
 
@@ -32,7 +32,7 @@ Outside a second-hand shop:
 
 Notice in health food shop window:
 
-> Closed due to illness …
+> Closed due to illness ...
 
 In a safari park:
 

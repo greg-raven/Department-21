@@ -12,7 +12,7 @@ The newlyweds were only married two weeks, when the husband said to the wife, "H
 
 The wife said, "You want a beer, my love?" She opened the door to the refrigerator and showed him 25 different kinds of beer, brands from 12 different countries: Germany, Holland, Japan, India, etc.
 
-The husband didn't know what to do, and the only thing that he could think of saying was, "Yes, Lollipop, but at the bar --- you know --- they have frozen glasses …"
+The husband didn't know what to do, and the only thing that he could think of saying was, "Yes, Lollipop, but at the bar --- you know --- they have frozen glasses ..."
 
 He didn't get to finish the sentence, because the wife interrupted him by saying, "You want a frozen glass, Puppy Face?" She took a huge beer mug out of the freezer, so frozen that she was getting chills just holding it.
 

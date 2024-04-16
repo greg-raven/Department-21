@@ -8,4 +8,4 @@ A woman gets home, screeches her car into the driveway, runs into the house, sla
 
 The husband says, "Oh my God! What should I pack: Beach stuff or mountain stuff?"
 
-The wife yells back, "It doesn't matter … just get out!"
+The wife yells back, "It doesn't matter ... just get out!"

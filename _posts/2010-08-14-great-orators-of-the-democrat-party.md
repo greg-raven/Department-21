@@ -18,15 +18,15 @@ And, from today's geniuses:
 
 "It depends what your definition of 'sex' is." --- Bill Clinton
 
-"That Obama … I would like to cut his nuts off." --- Jesse Jackson
+"That Obama ... I would like to cut his nuts off." --- Jesse Jackson
 
-"Those rumors are false … I believe in the sanctity of marriage." --- John Edwards
+"Those rumors are false ... I believe in the sanctity of marriage." --- John Edwards
 
 "I invented the Internet." --- Al Gore
 
 "The next person that tells me I'm not religious, I'm going to shove my rosary beads up their a\*\*." --- Joe Biden
 
-"America is … is no longer, uh, what it … it, uh, could be, uh, what it was once was … uh, and I say to myself, 'uh, I don't want that future, uh, uh for my children'." --- Barack Obama
+"America is ... is no longer, uh, what it ... it, uh, could be, uh, what it was once was ... uh, and I say to myself, 'uh, I don't want that future, uh, uh for my children'." --- Barack Obama
 
 "I have campaigned in all 57 states." --- Barack Obama (2008)
 

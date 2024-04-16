@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-A dentist was getting ready to clean an elderly lady's teeth. He noticed that she was a little nervous, so he began to tell her a story as he was putting on his surgical gloves … "Do you know how they make these rubber gloves?"
+A dentist was getting ready to clean an elderly lady's teeth. He noticed that she was a little nervous, so he began to tell her a story as he was putting on his surgical gloves ... "Do you know how they make these rubber gloves?"
 
 She said, "No."
 

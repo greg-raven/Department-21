@@ -34,4 +34,4 @@ Janet for you just being you, you are a dumbass.
 
 So congratulations Janet Incompetano: You are the official 2009 Dumbass of the Year!
 
-"Life's tough … it's even tougher if you're stupid." --- John Wayne
+"Life's tough ... it's even tougher if you're stupid." --- John Wayne

@@ -18,4 +18,4 @@ This characteristic of moron-promotion leads some scientists to believe that Pel
 
 When catalyzed with money, Pelosium activates CNNadnausium, an element that radiates orders-of-magnitude more energy, albeit as incoherent noise, since it has half as many peons but twice as many morons as Pelosium.
 
-There is concern among scientists that PU, if allowed to propagate, will create a Black Hole that will suck all money, peons, and morons into it … the last of which might be a good thing.
+There is concern among scientists that PU, if allowed to propagate, will create a Black Hole that will suck all money, peons, and morons into it ... the last of which might be a good thing.

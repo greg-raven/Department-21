@@ -16,7 +16,7 @@ His side of the family is from the South Pole. He shares my goal of delivering t
 
 3. Bubba Claus' sleigh is pulled by floppy eared, flyin' coon dogs instead of reindeer. I made the mistake of loaning him a couple of reindeer one time, and Blitzen's head now overlooks Bubba's fireplace.
 
-4. You won't hear "On Comet, on Cupid, on Donner and Blitzen …" when Bubba Claus arrives. Instead, you'll hear, "On Earnhardt, on Wallace, on Martin and Labonte. On Rudd, on Jarrett, on Elliott and Petty."
+4. You won't hear "On Comet, on Cupid, on Donner and Blitzen ..." when Bubba Claus arrives. Instead, you'll hear, "On Earnhardt, on Wallace, on Martin and Labonte. On Rudd, on Jarrett, on Elliott and Petty."
 
 5. "Ho, ho, ho!" has been replaced by "Yee-Hahhh!" And you also are likely to hear Bubba's elves respond, "I hear'd dat!"
 

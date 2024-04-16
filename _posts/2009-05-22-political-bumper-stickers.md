@@ -14,9 +14,9 @@ Warning: I'm a bitter Christian clinging to my guns.
 
 If you think health care is expensive now, wait until it's free.
 
-Keep the change … I'll keep my freedom, my guns, and my money.
+Keep the change ... I'll keep my freedom, my guns, and my money.
 
-Annoy a liberal … use facts and logic.
+Annoy a liberal ... use facts and logic.
 
 The problem with socialism is that you eventually run out of other people's money.
 

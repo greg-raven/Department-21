@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-One particular Christmas season a long time ago, Santa was getting ready for his annual trip … but there were problems everywhere. Four of his elves got sick, and the trainee elves did not produce the toys as fast as the regular ones, so Santa was beginning to feel the pressure of being behind schedule.
+One particular Christmas season a long time ago, Santa was getting ready for his annual trip ... but there were problems everywhere. Four of his elves got sick, and the trainee elves did not produce the toys as fast as the regular ones, so Santa was beginning to feel the pressure of being behind schedule.
 
 Then, Mrs. Claus told Santa that her mom was coming to visit.
 

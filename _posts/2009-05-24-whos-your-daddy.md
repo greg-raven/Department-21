@@ -20,7 +20,7 @@ Hard to believe, but the following are replies that Detroit women have written o
 
 7. I do not know who the father of my child was as all look the same to me.
 
-8. Peter Smith is the father of child A. If you do catch up with him, can you ask him what he did with my AC/DC tapes? Child B who was also borned at the same time … well, I don't have clue.
+8. Peter Smith is the father of child A. If you do catch up with him, can you ask him what he did with my AC/DC tapes? Child B who was also borned at the same time ... well, I don't have clue.
 
 9. From the dates, it seems that my daughter was conceived at Disney World; maybe it really is the Magic Kingdom.
 

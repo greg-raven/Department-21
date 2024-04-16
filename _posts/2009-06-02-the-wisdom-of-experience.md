@@ -22,7 +22,7 @@ Now that I'm older, here's what I've discovered:
 
 - Some days you're the dog, some days you're the hydrant.
 
-- I wish the buck stopped here. I sure could use a few …
+- I wish the buck stopped here. I sure could use a few ...
 
 - Kids in the back seat cause accidents; accidents in the back seat cause kids.
 
@@ -34,7 +34,7 @@ Now that I'm older, here's what I've discovered:
 
 - When I'm finally holding all the cards, why does everyone decide to play chess?
 
-- It's not hard to meet expenses … they're everywhere.
+- It's not hard to meet expenses ... they're everywhere.
 
 - The only difference between a rut and a grave is the depth.
 

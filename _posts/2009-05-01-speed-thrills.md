@@ -14,6 +14,6 @@ Approaching the car, he notices that there are five little old ladies --- two in
 
 The state police officer, trying to contain a chuckle, explains to her that "22" was the route number, not the speed limit. A bit embarrassed, the woman grinned sheepishly and thanked the officer for pointing out her error.
 
-"But before I let you go, ma'am, I have to ask … is everyone in this car OK? These women seem awfully shaken, and they haven't muttered a single peep this whole time," the officer says with concern.
+"But before I let you go, ma'am, I have to ask ... is everyone in this car OK? These women seem awfully shaken, and they haven't muttered a single peep this whole time," the officer says with concern.
 
 "Oh, they'll be all right in a minute, Officer. We just got off Route 119."

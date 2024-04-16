@@ -52,7 +52,7 @@ Why do women have smaller feet than men?
 
 How do you know when a woman is about to say something smart?
 
-> When she starts a sentence with "A man once told me …"
+> When she starts a sentence with "A man once told me ..."
 
 How do you fix a woman's watch?
 
@@ -74,7 +74,7 @@ I married my "Miss Right."
 
 > I just didn't know her first name was Always.
 
-Scientists have discovered a food that diminishes a woman's sex drive by 90% …
+Scientists have discovered a food that diminishes a woman's sex drive by 90% ...
 
 > It's called a Wedding Cake.
 
@@ -82,6 +82,6 @@ Why do men die before their wives?
 
 > Because they want to.
 
-Women will never be equal to men …
+Women will never be equal to men ...
 
 > Until they can walk down the street with a bald head and a beer gut, and still think they are sexy.

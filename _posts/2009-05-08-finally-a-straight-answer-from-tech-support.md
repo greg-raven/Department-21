@@ -88,7 +88,7 @@ This is a true story from the WordPerfect Helpline which was transcribed from a 
 
 "Because there's a power failure."
 
-"A power … A power failure? Aha, Okay, we've got it licked now. Do you still have the boxes and manuals and packing stuff your computer came in?"
+"A power ... A power failure? Aha, Okay, we've got it licked now. Do you still have the boxes and manuals and packing stuff your computer came in?"
 
 "Well, yes, I keep them in the closet."
 

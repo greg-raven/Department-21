@@ -30,7 +30,7 @@ layout: post
 
 ![My mood ring is missing](/assets/2018/2018-09-indian-hills-08.jpg)
 
-![What I if told you …](/assets/2018/2018-09-indian-hills-06.jpg)
+![What I if told you ...](/assets/2018/2018-09-indian-hills-06.jpg)
 
 ![Forget whirled peas](/assets/2018/2018-09-indian-hills-01.jpg)
 

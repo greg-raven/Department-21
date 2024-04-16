@@ -26,13 +26,13 @@ After I called your mother, or "Momma" as you had her listed in your cell, I exp
 
 I gave your shoes to a homeless guy outside Vinnie Van Go Go's, along with all the cash in your wallet. That made his day!
 
-I then threw your wallet into the big pink "pimp mobile" that was parked at the curb … after I broke the windshield and side window and keyed the entire driver's side of the car.
+I then threw your wallet into the big pink "pimp mobile" that was parked at the curb ... after I broke the windshield and side window and keyed the entire driver's side of the car.
 
 Later, I called a bunch of phone sex numbers from your cell phone. Ma Bell just now shut down the line, although I only used the phone for a little over a day now, so what's going on with that?
 
 Earlier, I managed to get in two threatening phone calls to the DA's office and one to the FBI, while mentioning Resident Obama as my possible target. The FBI guy seemed really intense and we had a nice long chat (I guess while he traced your number, etc.).
 
-In a way, perhaps I should apologize for not killing you … but I feel this type of retribution is a far more appropriate punishment for your threatened crime. I wish you well as you try to sort through some of the rather immediate pressing issues you now face, and can only hope that you have the opportunity to reflect upon, and perhaps reconsider the career path you've chosen to pursue in life.
+In a way, perhaps I should apologize for not killing you ... but I feel this type of retribution is a far more appropriate punishment for your threatened crime. I wish you well as you try to sort through some of the rather immediate pressing issues you now face, and can only hope that you have the opportunity to reflect upon, and perhaps reconsider the career path you've chosen to pursue in life.
 
 Remember, next time you might not be so lucky.
 

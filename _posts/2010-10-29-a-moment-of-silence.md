@@ -1,5 +1,5 @@
 ---
-title: "A moment of silence …"
+title: "A moment of silence ..."
 author: "Noam Sain"
 layout: post
 ---

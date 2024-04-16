@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-![One minute you're really young and cool … and the next, you're getting all excited about a new vacuum](/assets/2020/2020-09-image-1.jpg "One minute you're really young and cool … and the next, you're getting all excited about a new vacuum")
+![One minute you're really young and cool ... and the next, you're getting all excited about a new vacuum](/assets/2020/2020-09-image-1.jpg "One minute you're really young and cool ... and the next, you're getting all excited about a new vacuum")
 
 ![I never use turn signals](/assets/2020/2020-09-image-2.jpg "I never use turn signals")
 

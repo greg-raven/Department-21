@@ -15,7 +15,7 @@ layout: post
 9. I can't remember the last time I wasn't at least kind of tired.
 10. Bad decisions make good stories.
 11. You never know when it will strike, but there comes a moment when you know that you just aren't going to do anything productive for the rest of the day.
-12. Can we all just agree to ignore whatever comes after Blu-Ray? I don't want to have to restart my collection … again.
+12. Can we all just agree to ignore whatever comes after Blu-Ray? I don't want to have to restart my collection ... again.
 13. I'm always slightly terrified when I exit out of Word and it asks me if I want to save any changes to my ten-page technical report that I swear I did not make any changes to.
 14. I keep some people's phone numbers in my phone just so I know not to answer when they call.
 15. I think the freezer deserves a light as well.

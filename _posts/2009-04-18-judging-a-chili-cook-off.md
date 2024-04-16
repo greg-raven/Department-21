@@ -38,7 +38,7 @@ Judge # 1 --- Black bean chili with almost no spice. Disappointing.
 
 Judge # 2 --- Hint of lime in the black beans. Good side dish for fish or other mild foods, not much of a chili.
 
-Judge # 3 --- I felt something scraping across my tongue, but was unable to taste it. Is it possible to burn out taste buds? Sally, the beer maid, was standing behind me with fresh refills. This 300 lb. woman is starting to look HOT … just like this nuclear waste I'm eating! Is chili an aphrodisiac?
+Judge # 3 --- I felt something scraping across my tongue, but was unable to taste it. Is it possible to burn out taste buds? Sally, the beer maid, was standing behind me with fresh refills. This 300 lb. woman is starting to look HOT ... just like this nuclear waste I'm eating! Is chili an aphrodisiac?
 
 **CHILI # 5 – LISA'S LEGAL LIP REMOVER**
 

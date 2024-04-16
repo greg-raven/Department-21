@@ -10,4 +10,4 @@ Mr. Obama pauses, then grabs Michelle by the scruff of the neck and heaves her o
 
 The Resident shakes hands of those near him and gets "high fives."
 
-The secret service agent leans over again and whispers, "Mr. Resident, I said, they want you to throw out the first PITCH …"
+The secret service agent leans over again and whispers, "Mr. Resident, I said, they want you to throw out the first PITCH ..."

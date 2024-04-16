@@ -20,4 +20,4 @@ The crocodile said that he had to check this out and walked into the rain forest
 
 "Hey you!"
 
-So the koala looked down at him and said, "Dude … How much of that water did you drink?"
+So the koala looked down at him and said, "Dude ... How much of that water did you drink?"

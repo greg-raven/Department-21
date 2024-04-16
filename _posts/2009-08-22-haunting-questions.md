@@ -10,7 +10,7 @@ Can you cry under water?
 
 How important does a person have to be before they are considered assassinated instead of just murdered?
 
-Why do you have to "put your two cents in" … but it's only a "penny for your thoughts"? Where's that extra penny going to?
+Why do you have to "put your two cents in" ... but it's only a "penny for your thoughts"? Where's that extra penny going to?
 
 Once you're in heaven, do you get stuck wearing the clothes you were buried in for eternity?
 

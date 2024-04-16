@@ -16,7 +16,7 @@ Just then Gordon Brown walks into the room.
 
 "Gordon, your mother and father have a child," says the Queen. "It is not your brother and it is not your sister. Who is it?"
 
-Brown answers, "Oh. That would be … me, your majesty?"
+Brown answers, "Oh. That would be ... me, your majesty?"
 
 "Yes! Very good," says the Queen.
 

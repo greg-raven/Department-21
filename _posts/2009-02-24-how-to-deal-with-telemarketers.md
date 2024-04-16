@@ -6,17 +6,17 @@ layout: post
 
 1\. If they want to loan you money, tell them you just filed for bankruptcy and you could sure use some money.
 
-2\. If they start out with, "How are you today?" say, "Why do you want to know?" Alternately, you can tell them, "I'm so glad you asked, because no one these days seems to care, and I have all these problems; my arthritis is acting up, my eyelashes are sore, my car won't start …" When they try to get to the sell, just keep talking about your problems.
+2\. If they start out with, "How are you today?" say, "Why do you want to know?" Alternately, you can tell them, "I'm so glad you asked, because no one these days seems to care, and I have all these problems; my arthritis is acting up, my eyelashes are sore, my car won't start ..." When they try to get to the sell, just keep talking about your problems.
 
 3\. If they say they're John Doe from XYZ Company, ask them to spell their name. Then ask them to spell the company name. Then ask them where it is located. Continue asking them personal questions or questions about their company for as long as necessary.
 
-4\. Telemarketer: "Hi, my name is Judy and I'm with XYZ Company …" You: (Wait for a second) With a real husky voice ask,"What are you wearing?"
+4\. Telemarketer: "Hi, my name is Judy and I'm with XYZ Company ..." You: (Wait for a second) With a real husky voice ask,"What are you wearing?"
 
 5\. Cry out in surprise, "Judy! Is that you? Oh my God! Judy, how have you been?" Hopefully, this will give Judy a few brief moments of terror as she tries to figure out where she could know you from.
 
 6\. Say "No", over and over. Be sure to vary the sound of each one, and keep a rhythmic tempo, even as they are trying to speak. This is most fun if you can do it until they hang up.
 
-7\. If MCI calls trying to get you to sign up for the Family and Friends Plan, reply, in as SINISTER a voice as you can, "I don't have any friends … would YOU be my friend?"
+7\. If MCI calls trying to get you to sign up for the Family and Friends Plan, reply, in as SINISTER a voice as you can, "I don't have any friends ... would YOU be my friend?"
 
 8\. If the company cleans rugs, respond: "Can you get blood out? Can you get out GOAT blood? How about HUMAN blood?
 
@@ -38,7 +38,7 @@ layout: post
 
 17\. Insist that the caller is really your buddy Leon, playing a joke. "Come on Leon, cut it out! Seriously, Leon, how's your momma?"
 
-18\. Tell them you are hard of hearing and that they need to speak up … louder … louder … louder …
+18\. Tell them you are hard of hearing and that they need to speak up ... louder ... louder ... louder ...
 
 19\. Tell them to talk VERY SLOWLY, because you want to write DOWN EVERY WORD.
 

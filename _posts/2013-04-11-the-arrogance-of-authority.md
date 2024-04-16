@@ -14,7 +14,7 @@ The DEA officer verbally exploded saying, "Mister, I have the authority of the F
 
 Reaching into his rear pants pocket, he removed his badge and proudly displayed it to the rancher.
 
-"See this badge?! This badge means I am allowed to go wherever I wish. On any land!! No questions asked or answers given!! Have I made myself clear … do you understand?"
+"See this badge?! This badge means I am allowed to go wherever I wish. On any land!! No questions asked or answers given!! Have I made myself clear ... do you understand?"
 
 The rancher nodded politely, apologized, and went about his chores.
 

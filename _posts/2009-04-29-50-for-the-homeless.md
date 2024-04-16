@@ -12,7 +12,7 @@ She replied, "I'd give food and houses to all the homeless people."
 
 Her parents beamed.
 
-"Wow … what a worthy goal." I told her, "But you don't have to wait until you're president to do that. You can come over to my house and mow the lawn, pull weeds, and sweep my yard, and I'll pay you $50. Then I'll take you over to the grocery store where homeless guys hang out, and you can give them the $50, you earned, to use toward food and a new house."
+"Wow ... what a worthy goal." I told her, "But you don't have to wait until you're president to do that. You can come over to my house and mow the lawn, pull weeds, and sweep my yard, and I'll pay you $50. Then I'll take you over to the grocery store where homeless guys hang out, and you can give them the $50, you earned, to use toward food and a new house."
 
 She thought that over for a few seconds, then she looked me straight in the eye and asked, "Why doesn't the homeless guy come over and do the work, and you can just pay him the $50?"
 

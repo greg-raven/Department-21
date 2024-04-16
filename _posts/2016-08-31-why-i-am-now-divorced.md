@@ -10,7 +10,7 @@ I went downstairs for breakfast Hoping my husband would be pleasant and say, "Ha
 
 As it turned out, he barely said good morning, let alone "Happy Birthday."
 
-I thought … Well, that's marriage for you, But the kids … They will remember.
+I thought ... Well, that's marriage for you, But the kids ... They will remember.
 
 My kids came bounding down stairs to breakfast and didn't say a word.
 
@@ -36,6 +36,6 @@ After arriving at his house, Rick turned to me and said, "If you don't mind, I'm
 
 "OK." I nervously replied.
 
-He went into the bedroom and after a couple of minutes, he came out carrying a huge birthday cake … followed by my husband, my kids, and dozens of my friends and co-workers, all singing "Happy Birthday."
+He went into the bedroom and after a couple of minutes, he came out carrying a huge birthday cake ... followed by my husband, my kids, and dozens of my friends and co-workers, all singing "Happy Birthday."
 
-And I just sat there … on the couch … naked.
+And I just sat there ... on the couch ... naked.

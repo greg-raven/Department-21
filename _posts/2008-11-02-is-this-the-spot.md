@@ -20,4 +20,4 @@ The preacher then dunks him under for quite a bit longer, brings him up and says
 
 The preacher in disgust holds the man under for at least 30 seconds this time, brings him out of the water and says in a harsh tone, "My God, man, have you found Jesus yet?"
 
-The old drunk wipes his eyes and says to the preacher … "Are you sure this is where he fell in?"
+The old drunk wipes his eyes and says to the preacher ... "Are you sure this is where he fell in?"

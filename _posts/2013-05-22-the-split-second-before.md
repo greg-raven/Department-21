@@ -28,7 +28,7 @@ layout: post
 
 ![look, a penny](/assets/2013/2013-05-split-second-77.jpg)
 
-![one word, sounds like …](/assets/2013/2013-05-split-second-88.jpg)
+![one word, sounds like ...](/assets/2013/2013-05-split-second-88.jpg)
 
 ![splash](/assets/2013/2013-05-split-second-99.jpg)
 

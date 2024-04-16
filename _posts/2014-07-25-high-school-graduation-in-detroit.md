@@ -26,6 +26,6 @@ Then he held up his hand and the auditorium became silent. He said, "I think I k
 
 "Three times seven is twenty-one."
 
-A hush fell over the auditorium and all the other students began another chant …
+A hush fell over the auditorium and all the other students began another chant ...
 
 "Give him another chance! Give him another chance!"

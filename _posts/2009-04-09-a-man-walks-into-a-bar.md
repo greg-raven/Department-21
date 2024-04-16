@@ -1,5 +1,5 @@
 ---
-title: "A man walks into a bar …"
+title: "A man walks into a bar ..."
 author: "Noam Sain"
 layout: post
 ---
@@ -24,6 +24,6 @@ This time man answered, "About 100". So the robot started discussing NASCAR raci
 
 The guy had to try it one more time. So he left, returned, and took a stool. Again a martini, and the question, "What is your IQ?"
 
-This time, the man drawled out, "Uh … 'bout 50."
+This time, the man drawled out, "Uh ... 'bout 50."
 
 The robot clicked then leaned close and very slowly asked, "Are you happy you voted for Obama?

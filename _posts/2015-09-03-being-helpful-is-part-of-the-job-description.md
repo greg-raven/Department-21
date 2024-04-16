@@ -24,4 +24,4 @@ Moments later the bike started and the rider drove off, waving.
 
 A few days later, the local State Troopers' office received a note of thanks from the father of the motorcyclist.
 
-It began: "On behalf of my daughter Jill …"
+It began: "On behalf of my daughter Jill ..."

@@ -14,7 +14,7 @@ I really don't mind getting older, but my body is taking it badly.
 
 Do you ever get up in the morning, look in the mirror and think, "That can't be accurate."
 
-As I watch this new generation try to write our history, one thing I'm sure of … it will be misspelled and have no punctuation.
+As I watch this new generation try to write our history, one thing I'm sure of ... it will be misspelled and have no punctuation.
 
 I told my wife I wanted to be cremated. She made me an appointment for Tuesday.
 

@@ -18,9 +18,9 @@ layout: post
 
 7. Teach pet store parrots new vocabulary that makes them unsalable.
 
-8. Stomp on ketchup packets at Burger King …
+8. Stomp on ketchup packets at Burger King ...
 
-9. … but save a few to slurp on as snacks. Tell people that they're "astronaut food."
+9. ... but save a few to slurp on as snacks. Tell people that they're "astronaut food."
 
 10. Follow patrons of B. Dalton's around while reading aloud from "Dianetics."
 
@@ -60,7 +60,7 @@ layout: post
 
 28. Ask a saleswoman whether a particular shade of panties matches the color of your beard.
 
-29. In the changing rooms, announce in a singsong voice, "I see London, I see France …"
+29. In the changing rooms, announce in a singsong voice, "I see London, I see France ..."
 
 30. Leave on the plastic string connecting a new pair of shoes, and wander around the mall taking two-inch steps.
 

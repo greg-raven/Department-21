@@ -8,7 +8,7 @@ I've won a Kenyan Lottery, according to an e-mail I just received from a Nigeria
 
 ![Kenyan](/assets/2014/2014-10-kenyan1.jpg "Kenyan prince")
 
-And then I got ANOTHER NOTICE …
+And then I got ANOTHER NOTICE ...
 
 It is from a Kenyan, and he wants to give me FREE healthcare for life (it will cost me only an extra $500.00 a month in premiums)!
 

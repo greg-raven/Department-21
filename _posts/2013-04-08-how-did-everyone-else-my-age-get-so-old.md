@@ -10,7 +10,7 @@ As I was sitting in the waiting room for my first appointment with a new dentist
 
 Upon seeing him, however, I quickly discarded any such thought. This balding, gray-haired man with the deeply lined face was way too old to have been my classmate.
 
-Still … after he examined my teeth, I asked him if he had attended Morgan Park High School.
+Still ... after he examined my teeth, I asked him if he had attended Morgan Park High School.
 
 "Yes, I did. I'm a Mustang," he gleamed with pride.
 

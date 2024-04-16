@@ -16,4 +16,4 @@ We wished the King the best of luck, and moved on.
 
 After a while we met up with Billy Gates, president of Microsoft. Billy Gates just so happened to be chained to one of the most gorgeous, luscious, and sexiest woman you could ever imagine, long blonde hair, blue eyes, long limbs, and a beautiful figure. So, we asked him why they were chained to each other like that.
 
-The woman answered first: "When I used to live on Earth, I committed a number of sins …"
+The woman answered first: "When I used to live on Earth, I committed a number of sins ..."

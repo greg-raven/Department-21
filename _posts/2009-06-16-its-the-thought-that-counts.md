@@ -8,7 +8,7 @@ The United Way realized that it had never received a donation from the city's mo
 
 The lawyer thinks for a minute and says, "First, did your research also show you that my mother is dying after a long, painful illness and she has huge medical bills that are far beyond her ability to pay?"
 
-Embarrassed, the United Way rep mumbles, "Uh … no, I didn't know that."
+Embarrassed, the United Way rep mumbles, "Uh ... no, I didn't know that."
 
 "Secondly," says the lawyer, "my brother, a disabled veteran, is blind and confined to a wheelchair and is unable to support his wife and six children."
 
@@ -18,4 +18,4 @@ The stricken United Way rep begins to stammer an apology, but is cut off again.
 
 The humiliated United Way rep, completely beaten, says, "I'm so sorry, I had no idea."
 
-And the lawyer says, "So … if I didn't give any money to them, what makes you think I'd give any to you?"
+And the lawyer says, "So ... if I didn't give any money to them, what makes you think I'd give any to you?"

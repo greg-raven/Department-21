@@ -44,7 +44,7 @@ Naval Corollary: Dead Men Don't Testify.
 
 "If You Can Read This, Thank A Teacher. If You Can Read It In English, Thank A Veteran"
 
-… and finally …
+... and finally ...
 
 > Some people spend an entire lifetime wondering if they made a difference in the world. But the U.S. ARMED FORCES don't have that problem.
 >

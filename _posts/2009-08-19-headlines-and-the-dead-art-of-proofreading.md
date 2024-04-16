@@ -106,7 +106,7 @@ Boy, are they tall!
 
 ————————-
 
-And the winner is …
+And the winner is ...
 
 **Typhoon Rips Through Cemetery; Hundreds Dead**
 

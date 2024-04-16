@@ -12,6 +12,6 @@ Her husband arrives home at 5:30 and smells the distinctive smell of paint. He w
 
 He goes over and asks her if she is OK. She replies yes. He asks what she is doing. She replies that she wanted to prove to him that not all blonde women are dumb and she wanted to do it by painting the house.
 
-He then asks her why she has a ski jacket over her fur coat. She replies that she was reading the directions on the paint can and they said …
+He then asks her why she has a ski jacket over her fur coat. She replies that she was reading the directions on the paint can and they said ...
 
 FOR BEST RESULTS, PUT ON TWO COATS.

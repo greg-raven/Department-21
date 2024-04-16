@@ -5,7 +5,7 @@ layout: post
 ---
 
 404
-: Someone who's clueless. From the World Wide Web error message "404 Not Found," meaning that the requested document could not be located. "Don't bother asking him … he's 404, man."
+: Someone who's clueless. From the World Wide Web error message "404 Not Found," meaning that the requested document could not be located. "Don't bother asking him ... he's 404, man."
 
 ADMINISPHERE
 : The rarefied organizational layers beginning just above the rank and file. Decisions that fall from the adminisphere are often profoundly inappropriate or irrelevant to the problems they were designed to solve.
@@ -92,7 +92,7 @@ TREEWARE
 : Hacker slang for documentation or other printed material.
 
 UMFRIEND
-: A sexual relation of dubious standing or a concealed intimate relationship, as in "This is Dylan, my … um … friend."
+: A sexual relation of dubious standing or a concealed intimate relationship, as in "This is Dylan, my ... um ... friend."
 
 UNINSTALLED
 : Euphemism for being fired. Heard on the voice-mail of a vice-president at a downsizing computer firm: "You have reached the number of an Uninstalled Vice President. Please dial our main number and ask the operator for assistance." (Syn: decruitment.)

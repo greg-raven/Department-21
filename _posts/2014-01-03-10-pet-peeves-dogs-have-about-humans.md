@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-- Blaming your farts on me. Not funny … not funny at all !!!
+- Blaming your farts on me. Not funny ... not funny at all !!!
 
 - Yelling at me for barking. I'M A FRIGGIN' DOG!!
 

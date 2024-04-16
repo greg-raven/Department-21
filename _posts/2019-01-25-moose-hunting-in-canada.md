@@ -8,7 +8,7 @@ Two hunters, Otis and Elmer, got a pilot to fly them into the Canadian wildernes
 
 As they were loading the plane to return, the pilot said the plane could take only the hunters, their gear, and one moose.
 
-The hunters objected strongly saying, "Last year we shot two, and the pilot let us take them both … and he had exactly the same airplane as yours."
+The hunters objected strongly saying, "Last year we shot two, and the pilot let us take them both ... and he had exactly the same airplane as yours."
 
 The pilot, not wanting to be outdone by a competitor, reluctantly gave in and everything was loaded.
 

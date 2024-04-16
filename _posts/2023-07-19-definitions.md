@@ -50,7 +50,7 @@ YAWN
 : An honest opinion openly expressed.
 
 WRINKLES
-: Something other people have … although they sometimes do appear similar to my character lines.
+: Something other people have ... although they sometimes do appear similar to my character lines.
 
 OLD
 : I very quietly confided to my friend that I was having an affair.  She turned to me and asked, "Are you having it catered?" And that, my friend, is the definition of "OLD."

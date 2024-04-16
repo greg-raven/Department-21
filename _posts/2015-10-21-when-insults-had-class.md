@@ -1,5 +1,5 @@
 ---
-title: "When Insults Had Class …"
+title: "When Insults Had Class ..."
 author: "Noam Sain"
 layout: post
 ---
@@ -24,7 +24,7 @@ A member of Parliament to Disraeli: "Sir, you will either die on the gallows or 
 "He has no enemies, but is intensely disliked by his friends." --- Oscar Wilde
 
 "I am enclosing two tickets to the first night of my new play; bring a friend, if you have one." --- George Bernard Shaw to Winston Churchill  
-"Cannot possibly attend first night, will attend second … if there is one." --- Winston Churchill, in response
+"Cannot possibly attend first night, will attend second ... if there is one." --- Winston Churchill, in response
 
 "I feel so miserable without you; it's almost like having you here." --- Stephen Bishop
 
@@ -46,7 +46,7 @@ A member of Parliament to Disraeli: "Sir, you will either die on the gallows or 
 
 "Some cause happiness wherever they go; others, whenever they go." --- Oscar Wilde
 
-"He uses statistics as a drunken man uses lamp-posts … for support rather than illumination." --- Andrew Lang (1844–1912)
+"He uses statistics as a drunken man uses lamp-posts ... for support rather than illumination." --- Andrew Lang (1844–1912)
 
 "He has Van Gogh's ear for music." --- Billy Wilder
 

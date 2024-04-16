@@ -18,7 +18,7 @@ Probing, searching, knowing what he wanted, he brought his hands to my shoulders
 
 Although I knew nothing about this man, I felt oddly trusting and expectant. This is a man, I thought. A man used to taking charge.
 
-A man not used to taking no for an answer. A man who would tell me what he wanted. A man who would look into my soul and say …
+A man not used to taking no for an answer. A man who would tell me what he wanted. A man who would look into my soul and say ...
 
 "Okay, ma'am," he said. "All done."
 

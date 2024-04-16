@@ -20,11 +20,11 @@ In the late 1700s, many houses consisted of a large room with only one chair. Co
 
 ---
 
-Personal hygiene left much room for improvement. As a result, many women and men had developed acne scars by adulthood. The women would spread bee's wax over their facial skin to smooth out their complexions. When they were speaking to each other, if a woman began to stare at another woman's face she was told, 'mind your own bee's wax.' Should the woman smile, the wax would crack, hence the term 'crack a smile'. In addition, when they sat too close to the fire, the wax would melt … Therefore, the expression 'losing face.'
+Personal hygiene left much room for improvement. As a result, many women and men had developed acne scars by adulthood. The women would spread bee's wax over their facial skin to smooth out their complexions. When they were speaking to each other, if a woman began to stare at another woman's face she was told, 'mind your own bee's wax.' Should the woman smile, the wax would crack, hence the term 'crack a smile'. In addition, when they sat too close to the fire, the wax would melt ... Therefore, the expression 'losing face.'
 
 ---
 
-Ladies wore corsets, which would lace up in the front. A proper and dignified woman, as in 'straight laced' … Wore a tightly tied lace.
+Ladies wore corsets, which would lace up in the front. A proper and dignified woman, as in 'straight laced' ... Wore a tightly tied lace.
 
 ---
 
@@ -40,7 +40,7 @@ At local taverns, pubs, and bars, people drank from pint and quart-sized contain
 
 ---
 
-In the heyday of sailing ships, all war ships and many freighters carried iron cannons. Those cannons fired round iron cannon balls. It was necessary to keep a good supply near the cannon. However, how to prevent them from rolling about the deck? The best storage method devised was a square-based pyramid with one ball on top, resting on four resting on nine, which rested on sixteen. Thus, a supply of 30 cannon balls could be stacked in a small area right next to the cannon. There was only one problem … how to prevent the bottom layer from sliding or rolling from under the others. The solution was a metal plate called a 'Monkey' with 16 round indentations.
+In the heyday of sailing ships, all war ships and many freighters carried iron cannons. Those cannons fired round iron cannon balls. It was necessary to keep a good supply near the cannon. However, how to prevent them from rolling about the deck? The best storage method devised was a square-based pyramid with one ball on top, resting on four resting on nine, which rested on sixteen. Thus, a supply of 30 cannon balls could be stacked in a small area right next to the cannon. There was only one problem ... how to prevent the bottom layer from sliding or rolling from under the others. The solution was a metal plate called a 'Monkey' with 16 round indentations.
 
 However, if this plate were made of iron, the iron balls would quickly rust to it. The solution to the rusting problem was to make 'Brass Monkeys.' Few landlubbers realize that brass contracts much more and much faster than iron when chilled.
 

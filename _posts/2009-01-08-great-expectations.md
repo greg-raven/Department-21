@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-What I Want In A Man, Original List … (at age 22)
+What I Want In A Man, Original List ... (at age 22)
 
 1. Handsome
 2. Charming
@@ -17,7 +17,7 @@ What I Want In A Man, Original List … (at age 22)
 9. Full of Thoughtful Surprises
 10. An Imaginative and Romantic Lover
 
-What I Want In A Man, Revised List … (at age 32)
+What I Want In A Man, Revised List ... (at age 32)
 
 1. Nice Looking – preferably with hair on his head
 2. Opens car doors, holds chairs
@@ -30,7 +30,7 @@ What I Want In A Man, Revised List … (at age 32)
 9. Remembers Birthdays and Anniversaries
 10. Seeks romance at least once a week
 
-What I Want In A Man, Revised List … (at age 42)
+What I Want In A Man, Revised List ... (at age 42)
 
 1. Not too ugly – bald head OK
 2. Doesn't drive off until I'm in the car
@@ -43,7 +43,7 @@ What I Want In A Man, Revised List … (at age 42)
 9. Remembers to put the toilet seat lid down
 10. Shaves on weekends
 
-What I Want In A Man, Revised List … (at age 52)
+What I Want In A Man, Revised List ... (at age 52)
 
 1. Keeps nose and ear hair trimmed to appropriate length
 2. Doesn't belch or scratch in public
@@ -56,7 +56,7 @@ What I Want In A Man, Revised List … (at age 52)
 9. Remembers my name
 10. Shaves sometimes
 
-What I Want In A Man, Revised List … (at age 62)
+What I Want In A Man, Revised List ... (at age 62)
 
 1. Doesn't scare small children
 2. Remembers where bathroom is
@@ -67,8 +67,8 @@ What I Want In A Man, Revised List … (at age 62)
 7. Usually wears some clothes
 8. Likes soft foods
 9. Remembers where he left his teeth
-10. Remembers when …
+10. Remembers when ...
 
-What I Want In A Man, Revised List … (at age 72)
+What I Want In A Man, Revised List ... (at age 72)
 
 1. Breathing

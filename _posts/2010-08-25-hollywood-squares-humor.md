@@ -77,7 +77,7 @@ Q. Who stays pregnant for a longer period of time, your wife or your elephant?
 A. Paul Lynde: Who told you about my elephant?
 
 Q. When a couple have a baby, who is responsible for its sex?
-A. Charley Weaver: I'll lend him the car, the rest is up to him …
+A. Charley Weaver: I'll lend him the car, the rest is up to him ...
 
 Q. Jackie Gleason recently revealed that he firmly believes in them and has actually seen them on at least two occasions. What are they?
 A. Charley Weaver: His feet.

@@ -44,6 +44,6 @@ Australian Shepherd: Put all the light bulbs in a little circle.
 
 Beagle: Light bulb? That thing I ate was a light bulb?
 
-Siberian Husky: Light bulb?!? I ate the light bulb, and the lamp, and the coffee table it sat on, and the carpet under the coffee table and …
+Siberian Husky: Light bulb?!? I ate the light bulb, and the lamp, and the coffee table it sat on, and the carpet under the coffee table and ...
 
 Cat: You need light to see?

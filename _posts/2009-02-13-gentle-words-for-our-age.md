@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-Imagine if instead of cryptic, geeky error messages, your computer produced haiku …
+Imagine if instead of cryptic, geeky error messages, your computer produced haiku ...
 
 A file that big?
 

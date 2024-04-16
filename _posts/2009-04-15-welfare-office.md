@@ -18,4 +18,4 @@ The social worker behind the counter said, "Your timing is excellent. We just go
 
 The guy, just plain wide-eyed, said, "You're bullshittin' me!"
 
-The social worker said, "Yeah, well … you started it."
+The social worker said, "Yeah, well ... you started it."

@@ -8,7 +8,7 @@ layout: post
 
 ![USS RONALD REAGAN](/assets/2017/2017-05-uss-reagan.jpg "USS RONALD REAGAN")
 
-Seeing it next to the Arizona Memorial really puts its size into perspective … enormous!
+Seeing it next to the Arizona Memorial really puts its size into perspective ... enormous!
 
 When the bridge pipes "Man the Rail" there is a lot of rail to man on this monster: Shoulder to shoulder, around 4.5 acres. Her displacement is about 100,000 tons with full complement.
 
@@ -55,4 +55,4 @@ In times of conflict, the USS Clinton has orders to seek refuge in Canada.
 
 Armed with an on board Type One DNC Universal Translator, this ship can send out messages of apology in any language to anyone who may find America offensive. The number of apologies are limitless. And though some may seem hollow and disingenuous, the Navy advises all apologies will sound very sincere.
 
-Details of this ship are vague. But don't you worry … he has a plan.
+Details of this ship are vague. But don't you worry ... he has a plan.

@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-This will dispel all rumors …  
+This will dispel all rumors ...  
   
 If you don't believe it, just try this experiment:
 

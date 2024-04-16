@@ -4,15 +4,15 @@ author: "Noam Sain"
 layout: post
 ---
 
-The honorable mention goes to the United Kingdom …
+The honorable mention goes to the United Kingdom ...
 
 ![Husband of the Year Awards](https://1.bp.blogspot.com/_8aN4krk1nsk/Son-Z1RiA2I/AAAAAAAAAPM/Sr77eHs7R2I/s1600/uk.jpg "Husband of the Year Awards")
 
-… followed closely by the United States …
+... followed closely by the United States ...
 
 ![Husband of the Year Awards](https://4.bp.blogspot.com/_8aN4krk1nsk/Son-ap3CFtI/AAAAAAAAAPU/FMAbW4MimsU/s1600/us.jpg "Husband of the Year Awards")
 
-… and then … Poland.
+... and then ... Poland.
 
 ![Husband of the Year Awards](https://1.bp.blogspot.com/_8aN4krk1nsk/Son-bFaZo9I/AAAAAAAAAPc/9AlNbMo4q6E/s1600/poland.jpg "Husband of the Year Awards")
 

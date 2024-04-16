@@ -22,6 +22,6 @@ layout: post
 
 2\. "Someone must have put decaf in the wrong pot."
 
-AND THE #1 BEST THING TO SAY IF YOU GET CAUGHT SLEEPING AT YOUR DESK …
+AND THE #1 BEST THING TO SAY IF YOU GET CAUGHT SLEEPING AT YOUR DESK ...
 
-1\. "… in Jesus' name, Amen."
+1\. "... in Jesus' name, Amen."
