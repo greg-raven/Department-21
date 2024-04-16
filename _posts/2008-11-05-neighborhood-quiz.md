@@ -1,8 +1,8 @@
-—-
+---
 title: "Welcome to the neighborhood"
 author: "Noam Sain"
 layout: post
-—-
+---
 
 How to score: 0 if the statement is never true, 1 if it is rarely true, 2 if it is sometimes true, and 3 if it is always true.
 
@@ -18,7 +18,7 @@ How to score: 0 if the statement is never true, 1 if it is rarely true, 2 if it 
 
 6. ___ The number of jobs held down by family members exceeds the number of people in the family.
 
-7. ___ No one has _time_ to wait for microwave TV dinners.
+7. ___ No one has *time* to wait for microwave TV dinners.
 
 8. ___ "Family meetings" are often mediated by law enforcement officials.
 
@@ -32,4 +32,4 @@ How you rate: 30 --- a perfect score. Welcome to the neighborhood!
 
 10-19 --- You have mastered some of the aspects of the stress-filled life, but still have a long way to go. Have you considered a parallel career path?
 
-0-9 --- Enjoying all that extra time? What do you _do_ anyway?
+0-9 --- Enjoying all that extra time? What do you *do* anyway?

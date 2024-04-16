@@ -4,7 +4,7 @@ author: "Noam Sain"
 layout: post
 ---
 
-Dear Sir:—
+Dear Sir: ---
 
 We're writing this letter to you today because we want to help you get your money out of your Model T.
 

@@ -16,7 +16,7 @@ Can you help, please!!!!
 
 Jane Doe
 
-———-
+---
 
 Dear Jane:
 

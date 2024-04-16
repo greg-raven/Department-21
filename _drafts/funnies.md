@@ -262,99 +262,153 @@ Then the child continues, "Every year the boulder is moved aside so that Jesus c
 
 ------
 
-Last name: ________________
+Last name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 First name: (Check appropriate box)
-(_) Billy-Bob
-(_) Billy-Joe
-(_) Billy-Ray
-(_) Billy-Sue
-(_) Billy-Mae
-(_) Billy-Jack
+
+(\_) Billy-Bob
+
+(\_) Billy-Joe
+
+(\_) Billy-Ray
+
+(\_) Billy-Sue
+
+(\_) Billy-Mae
+
+(\_) Billy-Jack
 
 What does everyone call you?
-(_) Booger
-(_) Bubba
-(_) Junior
-(_) Sissy
-(_) Other___________________
 
-Sex: ____ M _____ F _____ Not sure
+(\_) Booger
 
-Shoe Size: ____ Left ____ Right
+(\_) Bubba
+
+(\_) Junior
+
+(\_) Sissy
+
+(\_) Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Sex: M (\_) F (\_) Not sure (\_)
+
+Shoe Size: \_\_\_\_ Left \_\_\_\_ Right
 
 Occupation: (Check appropriate box)
-(_) Farmer
-(_) Mechanic
-(_) Hair Dresser
-(_) Unemployed
-(_) Dirty Politician
-(_) Preacher
 
-Spouse's Name:_________________________
+(\_) Farmer
+
+(\_) Mechanic
+
+(\_) Hair Dresser
+
+(\_) Unemployed
+
+(\_) Dirty Politician
+
+(\_) Preacher
+
+Spouse's Name:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Relationship with spouse: (Check appropriate box)
-(_) Sister
-(_) Brother
-(_) Aunt
-(_) Uncle
-(_) Cousin
-(_) Mother
-(_) Father
-(_) Son
-(_) Daughter
-(_) Pet
 
-Number of children living in household: _____
-Number of children living in shed: ______
-Number that are yours: ______
+(\_) Sister
+
+(\_) Brother
+
+(\_) Aunt
+
+(\_) Uncle
+
+(\_) Cousin
+
+(\_) Mother
+
+(\_) Father
+
+(\_) Son
+
+(\_) Daughter
+
+(\_) Pet
+
+Number of children living in household: \_\_\_\_\_
+
+Number of children living in shed: \_\_\_\_\_\_
+
+Number that are yours: \_\_\_\_\_\_
 
 Education: 1 2 3 4 (Circle highest grade completed)
 
-Do you (_) own or (_) rent your mobile home? (Check appropriate box)
+Do you (\_) own or (\_) rent your mobile home? (Check appropriate box)
 
-Total number of vehicles you own: ___
-Number of vehicles that still crank: ___
-Number of vehicles in front yard: ___
-Number of vehicles in back yard: ___
-Number of vehicles on cement blocks: ___
-Model and year of your pickup: 196_
+Total number of vehicles you own: \_\_\_
+
+Number of vehicles that still crank: \_\_\_
+
+Number of vehicles in front yard: \_\_\_
+
+Number of vehicles in back yard: \_\_\_
+
+Number of vehicles on cement blocks: \_\_\_
+
+Model and year of your pickup: 196\_
 
 Firearms you own and where you keep them:
-____ truck
-____ bedroom
-____ bathroom
-____ kitchen
-____ shed
 
-Do you have a gun rack? (_) Yes (_) No; If no, please explain:
+\_\_\_\_ truck
+
+\_\_\_\_ bedroom
+
+\_\_\_\_ bathroom
+
+\_\_\_\_ kitchen
+
+\_\_\_\_ shed
+
+Do you have a gun rack? (\_) Yes (\_) No; If no, please explain:
 
 Newspapers/magazines you subscribe to:
-(_) The National Enquirer
-(_) The Globe
-(_) TV Guide
-(_) Soap Opera Digest
-(_) Rifle and Shotgun
 
-Number of times you've seen a UFO:_____
-Number of times in the last 5 years you've seen Elvis:_____
-Number of times you've seen Elvis in a UFO:_____
+
+(\_) The National Enquirer
+
+(\_) The Globe
+
+(\_) TV Guide
+
+(\_) Soap Opera Digest
+
+(\_) Rifle and Shotgun
+
+Number of times you've seen a UFO:\_\_\_\_\_
+
+Number of times in the last 5 years you've seen Elvis:\_\_\_\_\_
+
+Number of times you've seen Elvis in a UFO:\_\_\_\_\_
 
 How often do you bathe:
-(_) Weekly
-(_) Monthly
-(_) Not Applicable
+
+
+(\_) Weekly
+
+(\_) Monthly
+
+(\_) Not Applicable
 
 How far is your home from a paved road?
-(_) 1 mile
-(_) 2 miles
-(_) just a whoop-and-a-holler
+
+(\_) 1 mile
+
+(\_) 2 miles
+
+(\_) just a whoop-and-a-holler
 
 ------
 
 A large, well established, Canadian lumber camp advertised that they were looking for a good lumberjack.
 
-The very next day, a skinny little man showed up at the camp with his axe, and knocked on the head lumberjacks' door. The head lumberjack took one look at the little man and told him to leave.
+The very next day, a skinny little man showed up at the camp with his axe, and knocked on the head lumberjack's door. The head lumberjack took one look at the little man and told him to leave.
 
 "Just give me a chance to show you what I can do," said the skinny man.
 
@@ -372,15 +426,17 @@ The little man laughed and answered back, "Oh sure, that's what they call it now
 
 ------
 
-Did you hear about the South Carolina redneck who passed away and left his
-entire estate in trust for his beloved widow?
+Did you hear about the South Carolina redneck who passed away and left his entire estate in trust for his beloved widow?
+
 She can't touch it till she's fourteen.
 
 ------------------------------------------
 
 What's the difference between a good ol' boy and a redneck?
+
 The good ol' boy raises livestock.
-The redneck gets emotionally involved
+
+The redneck gets emotionally involved.
 
 -------------------------------------
 
@@ -404,98 +460,112 @@ When you call the front desk and say "I've gotta leak in my sink" and the person
 ---------------------------------------
 
 How can you tell if a Texas redneck is married?
+
 There is dried chewing tobacco on both sides of his pickup truck.
 
 ------------------------------------------
 
-Did you hear that they have raised the minimum drinking age in Tennessee
-to 32? It seems they want to keep alcohol out of the high schools!
+Did you hear that they have raised the minimum drinking age in Tennessee to 32? It seems they want to keep alcohol out of the high schools!
 
 --------------------------------------
 
 What do they call reruns of "Hee Haw" in Mississippi?
+
 A documentary.
 
 ----------------------------------------
 
 How many rednecks does it take eat a 'possum?
+
 Two.
+
 One to eat, and one to watch out for traffic.
 
 ----------------------------------------
 
 Why did God invent armadillos?
+
 So that Texas rednecks can have 'possum on the half shell.
 
 -----------------------------------------
 
 Where was the toothbrush invented?
+
 Arkansas.
+
 If it was invented anywhere else it would have been called a teethbrush.
 
 ------------------------------------------
 
 Arkansas State trooper pulls over a pickup truck on I-40. He says to the
-driver,
-"Got any ID?"
+driver, "Got any ID?"
+
 The driver says, "Bout what?"
 
 ------------------------------------------
 
 Did you hear about the $3,000,000 Tennessee State Lottery?
+
 The winner gets $3 a year for a million years.
 
 ------------------------------------------
 
 Why did O. J. Simpson want to move to West Virginia?
+
 Everyone has the same DNA.
 
 ----------------------------------------
 
 Did you hear that the governor's mansion in Little Rock, Arkansas burne down?
+
 Yep. Pert' near took out the whole trailer park.
 
 -----------------------------------------
 
-A new law recently passed in North Carolina: When a couple gets divorced,
-they're still brother and sister.
+A new law recently passed in North Carolina: When a couple gets divorced, they're still brother and sister.
 
 ----------------------------------------
 
 What's the best thing to ever come out of Arkansas?
+
 I-40.
 
 --------------------------------------
 
-Two Mississippians are walking down different ends of a street toward each
-other, and one is carrying a sack. When they meet, one says,
-"Hey Tommy Ray,what'cha got in th' bag?" "Jus' some chickens."
+Two Mississippians are walking down different ends of a street toward each other, and one is carrying a sack. When they meet, one says, "Hey Tommy Ray,what'cha got in th' bag?"
+
+"Jus' some chickens."
+
 "If I guesses how many they are, can I have one?"
+
 "Shoot, ya guesses right and I'll give you both of them."
+
 "OK. Ummmmm ... five?"
 
 -----------------------------------------
 
-What do a divorce in Georgia, a tornado in Kansas, and a hurricane in
-Florida have in common?
+What do a divorce in Georgia, a tornado in Kansas, and a hurricane in Florida have in common?
 
 Somebody's fixin' to lose them a trailer.
 
 -----------------------------------
 
-A Mississippian came home and found his house on fire, he rushed next
-door, telephoned the fire department and shouted,
-"Hurry over here. My house is on fire!" "OK," replied the fireman, "how do we
-get there?" "Shucks, don't you still have those big red trucks?"
+A Mississippian came home and found his house on fire, he rushed next door, telephoned the fire department and shouted, "Hurry over here. My house is on fire!"
+
+"OK," replied the fireman, "how do we get there?"
+
+"Shucks, don't you still have those big red trucks?"
 
 -----------------------------------
 
 Why do folks in Kentucky go to the movie theater in groups of 18 or more?
-Cuz 17 and under not admitted.
+
+'Cuz 17 and under not admitted.
 
 --------------------------------
 
 What do you get when you have 32 rednecks in the same room?
+
 A full set of teeth.
 
 ------
@@ -2333,7 +2403,7 @@ Henry Beard is the author of "Computing: A Hacker's Lexicon."
 
 From: "Jeff Menzigian" via Alice via Evy via Ivan
 
-I met her __________ _____; I can still recall _________
+I met her \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_; I can still recall \_\_\_\_\_\_\_\_\_
 (1) (2) (3)
 
 1. 2. 3.
@@ -2350,7 +2420,7 @@ in a treehouse with Merv Griffin the hearing aid
 dead all over the boxer shorts
 
 
-she wore; She was ______ _____,
+she wore; She was \_\_\_\_\_\_ \_\_\_\_\_,
 (4) (5)
 
 4. 5
@@ -2367,7 +2437,7 @@ drownin' in the quicksand with a wetback
 slurpin' up linguini in her muu-muu
 
 
-and I knew _______; _______
+and I knew \_\_\_\_\_\_\_; \_\_\_\_\_\_\_
 (6) (7)
 
 6. 7.
@@ -2384,7 +2454,7 @@ that she was rotten to the core The blood test showed
 that I would upchuck on the floor Her rabbi said
 
 
-I'd ______ forever; She said to me ____;
+I'd \_\_\_\_\_\_ forever; She said to me \_\_\_\_;
 (8) (9)
 
 8. 9.
@@ -2402,7 +2472,7 @@ play "Go Fish" that birthdays made her cry
 she couldn't stand my tie
 
 
-But who'd have thought she'd _____ ___________;
+But who'd have thought she'd \_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_;
 (10) (11)
 
 10. 11.
@@ -2420,7 +2490,7 @@ bobsled with her guru
 grovel while in labor
 
 
-_________ goodbye.
+\_\_\_\_\_\_\_\_\_ goodbye.
 (12)
 
 12.
@@ -2675,7 +2745,7 @@ The police spokesman explained that the bureau has a specially trained squad to 
 
 The Japanese were amazed. In Japanese, they exclaimed, "Kibisii!" (Tough!)
 
-Then one in Japanese asked my wife to clarify: is that _really_ how they handle "bums"?
+Then one in Japanese asked my wife to clarify: is that \_really\_ how they handle "bums"?
 
 ------
 
@@ -3854,7 +3924,7 @@ We pray next Pesach
 We'll all be here.
 It's a tradition...
 Same time next year...
-So fill it up now, the final cup now, Next year at ____________
+So fill it up now, the final cup now, Next year at \_\_\_\_\_\_\_\_\_\_\_\_
 
 9. The Ballad of the Four Sons
 (to the tune of "Clementine")
