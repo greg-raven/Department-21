@@ -5008,3 +5008,8 @@ I have many hidden talents. I just wish I could remember where I hid them.
 My idea of a Super Bowl is a toilet that cleans itself. February 11, 2024
 
 Exercise helps you with decision-making. It's true. I went for a run this morning and decided I'm never going again.
+
+
+Favorite dad jokes --- https://www.youtube.com/watch?v=NjJUIxqxnBw&list=WL&index=2&pp=gAQBiAQB
+
+No country for confused men --- https://www.youtube.com/watch?v=2HaAvahMvEs&list=WL&index=5&pp=gAQBiAQB
