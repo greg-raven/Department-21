@@ -2,49 +2,6 @@
 
 ------
 
-You have a list of 15 phone numbers to reach your family of three.
-
-You chat several times a day with a stranger from South Africa, but you haven't spoken with your next-door neighbor yet this year.
-
-You didn't give your valentine a card this year, but you posted one for your e-mail buddies via a web page.
-
-You call your son's beeper to let him know it's time to eat. He emails you back from his bedroom, "What's for dinner?"
-
-Your grandmother clogs up your e-mail inbox asking you to send her a JPEG file of your newborn so she can create a screen saver.
-
-You pull up in your own driveway and use your cell phone to see if anyone is home.
-
-Cleaning up the dining room means getting the fast food bags out of the back seat of your car.
-
-------
-------
-
-A Sunday School teacher asked her class of young children a very simple question, or so she thought. She asked, "What is Easter?"
-
-Immediately many children raised their hands. So the teacher called on one to answer the question.
-
-The sweet child replied, "Oh, that's easy! It's the holiday in November when everyone gets together, eats turkey, and are thankful."
-
-"Wrong!", replied the teacher, and proceeded to choose a second child to answer the same question, "What is Easter?"
-
-The second child replied, "Easter is the holiday in December when we put up a nice tree, exchange presents, and celebrate the birth of Jesus."
-
-The teacher looked at the second child, shook her head, and tells him he's wrong.
-
-Then a third child is selected to answer the question, "What is Easter?"
-
-The third child smiles confidently and looks into the teacher's eyes and says, "I know what Easter is."
-
-"Oh?" says the teacher, incredulously.
-
-"Easter is the Christian holiday that coincides with the Jewish celebration of Passover. Jesus and his disciples were eating at the last supper and Jesus was later deceived and turned over to the Romans by one of his disciples. The Romans took him to be crucified and he was stabbed in the side, made to wear a crown of thorns, and was hung on a cross with nails through his hands. He was buried in a nearby cave, which was then sealed off by a large boulder."
-
-The teacher smiles broadly with delight.
-
-Then the child continues, "Every year the boulder is moved aside so that Jesus can come out ... and, if he sees his shadow, there will be six more weeks of winter."
-
-------
-
 Last name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 First name: (Check appropriate box)
