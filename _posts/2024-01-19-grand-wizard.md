@@ -1,5 +1,5 @@
 ---
-title: "Grand Wizard"
+title: "Grand wizard"
 author: "Noam Sain"
 layout: post
 ---
