@@ -4,42 +4,82 @@ author: "Noam Sain"
 layout: post
 ---
 
-That's not right. Sum Ting Wong
+> That's not right.
+>
+> <cite>Sum Ting Wong</cite>
 
-Are you harboring a fugitive? Hu Yu Hai Ding?
+> Are you harboring a fugitive?
+>
+> <cite>Hu Yu Hai Ding</cite>
 
-See me ASAP. Kum Hia Nao
+> See me ASAP.
+>
+> <cite>Kum Hia Nao</cite>
 
-Stupid man. Dum Gai
+> Stupid man.
+>
+> <cite>Dum Gai</cite>
 
-Small horse. Tai Ni Po Ni
+> Small horse.
+>
+> <cite>Tai Ni Po Ni</cite>
 
-Did you go to the beach? Wai Yu So Tan?
+> Did you go to the beach?
+>
+> <cite>Wai Yu So Tan</cite>
 
-I bumped into a coffee table. Ai Bang Mai Ni
+> I bumped into a coffee table.
+>
+> <cite>Ai Bang Mai Ni</cite>
 
-I think you need a face lift. Chin Tu Fat
+> I think you need a face lift.
+>
+> <cite>Chin Tu Fat</cite>
 
-It's very dark in here. Wai So Dim?
+> It's very dark in here.
+>
+> <cite>Wai So Dim</cite>
 
-I thought you were on a diet. Wai Yu Mun Ching?
+> I thought you were on a diet.
+>
+> <cite>Wai Yu Mun Ching</cite>
 
-This is a tow away zone. No Pah King
+> This is a tow away zone.
+>
+> <cite>No Pah King</cite>
 
-Do you know the lyrics to the Macarena? Wai Yu Sing Dum Song?
+> Do you know the lyrics to the Macarena?
+>
+> <cite>Wai Yu Sing Dum Song</cite>
 
-You are not very bright. Yu So Dum
+> You are not very bright.
+>
+> <cite>Yu So Dum</cite>
 
-I got this for free Ai No Pei
+> I got this for free.
+>
+> <cite>Ai No Pei</cite>
 
-Please stay a while longer. Wai Go Nao?
+> Please stay a while longer.
+>
+> <cite>Wai Go Nao</cite>
 
-Our meeting was scheduled for next week. Wai Yu Kum Nao?
+> Our meeting was scheduled for next week.
+>
+> <cite>Wai Yu Kum Nao</cite>
 
-They have arrived. Hia Dei Kum
+> They have arrived.
+>
+> <cite>Hia Dei Kum</cite>
 
-Stay out of sight. Lei Lo
+> Stay out of sight.
+>
+> <cite>Lei Lo</cite>
 
-He's cleaning his automobile. Wa Shing Ka
+> He's cleaning his automobile.
+>
+> <cite>Wa Shing Ka</cite>
 
-Your body odor is offensive. Yu Stin Ki Pu
+> Your body odor is offensive.
+>
+> <cite>Yu Stin Ki Pu</cite>
