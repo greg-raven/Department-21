@@ -4721,19 +4721,13 @@ That night, on a repast of lightly saut&eacute;ed frogs legs seasoned in a white
 
 ------
 
-
-
-
 For those who already have children past this age, this is hilarious.
 For those who have children nearing this age, this is a warning.
 For those who have not yet had children, this is birth control.
 
-1. A king size waterbed holds enough water to fill a 2000 square foot
-house, 4 inches deep.
-2. If you spray hair spray on dust bunnies and run over them with
-roller blades, they can ignite.
-3. A 3 year old's voice is louder than 200 adults in a crowded
-restaurant.
+1. A king size waterbed holds enough water to fill a 2,000 square foot house, 4 inches deep.
+2. If you spray hair spray on dust bunnies and run over them with roller blades, they can ignite.
+3. A 3 year old's voice is louder than 200 adults in a crowded restaurant.
 4. If you hook a dog leash over a ceiling fan, the motor is not
 strong enough to rotate a 42 pound boy wearing Batman underwear and a
 superman cape. It is strong enough, however, to spread paint on all
@@ -4751,14 +4745,11 @@ year old man says they can only do it in the movies. A magnifying glass
 can start a fire even on an overcast day.
 10. Certain Lego's will pass through the digestive tract of a four year
 old.
-11. Play Dough and Microwave should never be used in the same sentence.
-12. Super glue is forever.
-13. No matter how much Jell-O you put in a swimming pool, you still
-can't walk on water.
+11. Play-Doh and Microwave should never be used in the same sentence.
+12. Super Glue is forever.
+13. No matter how much Jell-O you put in a swimming pool, you still can't walk on water.
 14. Pool filters do not like Jell-O.
-15. VCR's do not eject peanut butter and jelly sandwiches even though
-TV
-commercials show they do.
+15. VCR's do not eject peanut butter and jelly sandwiches even though TV commercials show they do.
 16. Garbage bags do not make good parachutes.
 17. Marbles in gas tanks make lots of noise when driving.
 18. You probably do not want to know what that odor is.
@@ -4771,21 +4762,6 @@ dizzy.
 
 ------
 
-The southern preacher rose with a red face. "Someone in this congregation has spread a rumor that I belong to the KKK This is a horrible lie and one which a Christian community cannot tolerate. I am embarrassed and do not intend to accept this. Now I want the party who did this to stand and ask forgiveness from God and this Christian family."
-
-No one moved. The preacher continued, "Do you not have the nerve to face me and admit this is a falsehood. Remember, you will be forgiven and in your heart you will feel glory. Now stand and confess your transgression."
-
-Again all was quiet. Slowly a "drop dead" gorgeous blonde with a body that would not stop rose from the third pew. Her head was bowed and voice quivered as she spoke.
-
-"Reverend there has been a terrible misunderstanding. I never said you were a member of the Ku Klux Klan. I told a couple of my friends that you were a wizard under the sheets!"
-
-OY!
-
-
-------
-
-
-
 1. Your coworker has 8 body piercings and none is visible.
 2. You make over $250,000 and still can't afford a house.
 3. You take a bus and are shocked at 2 people carrying on a conversation in English.
@@ -4797,130 +4773,15 @@ OY!
 9. A really great parking space can move you to tears.
 10. A low speed pursuit will interrupt ANY TV broadcast.
 11. Gas costs 75 cents per gallon more than anywhere else in the US
-12. A man gets on the bus in full leather regalia and crotchless
-chaps. You don't even notice.
-13. Unlike back home, the guy at 8:30 am at Starbucks wearing the
-baseball cap and sunglasses who looks like George Clooney IS
-George Clooney.
+12. A man gets on the bus in full leather regalia and crotchless chaps. You don't even notice.
+13. Unlike back home, the guy at 8:30 am at Starbucks wearing the baseball cap and sunglasses who looks like George Clooney IS George Clooney.
 14. Your car insurance costs as much as your house payment.
-15. Your hairdresser is straight, your plumber is gay, the woman
-who delivers your mail is into BDSM and your Mary Kay rep is
-a guy in drag.
-16. It's sprinkling and there's a report on every news station
-about "STORM WATCH 2000".
-17. You have to leave the big company meeting early because Billy
-Blanks himself is teaching the 4:00 p.m. Tae Bo class.
-18. You pass an elementary school playground and the children are
-all busy with their cell phones or pagers.
+15. Your hairdresser is straight, your plumber is gay, the woman who delivers your mail is into BDSM and your Mary Kay rep is a guy in drag.
+16. It's sprinkling and there's a report on every news station about "STORM WATCH 2000."
+17. You have to leave the big company meeting early because Billy Blanks himself is teaching the 4:00 p.m. Tae Bo class.
+18. You pass an elementary school playground and the children are all busy with their cell phones or pagers.
 19. It's sprinkling outside, so you leave for work an hour early to avoid all the weather-related accidents.
 20. You AND your dog have therapists.
-
-
-------
-
-
-In the Beginning,
-God created the Heaven and the Earth.
-And the Earth was without form, and void,
-and darkness was upon the face of the deep.
-And the Devil said, "It doesn't get any better than this."
-And God said, "Let there be light"
-And there was light.
-And God said,
-"Let the earth bring forth grass,
-The herb yielding seed,
-And the fruit tree yielding fruit,"
-And God saw that it was good.
-And the Devil said,
-"There goes the neighborhood."
-And God said,
-"Let us make Man in our image,
-After our likeness,
-And let them have dominion over the fish of the sea,
-And over the fowl of the air
-And over the cattle,
-And over all the Earth,
-And over every creeping thing that creepeth upon the Earth."
-And so God created Man in His own image;
-Male and female He created them.
-And God looked upon Man and Woman
-And saw that they were lean and fit.
-And the Devil said,
-"I know how I can get back in this game."
-And God populated the earth
-With broccoli and cauliflower and spinach
-And green and yellow vegetables of all kinds,
-So Man and Woman would live long and healthy lives.
-And the Devil created McDonald's.
-And McDonald's brought forth
-The 79-cent double cheeseburger.
-And Man gained five pounds.
-And God created the healthful yogurt,
-That woman might keep her figure
-That man found so fair.
-And the Devil brought forth chocolate.
-And Woman gained five pounds.
-And God said,
-"Try my crispy fresh salad."
-And the Devil brought forth Ben and Jerry's.
-And Woman gained 10 pounds.
-And God said,
-"I have sent thee heart-healthy vegetables
-And olive oil with which to cook them."
-And the Devil brought forth chicken fried steak
-So big it needed its own platter.
-And Man gained 10 pounds
-And his bad cholesterol went through the roof.
-And God brought forth running shoes.
-And Man resolved to lose those extra pounds.
-And the Devil brought forth cable TV with remote control
-So Man would not have to toil
-To change channels between ESPN and ESPN2.
-And Man gained another 20 pounds.
-And God said,
-"You're running up the score, Devil."
-And God brought forth the potato,
-A vegetable naturally low in fat and brimming with nutrition.
-And the Devil peeled off the healthful skin
-And sliced the starchy center into chips and deep-fat fried them.
-And the Devil created sour cream dip.
-And Man clutched his remote control
-And ate the potato chips swaddled in cholesterol.
-And the Devil saw and said,
-"It is good."
-And Man went into cardiac arrest.
-And God sighed and created quadruple bypass surgery.
-And the Devil canceled Man's health insurance.
-Then God showed Woman how to peel the skin off chicken
-And cook the nourishing whole grain brown rice.
-And the Devil created light beer
-So Man could poison his body,
-While feeling righteous because he had to drink
-Twice as much of the now-insipid brew to get the same buzz.
-And Man gained another 10 pounds.
-And God created the life giving tofu.
-And Woman ventured forth
-Into the land of Godiva chocolate,
-And upon returning asked Man,
-"Do I look fat?"
-And the Devil said,
-"Always tell the truth."
-And Man did.
-And Woman went out from the presence of man
-And dwelt in the land of the divorce lawyer,
-East of the marriage counselor.
-And Woman put aside the seeds of the earth
-And took unto herself comfort food.
-And God brought forth Weight-watchers.
-It didn't help.
-And God created exercise machines with easy payments.
-And man brought forth his Visa at 21 percent.
-And the exercise machine went to dwell
-In the closet of Nod east of the polyester leisure suit.
-And in the fullness of time,
-Woman received the exercise machine from Man
-In the property settlement.
-It didn't help her, either.
 
 ------
 
@@ -4949,66 +4810,6 @@ TAKE AN ARMY TO CLEAN THIS ...
 That's how many.
 
 ---
-
-Short summary of every Jewish Holiday: They tried to kill us, we won, let's eat."
-
-Jewish telegram: "Begin worrying. Details to follow."
-
-5759 Year according to Jewish calendar
-4696 Year according to Chinese calendar
-1063 Total # of years that Jews went without Chinese food
-
-
-Still trying to get my head around the fact that "take out" can mean food, dating, or murder.
-
-The older I get, the more I understand why roosters scream to start their day.
-
-Being popular on Facebook is like sitting at the "cool table" in the cafeteria of a mental hospital.
-
-You know you're over 50 when you have "upstairs ibuprofen" and "downstairs ibuprofen."
-
-How did doctors come to the conclusion that exercise prolongs life, when the rabbit is always jumping but only lives for around two years, and the turtle that doesn't exercise at all lives over 200 years.
-
-If only vegetables smelled as good as bacon.
-
-The biggest joke on mankind is that computers have begun asking humans to prove they aren't a robot.
-
-When a kid says "Daddy, I want mommy," that's the kid version of "I'd like to speak to your supervisor."
-
-It's weird being the same age as old people.
-
-Just once, I want a username and password prompt to respond "CLOSE ENOUGH."
-
-If Adam and Eve were Cajuns they would have eaten the snake instead of the apple and saved us all a lot of trouble.
-
-We celebrated last night with a couple of adult beverages ... Metamucil and Ensure.
-
-You know you are getting old when friends with benefits means knowing someone who can drive at night.
-
-Weight loss goal: To be able to clip my toenails and breathe at the same time.
-
-After watching how some people wore their masks, I understand why contraception fails.
-
-Some of my friends exercise every day. Meanwhile I am watching a show I don't like because the remote fell on the floor.
-
-For those of you that don't want Alexa or Siri listening in on your conversation, they are making a male version. It doesn't listen to anything.
-
-I just got a present labeled, "From Mom and Dad," and I know darn well that Dad has no idea what's inside.
-
-Now that COVID has everyone washing their hands correctly, next week: Turn signals.
-
-Someone said, "Nothing rhymes with orange." I said, "No, it doesn't."
-
-The pessimist complains about the wind. The optimist expects it to change. The realist adjusts his sails.
-
-There's a fine line between a numerator and a denominator. Only a fraction of people will find this funny.
-
-I have many hidden talents. I just wish I could remember where I hid them.
-
-My idea of a Super Bowl is a toilet that cleans itself. February 11, 2024
-
-Exercise helps you with decision-making. It's true. I went for a run this morning and decided I'm never going again.
-
 
 Favorite dad jokes --- https://www.youtube.com/watch?v=NjJUIxqxnBw&list=WL&index=2&pp=gAQBiAQB
 
