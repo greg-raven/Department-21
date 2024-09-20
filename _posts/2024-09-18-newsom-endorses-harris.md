@@ -6,7 +6,7 @@ layout: post
 
 Hi, I'm Gavin Newsom, the governor of California.
 
-This is a message for the people of America, given in my authentically recorded non-AI voice.
+This is a message for the people of America, given in my authentically-recorded non-AI voice.
 
 Thanks to my leadership over the last several years, California has become a world leader in extremist left-wing governance. My policies were so effective that almost 1 million people are now fleeing the state every year. We even ran out of U-Hauls.
 
@@ -27,3 +27,5 @@ Anyway, I'm California governor Gavin Newsom and I approve this 100% real messag
 Thank you and science bless America.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S8QiJe181a4?si=wIL39MbeMRl-yIZC" title="Exclusive, official, 100% real Gavin Newsom endorsing Kamala Harris" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Source: Exclusive, official, 100% real, and authentically-recorded non-AI Gavin Newsom (If you can't trust him, who can you trust?)
