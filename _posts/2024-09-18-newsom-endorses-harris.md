@@ -1,5 +1,5 @@
 ---
-title: "Exclusive, official, 100% real: Gavin Newsom endorsing Kamala Harris"
+title: "Exclusive, official, 100% real: Gavin Newsom endorsing Cameluh Harris"
 author: "Noam Sain"
 layout: post
 ---
