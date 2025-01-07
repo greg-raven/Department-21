@@ -5,14 +5,18 @@ layout: post
 ---
 
 1. The number of physicians in the US is 700,000.
+
 2. Accidental deaths caused by Physicians per year are 120,000.
+
 3. Accidental deaths per physician are 0.171. (US Dept. of Health and Human Services)
 
   
 Now think about this:
 
 1. The number of gun owners in the US is 80,000,000. (Yes, that's 80 million)
+
 2. The number of accidental gun deaths per year, for all age groups, is 1,500.
+
 3. The number of accidental deaths per gun owner is .0000188.
 
 Statistically, doctors are approximately 9,000 times more dangerous than gun owners.
