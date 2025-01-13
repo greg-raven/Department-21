@@ -10,7 +10,7 @@ It started to snow.
 
 The first snow of the season and the wife and I took our cocktails and sat for hours by the window watching the huge soft flakes drift down from heaven.
 
-It looked like a Grandma Moses Print.
+It looked like a Grandma Moses print.
 
 So romantic we felt like newlyweds again.
 
@@ -44,7 +44,7 @@ My neighbor tells me not to worry --- we'll definitely have a white Christmas.
 
 No snow on Christmas would be awful!
 
-John says we'll have so much snow by the end of winter, that I'll never want to see snow again
+John says we'll have so much snow by the end of winter, that I'll never want to see snow again.
 
 I don't think that's possible.
 
