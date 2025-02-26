@@ -4554,3 +4554,56 @@ That's how many.
 Favorite dad jokes --- https://www.youtube.com/watch?v=NjJUIxqxnBw&list=WL&index=2&pp=gAQBiAQB
 
 No country for confused men --- https://www.youtube.com/watch?v=2HaAvahMvEs&list=WL&index=5&pp=gAQBiAQB
+
+
+If a bottle of poison reaches its expiration date, is it more poisonous or is it no longer poisonous?
+ 
+Which letter is silent in the word "Scent," the S or the C?
+ 
+Do twins ever realize that one of them is unplanned?
+ 
+Every time you clean something, you just make something else dirty.
+ 
+The word "swims" upside-down is still "swims".
+ 
+ Over 100 years ago, everyone owned a horse and only the rich had cars Today everyone has cars and only the rich own horses.
+ 
+If people evolved from monkeys, why are monkeys still around?
+ 
+Why is there a 'D' in fridge, but not in refrigerator?
+ 
+As I've grown older, I've learned that pleasing everyone is impossible, but ticking everyone off is a piece of cake!
+ 
+I'm responsible for what I say, not for what you understand.
+ 
+Common sense is like deodorant. The people who need it the most never use it.
+ 
+My tolerance for idiots is extremely low these days. I used to have some immunity built up, but obviously there's a new strain out there.
+ 
+It's not my age that bothers me - it's the side effects.
+ 
+I'm not saying I'm old and worn out, but I make sure I'm nowhere near the curb on trash day
+ 
+As I watch this generation try to rewrite our history, I'm sure of one thing: it will be misspelled and have no punctuation.
+ 
+As I've gotten older, people think I've become lazy. The truth is I'm just being more energy-efficient.
+ 
+I haven't gotten anything done today. I've been in the Produce Department trying to open this stupid plastic bag.
+ 
+If you find yourself feeling useless, remember: it took 20 years, trillions of dollars, thousands of lives and four presidents to replace the Taliban with the Taliban.
+ 
+Turns out that being a "senior" is mostly just googling how to do stuff.
+ 
+I want to be 18 again and ruin my life differently. I have new ideas
+ 
+I'm on two simultaneous diets. I wasn't getting enough food on one.
+ 
+I put my scale in the bathroom corner and that's where the little liar will stay until it apologizes.
+ 
+My mind is like an internet browser. At least 18 open tabs, 3 of them are frozen, and I have no clue where the music is coming from.
+ 
+Hard to believe I once had a phone attached to a wall, and when it rang, I picked it up without knowing who was calling.
+ 
+My wife says I keep pushing her buttons. If that were true, I would have found mute by now.
+ 
+There is no such thing as a grouchy old person. The truth is that once you get old, you stop being polite and start being honest.
