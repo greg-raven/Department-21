@@ -4,4 +4,4 @@ author: "Noam Sain"
 layout: post
 ---
 
-<video controls width="100%" src="/assets/2020/2020-11-Thanksgiving.mp4" title="Thanksgiving dinner"></video>
+<video controls src="/assets/2020/2020-11-Thanksgiving.mp4" title="Thanksgiving dinner" type="video/mp4" width="100%"></video>

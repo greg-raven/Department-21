@@ -4,4 +4,4 @@ author: "Noam Sain"
 layout: post
 ---
 
-<video controls width="100%" src="/assets/2022/2022-02-double-masking.mp4" title"double masking"></video>
+<video controls src="/assets/2022/2022-02-double-masking.mp4" title"double masking" type="video/mp4" width="100%"></video>
