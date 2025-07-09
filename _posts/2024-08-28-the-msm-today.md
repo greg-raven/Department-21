@@ -17,4 +17,5 @@ The reporter says, "Well, I'll make sure this won't go unnoticed. I'm a journali
 The biker replies "I'm a U.S. Marine, a Republican, and I'm voting for Trump."
 
 The following morning the biker buys the paper to see if it indeed brings news of his actions, and reads, on the front page:
+
 "U.S. MARINE ASSAULTS AFRICAN IMMIGRANT & STEALS HIS LUNCH."
