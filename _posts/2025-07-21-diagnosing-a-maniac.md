@@ -1,0 +1,11 @@
+---
+title: "Psychological diagnosis"
+author: "Noam Sain"
+layout: post
+---
+
+The psychology instructor had just finished a lecture on mental health and was giving an oral test.
+
+Speaking specifically about manic depression, she asked, "How would you diagnose a patient who walks back and forth screaming at the top of his lungs one minute, then sits in a chair weeping uncontrollably the next?"
+
+A young man in the rear raised his hand and answered, "A basketball coach?"

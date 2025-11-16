@@ -1,0 +1,101 @@
+---
+title: "ATM process: His vs. hers"
+author: "Noam Sain"
+layout: post
+---
+
+**HIS**
+
+1. Pull up to ATM
+
+2. Insert card
+
+3. Enter PIN and account
+
+4. Take cash, card, and receipt
+
+5. Drive away
+
+**HERS**
+
+1. Pull up to ATM
+
+2. Back up and pull forward to get closer
+
+3. Shut off engine
+
+4. Put keys in purse
+
+5. Get out of car because you're too far from machine
+
+6. Hunt for card in purse
+
+7. Insert card
+
+8. Hunt in purse for grocery receipt with PIN written on it.
+
+9. Enter PIN
+
+10. Study instructions.
+
+11. Hit "cancel"
+
+12. Re-enter correct PIN
+
+13. Check balance
+
+14. Look for envelope
+
+15. Look in purse for pen
+
+16. Make out deposit slip
+
+17. Endorse checks
+
+18. Make deposit
+
+19. Study instructions
+
+20. Make cash withdrawal
+
+21. Get in car
+
+22. Check makeup
+
+23. Look for keys
+
+24. Start car
+
+25. Check makeup
+
+26. Start pulling away
+
+27. Stop
+
+28. Back up to machine
+
+29. Get out of car
+
+30. Take card and receipt
+
+31. Get back in car
+
+32. Put card in wallet
+
+33. Put receipt in checkbook
+
+34. Enter deposits and withdrawals in checkbook
+
+35. Clear area in purse for wallet and checkbook
+
+36. Check makeup
+
+37. Put car in reverse
+
+38. Put car in drive
+
+39. Drive away from machine
+
+40. Drive 3 miles
+
+41. Release parking brake
