@@ -99,7 +99,7 @@ If you have a bi-polar disorder, please leave a message after the beep. Or befor
 
 If you have short-term memory loss, press 9. If you have short-term memory loss, press 9. If you have short-term memory loss, press 9. If you have short-term memory loss, press 9.
 
-If you have low self esteem, please hang up. All of our operators are too busy to talk to you.
+If you have low self-esteem, please hang up. All of our operators are too busy to talk to you.
 
 ------
 
