@@ -1,7 +1,6 @@
 ---
 title: "I made a snowman"
-tags:
-- Kevin Sorbo
+author: "Noam Sain"
 layout: post
 ---
 
