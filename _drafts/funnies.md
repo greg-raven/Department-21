@@ -1,13 +1,5 @@
 # Funnies
 
-Women over 50 don't have babies because they would put them down and forget where they left them.
-
-One of life's mysteries is how a 2 pound box of candy can make a woman gain 5 lbs.
-
-My mind not only wanders, it sometime leaves completely.
-
-The best way to forget all your troubles is to wear tight shoes.
-
 The nice part about living in a small town is that when you don't know what you're doing, someone else does.
 
 The older you get, the tougher it is to lose weight because by then, your body and your fat are really good friends.
